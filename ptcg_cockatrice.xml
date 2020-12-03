@@ -1,7 +1,46 @@
-<set>
-
-</set>
-
-<card>
-
-</card>
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+	<sets>
+		<set>
+			<name>PTCG</name>
+			<longname>Base PTCG</longname>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Squirtle</name>
+			<set picURL="https://images.pokemontcg.io/base6/95_hires.png" rarity="common">base_ptcg</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Creature — Basic Pokémon</type>
+			<pt>1/2</pt>
+			<tablerow>0</tablerow>
+			<text>Evolve to Wartotle 1U
+				Whenever Squirtle blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
+		</card>
+		<card>
+			<name>Wartortle</name>
+			<set picURL="https://images.pokemontcg.io/base4/63_hires.png" rarity="uncommon">base_ptcg</set>
+			<color>U</color>
+			<manacost></manacost>
+			<type>Creature — Stage 1 Pokémon</type>
+			<pt>3/3</pt>
+			<tablerow>0</tablerow>
+			<text>Evolve to Blastoise 1UU
+				Wartortle can block up to 3 creatures.
+				U1: Wartortle gets +0/+2 until the end of the turn.</text>
+		</card>
+		<card>
+			<name>Blastoise</name>
+			<set picURL="https://images.pokemontcg.io/base1/2_hires.png" rarity="rare">base_ptcg</set>
+			<color>U</color>
+			<manacost></manacost>
+			<type>Creature — Stage 2 Pokémon</type>
+			<pt>5/5</pt>
+			<tablerow>0</tablerow>
+			<text>Hexproof
+				When this creature blocks, it gains indestructible until the end of the turn.
+			</text>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
