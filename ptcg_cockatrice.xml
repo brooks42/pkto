@@ -14,7 +14,7 @@
 			<manacost>1U</manacost>
 			<type>Creature — Basic Pokémon</type>
 			<pt>1/2</pt>
-			<tablerow>0</tablerow>
+			<tablerow>2</tablerow>
 			<text>Evolve to Wartotle 1U
 				Whenever Squirtle blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
 		</card>
@@ -25,10 +25,11 @@
 			<manacost></manacost>
 			<type>Creature — Stage 1 Pokémon</type>
 			<pt>3/3</pt>
-			<tablerow>0</tablerow>
+			<tablerow>2</tablerow>
 			<text>Evolve to Blastoise 1UU
 				Wartortle can block up to 3 creatures.
 				U1: Wartortle gets +0/+2 until the end of the turn.</text>
+			<reverse-related>Squirtle</reverse-related>
 		</card>
 		<card>
 			<name>Blastoise</name>
@@ -37,10 +38,11 @@
 			<manacost></manacost>
 			<type>Creature — Stage 2 Pokémon</type>
 			<pt>5/5</pt>
-			<tablerow>0</tablerow>
+			<tablerow>2</tablerow>
 			<text>Hexproof
 				When this creature blocks, it gains indestructible until the end of the turn.
-			</text>
+			</text> 
+			<reverse-related>Wartortle</reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
