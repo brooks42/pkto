@@ -8,41 +8,68 @@
 	</sets>
 	<cards>
 		<card>
+			<name>Bulbasaur</name>
+			<set picURL="https://images.pokemontcg.io/base6/68_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve to Ivysaur 1G
+				T: Add G to your mana pool.</text>
+		</card>
+		<card>
 			<name>Squirtle</name>
-			<set picURL="https://images.pokemontcg.io/base6/95_hires.png" rarity="common">base_ptcg</set>
+			<set picURL="https://images.pokemontcg.io/base6/95_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
-			<manacost>1U</manacost>
-			<type>Creature — Basic Pokémon</type>
+			<manacost>U</manacost>
+			<type>Pokémon - Water</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve to Wartotle 1U
 				Whenever Squirtle blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
 		</card>
 		<card>
-			<name>Wartortle</name>
-			<set picURL="https://images.pokemontcg.io/base4/63_hires.png" rarity="uncommon">base_ptcg</set>
-			<color>U</color>
-			<manacost></manacost>
-			<type>Creature — Stage 1 Pokémon</type>
-			<pt>3/3</pt>
+			<name>Charmander</name>
+			<set picURL="https://images.pokemontcg.io/base5/50_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>2/1</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve to Blastoise 1UU
-				Wartortle can block up to 3 creatures.
-				U1: Wartortle gets +0/+2 until the end of the turn.</text>
-			<reverse-related>Squirtle</reverse-related>
+			<text>Evolve to Charmeleon 1R
+				R: Charmander gets +1/+0 until the end of the turn.</text>
 		</card>
 		<card>
-			<name>Blastoise</name>
-			<set picURL="https://images.pokemontcg.io/base1/2_hires.png" rarity="rare">base_ptcg</set>
-			<color>U</color>
-			<manacost></manacost>
-			<type>Creature — Stage 2 Pokémon</type>
-			<pt>5/5</pt>
+			<name>Magnemite</name>
+			<set picURL="https://images.pokemontcg.io/base6/80_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>1</manacost>
+			<type>Pokémon - Electric Steel</type>
+			<pt>0/0</pt>
 			<tablerow>2</tablerow>
-			<text>Hexproof
-				When this creature blocks, it gains indestructible until the end of the turn.
-			</text> 
-			<reverse-related>Wartortle</reverse-related>
+			<text>3: Evolve with 2 Magnemite to Magneton
+				This creature gets +1/+1.
+				X: Search your library for a Steel Pokémon with converted mana cost X and add it to your hand, then shuffle your library.</text>
+		</card>
+		<card>
+			<name>Chansey</name>
+			<set picURL="https://images.pokemontcg.io/base4/3_hires.png" rarity="rare">PTCG</set>
+			<color></color>
+			<manacost>3WW</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>1/12</pt>
+			<tablerow>2</tablerow>
+			<text>T: Gain 3 life.</text>
+		</card>
+		<card>
+			<name>Bill</name>
+			<set picURL="https://images.pokemontcg.io/base1/91_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Draw 2 cards.</text>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

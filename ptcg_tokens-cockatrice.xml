@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+	<cards>
+		<card>
+			<name>Ivysaur</name>
+			<set picURL="https://images.pokemontcg.io/base6/47_hires.png" rarity="token">PTCG</set>
+			<color>G</color>
+			<manacost></manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>2GG: Evolve to Venusaur
+				Deathtouch
+				1G: Ivysaur gains Lifelink until the end of the turn.</text>
+			<reverse-related>Bulbasaur</reverse-related>
+		</card>
+		<card>
+			<name>Venusaur</name>
+			<set picURL="https://images.pokemontcg.io/base6/18_hires.png" rarity="token">PTCG</set>
+			<color>G</color>
+			<manacost></manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>4/6</pt>
+			<tablerow>2</tablerow>
+			<text>
+				1G: Venusaur gets +2/+2 and trample until end of the turn.</text> 
+			<reverse-related>Ivysaur</reverse-related>
+		</card>
+		<card>
+			<name>Wartortle</name>
+			<set picURL="https://images.pokemontcg.io/base4/63_hires.png" rarity="token">PTCG</set>
+			<color>U</color>
+			<manacost></manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>2UU: Evolve to Blastoise
+				Wartortle can block up to 3 creatures.
+				U1: Wartortle gets +0/+2 until the end of the turn.</text>
+			<reverse-related>Squirtle</reverse-related>
+		</card>
+		<card>
+			<name>Blastoise</name>
+			<set picURL="https://images.pokemontcg.io/base1/2_hires.png" rarity="token">PTCG</set>
+			<color>U</color>
+			<manacost></manacost>
+			<type>Pokémon - Water</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Hexproof
+				When this creature blocks, it gains indestructible until the end of the turn.</text> 
+			<reverse-related>Wartortle</reverse-related>
+		</card>
+		<card>
+			<name>Charmeleon</name>
+			<set picURL="https://images.pokemontcg.io/base6/37_hires.png" rarity="token">PTCG</set>
+			<color>R</color>
+			<manacost></manacost>
+			<type>Pokémon - Fire</type>
+			<pt>4/2</pt>
+			<tablerow>2</tablerow>
+			<text>2RR: Evolve to Charizard
+				1R: Charmeleon gets first strike until the end of the turn.</text>
+			<reverse-related>Charmander</reverse-related>
+		</card>
+		<card>
+			<name>Charizard</name>
+			<set picURL="https://images.pokemontcg.io/base1/4_hires.png" rarity="token">PTCG</set>
+			<color>R</color>
+			<manacost></manacost>
+			<type>Pokémon - Fire Flying</type>
+			<pt>6/3</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+				Sacrifice a mountain: Charizard gains double strike until the end of the turn.</text> 
+			<reverse-related>Charmeleon</reverse-related>
+		</card>
+		<card>
+			<name>Magneton</name>
+			<set picURL="https://images.pokemontcg.io/base4/9_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Electric Steel</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Protection from Ground
+				4: Deal damage equal to this creature's power to target Flying Pokémon.
+			</text> 
+			<reverse-related>Magnemite</reverse-related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
