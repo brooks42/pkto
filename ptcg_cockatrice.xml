@@ -53,6 +53,16 @@
 				X: Search your library for a Steel Pokémon with converted mana cost X and add it to your hand, then shuffle your library.</text>
 		</card>
 		<card>
+			<name>Magikarp</name>
+			<set picURL="https://images.pokemontcg.io/base5/47_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>0/1</pt>
+			<tablerow>2</tablerow>
+			<text>4UR: Evolve to Gyarados</text>
+		</card>
+		<card>
 			<name>Chansey</name>
 			<set picURL="https://images.pokemontcg.io/base4/3_hires.png" rarity="rare">PTCG</set>
 			<color></color>
@@ -61,6 +71,40 @@
 			<pt>1/12</pt>
 			<tablerow>2</tablerow>
 			<text>T: Gain 3 life.</text>
+		</card>
+		<card>
+			<name>Mew</name>
+			<set picURL="https://images.pokemontcg.io/basep/9_hires.png" rarity="mythic">PTCG</set>
+			<color>RWUBG</color>
+			<manacost>RWUBG</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+				Tap any number of Pokémon you control: each Pokémon tapped this way gains Indestructible until the end of the turn.</text>
+		</card>
+		<card>
+			<name>Mewtwo</name>
+			<set picURL="https://images.pokemontcg.io/basep/12_hires.png" rarity="mythic">PTCG</set>
+			<color>RWU</color>
+			<manacost>3RWU</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>7/4</pt>
+			<tablerow>2</tablerow>
+			<text>Flying, First Strike, Intimidate
+				T: Destroy target Pokémon or Trainer.</text>
+		</card>
+		<card>
+			<name>Red</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>RU</color>
+			<manacost>4RU</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Red</type>
+			<loyalty>4</loyalty>
+			<text>[+1]: Reveal the top five cards of your library. Put all Pokémon cards revealed this way into your hand and the rest on the bottom of your library in any order.
+				[−3]: You may put a Pokémon card from your hand onto the battlefield.
+				[−7]: For each Pokémon you control, search your library for a Pokémon with the same name as one of the cards attached to that Pokémon, and put that card on battlefield. Then, shuffle your library.</text>
 		</card>
 		<card>
 			<name>Bill</name>

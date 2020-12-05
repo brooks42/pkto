@@ -10,7 +10,7 @@ Pokémon is a replacement for the Creature supertype. Pokémon act like Creature
 ### Evolution
 
 ```
-Evolve to X {cost}: Pay X. Create a token Pokémon, X, and attach this card to it. The creature on top has all abilities of Pokémon below it, except evolve abilities.
+Evolve to X {cost}: Pay X. Create a token Pokémon, X, and attach this card to it. The creature on top has all abilities of Pokémon below it, except evolve abilities, and has haste.
 
 Evolve with Y to X {cost}: If you control Y, you Evolve as normal except that you also attach Y to the created token Pokémon.
 ```
