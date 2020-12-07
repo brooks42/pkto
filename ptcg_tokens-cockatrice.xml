@@ -76,6 +76,17 @@
 			<reverse-related attach="attach">Charmeleon</reverse-related>
 		</card>
 		<card>
+			<name>Golduck</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color>U</color>
+			<manacost></manacost>
+			<type>Pokémon - Water</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+			<reverse-related attach="attach">Psyduck</reverse-related>
+		</card>
+		<card>
 			<name>Magneton</name>
 			<set picURL="https://images.pokemontcg.io/base4/9_hires.png" rarity="token">PTCG</set>
 			<color></color>
@@ -95,7 +106,7 @@
 			<type>Pokémon - Water Flying</type>
 			<pt>10/10</pt>
 			<tablerow>2</tablerow>
-			<text>When this creature enters the battlefield, creatures your opponents control get -2/-0 until the end of the turn.</text>
+			<text>Pokémon your opponents control get -2/-0.</text>
 			<reverse-related attach="attach">Magikarp</reverse-related>
 		</card>
 	</cards>

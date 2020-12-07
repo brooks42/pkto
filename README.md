@@ -10,7 +10,7 @@ Pokémon is a replacement for the Creature supertype. Pokémon act like Creature
 ### Evolution
 
 ```
-Evolve to X: Pay X. Create a token Pokémon, X, put this card under it. The creature on top has all abilities of cards below it, except evolve abilities, and has haste if you have controlled the evolved Pokémon since the beginning of your last upkeep.
+Evolve to X: Pay X. Create a token Pokémon, X, and put this card under it. The creature on top has all abilities of cards below it, except evolve abilities.
 
 Evolve with Y to X: If you control Y, you Evolve as normal except that you also put Y under the created token Pokémon. If Y isn't a Pokémon, sacrifice it instead.
 ```

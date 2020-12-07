@@ -17,6 +17,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>1G: Evolve to Ivysaur
+				Reach
 				T: Add G to your mana pool.</text>
 		</card>
 		<card>
@@ -188,6 +189,194 @@
 				When Jigglypuff deals combat damage to a player, put 2 sleep counters on all Pokémon that player controls.</text>
 		</card>
 		<card>
+			<name>Zubat</name>
+			<set picURL="https://images.pokemontcg.io/base3/57_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Pokémon - Poison Flying</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>2B: Evolve to Golbat
+				Flying
+				When this Pokémon attacks, you can put a confusion counter on up to one target creature.</text>
+		</card>
+		<card>
+			<name>Oddish</name>
+			<set picURL="https://images.pokemontcg.io/base5/63_hires.png" rarity="uncommon">PTCG</set>
+			<color>BG</color>
+			<manacost>{B/G}</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>1{B/G}{B/G}: Evolve to Gloom
+				Lifelink</text>
+		</card>
+		<card>
+			<name>Paras</name>
+			<set picURL="https://images.pokemontcg.io/base4/85_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Pokémon - Bug Grass</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>2G: Evolve to Parasect
+				When another player loses life because of poison counters, you gain that much life.</text>
+		</card>
+		<card>
+			<name>Venonat</name>
+			<set picURL="https://images.pokemontcg.io/gym1/96_hires.png" rarity="uncommon">PTCG</set>
+			<color>GU</color>
+			<manacost>GU</manacost>
+			<type>Pokémon - Bug Poison</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>2GU: Evolve to Venomoth
+				When this Pokémon enters the battlefield, target player reveals their hand.</text>
+		</card>
+		<card>
+			<name>Diglett</name>
+			<set picURL="https://images.pokemontcg.io/base4/71_hires.png" rarity="uncommon">PTCG</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>2/1</pt>
+			<tablerow>2</tablerow>
+			<text>3R: Evolve to Dugtrio
+				You may have Diglett assign its combat damage as though it weren't blocked.</text>
+		</card>
+		<card>
+			<name>Meowth</name>
+			<set picURL="https://images.pokemontcg.io/base6/53_hires.png" rarity="uncommon">PTCG</set>
+			<color>WB</color>
+			<manacost>1WB</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>1WR: Evolve to Persian
+				When Meowth deals combat damage to a player, you may draw a card.</text>
+		</card>
+		<card>
+			<name>Psyduck</name>
+			<set picURL="https://images.pokemontcg.io/base3/53_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>2U: Evolve to Golduck
+				If Psyduck would have a status counter(s) put on it, it deals 1 damage to each Pokémon and each player instead.</text>
+		</card>
+		<card>
+			<name>Mankey</name>
+			<set picURL="https://images.pokemontcg.io/base5/61_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>2R: Evolve to Primeape
+				Haste, Reach</text>
+		</card>
+		<card>
+			<name>Growlithe</name>
+			<set picURL="https://images.pokemontcg.io/bw4/11_hires.png" rarity="rare">PTCG</set>
+			<color>RW</color>
+			<manacost>2{R/W}</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>3{R/W}: Evolve with Fire Stone to Arcanine
+				Vigilance
+				When Growlithe deals damage to a Pokémon, put that many burn counters on that Pokémon.</text>
+		</card>
+		<card>
+			<name>Poliwag</name>
+			<set picURL="https://images.pokemontcg.io/base4/88_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>1U: Evolve to Poliwhirl</text>
+		</card>
+		<card>
+			<name>Abra</name>
+			<set picURL="https://images.pokemontcg.io/gym2/93_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>0/2</pt>
+			<tablerow>2</tablerow>
+			<text>2U: Evolve to Kadabra
+				When this creature enters the battlefield, scry 2.</text>
+		</card>		
+		<card>
+			<name>Machop</name>
+			<set picURL="https://images.pokemontcg.io/base6/79_hires.png" rarity="uncommon">PTCG</set>
+			<color>RG</color>
+			<manacost>{R/G}{R/G}</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>2{G/R}: Evolve to Machoke</text>
+		</card>
+		<card>
+			<name>Bellsprout</name>
+			<set picURL="https://images.pokemontcg.io/gym1/76_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>2G</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>1/3</pt>
+			<tablerow>2</tablerow>
+			<text>1{G/B}: Evolve to Weepinbel
+				G: Bellsprout gets +1/+0 until the end of the turn.
+				B: Put a poison counter on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Tentacool</name>
+			<set picURL="https://images.pokemontcg.io/base6/96_hires.png" rarity="common">PTCG</set>
+			<color>UB</color>
+			<manacost>2UB</manacost>
+			<type>Pokémon - Water Poison</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>1UB: Evolve to Tentacruel
+				Deathtouch</text>
+		</card>
+		<card>
+			<name>Geodude</name>
+			<set picURL="https://images.pokemontcg.io/base6/77_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Pokémon - Rock Ground</type>
+			<pt>1/3</pt>
+			<tablerow>2</tablerow>
+			<text>2R: Evolve to Graveler
+				T: Geodude gains indestructible until the end of the turn.</text>
+		</card>
+		<card>
+			<name>Ponyta</name>
+			<set picURL="https://images.pokemontcg.io/base5/64_hires.png" rarity="uncommon">PTCG</set>
+			<color>R</color>
+			<manacost>2R</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>1R: Evolve to Rapidash
+				Trample, Haste</text>
+		</card>
+		<card>
+			<name>Slowpoke</name>
+			<set picURL="https://images.pokemontcg.io/base5/67_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Pokémon - Water Psychic</type>
+			<pt>1/3</pt>
+			<tablerow>2</tablerow>
+			<text>3: Evolve with Shellder to Slowbro
+				U, T: the next time Slowpoke would die this turn, instead remove all damage from Slowpoke.</text>
+		</card>
+		<card>
 			<name>Magnemite</name>
 			<set picURL="https://images.pokemontcg.io/base6/80_hires.png" rarity="common">PTCG</set>
 			<color></color>
@@ -196,8 +385,334 @@
 			<pt>0/0</pt>
 			<tablerow>2</tablerow>
 			<text>3: Evolve with 2 Magnemite to Magneton
+				Protection from Ground
 				This creature gets +1/+1.
 				X: Search your library for a Steel Pokémon with converted mana cost X and add it to your hand, then shuffle your library.</text>
+		</card>
+		<card>
+			<name>Farfetch'd</name>
+			<set picURL="https://images.pokemontcg.io/neo3/43_hires.png" rarity="rare">PTCG</set>
+			<color>WG</color>
+			<manacost>2WG</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>5/2</pt>
+			<tablerow>2</tablerow>
+			<text>Vigilance, Double Strike</text>
+		</card>
+		<card>
+			<name>Doduo</name>
+			<set picURL="https://images.pokemontcg.io/ecard2/73_hires.png" rarity="common">PTCG</set>
+			<color>RB</color>
+			<manacost>1RB</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>1{R/B}{R/B}: Evolve to Dodrio
+				Double Strike, Haste</text>
+		</card>
+		<card>
+			<name>Seel</name>
+			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="common">PTCG</set>
+			<color>WU</color>
+			<manacost>WU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>1WU: Evolve to Dewgong
+				1U: Put 3 frozen counters on target Pokémon.
+				1W: Gain 2 life or remove all damage from Seel.</text>
+		</card>
+		<card>
+			<name>Grimer</name>
+			<set picURL="https://images.pokemontcg.io/bw4/52_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>2B: Evolve to Muk
+				X, T: Put X poison counters on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Shellder</name>
+			<set picURL="https://images.pokemontcg.io/g1/19_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>0/4</pt>
+			<tablerow>2</tablerow>
+			<text>2U: Evolve with Water Stone to Cloyster
+				T: draw a card and discard a card.</text>
+		</card>
+		<card>
+			<name>Gastly</name>
+			<set picURL="https://images.pokemontcg.io/xy12/47_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Pokémon - Ghost Poison</type>
+			<pt>0/1</pt>
+			<tablerow>2</tablerow>
+			<text>1U: Evolve to Haunter
+				Hexproof
+				Protection from Ground, Fighting
+				T: put 2 paralyze, poison, sleep, or confusion counters on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Onix</name>
+			<set picURL="https://images.pokemontcg.io/sm7/71_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>3R</manacost>
+			<type>Pokémon - Rock Ground</type>
+			<pt>5/2</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Drowzee</name>
+			<set picURL="https://images.pokemontcg.io/base4/73_hires.png" rarity="uncommon">PTCG</set>
+			<color>UB</color>
+			<manacost>1UB</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>1B: Evolve to Hypno
+				T: Put X sleep counters on target Pokémon where X is the number of cards in your hand.</text>
+		</card>
+		<card>
+			<name>Krabby</name>
+			<set picURL="https://images.pokemontcg.io/base3/51_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>1U: Evolve to Kingler
+				R: Krabby gets +1/+0 and first strike until the end of the turn.</text>
+		</card>
+		<card>
+			<name>Voltorb</name>
+			<set picURL="https://images.pokemontcg.io/base5/69_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>2R: Evolve to Electrode
+				Haste
+				XR, sacrifice Voltorb: deal X damage to target Pokémon.</text>
+		</card>
+		<card>
+			<name>Exeggcute</name>
+			<set picURL="https://images.pokemontcg.io/bw10/102_hires.png" rarity="uncommon">PTCG</set>
+			<color>GB</color>
+			<manacost>1GGB</manacost>
+			<type>Pokémon - Grass Psychic</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>1GGB: Evolve with Leaf Stone to Exeggutor
+				1B: put a confusion counter on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Cubone</name>
+			<set picURL="https://images.pokemontcg.io/xy8/77_hires.png" rarity="uncommon">PTCG</set>
+			<color>WG</color>
+			<manacost>1W{G/W}</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>3G{G/W}: Evolve to Marowak
+				Reach
+				Evolve abilities of Cubones you control cost 1 less.
+			</text>
+		</card>
+		<card>
+			<name>Hitmonlee</name>
+			<set picURL="https://images.pokemontcg.io/sm9/73_hires.png" rarity="uncommon">PTCG</set>
+			<color>RG</color>
+			<manacost>2RG</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>First strike
+				When Hitmonlee attacks, you can have it deal damage equal to its power to target Pokémon instead of dealing combat damage.</text>
+		</card>
+		<card>
+			<name>Hitmonchan</name>
+			<set picURL="https://images.pokemontcg.io/pl1/129_hires.png" rarity="uncommon">PTCG</set>
+			<color>UG</color>
+			<manacost>2UG</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>3/5</pt>
+			<tablerow>2</tablerow>
+			<text>Defender, Reach
+				Prevent all non-combat damage that would be dealt to Hitmonchan.</text>
+		</card>
+		<card>
+			<name>Lickitung</name>
+			<set picURL="https://images.pokemontcg.io/base4/48_hires.png" rarity="uncommon">PTCG</set>
+			<color>W</color>
+			<manacost>4W</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>3/7</pt>
+			<tablerow>2</tablerow>
+			<text>Reach,
+				T: put 2 paralyze counters on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Koffing</name>
+			<set picURL="https://images.pokemontcg.io/base5/58_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>2B: Evolve with Koffing into Weezing
+				Deathtouch</text>
+		</card>
+		<card>
+			<name>Rhyhorn</name>
+			<set picURL="https://images.pokemontcg.io/gym1/22_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>3R</manacost>
+			<type>Pokémon - Ground Rock</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>2R: Evolve into Rhyhorn
+				Trample
+				1R: Rhyhorn gets +1/+0 and first strike until the end of the turn.</text>
+		</card>
+		<card>
+			<name>Chansey</name>
+			<set picURL="https://images.pokemontcg.io/base4/3_hires.png" rarity="rare">PTCG</set>
+			<color>W</color>
+			<manacost>3WW</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>1/12</pt>
+			<tablerow>2</tablerow>
+			<text>T: Gain 3 life or remove up to 3 status counters from target Pokémon.</text>
+		</card>
+		<card>
+			<name>Tangela</name>
+			<set picURL="https://images.pokemontcg.io/gym1/79_hires.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>GGG</manacost>
+			<type>Pokémon - Grass</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Reach
+				T: Tap target creature and put a +1/+1 counter on Tangela.</text>
+		</card>
+		<card>
+			<name>Kangaskhan</name>
+			<set picURL="https://images.pokemontcg.io/ecard2/88_hires.png" rarity="uncommon">PTCG</set>
+			<color>W</color>
+			<manacost>WWW</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>3/5</pt>
+			<tablerow>2</tablerow>
+			<text>1W: Return target Pokémon you control to its owner's hand. You gain life equal to its toughness.</text>
+		</card>
+		<card>
+			<name>Horsea</name>
+			<set picURL="https://images.pokemontcg.io/ecard2/85_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>2U: Evolve to Seadra
+				1U: Return this Pokémon and target Pokémon you don't control to their owners's hands.</text>
+		</card>		
+		<card>
+			<name>Goldeen</name>
+			<set picURL="https://images.pokemontcg.io/ex1/55_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>2U: Evolve to Seaking</text>
+		</card>
+		<card>
+			<name>Staryu</name>
+			<set picURL="https://images.pokemontcg.io/ex5/75_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>2U: Evolve to Starmie
+				When Staryu deals damage, you can draw a card.</text>
+		</card>
+		<card>
+			<name>Mr. Mime</name>
+			<set picURL="https://images.pokemontcg.io/ex6/110_hires.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>BBB</manacost>
+			<type>Pokémon - Psychic Fairy</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>At the beginning of your upkeep, sacrifice a Pokémon.</text>
+		</card>
+		<card>
+			<name>Scyther</name>
+			<set picURL="https://images.pokemontcg.io/ex7/102_hires.png" rarity="uncommon">PTCG</set>
+			<color>RG</color>
+			<manacost>2RG</manacost>
+			<type>Pokémon - Bug Flying</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Double Strike</text>
+		</card>
+		<card>
+			<name>Jynx</name>
+			<set picURL="https://images.pokemontcg.io/base6/26_hires.png" rarity="rare">PTCG</set>
+			<color>UB</color>
+			<manacost>3UB</manacost>
+			<type>Pokémon - Ice Psychic</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>UB: Put 2 paralyze counters on target Pokémon, 2 sleep counters on another target Pokémon, and 2 confusion counters on another target Pokémon.</text>
+		</card>
+		<card>
+			<name>Electabuzz</name>
+			<set picURL="https://images.pokemontcg.io/base4/24_hires.png" rarity="uncommon">PTCG</set>
+			<color>WR</color>
+			<manacost>3WR</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Magmar</name>
+			<set picURL="https://images.pokemontcg.io/base4/51_hires.png" rarity="uncommon">PTCG</set>
+			<color>R</color>
+			<manacost>4R</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>1R: put a burn counter on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Pinsir</name>
+			<set picURL="https://images.pokemontcg.io/base2/25_hires.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>4G</manacost>
+			<type>Pokémon - Bug</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>Trample</text>
+		</card>
+		<card>
+			<name>Tauros</name>
+			<set picURL="https://images.pokemontcg.io/gym1/64_hires.png" rarity="uncommon">PTCG</set>
+			<color>RG</color>
+			<manacost>2{R/G}G</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>6/4</pt>
+			<tablerow>2</tablerow>
+			<text>Trample</text>
 		</card>
 		<card>
 			<name>Magikarp</name>
@@ -210,20 +725,141 @@
 			<text>4UR: Evolve to Gyarados</text>
 		</card>
 		<card>
-			<name>Chansey</name>
-			<set picURL="https://images.pokemontcg.io/base4/3_hires.png" rarity="rare">PTCG</set>
-			<color></color>
-			<manacost>3WW</manacost>
-			<type>Pokémon - Normal</type>
-			<pt>1/12</pt>
+			<name>Lapras</name>
+			<set picURL="https://images.pokemontcg.io/si1/12_hires.png" rarity="rare">PTCG</set>
+			<color>WU</color>
+			<manacost>2{W/U}W</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/6</pt>
 			<tablerow>2</tablerow>
-			<text>T: Gain 3 life.</text>
+			<text>1U: put a frozen counter on target Pokémon.
+				1W: remove up to 3 status counters from target Pokémon.
+				Sacrifice Lapras: destroy target Pokémon</text>
+		</card>
+		<card>
+			<name>Ditto</name>
+			<set picURL="https://images.pokemontcg.io/ecard3/51_hires.png" rarity="uncommon">PTCG</set>
+			<color>RWUBG</color>
+			<manacost>RWUBG</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>0/1</pt>
+			<tablerow>2</tablerow>
+			<text>You may have Ditto enter the battlefield as a copy of any Pokémon on the battlefield.</text>
+		</card>
+		<card>
+			<name>Eevee</name>
+			<set picURL="https://images.pokemontcg.io/ex2/63_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>1U: Evolve with Water Stone into Vaporeon
+				1W: Evolve with Thunder Stone into Jolteon
+				1R: Evolve with Fire Stone into Flareon</text>
+		</card>
+		<card>
+			<name>Porygon</name>
+			<set picURL="https://images.pokemontcg.io/ex6/47_hires.png" rarity="rare">PTCG</set>
+			<color>WUB</color>
+			<manacost>1WUB</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>3/6</pt>
+			<tablerow>2</tablerow>
+			<text>1: Porygon becomes the color(s) of your choice until the end of the turn.
+				WUB: Porygon deals 6 damage to target Pokémon.</text>
+		</card>
+		<card>
+			<name>Omanyte</name>
+			<set picURL="https://images.pokemontcg.io/base6/57_hires.png" rarity="uncommon">PTCG</set>
+			<color>UR</color>
+			<manacost>1UR</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>1/4</pt>
+			<tablerow>2</tablerow>
+			<text>1UR: Evolve to Omastar
+				3UR: return Omanyte from the graveyard to the battlefield.</text>
+		</card>
+		<card>
+			<name>Kabuto</name>
+			<set picURL="https://images.pokemontcg.io/base6/48_hires.png" rarity="uncommon">PTCG</set>
+			<color>UG</color>
+			<manacost>1UG</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>1UG: Evolve to Kabutops
+				3UG: return Kabuto from the graveyard to the battlefield.</text>
+		</card>
+		<card>
+			<name>Aerodactyl</name>
+			<set picURL="https://images.pokemontcg.io/base3/16_hires.png" rarity="rare">PTCG</set>
+			<color>RG</color>
+			<manacost>RG</manacost>
+			<type>Pokémon - Rock Flying</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Flying, Haste
+				3RG: Return Aerodactyl from the graveyard to the battlefield.</text>
+		</card>
+		<card>
+			<name>Snorlax</name>
+			<set picURL="https://images.pokemontcg.io/gym1/33_hires.png" rarity="rare">PTCG</set>
+			<color>W</color>
+			<manacost>2WWW</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>T: Put a sleep counter on Snorlax and prevent all damage to Snorlax for the rest of the turn.</text>
+		</card>
+		<card>
+			<name>Articuno</name>
+			<set picURL="https://images.pokemontcg.io/pl3/148_hires.png" rarity="mythic">PTCG</set>
+			<color>U</color>
+			<manacost>UUUU</manacost>
+			<type>Legendary Pokémon - Water Flying</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+				When this Pokémon enters the battlefield, put a frozen counter on each Pokémon your opponents control.</text>
+		</card>
+		<card>
+			<name>Zapdos</name>
+			<set picURL="https://images.pokemontcg.io/base3/30_hires.png" rarity="mythic">PTCG</set>
+			<color>W</color>
+			<manacost>WWWW</manacost>
+			<type>Legendary Pokémon - Electric Flying</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+				When this Pokémon enters the battlefield, put a paralyze counter on each Pokémon your opponents control.</text>
+		</card>
+		<card>
+			<name>Moltres</name>
+			<set picURL="https://images.pokemontcg.io/gym1/12_hires.png" rarity="mythic">PTCG</set>
+			<color>R</color>
+			<manacost>RRRR</manacost>
+			<type>Legendary Pokémon - Fire Flying</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+				When this Pokémon enters the battlefield, put a burn counter on each Pokémon your opponents control.</text>
+		</card>
+		<card>
+			<name>Dratini</name>
+			<set picURL="https://images.pokemontcg.io/gym1/42_hires.png" rarity="rare">PTCG</set>
+			<color>WRG</color>
+			<manacost>WRG</manacost>
+			<type>Pokémon - Dragon</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>WRG: Evolve to Dragonair</text>
 		</card>
 		<card>
 			<name>Mewtwo</name>
 			<set picURL="https://images.pokemontcg.io/basep/12_hires.png" rarity="mythic">PTCG</set>
-			<color>RWU</color>
-			<manacost>3RWU</manacost>
+			<color>RWBU</color>
+			<manacost>2RWBU</manacost>
 			<type>Pokémon - Psychic</type>
 			<pt>7/4</pt>
 			<tablerow>2</tablerow>
@@ -245,14 +881,14 @@
 		<card>
 			<name>Red</name>
 			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
-			<color>RU</color>
-			<manacost>4RU</manacost>
+			<color>R</color>
+			<manacost>3RRR</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Red</type>
 			<loyalty>4</loyalty>
 			<text>[+1]: Reveal the top five cards of your library. Put all Pokémon cards revealed this way into your hand and the rest on the bottom of your library in any order.
 				[−3]: You may put a Pokémon card from your hand onto the battlefield.
-				[−7]: For each Pokémon you control, search your library for a Pokémon with the same name as one of the cards attached to that Pokémon, and put that card on battlefield. Then, shuffle your library.</text>
+				[−7]: For each Pokémon you control, create a token that's a copy of that Pokémon.</text>
 		</card>
 		<!-- sorceries/instants -->
 		<card>
@@ -286,11 +922,10 @@
 			<name>Master Ball</name>
 			<set picURL="https://images.pokemontcg.io/ecard1/143_hires.png" rarity="rare">PTCG</set>
 			<color></color>
-			<manacost>7</manacost>
+			<manacost>5</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>Look at the top 7 cards of your library, put a Pokémon among those cards onto the battlefield and put the rest on the bottom of your library in any order.</text>
-			<font></font>
 		</card>
 		<card>
 			<name>Stonefinder Radar</name>
@@ -300,7 +935,15 @@
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>Search your library for an Evolution Stone card and put it into your hand. Then, shuffle your library.</text>
-			<font></font>
+		</card>
+		<card>
+			<name>Pokéflute</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/143_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>2W</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Remove all sleep counters from all Pokémon.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
@@ -353,5 +996,6 @@
 			<text>T: Add B or W to your mana pool.</text>
 			<font></font>
 		</card>
+		<!-- misc artifacts and tools -->
 	</cards>
 </cockatrice_carddatabase>
