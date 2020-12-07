@@ -18,7 +18,7 @@
 			<tablerow>2</tablerow>
 			<text>1G: Evolve to Ivysaur
 				Reach
-				T: Add G to your mana pool.</text>
+				T: Add G.</text>
 		</card>
 		<card>
 			<name>Squirtle</name>
@@ -117,7 +117,7 @@
 			<pt>4/2</pt>
 			<tablerow>2</tablerow>
 			<text>2WR: Evolve with Thunderstone to Raichu
-				First Strike<, Haste</text>
+				First Strike, Haste</text>
 		</card>
 		<card>
 			<name>Sandshrew</name>
@@ -161,7 +161,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>2{W/B}: Evolve with Moonstone to Clefable.
-				T: Add W or B to your mana pool.
+				T: Add W or B.
 				2{W/B}: Reveal cards from the top of your library until you reveal a Pokémon. If you do, this Pokémon gains all abilities of that card, except for its Evolve abilities, until the end of the turn. Shuffle your library.</text>
 		</card>
 		<card>
@@ -953,7 +953,7 @@
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
 			<tablerow>2</tablerow>
-			<text>T: Add R or W to your mana pool. Thunderstone deals 1 damage to you.</text>
+			<text>T: Add R or W. Thunderstone deals 1 damage to you.</text>
 			<font></font>
 		</card>
 		<card>
@@ -963,7 +963,7 @@
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
 			<tablerow>2</tablerow>
-			<text>T: Add G to your mana pool.</text>
+			<text>T: Add G.</text>
 			<font></font>
 		</card>
 		<card>
@@ -973,7 +973,7 @@
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
 			<tablerow>2</tablerow>
-			<text>T: Add U to your mana pool.</text>
+			<text>T: Add U.</text>
 			<font></font>
 		</card>
 		<card>
@@ -983,7 +983,7 @@
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
 			<tablerow>2</tablerow>
-			<text>T: Add R to your mana pool.</text>
+			<text>T: Add R.</text>
 			<font></font>
 		</card>
 		<card>
@@ -993,7 +993,7 @@
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
 			<tablerow>2</tablerow>
-			<text>T: Add B or W to your mana pool.</text>
+			<text>T: Add B or W.</text>
 			<font></font>
 		</card>
 		<!-- misc artifacts and tools -->
