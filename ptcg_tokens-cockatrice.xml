@@ -10,7 +10,7 @@
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>2GG: Evolve to Venusaur
-				Deathtouch
+				Reach, Deathtouch
 				1G: Ivysaur gains Lifelink until the end of the turn.</text>
 			<reverse-related attach="attach">Bulbasaur</reverse-related>
 		</card>
@@ -71,9 +71,53 @@
 			<type>Pokémon - Fire Flying</type>
 			<pt>6/3</pt>
 			<tablerow>2</tablerow>
-			<text>Flying
-				Sacrifice a mountain: Charizard gains double strike until the end of the turn.</text> 
+			<text>Sacrifice a mountain: Charizard gains double strike until the end of the turn.</text> 
 			<reverse-related attach="attach">Charmeleon</reverse-related>
+		</card>
+		<card>
+			<name>Metapod</name>
+			<set picURL="https://images.pokemontcg.io/ex6/39_hires.png" rarity="token">PTCG</set>
+			<color>G</color>
+			<manacost></manacost>
+			<type>Pokémon - Bug</type>
+			<pt>0/4</pt>
+			<tablerow>2</tablerow>
+			<text>2G: Evolve to Butterfree</text> 
+			<reverse-related attach="attach">Caterpie</reverse-related>
+		</card>
+		<card>
+			<name>Butterfree</name>
+			<set picURL="https://images.pokemontcg.io/dp4/14_hires.png" rarity="token">PTCG</set>
+			<color>G</color>
+			<manacost></manacost>
+			<type>Pokémon - Bug Flying</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>When this Pokémon deals combat damage to another Pokémon, put 2 confusion counters on that Pokémon.</text> 
+			<reverse-related attach="attach">Metapod</reverse-related>
+		</card>
+		<card>
+			<name>Kakuna</name>
+			<set picURL="https://images.pokemontcg.io/pl2/66_hires.png" rarity="token">PTCG</set>
+			<color>G</color>
+			<manacost></manacost>
+			<type>Pokémon - Bug Poison</type>
+			<pt>0/3</pt>
+			<tablerow>2</tablerow>
+			<text>2G: Evolve to Beedrill
+				When you Evolve this Pokémon, put 2 poison counters on target Pokémon.</text> 
+			<reverse-related attach="attach">Weedle</reverse-related>
+		</card>
+		<card>
+			<name>Beedrill</name>
+			<set picURL="https://images.pokemontcg.io/pl4/53_hires.png" rarity="token">PTCG</set>
+			<color>G</color>
+			<manacost></manacost>
+			<type>Pokémon - Bug Poison</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>Double strike</text> 
+			<reverse-related attach="attach">Kakuna</reverse-related>
 		</card>
 		<card>
 			<name>Golduck</name>

@@ -11,35 +11,34 @@
 		<card>
 			<name>Bulbasaur</name>
 			<set picURL="https://images.pokemontcg.io/base6/68_hires.png" rarity="common">PTCG</set>
-			<color>G</color>
+			<color>1G</color>
 			<manacost>G</manacost>
 			<type>Pokémon - Grass Poison</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>1G: Evolve to Ivysaur
-				Reach
+			<text>2G: Evolve to Ivysaur
 				T: Add G.</text>
 		</card>
 		<card>
 			<name>Squirtle</name>
 			<set picURL="https://images.pokemontcg.io/base6/95_hires.png" rarity="common">PTCG</set>
-			<color>U</color>
+			<color>1U</color>
 			<manacost>U</manacost>
 			<type>Pokémon - Water</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>1U: Evolve to Wartotle
+			<text>2U: Evolve to Wartotle
 				Whenever Squirtle blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
 		</card>
 		<card>
 			<name>Charmander</name>
 			<set picURL="https://images.pokemontcg.io/base5/50_hires.png" rarity="common">PTCG</set>
-			<color>R</color>
+			<color>1R</color>
 			<manacost>R</manacost>
 			<type>Pokémon - Fire</type>
 			<pt>2/1</pt>
 			<tablerow>2</tablerow>
-			<text>1R: Evolve to Charmeleon
+			<text>2R: Evolve to Charmeleon
 				R: Charmander gets +1/+0 until the end of the turn.</text>
 		</card>
 		<card>
@@ -52,6 +51,19 @@
 			<tablerow>2</tablerow>
 			<text>1G: Evolve to Metapod
 				1G, T: Tap target Pokémon.</text>
+		</card>
+		<card>
+			<name>Butterfree</name>
+			<set picURL="https://images.pokemontcg.io/g1/5_hires.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>3GG</manacost>
+			<type>Pokémon - Bug Flying</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Can evolve from Metapod
+				Flying
+				When you evolve this Pokémon, put 2 +1/+1 counters on it.
+			</text>
 		</card>
 		<card>
 			<name>Weedle</name>
@@ -939,11 +951,93 @@
 		<card>
 			<name>Pokéflute</name>
 			<set picURL="https://images.pokemontcg.io/ecard1/143_hires.png" rarity="uncommon">PTCG</set>
-			<color></color>
+			<color>W</color>
 			<manacost>2W</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>Remove all sleep counters from all Pokémon.</text>
+		</card>
+		<card>
+			<name>Bubble Blower</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/143_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for a Water Pokémon and put it into your hand, then shuffle your library.</text>
+		</card>
+		<card>
+			<name>Revive</name>
+			<set picURL="https://images.pokemontcg.io/bw1/102_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>2B</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Return a Pokémon from your graveyard to the battlefield tapped, with a paralyze counter on it.</text>
+		</card>
+		<card>
+			<name>Max Revive</name>
+			<set picURL="https://images.pokemontcg.io/xy1/120_hires.png" rarity="rare">PTCG</set>
+			<color>WB</color>
+			<manacost>3{W/B}{W/B}</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Return a Pokémon from your graveyard to the battlefield.</text>
+		</card>
+		<card>
+			<name>Energy Search Mk2</name>
+			<set picURL="https://images.pokemontcg.io/base3/59_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for a land card and put it on the battlefield tapped. Shuffle your library.</text>
+		</card>
+		<card>
+			<name>Gambler</name>
+			<set picURL="https://images.pokemontcg.io/base3/60_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Shuffle your hand into your deck. Flip a coin. If heads, draw 8 cards. If tails, draw 1 card.</text>
+		</card>
+		<card>
+			<name>Mysterious Fossil</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>URG</color>
+			<manacost>1{U/R}{U/G}</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for "Omanyte" or "Kabuto" and put that card into your hand. Then, shuffle your library.</text>
+		</card>
+		<card>
+			<name>Potion</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/156_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Remove all damage from target Pokémon.</text>
+		</card>
+		<card>
+			<name>Super Shocker</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/151_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Put 2 paralyze counters on target Pokémon.
+				Put 2 burn counters on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Weather Control Device</name>
+			<set picURL="https://images.pokemontcg.io/ecard2/119_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Shuffle target land you control into your library. If you do, search your library for a basic land card and put it into play. Then, shuffle your deck.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
@@ -994,6 +1088,17 @@
 			<type>Artifact - Evolution Stone</type>
 			<tablerow>2</tablerow>
 			<text>T: Add B or W.</text>
+			<font></font>
+		</card>
+		<card>
+			<name>Generic Evolution Stone</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Artifact - Evolution Stone</type>
+			<tablerow>2</tablerow>
+			<text>T: Add one mana of any color.
+				T: Add 2 mana of any colors. That mana can only be spent to activate Evolve abilities.</text>
 			<font></font>
 		</card>
 		<!-- misc artifacts and tools -->
