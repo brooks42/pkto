@@ -11,8 +11,8 @@
 		<card>
 			<name>Bulbasaur</name>
 			<set picURL="https://images.pokemontcg.io/base6/68_hires.png" rarity="common">PTCG</set>
-			<color>1G</color>
-			<manacost>G</manacost>
+			<color>G</color>
+			<manacost>1G</manacost>
 			<type>Pokémon - Grass Poison</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
@@ -22,8 +22,8 @@
 		<card>
 			<name>Squirtle</name>
 			<set picURL="https://images.pokemontcg.io/base6/95_hires.png" rarity="common">PTCG</set>
-			<color>1U</color>
-			<manacost>U</manacost>
+			<color>U</color>
+			<manacost>1U</manacost>
 			<type>Pokémon - Water</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
@@ -33,8 +33,8 @@
 		<card>
 			<name>Charmander</name>
 			<set picURL="https://images.pokemontcg.io/base5/50_hires.png" rarity="common">PTCG</set>
-			<color>1R</color>
-			<manacost>R</manacost>
+			<color>R</color>
+			<manacost>1R</manacost>
 			<type>Pokémon - Fire</type>
 			<pt>2/1</pt>
 			<tablerow>2</tablerow>
