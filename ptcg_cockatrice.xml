@@ -97,7 +97,7 @@
 			<type>Pokémon - Normal Flying</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>1W: Evolve to Kakuna
+			<text>1W: Evolve to Pidgeotto
 				Flying</text>
 		</card>
 		<card>
@@ -119,7 +119,7 @@
 			<type>Pokémon - Normal Flying</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>2{W/R}: Evolve to Fearow
+			<text>1{W/R}: Evolve to Fearow
 				First Strike, Intimidate</text>
 		</card>
 		<card>
@@ -132,6 +132,17 @@
 			<tablerow>2</tablerow>
 			<text>2B: Evolve to Arbok
 				When this Pokémon deals damage to another Pokémon, put that many poison counters on that Pokémon.</text>
+		</card>
+		<card>
+			<name>Arbok</name>
+			<set picURL="https://images.pokemontcg.io/gym2/25_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>3B</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>B: Evolve from Ekans
+				When you evolve this Pokémon, it gets 2 +1/+1 counters and gains deathtouch</text>
 		</card>
 		<card>
 			<name>Pikachu</name>
@@ -152,8 +163,8 @@
 			<type>Pokémon - Ground</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>1G: Evolve to Sandslash
-				If Sandshrew would take an odd number of damage, prevent it.</text>
+			<text>2G: Evolve to Sandslash
+				If Sandshrew would take an odd number of damage, prevent that damage.</text>
 		</card>
 		<card>
 			<name>Nidoran♀</name>
@@ -197,12 +208,12 @@
 			<type>Pokémon - Fire</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>1R: Evolve with Fire Stone to Ninetails
+			<text>1R: Evolve with Fire Stone to Ninetales
 				R: Vulpix gets +1/+0 and first strike until the end of the turn.</text>
 		</card>
 		<card>
 			<name>Jigglypuff</name>
-			<set picURL="https://images.pokemontcg.io/base4/77_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/77_hires.png" rarity="common">PTCG</set>
 			<color>W</color>
 			<manacost>1W</manacost>
 			<type>Pokémon - Normal Fairy</type>
@@ -210,8 +221,7 @@
 			<tablerow>2</tablerow>
 			<text>2W: Evolve with Moonstone to Wigglytuff
 				W: Jigglypuff gets +0/+1 until the end of the turn.
-				When Jigglypuff deals damage to another Pokémon, put that many sleep counters on that Pokémon.
-				When Jigglypuff deals combat damage to a player, put 2 sleep counters on all Pokémon that player controls.</text>
+				When Jigglypuff deals damage to another Pokémon, put that many sleep counters on that Pokémon.</text>
 		</card>
 		<card>
 			<name>Zubat</name>
@@ -227,14 +237,13 @@
 		</card>
 		<card>
 			<name>Oddish</name>
-			<set picURL="https://images.pokemontcg.io/base5/63_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/63_hires.png" rarity="common">PTCG</set>
 			<color>BG</color>
 			<manacost>{B/G}</manacost>
 			<type>Pokémon - Grass Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>1{B/G}{B/G}: Evolve to Gloom
-				Lifelink</text>
+			<text>1{B/G}{B/G}: Evolve to Gloom</text>
 		</card>
 		<card>
 			<name>Paras</name>

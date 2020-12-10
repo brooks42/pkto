@@ -120,9 +120,212 @@
 			<reverse-related attach="attach">Kakuna</reverse-related>
 		</card>
 		<card>
+			<name>Pidgeotto</name>
+			<set picURL="https://images.pokemontcg.io/gym2/27_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>2W: Evolve to Pidgeot</text> 
+			<reverse-related attach="attach">Pidgey</reverse-related>
+		</card>
+		<card>
+			<name>Pidgeot</name>
+			<set picURL="https://images.pokemontcg.io/base6/33_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Vigilance
+				T: Remove this Pokémon from combat.</text> 
+			<reverse-related attach="attach">Pidgeotto</reverse-related>
+		</card>
+		<card>
+			<name>Raticate</name>
+			<set picURL="https://images.pokemontcg.io/base4/58_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Normal</type>
+			<pt>4/2</pt>
+			<tablerow>2</tablerow>
+			<text></text> 
+			<reverse-related attach="attach">Rattata</reverse-related>
+		</card>
+		<card>
+			<name>Fearow</name>
+			<set picURL="https://images.pokemontcg.io/gym1/7_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>4/2</pt>
+			<tablerow>2</tablerow>
+			<text>Flying</text> 
+			<reverse-related attach="attach">Spearow</reverse-related>
+		</card>
+		<card>
+			<name>Arbok</name>
+			<set picURL="https://images.pokemontcg.io/gym2/25_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Poison</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Deathtouch</text> 
+			<reverse-related attach="attach">Ekans</reverse-related>
+		</card>
+		<card>
+			<name>Raichu</name>
+			<set picURL="https://images.pokemontcg.io/neo3/21_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Electric</type>
+			<pt>5/4</pt>
+			<tablerow>2</tablerow>
+			<text>T: deal 3 damage to target Pokémon, then put 2 paralyze counters on it.</text> 
+			<reverse-related attach="attach">Pikachu</reverse-related>
+		</card>
+		<card>
+			<name>Sandslash</name>
+			<set picURL="https://images.pokemontcg.io/ecard3/93_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Ground</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>Protection from Electric</text> 
+			<reverse-related attach="attach">Sandshrew</reverse-related>
+		</card>
+		<card>
+			<name>Nidorina</name>
+			<set picURL="https://images.pokemontcg.io/ex6/40_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>2B: Evolve to Nidoqueen</text> 
+			<reverse-related attach="attach">Nidoran♀</reverse-related>
+		</card>
+		<card>
+			<name>Nidoqueen</name>
+			<set picURL="https://images.pokemontcg.io/ex6/40_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Poison Ground</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Trample
+				When Nidoqueen deals combat damage to a player, search your library for a Pokémon and put it into your hand. Then shuffle your library.</text> 
+			<reverse-related attach="attach">Nidorina</reverse-related>
+		</card>
+		<card>
+			<name>Nidorino</name>
+			<set picURL="https://images.pokemontcg.io/ex15/35_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Poison</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>2B: Evolve to Nidoking
+				Trample</text> 
+			<reverse-related attach="attach">Nidoran♂</reverse-related>
+		</card>
+		<card>
+			<name>Nidoking</name>
+			<set picURL="https://images.pokemontcg.io/ex15/6_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Poison Ground</type>
+			<pt>6/5</pt>
+			<tablerow>2</tablerow>
+			<text>Protection from Electric and Steel</text> 
+			<reverse-related attach="attach">Nidorino</reverse-related>
+		</card>
+		<card>
+			<name>Clefable</name>
+			<set picURL="https://images.pokemontcg.io/dp1/22_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Fairy</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Protection from Dragon</text>
+			<reverse-related attach="attach">Clefairy</reverse-related>
+		</card>
+		<card>
+			<name>Ninetales</name>
+			<set picURL="https://images.pokemontcg.io/dp2/32_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Fire</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>2R: put 2 confusion counters on target Pokémon. That Pokémon takes damage equal to the number of confusion counters on it.</text>
+			<reverse-related attach="attach">Vulpix</reverse-related>
+		</card>
+		<card>
+			<name>Wigglytuff</name>
+			<set picURL="https://images.pokemontcg.io/dp4/32_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Normal Fairy</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>T: Put a sleep counter on each Pokémon. You gain life equal to the number of sleep counters put on Pokémon this way.</text>
+			<reverse-related attach="attach">Jigglypuff</reverse-related>
+		</card>
+		<card>
+			<name>Golbat</name>
+			<set picURL="https://images.pokemontcg.io/hgss2/30_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Poison Flying</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Lifelink</text>
+			<reverse-related attach="attach">Zubat</reverse-related>
+		</card>
+		<card>
+			<name>Gloom</name>
+			<set picURL="https://images.pokemontcg.io/hgss3/27_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>1{B/G}{B/G}: Evolve to Vileplume
+				Lifelink</text>
+			<reverse-related attach="attach">Oddish</reverse-related>
+		</card>
+		<card>
+			<name>Vileplume</name>
+			<set picURL="https://images.pokemontcg.io/bw7/3_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>T: Put a poison counter on up to 3 target Pokémon.</text>
+			<reverse-related attach="attach">Gloom</reverse-related>
+		</card>
+		<card>
+			<name>Parasect</name>
+			<set picURL="https://images.pokemontcg.io/g1/7_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Bug Grass</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>Lifelink
+				When this Pokémon is dealt damage, if the source is a Fire Pokémon, destroy it. Otherwise, you gain that much life.</text>
+			<reverse-related attach="attach">Paras</reverse-related>
+		</card>
+		<card>
 			<name>Golduck</name>
 			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color>U</color>
+			<color></color>
 			<manacost></manacost>
 			<type>Pokémon - Water</type>
 			<pt>4/4</pt>
