@@ -906,14 +906,134 @@
 		<card>
 			<name>Red</name>
 			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
-			<color>R</color>
-			<manacost>3RRR</manacost>
+			<color>RW</color>
+			<manacost>3RRW</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Red</type>
 			<loyalty>4</loyalty>
 			<text>[+1]: Reveal the top five cards of your library. Put all Pokémon cards revealed this way into your hand and the rest on the bottom of your library in any order.
 				[−3]: You may put a Pokémon card from your hand onto the battlefield.
 				[−7]: For each Pokémon you control, create a token that's a copy of that Pokémon.</text>
+		</card>
+		<card>
+			<name>Blue</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>UR</color>
+			<manacost>3RRU</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Blue</type>
+			<loyalty>3</loyalty>
+			<text>[+2]: Remove all status counters from up to 1 target Pokémon. You gain 1 life for each counter removed this way.
+				[-3]: Discard a card, then return a Pokémon from your graveyard to the battlefield tapped.
+				[−7]: Untap all Pokémon you control. Until the end of the turn, your Pokémon have +3/+3, lifelink, indestructible, haste, vigilance, and hexproof.</text>
+		</card>
+		<card>
+			<name>Green</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>GUB</color>
+			<manacost>3G{B/U}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Green</type>
+			<loyalty>5</loyalty>
+			<text>[+1]: Each player searches their library for an artifact, puts it into their hand, and shuffles their library.
+				[-2]: Return an enchantment or artifact from your graveyard to your hand.
+				[−5]: For each Pokémon you control, search your library for a TM enchantment card and put that card into play enchanting that Pokémon. Then, shuffle your library.</text>
+		</card>
+		<card>
+			<name>Brock</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>GR</color>
+			<manacost>1GR</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Brock</type>
+			<loyalty>2</loyalty>
+			<text>[+1]: Target Pokémon gets +2/+2 until the end of the turn.
+				[−2]: Search your library for a Rock or Ground Pokémon, shuffle it, and put that card on top of it.
+				[−4]: You get an emblem with "Whenever you evolve a Pokémon, put 2 +1/+1 counters on it."</text>
+		</card>
+		<card>
+			<name>Misty</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Misty</type>
+			<loyalty>4</loyalty>
+			<text>[+1]: Tap or untap target Pokémon.  
+				[−1]: Target Water Pokémon is unblockable until end of turn. 
+				[−6]: Draw 2 cards for each Pokémon you control.</text>
+		</card>	
+		<card>
+			<name>Lt Surge</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>RW</color>
+			<manacost>2RW</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Surge</type>
+			<loyalty>5</loyalty>
+			<text>[+1]: Target Pokémon gains vigilance and haste until end of turn.
+				[−3]: Put a paralyze counter on each Pokémon you don't control. You gain 1 life for each paralyze counter added this way.
+				[−6]: Target Pokémon gains indestructible until end of turn. Deal 12 damage to all Pokémon.</text>
+		</card>
+		<card>
+			<name>Erika</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>G</color>
+			<manacost>2GG</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Erika</type>
+			<loyalty>1</loyalty>
+			<text>[+1]: Add G, U or W.
+				[x2]: Reveal your hand. You gain 1 life for each Pokémon card among them.
+				[−X]: Your Pokémon get +X/+X until end of turn.</text>
+		</card>	
+		<card>
+			<name>Koga</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>B</color>
+			<manacost>1BB</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Koga</type>
+			<loyalty>3</loyalty>
+			<text>[+1]: Put a confusion counter on target Pokémon.
+				[+2]: Put a poison counter on target Pokémon. You gain life equal to the number of poison counters on that Pokémon. 
+				[−6]: You get an emblem with "whenever an opponent loses life because of a poison counter, you gain that much life."</text>
+		</card>	
+		<card>
+			<name>Sabrina</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>BU</color>
+			<manacost>2B{U/B}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Sabrina</type>
+			<loyalty>6</loyalty>
+			<text>[+1]: Reveal the top card of target player's library.
+				[-2]: Search your library for a card, shuffle it, and put that card 4th from the bottom.
+				[-4]: Target player discards a card, then each player draws cards equal to their hand size.</text>
+		</card>
+		<card>
+			<name>Blaine</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>R</color>
+			<manacost>2R</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Blaine</type>
+			<loyalty>3</loyalty>
+			<text>[+0]: Target Pokémon gets +1/+0 until end of turn.
+				[+0]: Draw a card, then discard a card.
+				[−3]: You get an emblem with "Your sorceries that prevent damage or remove damage have Flash."</text>
+		</card>
+		<card>
+			<name>Giovanni</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>BR</color>
+			<manacost>3B{B/R}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Giovanni</type>
+			<loyalty>5</loyalty>
+			<text>[+1]: Draw a card. You lose 1 life for each card in your hand.
+				[+0]: Each player sacrifices a Pokémon or Trainer.
+				[-8]: Each player discards their hand. Put all Pokémon cards from all graveyards onto the battlefield under your control.</text>
 		</card>
 		<!-- sorceries/instants -->
 		<card>
@@ -1176,17 +1296,17 @@
 			<set picURL="https://i.imgur.com/Vtz1NZU.jpeg" rarity="common">PTCG</set>
 			<color>R</color>
 			<manacost>R</manacost>
-			<type>Enchantment - Aura </type>
+			<type>Enchantment - Aura TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				Enchanted Pokémon gets +2/+0 and has "when this Pokémon deals damage to another Pokémon, put that many paralysis counters on it."</text>
+				Enchanted Pokémon gets +2/+0 and has "when this Pokémon deals damage to another Pokémon, put that many paralyze counters on it."</text>
 		</card>
 		<card>
 			<name>Ice Beam</name>
 			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<manacost>1U</manacost>
-			<type>Enchantment - Aura </type>
+			<type>Enchantment - Aura TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 				Enchanted Pokémon has "1U: put a frozen counter on target Pokémon."</text>
@@ -1196,7 +1316,7 @@
 			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
-			<type>Enchantment - Aura </type>
+			<type>Enchantment - Aura TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 				Enchanted Pokémon gets +5/+0 when blocked, and has "when this Pokémon attacks it doesn't untap during its controller's next untap step".</text>
@@ -1206,11 +1326,119 @@
 			<set picURL="https://images.pokemontcg.io/ex8/21_hires.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<manacost>G</manacost>
-			<type>Enchantment - Aura </type>
+			<type>Enchantment - Aura TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 				Enchanted Pokémon has "T: put a +1/+1 counter on this Pokémon."
 				When enchanted Pokémon has 3 or more +1/+1 counters on it, sacrifice this card. If you do, draw 2 cards.</text>
+		</card>
+		<!-- Locations -->
+		<card>
+			<name>Pallet Town</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>T: Add 1 of any color. Spend this mana only to cast Pokémon spells with mana cost 2 or less.
+				4, T: Draw a card</text>
+		</card>
+		<card>
+			<name>Pewter City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>T: Add R. If you control an Evolution Stone, add RR instead.</text>
+		</card>
+		<card>
+			<name>Cerulean City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>T: Add U.
+				T: Return target Water Pokémon you control to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Viridian City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>T: Add UB.</text>
+		</card>
+		<card>
+			<name>Saffron City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>T: Add B.
+				1B, T: Draw a card, then discard a card.</text>
+		</card>
+		<card>
+			<name>Celadon City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>T: Add G, U, or W.
+				1G, T: each player searches their library for a basic land card, puts it on the battlefield tapped, then shuffles their library.</text>
+		</card>
+		<card>
+			<name>Vermillion City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>T: Add RW.</text>
+		</card>
+		<card>
+			<name>Fuschia City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>T: Add B.
+				2B: put a poison counter on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Saffron City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>T: Add B.
+				1B, T: Draw a card, then discard a card.</text>
+		</card>
+		<card>
+			<name>Cinnabar Island</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>T: Add R.
+				T, Sacrifice Cinnabar Island: destroy target land.</text>
+		</card>
+		<card>
+			<name>Lavender Town</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>T: Add B or W.
+				3B, T: each player sacrifices a Pokémon. If all players do, each player returns a Pokémon from their graveyard to the battlefield tapped.</text>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
