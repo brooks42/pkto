@@ -60,7 +60,7 @@
 			<type>Pokémon - Bug Flying</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Can evolve from Metapod
+			<text>2G: Evolve from Metapod
 				Flying
 				When you evolve this Pokémon, put 2 +1/+1 counters on it.
 			</text>
@@ -75,6 +75,19 @@
 			<tablerow>2</tablerow>
 			<text>1B: Evolve to Kakuna
 				1B, T: Put a poison counter on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Beedrill</name>
+			<set picURL="https://images.pokemontcg.io/pl4/53_hires.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>2BG</manacost>
+			<type>Pokémon - Bug Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>1BG: Evolve from Kakuna
+				Flying, Deathtouch
+				When you evolve this Pokémon, distribute up to 2 poison counters among any number of target Pokémon.
+			</text>
 		</card>
 		<card>
 			<name>Pidgey</name>
@@ -1039,10 +1052,46 @@
 			<tablerow>3</tablerow>
 			<text>Shuffle target land you control into your library. If you do, search your library for a basic land card and put it into play. Then, shuffle your deck.</text>
 		</card>
+		<card>
+			<name>PlusPower</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>RR</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gets +1/+1 and Haste until the end of the turn.</text>
+		</card>
+		<card>
+			<name>SuperPsych++</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>GG</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Put 2 +1/+1 counters on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Radarbeam</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Activate target Pokémon's evolution ability, ignoring its cost.</text>
+		</card>
+		<card>
+			<name>Devolution Spray</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>B</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Remove all tokens from target Pokémon.</text>
+		</card>
 		<!-- evolution stones -->
 		<card>
 			<name>Thunderstone</name>
-			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
@@ -1052,7 +1101,7 @@
 		</card>
 		<card>
 			<name>Leaf Stone</name>
-			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
@@ -1062,7 +1111,7 @@
 		</card>
 		<card>
 			<name>Water Stone</name>
-			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
@@ -1072,7 +1121,7 @@
 		</card>
 		<card>
 			<name>Fire Stone</name>
-			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
@@ -1082,7 +1131,7 @@
 		</card>
 		<card>
 			<name>Moonstone</name>
-			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
@@ -1092,7 +1141,7 @@
 		</card>
 		<card>
 			<name>Generic Evolution Stone</name>
-			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
@@ -1102,5 +1151,66 @@
 			<font></font>
 		</card>
 		<!-- misc artifacts and tools -->
+		<card>
+			<name>Roboberry</name>
+			<set picURL="https://images.pokemontcg.io/neo1/99_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2</manacost>
+			<type>Artifact - Medicine</type>
+			<tablerow>2</tablerow>
+			<text>Equip 1
+				Sacrifice: regenerate equipped Pokémon.</text>
+		</card>		
+		<card>
+			<name>Pokédoll</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2</manacost>
+			<type>Artifact - Medicine</type>
+			<tablerow>2</tablerow>
+			<text>Sacrifice Pokédoll: prevent all combat damage this turn.</text>
+		</card>
+		<!-- attack enchantments -->
+		<card>
+			<name>Thunderbolt</name>
+			<set picURL="https://i.imgur.com/Vtz1NZU.jpeg" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Enchantment - Aura </type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon gets +2/+0 and has "when this Pokémon deals damage to another Pokémon, put that many paralysis counters on it."</text>
+		</card>
+		<card>
+			<name>Ice Beam</name>
+			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Enchantment - Aura </type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon has "1U: put a frozen counter on target Pokémon."</text>
+		</card>
+		<card>
+			<name>Hyper Beam</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Enchantment - Aura </type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon gets +5/+0 when blocked, and has "when this Pokémon attacks it doesn't untap during its controller's next untap step".</text>
+		</card>		
+		<card>
+			<name>Spit Up</name>
+			<set picURL="https://images.pokemontcg.io/ex8/21_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Enchantment - Aura </type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon has "T: put a +1/+1 counter on this Pokémon."
+				When enchanted Pokémon has 3 or more +1/+1 counters on it, sacrifice this card. If you do, draw 2 cards.</text>
+		</card>
 	</cards>
 </cockatrice_carddatabase>
