@@ -152,7 +152,7 @@
 			<type>Pokémon - Electric</type>
 			<pt>4/2</pt>
 			<tablerow>2</tablerow>
-			<text>2WR: Evolve with Thunderstone to Raichu
+			<text>2WR: Evolve with Thunder Stone to Raichu
 				First Strike, Haste</text>
 		</card>
 		<card>
@@ -1088,7 +1088,7 @@
 			<manacost>1</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for an Evolution Stone card and put it into your hand. Then, shuffle your library.</text>
+			<text>Search your library for a Stone card and put it into your hand. Then, shuffle your library.</text>
 		</card>
 		<card>
 			<name>Pokéflute</name>
@@ -1219,13 +1219,13 @@
 		</card>
 		<!-- evolution stones -->
 		<card>
-			<name>Thunderstone</name>
+			<name>Thunder Stone</name>
 			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
-			<type>Artifact - Evolution Stone</type>
+			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
-			<text>T: Add R or W. Thunderstone deals 1 damage to you.</text>
+			<text>T: Add R or W. Thunder Stone deals 1 damage to you.</text>
 			<font></font>
 		</card>
 		<card>
@@ -1233,7 +1233,7 @@
 			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
-			<type>Artifact - Evolution Stone</type>
+			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>T: Add G.</text>
 			<font></font>
@@ -1243,7 +1243,7 @@
 			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
-			<type>Artifact - Evolution Stone</type>
+			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>T: Add U.</text>
 			<font></font>
@@ -1253,7 +1253,7 @@
 			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
-			<type>Artifact - Evolution Stone</type>
+			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>T: Add R.</text>
 			<font></font>
@@ -1263,7 +1263,7 @@
 			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
-			<type>Artifact - Evolution Stone</type>
+			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>T: Add B or W.</text>
 			<font></font>
@@ -1273,7 +1273,7 @@
 			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>3</manacost>
-			<type>Artifact - Evolution Stone</type>
+			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>T: Add one mana of any color.
 				T: Add 2 mana of any colors. That mana can only be spent to activate Evolve abilities.</text>
@@ -1359,7 +1359,7 @@
 			<manacost></manacost>
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add R. If you control an Evolution Stone, add RR instead.</text>
+			<text>T: Add R. If you control an Stone, add RR instead.</text>
 		</card>
 		<card>
 			<name>Cerulean City</name>
