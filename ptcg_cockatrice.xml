@@ -213,7 +213,7 @@
 		</card>
 		<card>
 			<name>Jigglypuff</name>
-			<set picURL="https://images.pokemontcg.io/base4/77_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/77_hires.png" rarity="uncommon">PTCG</set>
 			<color>W</color>
 			<manacost>1W</manacost>
 			<type>Pokémon - Normal Fairy</type>
@@ -946,7 +946,7 @@
 			<loyalty>5</loyalty>
 			<text>[+1]: Each player searches their library for an artifact, puts it into their hand, and shuffles their library.
 				[-2]: Return an enchantment or artifact from your graveyard to your hand.
-				[−5]: For each Pokémon you control, search your library for a TM enchantment card and put that card into play enchanting that Pokémon. Then, shuffle your library.</text>
+				[−5]: For each Pokémon you control, search your library for a TM card and put that card into play enchanting that Pokémon. Then, shuffle your library.</text>
 		</card>
 		<card>
 			<name>Brock</name>
@@ -1133,7 +1133,7 @@
 			<manacost>1G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a land card and put it on the battlefield tapped. Shuffle your library.</text>
+			<text>Search your library for a basic land card and put it on the battlefield tapped. Shuffle your library.</text>
 		</card>
 		<card>
 			<name>Gambler</name>
@@ -1142,7 +1142,7 @@
 			<manacost>1R</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Shuffle your hand into your deck. Flip a coin. If heads, draw 8 cards. If tails, draw 1 card.</text>
+			<text>Shuffle your hand into your deck. Flip a coin. If heads, draw 2 cards. If tails, draw 1 card.</text>
 		</card>
 		<card>
 			<name>Mysterious Fossil</name>
@@ -1224,7 +1224,7 @@
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 			<text>T: Add R or W. Thunderstone deals 1 damage to you.</text>
 			<font></font>
 		</card>
@@ -1234,7 +1234,7 @@
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 			<text>T: Add G.</text>
 			<font></font>
 		</card>
@@ -1244,7 +1244,7 @@
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 			<text>T: Add U.</text>
 			<font></font>
 		</card>
@@ -1254,7 +1254,7 @@
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 			<text>T: Add R.</text>
 			<font></font>
 		</card>
@@ -1264,7 +1264,7 @@
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 			<text>T: Add B or W.</text>
 			<font></font>
 		</card>
@@ -1274,7 +1274,7 @@
 			<color></color>
 			<manacost>3</manacost>
 			<type>Artifact - Evolution Stone</type>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 			<text>T: Add one mana of any color.
 				T: Add 2 mana of any colors. That mana can only be spent to activate Evolve abilities.</text>
 			<font></font>
@@ -1286,7 +1286,7 @@
 			<color></color>
 			<manacost>2</manacost>
 			<type>Artifact - Medicine</type>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 			<text>Equip 1
 				Sacrifice: regenerate equipped Pokémon.</text>
 		</card>		
@@ -1296,7 +1296,7 @@
 			<color></color>
 			<manacost>2</manacost>
 			<type>Artifact - Medicine</type>
-			<tablerow>2</tablerow>
+			<tablerow>1</tablerow>
 			<text>Sacrifice Pokédoll: prevent all combat damage this turn.</text>
 		</card>
 		<!-- attack enchantments -->
@@ -1378,7 +1378,8 @@
 			<manacost></manacost>
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add UB.</text>
+			<text>T: Add C.
+				T: Add U or B. Viridian City deals 1 damage to you.</text>
 		</card>
 		<card>
 			<name>Saffron City</name>
@@ -1407,7 +1408,8 @@
 			<manacost></manacost>
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add RW.</text>
+			<text>T: Add C
+				T: Add R or W. Vermillion City deals 1 damage to you.</text>
 		</card>
 		<card>
 			<name>Fuschia City</name>

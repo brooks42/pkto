@@ -29,6 +29,6 @@ Evolve works a lot like the Mutate mechanic from Ikoria, except you make a token
 
 - Burn: the next time this Pokémon would deal damage, it also deals that much damage to itself.
 
-- Sleep: This Pokémon cannot attack or block. At the start of your upkeep, flip a coin. If heads, remove all sleep counters from this Pokémon. 
+- Sleep: This Pokémon cannot attack or block, or activate abilities. At the start of each upkeep, flip a coin. If heads, remove all sleep counters from this Pokémon. 
 
-- Frozen: This Pokémon cannot attack or block. If this Pokémon takes damage, remove all frozen counters from it. At the end of your turn, remove a frozen counter from this Pokémon.
+- Frozen: This Pokémon cannot attack or block, or activate abilities. It doesn't untap during your untap step. If this Pokémon takes damage, remove all frozen counters from it. At the end of your turn, remove a frozen counter from this Pokémon.
