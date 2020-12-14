@@ -33,6 +33,7 @@ class Card(object):
        self.image2 = image2
        self.mainframe_image1 = mainframe_image1
        self.mainframe_image2 = mainframe_image2
+       self.rarity = ""
 
     def __init__(self, cockatrice_card):
         self.styling = False
@@ -101,6 +102,12 @@ class Card(object):
             if tag.name == 'text':
                 self.rule_text = tag.string
 
+            if tag.name == "set":
+                self.rarity = tag['rarity']
+
+                if tag['rarity'] == "mythic":
+                    self.rarity = "mythic rare"
+
         # this is all blank any from the cockatrice info, in future script work this can be merged with existing info 
         self.watermark = ""
         self.card_code_text = ""
@@ -133,6 +140,7 @@ class Card(object):
                 <kw-a><nospellcheck>Reach</nospellcheck></kw-a>
             flavor text: <i-flavor></i-flavor>
             watermark: Pokemon Grass
+            rarity: mythic rare
             power: 2
             toughness: 2
             card code text: 
@@ -157,6 +165,7 @@ class Card(object):
         string += f"\twatermark: {self.watermark}\n"
         string += f"\tpower: {self.power}\n"
         string += f"\ttoughness: {self.toughness}\n"
+        string += f'\trarity: {self.rarity}\n'
         string += f"\tcard code text: {self.card_code_text}\n"
         string += f"\timage 2: {self.image2}\n"
         string += f"\tmainframe image: {self.mainframe_image1}\n"
@@ -218,13 +227,13 @@ mse version: 0.3.8
 game: magic
 stylesheet: m15
 set info:
-    symbol: symbol5.mse-symbol
-    masterpiece symbol: 
+\tsymbol: symbol5.mse-symbol
+\tmasterpiece symbol: 
 styling:
-    magic-m15:
-        text box mana symbols: magic-mana-small.mse-symbol-font
-        inverted common symbol: no
-        overlay: 
+\tmagic-m15:
+\t\ttext box mana symbols: magic-mana-small.mse-symbol-font
+\t\tinverted common symbol: no
+\t\toverlay: 
                     """)
             
             # write each card in the list
@@ -234,7 +243,7 @@ styling:
             # write the footer
             output_file.write("""
 version control:
-    type: none
+\ttype: none
 apprentice code:
             """)
 
