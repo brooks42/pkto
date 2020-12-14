@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 
+# xml parsing help from https://www.geeksforgeeks.org/reading-and-writing-xml-files-in-python/?ref=lbp
+# to run you need to do
+# `pip3 install beautifulsoup4`
+# `pip3 install lxml`
+
 import argparse
+from bs4 import BeautifulSoup 
 
 class Card(object):
     """
@@ -82,6 +88,11 @@ def main():
     Usage:
         - python set_editor_script.py [options] -i input_file -o output_file
 
+    Options:
+        -p preserve pre-set image data from the input file
+
+    Example:
+        python set_editor_script.py -i ../ptcg_cockatrice.xml -o example_set2.set
     """
     parser = argparse.ArgumentParser()
     
@@ -91,15 +102,48 @@ def main():
 
     args = parser.parse_args()
 
+    # validate args
     if (args.input == args.output):
         print('Error: input file cannot be the same as output file.')
         return
 
-    print(f'args: {args}')
+    # open the input file as XML, input is assumed to be a cockatrice card file
+    with open(args.input, 'r') as f: 
+        data = f.read()
+        xmlObjects = BeautifulSoup(data, "xml")
+        
+        # grab the list of cards out of the input cockatrice xml file
+        allCards = xmlObjects.findAll("card")
+        print(f'Retrieved {len(allCards)} cards')
 
-    cardExample = Card()
-    print(cardExample)
-    print(cardExample.exportAsString())
+        for index in range(len(allCards)):
+            print(f'card {index}:')
+            
+            # grab the info and transform this into the Card instance format above
+            card = allCards[index]
+
+            for tag in card:
+                if tag.name == 'name':
+                    print(tag.string)
+
+            # card 134:
+            # <card>
+            # <name>Lavender Town</name>
+            # <set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+            # <color/>
+            # <manacost/>
+            # <type>Land</type>
+            # <tablerow>0</tablerow>
+            # <text>T: Add B or W.
+            #                                 3B, T: each player sacrifices a Pokémon. If all players do, each player returns a Pokémon from their graveyard to the battlefield tapped.</text>
+            # </card>
+
+        # turn those cards into local Card instances
+
+        # then open the output file
+        # write the header
+        # write each card in the list
+        # write the footer
 
     print('Done')
 
