@@ -1304,8 +1304,8 @@
 			<name>Thunderbolt</name>
 			<set picURL="https://i.imgur.com/Vtz1NZU.jpeg" rarity="common">PTCG</set>
 			<color>R</color>
-			<manacost>R</manacost>
-			<type>Enchantment - Aura TM</type>
+			<manacost>1R</manacost>
+			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 				Enchanted Pokémon gets +2/+0 and has "when this Pokémon deals damage to another Pokémon, put that many paralyze counters on it."</text>
@@ -1315,7 +1315,7 @@
 			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<manacost>1U</manacost>
-			<type>Enchantment - Aura TM</type>
+			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 				Enchanted Pokémon has "1U: put a frozen counter on target Pokémon."</text>
@@ -1324,22 +1324,101 @@
 			<name>Hyper Beam</name>
 			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
 			<color></color>
-			<manacost>3</manacost>
-			<type>Enchantment - Aura TM</type>
+			<manacost>5</manacost>
+			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				Enchanted Pokémon gets +5/+0 when blocked, and has "when this Pokémon attacks it doesn't untap during its controller's next untap step".</text>
+				Enchanted Pokémon has "{T}: Destroy target Pokémon. This Pokémon doesn't untap during its controller's next untap step".</text>
 		</card>		
 		<card>
 			<name>Spit Up</name>
 			<set picURL="https://images.pokemontcg.io/ex8/21_hires.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<manacost>G</manacost>
-			<type>Enchantment - Aura TM</type>
+			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 				Enchanted Pokémon has "T: put a +1/+1 counter on this Pokémon."
 				When enchanted Pokémon has 3 or more +1/+1 counters on it, sacrifice this card. If you do, draw 2 cards.</text>
+		</card>
+		<card>
+			<name>Quick Attack</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>{R/W}</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon gets +1/+0 and has haste.</text>
+		</card>
+		<card>
+			<name>Hydro Pump</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2UU</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Water Pokémon
+				Enchanted Pokémon gets +2/+2 and has "{1U} {T}: return target Pokémon to its owner's hand."</text>
+		</card>		
+		<card>
+			<name>Fire Blast</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2RR</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Fire Pokémon
+				Enchanted Pokémon gets +3/+1 and has "{1R}: This Pokémon deals 1 damage to any target. If that target is a Pokémon, put a burn counter on it."</text>
+		</card>
+		<card>
+			<name>Giga Drain</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>1GG</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Grass Pokémon
+				Enchanted Pokémon gets +2/+1 and has lifelink and "{1G}: target Pokémon attacks or blocks this Pokémon this turn if able."</text>
+		</card>
+		<card>
+			<name>Confuse Ray</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>1B</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon has "{T}: put a confusion counter on target Pokémon."</text>
+		</card>
+		<card>
+			<name>Fly</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>1U</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon has flying.</text>
+		</card>
+		<card>
+			<name>Guillotine</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon has "{T}: Flip a coin. If heads, destroy target Pokémon."</text>
+		</card>
+		<card>
+			<name>Spash</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>U</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon</text>
 		</card>
 		<!-- Locations -->
 		<card>
@@ -1347,7 +1426,7 @@
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
-			<type>Land</type>
+			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
 			<text>T: Add 1 of any color. Spend this mana only to cast Pokémon spells with mana cost 2 or less.
 				4, T: Draw a card</text>
@@ -1357,16 +1436,16 @@
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
-			<type>Land</type>
+			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add R. If you control an Stone, add RR instead.</text>
+			<text>T: Add R. If you control a Stone, add RR instead.</text>
 		</card>
 		<card>
 			<name>Cerulean City</name>
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
-			<type>Land</type>
+			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
 			<text>T: Add U.
 				T: Return target Water Pokémon you control to its owner's hand.</text>
@@ -1376,7 +1455,7 @@
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
-			<type>Land</type>
+			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
 			<text>T: Add C.
 				T: Add U or B. Viridian City deals 1 damage to you.</text>
@@ -1386,7 +1465,7 @@
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
-			<type>Land</type>
+			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
 			<text>T: Add B.
 				1B, T: Draw a card, then discard a card.</text>
@@ -1396,17 +1475,17 @@
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
-			<type>Land</type>
+			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add G, U, or W.
-				1G, T: each player searches their library for a basic land card, puts it on the battlefield tapped, then shuffles their library.</text>
+			<text>T: Add G.
+				1G, T: each player can search their library for a basic land card and put it on the battlefield tapped, then shuffle their library.</text>
 		</card>
 		<card>
 			<name>Vermillion City</name>
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
-			<type>Land</type>
+			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
 			<text>T: Add C
 				T: Add R or W. Vermillion City deals 1 damage to you.</text>
@@ -1416,7 +1495,7 @@
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
-			<type>Land</type>
+			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
 			<text>T: Add B.
 				2B: put a poison counter on target Pokémon.</text>
@@ -1426,7 +1505,7 @@
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
-			<type>Land</type>
+			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
 			<text>T: Add B.
 				1B, T: Draw a card, then discard a card.</text>
@@ -1436,7 +1515,7 @@
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
-			<type>Land</type>
+			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
 			<text>T: Add R.
 				T, Sacrifice Cinnabar Island: destroy target land.</text>
@@ -1446,7 +1525,7 @@
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
-			<type>Land</type>
+			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
 			<text>T: Add B or W.
 				3B, T: each player sacrifices a Pokémon. If all players do, each player returns a Pokémon from their graveyard to the battlefield tapped.</text>
