@@ -456,7 +456,7 @@
 			<type>Pokémon - Fire</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>1R: Evolve to Rapidash
+			<text>{1}{R}: Evolve to Rapidash
 				Trample</text>
 		</card>
 		<card>
@@ -467,8 +467,8 @@
 			<type>Pokémon - Water Psychic</type>
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
-			<text>3: Evolve with Shellder to Slowbro
-				U, T: the next time Slowpoke would die this turn, instead remove all damage from Slowpoke.</text>
+			<text>{3}: Evolve with Shellder to Slowbro
+				{U}, {T}: Search your library for a card named Shellder and put it into your hand. Then shuffle your library.</text>
 		</card>
 		<card>
 			<name>Magnemite</name>
@@ -512,9 +512,8 @@
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>1WU: Evolve to Dewgong
-				1U: Put 3 frozen counters on target Pokémon.
-				1W: Gain 2 life or remove all damage from Seel.</text>
+			<text>{2}{W}{U}: Evolve to Dewgong
+				{1}{U}: Put 3 frozen counters on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Grimer</name>
@@ -522,10 +521,10 @@
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Pokémon - Poison</type>
-			<pt>2/2</pt>
+			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>2B: Evolve to Muk
-				X, T: Put X poison counters on target Pokémon.</text>
+			<text>3{B}{B}: Evolve to Muk
+				{X}, {T}: Put X poison counters on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Shellder</name>
@@ -535,8 +534,8 @@
 			<type>Pokémon - Water</type>
 			<pt>0/4</pt>
 			<tablerow>2</tablerow>
-			<text>2U: Evolve with Water Stone to Cloyster
-				T: draw a card and discard a card.</text>
+			<text>{2}{U}{U}: Evolve to Cloyster
+				{2}, {T}: draw a card and discard a card.</text>
 		</card>
 		<card>
 			<name>Gastly</name>
@@ -546,10 +545,9 @@
 			<type>Pokémon - Ghost Poison</type>
 			<pt>0/1</pt>
 			<tablerow>2</tablerow>
-			<text>1U: Evolve to Haunter
-				Hexproof
+			<text>{1}{B}{B}: Evolve to Haunter
 				Protection from Ground, Fighting
-				T: put 2 paralyze, poison, sleep, or confusion counters on target Pokémon.</text>
+				{1}{B}, {T}: put 2 paralyze, poison, sleep, or confusion counters on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Onix</name>
@@ -569,19 +567,19 @@
 			<type>Pokémon - Psychic</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>1B: Evolve to Hypno
-				T: Put X sleep counters on target Pokémon where X is the number of cards in your hand.</text>
+			<text>{1}{U}{B}: Evolve to Hypno
+				{T}: Put X sleep counters on target Pokémon where X is the number of cards in your hand.</text>
 		</card>
 		<card>
 			<name>Krabby</name>
 			<set picURL="https://images.pokemontcg.io/base3/51_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
-			<manacost>2U</manacost>
+			<manacost>1UR</manacost>
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>1U: Evolve to Kingler
-				R: Krabby gets +1/+0 and first strike until the end of the turn.</text>
+			<text>{1}{U}{R}: Evolve to Kingler
+				{R}: Krabby gets +1/+0 and first strike until the end of the turn.</text>
 		</card>
 		<card>
 			<name>Voltorb</name>
@@ -591,9 +589,20 @@
 			<type>Pokémon - Electric</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>2R: Evolve to Electrode
+			<text>{2}{R}: Evolve to Electrode
 				Haste
-				XR, sacrifice Voltorb: deal X damage to target Pokémon.</text>
+				{X}{R}, {T}, sacrifice Voltorb: deal X damage to target Pokémon.</text>
+		</card>
+		<card>
+			<name>Electrode</name>
+			<set picURL="https://images.pokemontcg.io/base5/69_hires.png" rarity="common">PTCG</set>
+			<color>RW</color>
+			<manacost>2RW</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{R/W}: Evolve from Voltorb
+				When this Pokémon enters the battlefield or takes damage, sacrifice it. If you do, it deals damage to each Pokémon equal to its power.</text>
 		</card>
 		<card>
 			<name>Exeggcute</name>
@@ -603,8 +612,8 @@
 			<type>Pokémon - Grass Psychic</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
-			<text>1GGB: Evolve with Leaf Stone to Exeggutor
-				1B: put a confusion counter on target Pokémon.</text>
+			<text>{1}{G}{G}{B}: Evolve to Exeggutor
+				{1}{B}: put a confusion counter on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Cubone</name>
@@ -614,10 +623,9 @@
 			<type>Pokémon - Ground</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>3G{G/W}: Evolve to Marowak
+			<text>{3}{G}{G/W}: Evolve to Marowak
 				Reach
-				Evolve abilities of Cubones you control cost 1 less.
-			</text>
+				Evolve abilities of Cubones you control cost {1} less.</text>
 		</card>
 		<card>
 			<name>Hitmonlee</name>
@@ -660,7 +668,7 @@
 			<type>Pokémon - Poison</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>2B: Evolve with Koffing into Weezing
+			<text>{3}{B}: Evolve into Weezing
 				Deathtouch</text>
 		</card>
 		<card>
@@ -671,9 +679,9 @@
 			<type>Pokémon - Ground Rock</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>2R: Evolve into Rhyhorn
+			<text>{2}{R}: Evolve into Rhyhorn
 				Trample
-				1R: Rhyhorn gets +1/+0 and first strike until the end of the turn.</text>
+				{1}{R}: Rhyhorn gets +1/+0 until the end of the turn.</text>
 		</card>
 		<card>
 			<name>Chansey</name>
@@ -714,8 +722,8 @@
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>2U: Evolve to Seadra
-				1U: Return this Pokémon and target Pokémon you don't control to their owners's hands.</text>
+			<text>{2}{U}: Evolve to Seadra
+				{1}{U}: Return this Pokémon and target Pokémon you don't control to their owners's hands.</text>
 		</card>		
 		<card>
 			<name>Goldeen</name>
@@ -725,7 +733,7 @@
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>2U: Evolve to Seaking</text>
+			<text>{2}{U}: Evolve to Seaking</text>
 		</card>
 		<card>
 			<name>Staryu</name>
@@ -735,7 +743,7 @@
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>2U: Evolve to Starmie
+			<text>{2}{U}: Evolve to Starmie
 				When Staryu deals damage, you can draw a card.</text>
 		</card>
 		<card>
@@ -848,9 +856,9 @@
 			<type>Pokémon - Normal</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>1U: Evolve with Water Stone into Vaporeon
-				1W: Evolve with Thunder Stone into Jolteon
-				1R: Evolve with Fire Stone into Flareon</text>
+			<text>{3}{U}: Evolve into Vaporeon
+				{3}{W}: Evolve into Jolteon
+				{3}{R}: Evolve into Flareon</text>
 		</card>
 		<card>
 			<name>Porygon</name>
@@ -871,8 +879,8 @@
 			<type>Pokémon - Rock Water</type>
 			<pt>1/4</pt>
 			<tablerow>2</tablerow>
-			<text>1UR: Evolve to Omastar
-				3UR: return Omanyte from the graveyard to the battlefield.</text>
+			<text>{2}{U}{R}: Evolve to Omastar
+				{3}{U}{R}: return Omanyte from the graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>Kabuto</name>
@@ -882,8 +890,8 @@
 			<type>Pokémon - Rock Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>1UG: Evolve to Kabutops
-				3UG: return Kabuto from the graveyard to the battlefield.</text>
+			<text>{1}{U}{G}: Evolve to Kabutops
+				{3}{U}{G}: return Kabuto from the graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>Aerodactyl</name>
@@ -894,7 +902,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>Flying, Haste
-				3RG: Return Aerodactyl from the graveyard to the battlefield.</text>
+				{3}{R}{G}: Return Aerodactyl from the graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>Snorlax</name>
@@ -904,7 +912,8 @@
 			<type>Pokémon - Normal</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>T: Put a sleep counter on Snorlax and prevent all damage to Snorlax for the rest of the turn.</text>
+			<text>{W}{W}: Snorlax is unaffected by sleep counters until end of turn.
+				{T}: Put a sleep counter on Snorlax and remove all damage from it.</text>
 		</card>
 		<card>
 			<name>Articuno</name>
@@ -947,7 +956,19 @@
 			<type>Pokémon - Dragon</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>WRG: Evolve to Dragonair</text>
+			<text>{1}{W}{R}{G}: Evolve to Dragonair</text>
+		</card>
+		<card>
+			<name>Dragonite</name>
+			<set picURL="https://images.pokemontcg.io/gym1/42_hires.png" rarity="mythin">PTCG</set>
+			<color>WRG</color>
+			<manacost>4WRG</manacost>
+			<type>Pokémon - Dragon Flying</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>WRG: Evolve from Dragonair
+				Flying
+				When you evolve this Pokémon, Pokémon you control gain indestructible until end of turn.</text>
 		</card>
 		<card>
 			<name>Mewtwo</name>
