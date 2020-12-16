@@ -846,7 +846,7 @@
 			<type>Pokémon - Normal</type>
 			<pt>0/1</pt>
 			<tablerow>2</tablerow>
-			<text>You may have Ditto enter the battlefield as a copy of any Pokémon on the battlefield.</text>
+			<text>{3}: Ditto becomes a copy of target Pokémon until end of turn, except it has this ability.</text>
 		</card>
 		<card>
 			<name>Eevee</name>
@@ -1194,7 +1194,7 @@
 			<set picURL="https://images.pokemontcg.io/bw1/102_hires.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>2B</manacost>
-			<type>Sorcery</type>
+			<type>Sorcery - Medicine</type>
 			<tablerow>3</tablerow>
 			<text>Return a Pokémon from your graveyard to the battlefield tapped, with a paralyze counter on it.</text>
 		</card>
@@ -1203,7 +1203,7 @@
 			<set picURL="https://images.pokemontcg.io/xy1/120_hires.png" rarity="rare">PTCG</set>
 			<color>WB</color>
 			<manacost>3{W/B}{W/B}</manacost>
-			<type>Sorcery</type>
+			<type>Sorcery - Medicine</type>
 			<tablerow>3</tablerow>
 			<text>Return a Pokémon from your graveyard to the battlefield.</text>
 		</card>
@@ -1220,10 +1220,10 @@
 			<name>Gambler</name>
 			<set picURL="https://images.pokemontcg.io/base3/60_hires.png" rarity="common">PTCG</set>
 			<color>R</color>
-			<manacost>1R</manacost>
+			<manacost>2R</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Shuffle your hand into your deck. Flip a coin. If heads, draw 2 cards. If tails, draw 1 card.</text>
+			<text>Shuffle your hand into your deck. Flip a coin. If heads, draw 3 cards.</text>
 		</card>
 		<card>
 			<name>Mysterious Fossil</name>
@@ -1239,7 +1239,7 @@
 			<set picURL="https://images.pokemontcg.io/ecard1/156_hires.png" rarity="common">PTCG</set>
 			<color>W</color>
 			<manacost>1W</manacost>
-			<type>Instant</type>
+			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
 			<text>Remove all damage from target Pokémon.</text>
 		</card>
@@ -1297,6 +1297,24 @@
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>Remove all tokens from target Pokémon.</text>
+		</card>
+		<card>
+			<name>Item Finder</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>WG</color>
+			<manacost>2{W/G}</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for an artifact, reveal it, and put it into your hand. Shuffle your library.</text>
+		</card>
+		<card>
+			<name>Versus Seeker</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>UB</color>
+			<manacost>{U/B}</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Each player searches their library for a card, reveals it, shuffles their library, and puts it on top.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
@@ -1370,15 +1388,24 @@
 			<tablerow>1</tablerow>
 			<text>Equip 1
 				Sacrifice: regenerate equipped Pokémon.</text>
-		</card>		
+		</card>
 		<card>
 			<name>Pokédoll</name>
-			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost>2</manacost>
 			<type>Artifact - Medicine</type>
 			<tablerow>1</tablerow>
 			<text>Sacrifice Pokédoll: prevent all combat damage this turn.</text>
+		</card>	
+		<card>
+			<name>Silph Scope</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="rare">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon lose Shadow and unblockable.</text>
 		</card>
 		<!-- attack enchantments -->
 		<card>
@@ -1403,7 +1430,7 @@
 		</card>
 		<card>
 			<name>Hyper Beam</name>
-			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="mythic">PTCG</set>
 			<color></color>
 			<manacost>5</manacost>
 			<type>Enchantment - TM</type>
@@ -1501,6 +1528,36 @@
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon</text>
 		</card>
+		<card>
+			<name>Rock Throw</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2R</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Sacrifice Rock Throw: enchanted Pokémon deals 4 damage to target Pokémon or 2 damage to target trainer.</text>
+		</card>
+		<card>
+			<name>Conversion</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>2</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon has "{2}: this Pokémon becomes the type(s) and color(s) of your choice until end of turn."</text>
+		</card>
+		<card>
+			<name>Flash</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>W</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Sacrifice Flash: Prevent all combat damage that would be dealt this turn.</text>
+		</card>
 		<!-- Locations -->
 		<card>
 			<name>Pallet Town</name>
@@ -1509,8 +1566,8 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add 1 of any color. Spend this mana only to cast Pokémon spells with mana cost 2 or less.
-				4, T: Draw a card</text>
+			<text>{T}: Add {1} of any color. Spend this mana only to cast Pokémon spells with mana cost 2 or less.
+				{4}, {T}: Draw a card.</text>
 		</card>
 		<card>
 			<name>Pewter City</name>
@@ -1519,7 +1576,7 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add R. If you control a Stone, add RR instead.</text>
+			<text>{T}: Add {R}. If you control a Stone, add {R}{R} instead.</text>
 		</card>
 		<card>
 			<name>Cerulean City</name>
@@ -1528,8 +1585,8 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add U.
-				T: Return target Water Pokémon you control to its owner's hand.</text>
+			<text>{T}: Add {U}.
+				{T}: Return target Water Pokémon you control to its owner's hand.</text>
 		</card>
 		<card>
 			<name>Viridian City</name>
@@ -1538,8 +1595,8 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add C.
-				T: Add U or B. Viridian City deals 1 damage to you.</text>
+			<text>{T}: Add {C}.
+				{T}: Add {R}, {U}, or {B}. Viridian City deals 1 damage to you.</text>
 		</card>
 		<card>
 			<name>Saffron City</name>
@@ -1548,8 +1605,8 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add B.
-				1B, T: Draw a card, then discard a card.</text>
+			<text>{T}: Add {B}.
+				{1}{B}, {T}: Draw a card, then discard a card.</text>
 		</card>
 		<card>
 			<name>Celadon City</name>
@@ -1558,8 +1615,8 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add G.
-				1G, T: each player can search their library for a basic land card and put it on the battlefield tapped, then shuffle their library.</text>
+			<text>{T}: Add {C}.
+				{T}: Add {G}, {W}, or {U}. Celadon City deals 1 damage to you.</text>
 		</card>
 		<card>
 			<name>Vermillion City</name>
@@ -1568,8 +1625,8 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add C
-				T: Add R or W. Vermillion City deals 1 damage to you.</text>
+			<text>{T}: Add {C}.
+				{T}: Add {R}, {W}. or {B}. Vermillion City deals 1 damage to you.</text>
 		</card>
 		<card>
 			<name>Fuschia City</name>
@@ -1578,8 +1635,8 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add B.
-				2B: put a poison counter on target Pokémon.</text>
+			<text>{T}: Add {B}.
+				{2}{B}: put a poison counter on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Saffron City</name>
@@ -1588,8 +1645,7 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add B.
-				1B, T: Draw a card, then discard a card.</text>
+			<text>{T}: Add {U}, {B}, or {G}. Saffron City deals 1 damage to you.</text>
 		</card>
 		<card>
 			<name>Cinnabar Island</name>
@@ -1608,8 +1664,9 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>T: Add B or W.
-				3B, T: each player sacrifices a Pokémon. If all players do, each player returns a Pokémon from their graveyard to the battlefield tapped.</text>
+			<text>{T}: Add {C}.
+				{T}: Add {R}, {G}, or {B}. Lavendar City deals 1 damage to you.
+			</text>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
