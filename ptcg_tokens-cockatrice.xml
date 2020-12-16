@@ -318,9 +318,42 @@
 			<type>Pokémon - Bug Grass</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
-			<text>Lifelink
-				When this Pokémon is dealt damage, if the source is a Fire Pokémon, destroy it. Otherwise, you gain that much life.</text>
+			<text>Lifelink</text>
 			<reverse-related attach="attach">Paras</reverse-related>
+		</card>
+		<card>
+			<name>Venomoth</name>
+			<set picURL="https://images.pokemontcg.io/g1/7_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Bug Poison</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+				{T}: Put a confusion counter and a poison counter on target Pokémon.</text>
+			<reverse-related attach="attach">Venonat</reverse-related>
+		</card>
+		<card>
+			<name>Dugtrio</name>
+			<set picURL="https://images.pokemontcg.io/g1/7_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Ground</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+			<reverse-related attach="Diglett">Venonat</reverse-related>
+		</card>
+		<card>
+			<name>Persian</name>
+			<set picURL="https://images.pokemontcg.io/g1/7_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Normal</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>You may have Persian assign its combat damage as though it weren't blocked.</text>
+			<reverse-related attach="attach">Meowth</reverse-related>
 		</card>
 		<card>
 			<name>Golduck</name>
@@ -334,6 +367,168 @@
 			<reverse-related attach="attach">Psyduck</reverse-related>
 		</card>
 		<card>
+			<name>Primeape</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Primeape attacks or blocks each combat if able.</text>
+			<reverse-related attach="attach">Mankey</reverse-related>
+		</card>
+		<card>
+			<name>Arcanine</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Fire</type>
+			<pt>5/4</pt>
+			<tablerow>2</tablerow>
+			<text>RRR: Arcanine gains flying until end of turn.</text>
+			<reverse-related attach="attach">Growlithe</reverse-related>
+		</card>
+		<card>
+			<name>Poliwhirl</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>{2UU}: Evolve to Poliwrath
+				{1U}: Put a paralyze counter on target Pokémon.</text>
+			<reverse-related attach="attach">Poliwag</reverse-related>
+		</card>
+		<card>
+			<name>Poliwrath</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Water Fighting</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>TM spells and equip abilities targeting Poliwrath cost {3} less.</text>
+			<reverse-related attach="attach">Poliwrath</reverse-related>
+		</card>
+		<card>
+			<name>Kadabra</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>{3U}: Evolve to Alakazam
+				When you evolve this Pokémon, draw a card.</text>
+			<reverse-related attach="attach">Abra</reverse-related>
+		</card>
+		<card>
+			<name>Alakazam</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>5/4</pt>
+			<tablerow>2</tablerow>
+			<text>When you evolve this Pokémon, draw a card. Then you can target X creatures and return them to owner's hand, where X is the number of cards in your hand.</text>
+			<reverse-related attach="attach">Kadabra</reverse-related>
+		</card>
+		<card>
+			<name>Machoke</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>{4}{R/G}{R/G}: Evolve to Machamp
+				{4}: Machoke fights target Pokémon.</text>
+			<reverse-related attach="attach">Machop</reverse-related>
+		</card>
+		<card>
+			<name>Machamp</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>8/8</pt>
+			<tablerow>2</tablerow>
+			<text>When you evolve this Pokémon, it fights any number of target Pokémon.
+				When this Pokémon fights, it gets +2/+0 until end of turn.</text>
+			<reverse-related attach="attach">Machoke</reverse-related>
+		</card>
+		<card>
+			<name>Weepinbell</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{G/B}: Evolve to Victreebel
+				{2}{B}: Put a poison counter on target Pokémon.</text>
+			<reverse-related attach="attach">Bellsprout</reverse-related>
+		</card>
+		<card>
+			<name>Victreebel</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Reach
+				You don't lose life because of poison counters.
+				Your Pokémon can't have poison counters put on them.</text>
+			<reverse-related attach="attach">Weepinbell</reverse-related>
+		</card>		
+		<card>
+			<name>Tentacruel</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Water Poison</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Tentacruel can block any number of Pokémon each combat.</text>
+			<reverse-related attach="attach">Tentacool</reverse-related>
+		</card>
+		<card>
+			<name>Graveler</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Rock Ground</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{R}{R}: Evolve to Golem
+				{T}: Graveler gains indestructible until end of turn.</text>
+			<reverse-related attach="attach">Geodude</reverse-related>
+		</card>		
+		<card>
+			<name>Golem</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Rock Ground</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>Sacrifice Golem: Golem deals 6 damage to each Pokémon and each player.</text>
+			<reverse-related attach="attach">Graveler</reverse-related>
+		</card>
+		<card>
+			<name>Rapidash</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Fire</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Haste</text>
+			<reverse-related attach="attach">Ponyta</reverse-related>
+		</card>	
+		<card>
 			<name>Magneton</name>
 			<set picURL="https://images.pokemontcg.io/base4/9_hires.png" rarity="token">PTCG</set>
 			<color></color>
@@ -344,6 +539,17 @@
 			<text>Protection from Ground
 				4: Deal damage equal to this creature's power to target Flying Pokémon.</text> 
 			<reverse-related attach="attach">Magnemite</reverse-related>
+		</card>
+		<card>
+			<name>Dodrio</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>Double strike</text>
+			<reverse-related attach="attach">Doduo</reverse-related>
 		</card>
 		<card>
 			<name>Gyarados</name>

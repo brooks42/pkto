@@ -142,7 +142,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>B: Evolve from Ekans
-				When you evolve this Pokémon, it gets 2 +1/+1 counters and gains deathtouch</text>
+				When you evolve this Pokémon, it gets 2 +1/+1 counters and gains deathtouch.</text>
 		</card>
 		<card>
 			<name>Pikachu</name>
@@ -150,9 +150,9 @@
 			<color>WR</color>
 			<manacost>1WR</manacost>
 			<type>Pokémon - Electric</type>
-			<pt>4/2</pt>
+			<pt>3/1</pt>
 			<tablerow>2</tablerow>
-			<text>2WR: Evolve with Thunder Stone to Raichu
+			<text>2WR: Evolve to Raichu
 				First Strike, Haste</text>
 		</card>
 		<card>
@@ -258,7 +258,7 @@
 		</card>
 		<card>
 			<name>Venonat</name>
-			<set picURL="https://images.pokemontcg.io/gym1/96_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym1/96_hires.png" rarity="common">PTCG</set>
 			<color>GU</color>
 			<manacost>GU</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -269,7 +269,7 @@
 		</card>
 		<card>
 			<name>Diglett</name>
-			<set picURL="https://images.pokemontcg.io/base4/71_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/71_hires.png" rarity="common">PTCG</set>
 			<color>R</color>
 			<manacost>R</manacost>
 			<type>Pokémon - Ground</type>
@@ -280,14 +280,26 @@
 		</card>
 		<card>
 			<name>Meowth</name>
-			<set picURL="https://images.pokemontcg.io/base6/53_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/53_hires.png" rarity="common">PTCG</set>
 			<color>WB</color>
 			<manacost>1WB</manacost>
 			<type>Pokémon - Normal</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>1WR: Evolve to Persian
+			<text>2WB: Evolve to Persian
 				When Meowth deals combat damage to a player, you may draw a card.</text>
+		</card>
+		<card>
+			<name>Persian</name>
+			<set picURL="https://images.pokemontcg.io/base6/53_hires.png" rarity="rare">PTCG</set>
+			<color>WB</color>
+			<manacost>3WB</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>1WB: Evolve from Meowth
+				When you evolve this Pokémon, it gets a +1/+1 counter.
+				Discard a card: Persian gains first strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Psyduck</name>
@@ -315,11 +327,11 @@
 			<name>Growlithe</name>
 			<set picURL="https://images.pokemontcg.io/bw4/11_hires.png" rarity="rare">PTCG</set>
 			<color>RW</color>
-			<manacost>2{R/W}</manacost>
+			<manacost>2{R/W}{R/W}</manacost>
 			<type>Pokémon - Fire</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>3{R/W}: Evolve with Fire Stone to Arcanine
+			<text>3{R/W}: Evolve to Arcanine
 				Vigilance
 				When Growlithe deals damage to a Pokémon, put that many burn counters on that Pokémon.</text>
 		</card>
@@ -331,7 +343,19 @@
 			<type>Pokémon - Water</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>1U: Evolve to Poliwhirl</text>
+			<text>{1U}: Evolve to Poliwhirl</text>
+		</card>
+		<card>
+			<name>Poliwrath</name>
+			<set picURL="https://images.pokemontcg.io/base4/88_hires.png" rarity="rare">PTCG</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Pokémon - Water Fighting</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{3U}: Evolve from Poliwhirl
+				When you evolve this Pokémon, it gets 3 +1/+1 counters.
+			</text>
 		</card>
 		<card>
 			<name>Abra</name>
@@ -341,8 +365,21 @@
 			<type>Pokémon - Psychic</type>
 			<pt>0/2</pt>
 			<tablerow>2</tablerow>
-			<text>2U: Evolve to Kadabra
+			<text>1U: Evolve to Kadabra
 				When this creature enters the battlefield, scry 2.</text>
+		</card>
+		<card>
+			<name>Alakazam</name>
+			<set picURL="https://images.pokemontcg.io/gym2/93_hires.png" rarity="rare">PTCG</set>
+			<color>UB</color>
+			<manacost>4UB</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>5/2</pt>
+			<tablerow>2</tablerow>
+			<text>2UB: Evolve from Kadabra
+				When you evolve this Pokémon, draw 2 cards.
+				UU: Scry 1
+				BB: Put a confusion counter on target Pokémon, then that Pokémon gets -2/-2 for each confusion counter on it.</text>
 		</card>		
 		<card>
 			<name>Machop</name>
@@ -352,7 +389,19 @@
 			<type>Pokémon - Fighting</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>2{G/R}: Evolve to Machoke</text>
+			<text>{2}{R/G}{R/G}: Evolve to Machoke</text>
+		</card>		
+		<card>
+			<name>Machamp</name>
+			<set picURL="https://images.pokemontcg.io/base6/79_hires.png" rarity="uncommon">PTCG</set>
+			<color>RG</color>
+			<manacost>4{R/G}{R/G}</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{R/G}{R/G}: Evolve from Machoke
+				When you evolve this Pokémon, put 3 +1/+1 counters on it.
+				{T}: Machamp gets +2/+0 until end of turn and fights target non-Flying Pokémon you don't control.</text>
 		</card>
 		<card>
 			<name>Bellsprout</name>
@@ -360,11 +409,23 @@
 			<color>G</color>
 			<manacost>2G</manacost>
 			<type>Pokémon - Grass Poison</type>
-			<pt>1/3</pt>
+			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>1{G/B}: Evolve to Weepinbel
-				G: Bellsprout gets +1/+0 until the end of the turn.
-				B: Put a poison counter on target Pokémon.</text>
+			<text>{3}{G/B}: Evolve to Weepinbel
+				{1}{G}: Bellsprout gets +1/+1 until the end of the turn.</text>
+		</card>
+		<card>
+			<name>Victreebel</name>
+			<set picURL="https://images.pokemontcg.io/gym1/76_hires.png" rarity="rare">PTCG</set>
+			<color>G</color>
+			<manacost>2{G/B}GB</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{G/B}: Evolve from Weepinbel
+				When you evolve this Pokémon, put 2 +1/+1 counters on it.
+				Reach
+				BG: Victreebel deals 1 damage to target Pokémon you don't control. You gain 1 life.</text>
 		</card>
 		<card>
 			<name>Tentacool</name>
@@ -385,8 +446,7 @@
 			<type>Pokémon - Rock Ground</type>
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
-			<text>2R: Evolve to Graveler
-				T: Geodude gains indestructible until the end of the turn.</text>
+			<text>{2}{R}: Evolve to Graveler</text>
 		</card>
 		<card>
 			<name>Ponyta</name>
@@ -397,7 +457,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>1R: Evolve to Rapidash
-				Trample, Haste</text>
+				Trample</text>
 		</card>
 		<card>
 			<name>Slowpoke</name>
@@ -429,20 +489,20 @@
 			<color>WG</color>
 			<manacost>2WG</manacost>
 			<type>Pokémon - Normal Flying</type>
-			<pt>5/2</pt>
+			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Vigilance, Double Strike</text>
+			<text>Vigilance, Double strike</text>
 		</card>
 		<card>
 			<name>Doduo</name>
 			<set picURL="https://images.pokemontcg.io/ecard2/73_hires.png" rarity="common">PTCG</set>
 			<color>RB</color>
-			<manacost>1RB</manacost>
+			<manacost>2RB</manacost>
 			<type>Pokémon - Normal Flying</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
 			<text>1{R/B}{R/B}: Evolve to Dodrio
-				Double Strike, Haste</text>
+				First strike, Haste</text>
 		</card>
 		<card>
 			<name>Seel</name>
@@ -750,13 +810,13 @@
 		</card>
 		<card>
 			<name>Magikarp</name>
-			<set picURL="https://images.pokemontcg.io/base5/47_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/47_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<type>Pokémon - Water</type>
 			<pt>0/1</pt>
 			<tablerow>2</tablerow>
-			<text>4UR: Evolve to Gyarados</text>
+			<text>{6UR}: Evolve to Gyarados</text>
 		</card>
 		<card>
 			<name>Lapras</name>
@@ -1379,7 +1439,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Grass Pokémon
-				Enchanted Pokémon gets +2/+1 and has lifelink and "{1G}: target Pokémon attacks or blocks this Pokémon this turn if able."</text>
+				Enchanted Pokémon gets +2/+1 and has lifelink and "{1G}: target Pokémon attacks, or blocks this Pokémon, this combat if able."</text>
 		</card>
 		<card>
 			<name>Confuse Ray</name>
