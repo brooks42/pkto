@@ -39,7 +39,7 @@
 			<pt>2/1</pt>
 			<tablerow>2</tablerow>
 			<text>2R: Evolve to Charmeleon
-				R: Charmander gets +1/+0 until the end of the turn.</text>
+				R: Charmander gets +1/+0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Caterpie</name>
@@ -62,7 +62,7 @@
 			<tablerow>2</tablerow>
 			<text>2G: Evolve from Metapod
 				Flying
-				When you evolve this Pokémon, put 2 +1/+1 counters on it.
+				When you evolve this Pokémon, put two +1/+1 counters on it.
 			</text>
 		</card>
 		<card>
@@ -86,7 +86,7 @@
 			<tablerow>2</tablerow>
 			<text>1BG: Evolve from Kakuna
 				Flying, Deathtouch
-				When you evolve this Pokémon, distribute up to 2 poison counters among any number of target Pokémon.
+				When you evolve this Pokémon, distribute up to two poison counters among any number of target Pokémon.
 			</text>
 		</card>
 		<card>
@@ -109,7 +109,7 @@
 			<pt>2/1</pt>
 			<tablerow>2</tablerow>
 			<text>2{W/R}: Evolve to Raticate
-				First Strike</text>
+				First strike</text>
 		</card>
 		<card>
 			<name>Spearow</name>
@@ -120,7 +120,7 @@
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
 			<text>1{W/R}: Evolve to Fearow
-				First Strike, Intimidate</text>
+				First strike, intimidate</text>
 		</card>
 		<card>
 			<name>Ekans</name>
@@ -131,7 +131,7 @@
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>2B: Evolve to Arbok
-				When this Pokémon deals damage to another Pokémon, put that many poison counters on that Pokémon.</text>
+				Whenever Ekans deals damage to another Pokémon, put that many poison counters on that Pokémon.</text>
 		</card>
 		<card>
 			<name>Arbok</name>
@@ -142,7 +142,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>B: Evolve from Ekans
-				When you evolve this Pokémon, it gets 2 +1/+1 counters and gains deathtouch.</text>
+				When this Pokémon evolves, put two +1/+1 counters on it and it gains deathtouch.</text>
 		</card>
 		<card>
 			<name>Pikachu</name>
@@ -153,7 +153,7 @@
 			<pt>3/1</pt>
 			<tablerow>2</tablerow>
 			<text>2WR: Evolve to Raichu
-				First Strike, Haste</text>
+				First strike, haste</text>
 		</card>
 		<card>
 			<name>Sandshrew</name>
@@ -164,7 +164,7 @@
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>2G: Evolve to Sandslash
-				If Sandshrew would take an odd number of damage, prevent that damage.</text>
+				If an odd amount of damage would be dealt to Sandshrew, prevent that damage.</text>
 		</card>
 		<card>
 			<name>Nidoran♀</name>
@@ -175,7 +175,7 @@
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
 			<text>1B: Evolve to Nidorina
-				2B: Search your library for Nidoran♀ or Nidoran♂, put it onto the battlefield, then shuffle your library.</text>
+				2B: Search your library for a card named Nidoran♀ or Nidoran♂ and put it onto the battlefield. Then shuffle your library.</text>
 		</card>
 		<card>
 			<name>Nidoran♂</name>
@@ -186,7 +186,7 @@
 			<pt>3/1</pt>
 			<tablerow>2</tablerow>
 			<text>1B: Evolve to Nidorino
-				When this Pokémon attacks, it gets first strike and deathtouch.</text>
+				When this Pokémon attacks, it gains first strike and deathtouch.</text>
 		</card>
 		<card>
 			<name>Clefairy</name>
@@ -198,7 +198,7 @@
 			<tablerow>2</tablerow>
 			<text>2{W/B}: Evolve with Moonstone to Clefable.
 				T: Add W or B.
-				2{W/B}: Reveal cards from the top of your library until you reveal a Pokémon. If you do, this Pokémon gains all abilities of that card, except for its Evolve abilities, until the end of the turn. Shuffle your library.</text>
+				2{W/B}: Reveal cards from the top of your library until you reveal a Pokémon. This Pokémon gains all abilities of the revealed card, except for its evolve abilities, until end of turn. Then shuffle your library.</text>
 		</card>
 		<card>
 			<name>Vulpix</name>
@@ -209,7 +209,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>1R: Evolve with Fire Stone to Ninetales
-				R: Vulpix gets +1/+0 and first strike until the end of the turn.</text>
+				R: Vulpix gets +1/+0 and first strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Jigglypuff</name>
@@ -220,7 +220,7 @@
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>2W: Evolve with Moonstone to Wigglytuff
-				W: Jigglypuff gets +0/+1 until the end of the turn.
+				W: Jigglypuff gets +0/+1 until end of turn.
 				When Jigglypuff deals damage to another Pokémon, put that many sleep counters on that Pokémon.</text>
 		</card>
 		<card>
@@ -233,7 +233,7 @@
 			<tablerow>2</tablerow>
 			<text>2B: Evolve to Golbat
 				Flying
-				When this Pokémon attacks, you can put a confusion counter on up to one target creature.</text>
+				When Zubat attacks, you may put a confusion counter on up to one target Pokémon.</text>
 		</card>
 		<card>
 			<name>Oddish</name>
@@ -254,7 +254,7 @@
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>2G: Evolve to Parasect
-				When another player loses life because of poison counters, you gain that much life.</text>
+				Whenever an opponent is dealt damage by a Pokémon they control with a poison counter on it, you gain that much life.</text>
 		</card>
 		<card>
 			<name>Venonat</name>
@@ -287,7 +287,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>2WB: Evolve to Persian
-				When Meowth deals combat damage to a player, you may draw a card.</text>
+				Whenever Meowth deals combat damage to a player, you may draw a card.</text>
 		</card>
 		<card>
 			<name>Persian</name>
@@ -298,7 +298,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>1WB: Evolve from Meowth
-				When you evolve this Pokémon, it gets a +1/+1 counter.
+				When this Pokémon evolves, put a +1/+1 counter on it.
 				Discard a card: Persian gains first strike until end of turn.</text>
 		</card>
 		<card>
@@ -310,7 +310,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>2U: Evolve to Golduck
-				If Psyduck would have a status counter(s) put on it, it deals 1 damage to each Pokémon and each player instead.</text>
+				If a status counter would be placed on Psyduck, it deals 1 damage to each Pokémon and each player instead.</text>
 		</card>
 		<card>
 			<name>Mankey</name>
@@ -321,7 +321,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>2R: Evolve to Primeape
-				Haste, Reach</text>
+				Haste, reach</text>
 		</card>
 		<card>
 			<name>Growlithe</name>
@@ -333,7 +333,7 @@
 			<tablerow>2</tablerow>
 			<text>3{R/W}: Evolve to Arcanine
 				Vigilance
-				When Growlithe deals damage to a Pokémon, put that many burn counters on that Pokémon.</text>
+				Whenever Growlithe deals damage to a Pokémon, put that many burn counters on that Pokémon.</text>
 		</card>
 		<card>
 			<name>Poliwag</name>
@@ -354,7 +354,7 @@
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{3U}: Evolve from Poliwhirl
-				When you evolve this Pokémon, it gets 3 +1/+1 counters.
+				When this this Pokémon evolves, put three +1/+1 counters on it.
 			</text>
 		</card>
 		<card>
@@ -366,7 +366,7 @@
 			<pt>0/2</pt>
 			<tablerow>2</tablerow>
 			<text>1U: Evolve to Kadabra
-				When this creature enters the battlefield, scry 2.</text>
+				When this Pokémon enters the battlefield, scry 2.</text>
 		</card>
 		<card>
 			<name>Alakazam</name>
@@ -377,9 +377,9 @@
 			<pt>5/2</pt>
 			<tablerow>2</tablerow>
 			<text>2UB: Evolve from Kadabra
-				When you evolve this Pokémon, draw 2 cards.
+				When this Pokémon evolves, draw 2 cards.
 				UU: Scry 1
-				BB: Put a confusion counter on target Pokémon, then that Pokémon gets -2/-2 for each confusion counter on it.</text>
+				BB: Put a confusion counter on target Pokémon. That Pokémon gets -2/-2 until end of turn for each confusion counter on it.</text>
 		</card>		
 		<card>
 			<name>Machop</name>
@@ -400,7 +400,7 @@
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{R/G}{R/G}: Evolve from Machoke
-				When you evolve this Pokémon, put 3 +1/+1 counters on it.
+				When this Pokémon evolves, put three +1/+1 counters on it.
 				{T}: Machamp gets +2/+0 until end of turn and fights target non-Flying Pokémon you don't control.</text>
 		</card>
 		<card>
@@ -412,7 +412,7 @@
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{G/B}: Evolve to Weepinbel
-				{1}{G}: Bellsprout gets +1/+1 until the end of the turn.</text>
+				{1}{G}: Bellsprout gets +1/+1 until end of turn.</text>
 		</card>
 		<card>
 			<name>Victreebel</name>
@@ -422,8 +422,8 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{G/B}: Evolve from Weepinbel
-				When you evolve this Pokémon, put 2 +1/+1 counters on it.
+			<text>{2}{G/B}: Evolve from Weepinbell
+				When this Pokémon evolves, put two +1/+1 counters on it.
 				Reach
 				BG: Victreebel deals 1 damage to target Pokémon you don't control. You gain 1 life.</text>
 		</card>
@@ -478,10 +478,10 @@
 			<type>Pokémon - Electric Steel</type>
 			<pt>0/0</pt>
 			<tablerow>2</tablerow>
-			<text>3: Evolve with 2 Magnemite to Magneton
+			<text>3: Evolve with two Magnemite to Magneton
 				Protection from Ground
 				This creature gets +1/+1.
-				X: Search your library for a Steel Pokémon with converted mana cost X and add it to your hand, then shuffle your library.</text>
+				X: Search your library for a Steel card with converted mana cost X and put it into to your hand, then shuffle your library.</text>
 		</card>
 		<card>
 			<name>Farfetch'd</name>
@@ -491,7 +491,7 @@
 			<type>Pokémon - Normal Flying</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Vigilance, Double strike</text>
+			<text>Vigilance, double strike</text>
 		</card>
 		<card>
 			<name>Doduo</name>
@@ -502,7 +502,7 @@
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
 			<text>1{R/B}{R/B}: Evolve to Dodrio
-				First strike, Haste</text>
+				First strike, haste</text>
 		</card>
 		<card>
 			<name>Seel</name>
@@ -513,7 +513,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{W}{U}: Evolve to Dewgong
-				{1}{U}: Put 3 frozen counters on target Pokémon.</text>
+				{1}{U}: Put three frozen counters on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Grimer</name>
@@ -535,7 +535,7 @@
 			<pt>0/4</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{U}{U}: Evolve to Cloyster
-				{2}, {T}: draw a card and discard a card.</text>
+				{2}, {T}: Draw a card, then discard a card.</text>
 		</card>
 		<card>
 			<name>Gastly</name>
@@ -546,8 +546,8 @@
 			<pt>0/1</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{B}{B}: Evolve to Haunter
-				Protection from Ground, Fighting
-				{1}{B}, {T}: put 2 paralyze, poison, sleep, or confusion counters on target Pokémon.</text>
+				Protection from Ground and Fighting
+				{1}{B}, {T}: Put 2 paralyze, poison, sleep, or confusion counters on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Onix</name>
@@ -568,7 +568,7 @@
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{U}{B}: Evolve to Hypno
-				{T}: Put X sleep counters on target Pokémon where X is the number of cards in your hand.</text>
+				{T}: Put X sleep counters on target Pokémon, where X is the number of cards in your hand.</text>
 		</card>
 		<card>
 			<name>Krabby</name>
@@ -579,7 +579,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{U}{R}: Evolve to Kingler
-				{R}: Krabby gets +1/+0 and first strike until the end of the turn.</text>
+				{R}: Krabby gets +1/+0 and gains first strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Voltorb</name>
@@ -591,7 +591,7 @@
 			<tablerow>2</tablerow>
 			<text>{2}{R}: Evolve to Electrode
 				Haste
-				{X}{R}, {T}, sacrifice Voltorb: deal X damage to target Pokémon.</text>
+				{X}{R}, {T}, sacrifice Voltorb: It deals X damage to target Pokémon.</text>
 		</card>
 		<card>
 			<name>Electrode</name>
@@ -602,7 +602,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{R/W}: Evolve from Voltorb
-				When this Pokémon enters the battlefield or takes damage, sacrifice it. If you do, it deals damage to each Pokémon equal to its power.</text>
+				When Electrode enters the battlefield or takes damage, sacrifice it. If you do, it deals damage to each Pokémon equal to its power.</text>
 		</card>
 		<card>
 			<name>Exeggcute</name>
@@ -613,7 +613,7 @@
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{G}{G}{B}: Evolve to Exeggutor
-				{1}{B}: put a confusion counter on target Pokémon.</text>
+				{1}{B}: Put a confusion counter on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Cubone</name>
@@ -625,7 +625,7 @@
 			<tablerow>2</tablerow>
 			<text>{3}{G}{G/W}: Evolve to Marowak
 				Reach
-				Evolve abilities of Cubones you control cost {1} less.</text>
+				Evolve abilities of Pokémon named Cubone you control cost {1} less to activate.</text>
 		</card>
 		<card>
 			<name>Hitmonlee</name>
@@ -636,7 +636,7 @@
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
 			<text>First strike
-				When Hitmonlee attacks, you can have it deal damage equal to its power to target Pokémon instead of dealing combat damage.</text>
+				When Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn.</text>
 		</card>
 		<card>
 			<name>Hitmonchan</name>
@@ -647,7 +647,7 @@
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
 			<text>Defender, Reach
-				Prevent all non-combat damage that would be dealt to Hitmonchan.</text>
+				Prevent all noncombat damage that would be dealt to Hitmonchan.</text>
 		</card>
 		<card>
 			<name>Lickitung</name>
@@ -658,7 +658,7 @@
 			<pt>3/7</pt>
 			<tablerow>2</tablerow>
 			<text>Reach,
-				T: put 2 paralyze counters on target Pokémon.</text>
+				T: Put 2 paralyze counters on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Koffing</name>
@@ -681,7 +681,7 @@
 			<tablerow>2</tablerow>
 			<text>{2}{R}: Evolve into Rhyhorn
 				Trample
-				{1}{R}: Rhyhorn gets +1/+0 until the end of the turn.</text>
+				{1}{R}: Rhyhorn gets +1/+0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Chansey</name>
@@ -691,7 +691,7 @@
 			<type>Pokémon - Normal</type>
 			<pt>1/12</pt>
 			<tablerow>2</tablerow>
-			<text>T: Gain 3 life or remove up to 3 status counters from target Pokémon.</text>
+			<text>T: Gain 3 life or remove up to three status counters from target Pokémon.</text>
 		</card>
 		<card>
 			<name>Tangela</name>
@@ -723,7 +723,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{U}: Evolve to Seadra
-				{1}{U}: Return this Pokémon and target Pokémon you don't control to their owners's hands.</text>
+				{1}{U}: Return Seadra and target Pokémon you don't control to their owners's hands.</text>
 		</card>		
 		<card>
 			<name>Goldeen</name>
@@ -744,7 +744,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{U}: Evolve to Starmie
-				When Staryu deals damage, you can draw a card.</text>
+				Whenever Staryu deals damage, you may draw a card.</text>
 		</card>
 		<card>
 			<name>Mr. Mime</name>
@@ -764,7 +764,7 @@
 			<type>Pokémon - Bug Flying</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Double Strike</text>
+			<text>Double strike</text>
 		</card>
 		<card>
 			<name>Jynx</name>
@@ -774,7 +774,7 @@
 			<type>Pokémon - Ice Psychic</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
-			<text>UB: Put 2 paralyze counters on target Pokémon, 2 sleep counters on another target Pokémon, and 2 confusion counters on another target Pokémon.</text>
+			<text>UB: Put two paralyze counters on target Pokémon, two sleep counters on another target Pokémon, and two confusion counters on another target Pokémon.</text>
 		</card>
 		<card>
 			<name>Electabuzz</name>
@@ -794,7 +794,7 @@
 			<type>Pokémon - Fire</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>1R: put a burn counter on target Pokémon.</text>
+			<text>1R: Put a burn counter on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Pinsir</name>
@@ -835,8 +835,8 @@
 			<pt>3/6</pt>
 			<tablerow>2</tablerow>
 			<text>1U: put a frozen counter on target Pokémon.
-				1W: remove up to 3 status counters from target Pokémon.
-				Sacrifice Lapras: destroy target Pokémon</text>
+				1W: Remove up to three status counters from target Pokémon.
+				Sacrifice Lapras: Destroy target Pokémon.</text>
 		</card>
 		<card>
 			<name>Ditto</name>
@@ -856,9 +856,9 @@
 			<type>Pokémon - Normal</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>{3}{U}: Evolve into Vaporeon
-				{3}{W}: Evolve into Jolteon
-				{3}{R}: Evolve into Flareon</text>
+			<text>{3}{U}: Evolve to Vaporeon
+				{3}{W}: Evolve to Jolteon
+				{3}{R}: Evolve to Flareon</text>
 		</card>
 		<card>
 			<name>Porygon</name>
@@ -868,7 +868,7 @@
 			<type>Pokémon - Normal</type>
 			<pt>3/6</pt>
 			<tablerow>2</tablerow>
-			<text>1: Porygon becomes the color(s) of your choice until the end of the turn.
+			<text>1: Porygon becomes the colors of your choice until end of turn.
 				WUB: Porygon deals 6 damage to target Pokémon.</text>
 		</card>
 		<card>
@@ -880,7 +880,7 @@
 			<pt>1/4</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{U}{R}: Evolve to Omastar
-				{3}{U}{R}: return Omanyte from the graveyard to the battlefield.</text>
+				{3}{U}{R}: Return Omanyte from your graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>Kabuto</name>
@@ -891,7 +891,7 @@
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{U}{G}: Evolve to Kabutops
-				{3}{U}{G}: return Kabuto from the graveyard to the battlefield.</text>
+				{3}{U}{G}: Return Kabuto from your graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>Aerodactyl</name>
@@ -901,8 +901,8 @@
 			<type>Pokémon - Rock Flying</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Flying, Haste
-				{3}{R}{G}: Return Aerodactyl from the graveyard to the battlefield.</text>
+			<text>Flying, haste
+				{3}{R}{G}: Return Aerodactyl from your graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>Snorlax</name>
@@ -912,7 +912,7 @@
 			<type>Pokémon - Normal</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>{W}{W}: Snorlax is unaffected by sleep counters until end of turn.
+			<text>{W}{W}: Ignore the effects of all sleep counters on Snorlax until end of turn.
 				{T}: Put a sleep counter on Snorlax and remove all damage from it.</text>
 		</card>
 		<card>
@@ -920,11 +920,11 @@
 			<set picURL="https://images.pokemontcg.io/pl3/148_hires.png" rarity="mythic">PTCG</set>
 			<color>U</color>
 			<manacost>UUUU</manacost>
-			<type>Legendary Pokémon - Water Flying</type>
+			<type>Legendary Pokémon - Ice Flying</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-				When this Pokémon enters the battlefield, put a frozen counter on each Pokémon your opponents control.</text>
+				When Articuno enters the battlefield, put a frozen counter on each Pokémon your opponents control.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
@@ -978,7 +978,7 @@
 			<type>Pokémon - Psychic</type>
 			<pt>7/4</pt>
 			<tablerow>2</tablerow>
-			<text>Flying, First Strike, Intimidate
+			<text>Flying, first strike, intimidate
 				T: Destroy target Pokémon or Trainer.</text>
 		</card>
 		<card>
@@ -990,7 +990,7 @@
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-				Tap any number of Pokémon you control: each Pokémon tapped this way gains Indestructible until the end of the turn.</text>
+				Tap any number of Pokémon you control: Each Pokémon tapped this way gains indestructible until end of turn.</text>
 		</card>
 		<!-- trainer cards -->
 		<card>
@@ -1015,7 +1015,7 @@
 			<loyalty>3</loyalty>
 			<text>[+2]: Remove all status counters from up to 1 target Pokémon. You gain 1 life for each counter removed this way.
 				[-3]: Discard a card, then return a Pokémon from your graveyard to the battlefield tapped.
-				[−7]: Untap all Pokémon you control. Until the end of the turn, your Pokémon have +3/+3, lifelink, indestructible, haste, vigilance, and hexproof.</text>
+				[−7]: Pokémon you control get +3/+3 and gain lifelink, indestructible, haste, vigilance, and hexproof until end of turn.</text>
 		</card>
 		<card>
 			<name>Green</name>
@@ -1025,9 +1025,9 @@
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Green</type>
 			<loyalty>5</loyalty>
-			<text>[+1]: Each player searches their library for an artifact, puts it into their hand, and shuffles their library.
+			<text>[+1]: Each player searches their library for an artifact card, puts it into their hand, and shuffles their library.
 				[-2]: Return an enchantment or artifact from your graveyard to your hand.
-				[−5]: For each Pokémon you control, search your library for a TM card and put that card into play enchanting that Pokémon. Then, shuffle your library.</text>
+				[−5]: For each Pokémon you control, search your library for a TM card and put it onto the battlefield enchanting that Pokémon. Then shuffle your library.</text>
 		</card>
 		<card>
 			<name>Brock</name>
@@ -1037,9 +1037,9 @@
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Brock</type>
 			<loyalty>2</loyalty>
-			<text>[+1]: Target Pokémon gets +2/+2 until the end of the turn.
-				[−2]: Search your library for a Rock or Ground Pokémon, shuffle it, and put that card on top of it.
-				[−4]: You get an emblem with "Whenever you evolve a Pokémon, put 2 +1/+1 counters on it."</text>
+			<text>[+1]: Target Pokémon gets +2/+2 until end of turn.
+				[−2]: Search your library for a Rock or Ground card, reveal it, then shuffle your library and put that card on top of it.
+				[−4]: You get an emblem with "Whenever a Pokémon you control evolves, put two +1/+1 counters on it."</text>
 		</card>
 		<card>
 			<name>Misty</name>
@@ -1050,11 +1050,11 @@
 			<type>Legendary Trainer - Misty</type>
 			<loyalty>4</loyalty>
 			<text>[+1]: Tap or untap target Pokémon.  
-				[−1]: Target Water Pokémon is unblockable until end of turn. 
+				[−1]: Target Water Pokémon gains unblockable until end of turn. 
 				[−6]: Draw 2 cards for each Pokémon you control.</text>
 		</card>	
 		<card>
-			<name>Lt Surge</name>
+			<name>Lt. Surge</name>
 			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
 			<color>RW</color>
 			<manacost>2RW</manacost>
@@ -1062,8 +1062,8 @@
 			<type>Legendary Trainer - Surge</type>
 			<loyalty>5</loyalty>
 			<text>[+1]: Target Pokémon gains vigilance and haste until end of turn.
-				[−3]: Put a paralyze counter on each Pokémon you don't control. You gain 1 life for each paralyze counter added this way.
-				[−6]: Target Pokémon gains indestructible until end of turn. Deal 12 damage to all Pokémon.</text>
+				[−3]: Put a paralyze counter on each Pokémon your opponents control. You gain 1 life for each paralyze counter added this way.
+				[−6]: Target Pokémon gains indestructible until end of turn. Deal 12 damage to each Pokémon.</text>
 		</card>
 		<card>
 			<name>Erika</name>
@@ -1074,8 +1074,8 @@
 			<type>Legendary Trainer - Erika</type>
 			<loyalty>1</loyalty>
 			<text>[+1]: Add G, U or W.
-				[x2]: Reveal your hand. You gain 1 life for each Pokémon card among them.
-				[−X]: Your Pokémon get +X/+X until end of turn.</text>
+				[x2]: Reveal your hand. You gain 1 life for each Pokémon card revealed this way.
+				[−X]: Pokémon you control get +X/+X until end of turn.</text>
 		</card>	
 		<card>
 			<name>Koga</name>
@@ -1087,7 +1087,7 @@
 			<loyalty>3</loyalty>
 			<text>[+1]: Put a confusion counter on target Pokémon.
 				[+2]: Put a poison counter on target Pokémon. You gain life equal to the number of poison counters on that Pokémon. 
-				[−6]: You get an emblem with "whenever an opponent loses life because of a poison counter, you gain that much life."</text>
+				[−6]: You get an emblem with "Whenever an opponent is dealt damage by a Pokémon they control with a poison counter on it, you gain that much life."</text>
 		</card>	
 		<card>
 			<name>Sabrina</name>
@@ -1098,8 +1098,8 @@
 			<type>Legendary Trainer - Sabrina</type>
 			<loyalty>6</loyalty>
 			<text>[+1]: Reveal the top card of target player's library.
-				[-2]: Search your library for a card, shuffle it, and put that card 4th from the bottom.
-				[-4]: Target player discards a card, then each player draws cards equal to their hand size.</text>
+				[-2]: Search your library for a card, then shuffle your library and put that card fourth from the top.
+				[-4]: Target player discards a card, then each player draws cards equal to the number of cards in their hand.</text>
 		</card>
 		<card>
 			<name>Blaine</name>
@@ -1111,7 +1111,7 @@
 			<loyalty>3</loyalty>
 			<text>[+0]: Target Pokémon gets +1/+0 until end of turn.
 				[+0]: Draw a card, then discard a card.
-				[−3]: You get an emblem with "Your sorceries that prevent damage or remove damage have Flash."</text>
+				[−3]: You get an emblem with "Medicine spells you cast have flash."</text>
 		</card>
 		<card>
 			<name>Giovanni</name>
@@ -1142,7 +1142,7 @@
 			<manacost>3</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Pokémon and put it into your hand. Then, shuffle your library.</text>
+			<text>Search your library for a Pokémon card and put it into your hand. Then shuffle your library.</text>
 		</card>
 		<card>
 			<name>Switch</name>
@@ -1151,7 +1151,7 @@
 			<manacost>2G</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Return target Pokémon you control to its owner's hand. If you do, put a Pokémon from your hand into play with an equal or lower converted mana cost.</text>
+			<text>Return target Pokémon you control to its owner's hand. If you do, put a Pokémon with equal or lesser converted mana cost from your hand onto the battlefield.</text>
 		</card>
 		<card>
 			<name>Master Ball</name>
@@ -1160,7 +1160,7 @@
 			<manacost>5</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Look at the top 7 cards of your library, put a Pokémon among those cards onto the battlefield and put the rest on the bottom of your library in any order.</text>
+			<text>Look at the top 7 cards of your library. You may reveal a Pokémon card from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
 		</card>
 		<card>
 			<name>Stonefinder Radar</name>
@@ -1169,7 +1169,7 @@
 			<manacost>1</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Stone card and put it into your hand. Then, shuffle your library.</text>
+			<text>Search your library for a Stone card and put it into your hand. Then shuffle your library.</text>
 		</card>
 		<card>
 			<name>Pokéflute</name>
@@ -1187,7 +1187,7 @@
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Water Pokémon and put it into your hand, then shuffle your library.</text>
+			<text>Search your library for a Water card and put it into your hand. Then shuffle your library.</text>
 		</card>
 		<card>
 			<name>Revive</name>
@@ -1196,7 +1196,7 @@
 			<manacost>2B</manacost>
 			<type>Sorcery - Medicine</type>
 			<tablerow>3</tablerow>
-			<text>Return a Pokémon from your graveyard to the battlefield tapped, with a paralyze counter on it.</text>
+			<text>Return target Pokémon card from your graveyard to the battlefield tapped. Put a paralyze counter on it.</text>
 		</card>
 		<card>
 			<name>Max Revive</name>
@@ -1205,7 +1205,7 @@
 			<manacost>3{W/B}{W/B}</manacost>
 			<type>Sorcery - Medicine</type>
 			<tablerow>3</tablerow>
-			<text>Return a Pokémon from your graveyard to the battlefield.</text>
+			<text>Return target Pokémon card from your graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>Energy Search Mk2</name>
@@ -1214,7 +1214,7 @@
 			<manacost>1G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a basic land card and put it on the battlefield tapped. Shuffle your library.</text>
+			<text>Search your library for a basic land card and put it on the battlefield tapped. Then shuffle your library.</text>
 		</card>
 		<card>
 			<name>Gambler</name>
@@ -1223,7 +1223,7 @@
 			<manacost>2R</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Shuffle your hand into your deck. Flip a coin. If heads, draw 3 cards.</text>
+			<text>Shuffle your hand into your library. Flip a coin. If heads, draw 3 cards.</text>
 		</card>
 		<card>
 			<name>Mysterious Fossil</name>
@@ -1232,7 +1232,7 @@
 			<manacost>1{U/R}{U/G}</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for "Omanyte" or "Kabuto" and put that card into your hand. Then, shuffle your library.</text>
+			<text>Search your library for a card named Omanyte or Kabuto and put it into your hand. Then shuffle your library.</text>
 		</card>
 		<card>
 			<name>Potion</name>
@@ -1244,14 +1244,15 @@
 			<text>Remove all damage from target Pokémon.</text>
 		</card>
 		<card>
-			<name>Super Shocker</name>
+			<name>Tri Attack</name>
 			<set picURL="https://images.pokemontcg.io/ecard1/151_hires.png" rarity="common">PTCG</set>
-			<color></color>
-			<manacost>2R</manacost>
+			<color>WUR</color>
+			<manacost>{U/R}{R/W}{W/U}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Put 2 paralyze counters on target Pokémon.
-				Put 2 burn counters on target Pokémon.</text>
+			<text>Put a paralyze counter on target Pokémon.
+				Put a burn counter on target Pokémon.
+				Put a frozen counter on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Weather Control Device</name>
@@ -1260,7 +1261,7 @@
 			<manacost>3</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Shuffle target land you control into your library. If you do, search your library for a basic land card and put it into play. Then, shuffle your deck.</text>
+			<text>Shuffle target land you control into your library. If you do, search your library for a basic land card and put it into play. Then shuffle your library.</text>
 		</card>
 		<card>
 			<name>PlusPower</name>
@@ -1269,25 +1270,25 @@
 			<manacost>RR</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Target Pokémon gets +1/+1 and Haste until the end of the turn.</text>
+			<text>Target Pokémon gets +1/+1 and gains haste until end of turn.</text>
 		</card>
 		<card>
-			<name>SuperPsych++</name>
+			<name>Psych Up</name>
 			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>GG</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Put 2 +1/+1 counters on target Pokémon.</text>
+			<text>Put two +1/+1 counters on target Pokémon.</text>
 		</card>
 		<card>
-			<name>Radarbeam</name>
+			<name>Forced Adaptation</name>
 			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
-			<color></color>
-			<manacost>G</manacost>
+			<color>G</color>
+			<manacost>1G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Activate target Pokémon's evolution ability, ignoring its cost.</text>
+			<text>Evolve target Pokémon, then it fights target Pokémon.</text>
 		</card>
 		<card>
 			<name>Devolution Spray</name>
@@ -1296,7 +1297,7 @@
 			<manacost>B</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Remove all tokens from target Pokémon.</text>
+			<text>Exile target Pokémon, then return it to battlefield under its owner’s control. That Pokémon can’t activate evolve abilities this turn.</text>
 		</card>
 		<card>
 			<name>Item Finder</name>
@@ -1305,7 +1306,7 @@
 			<manacost>2{W/G}</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for an artifact, reveal it, and put it into your hand. Shuffle your library.</text>
+			<text>Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle your library.</text>
 		</card>
 		<card>
 			<name>Versus Seeker</name>
@@ -1314,7 +1315,7 @@
 			<manacost>{U/B}</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Each player searches their library for a card, reveals it, shuffles their library, and puts it on top.</text>
+			<text>Each player searches their library for a card, reveals it, shuffles their library, and puts that card on top.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
@@ -1375,19 +1376,19 @@
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>T: Add one mana of any color.
-				T: Add 2 mana of any colors. That mana can only be spent to activate Evolve abilities.</text>
+				T: Add two mana in any combination of colors. That mana can only be spent to activate evolve abilities.</text>
 			<font></font>
 		</card>
 		<!-- misc artifacts and tools -->
 		<card>
-			<name>Roboberry</name>
+			<name>Iapapa Berry</name>
 			<set picURL="https://images.pokemontcg.io/neo1/99_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>2</manacost>
 			<type>Artifact - Medicine</type>
 			<tablerow>1</tablerow>
 			<text>Equip 1
-				Sacrifice: regenerate equipped Pokémon.</text>
+				Sacrifice Iapapa Berry: Regenerate equipped Pokémon.</text>
 		</card>
 		<card>
 			<name>Pokédoll</name>
@@ -1396,7 +1397,7 @@
 			<manacost>2</manacost>
 			<type>Artifact - Medicine</type>
 			<tablerow>1</tablerow>
-			<text>Sacrifice Pokédoll: prevent all combat damage this turn.</text>
+			<text>Sacrifice Pokédoll: Prevent all combat damage that would be dealt this turn.</text>
 		</card>	
 		<card>
 			<name>Silph Scope</name>
@@ -1405,7 +1406,7 @@
 			<manacost>3</manacost>
 			<type>Artifact</type>
 			<tablerow>1</tablerow>
-			<text>Pokémon lose Shadow and unblockable.</text>
+			<text>All Pokémon lose shadow and unblockable.</text>
 		</card>
 		<!-- attack enchantments -->
 		<card>
@@ -1416,7 +1417,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				Enchanted Pokémon gets +2/+0 and has "when this Pokémon deals damage to another Pokémon, put that many paralyze counters on it."</text>
+				Enchanted Pokémon gets +2/+0 and has "Whenever this Pokémon deals damage to another Pokémon, put that many paralyze counters on it."</text>
 		</card>
 		<card>
 			<name>Ice Beam</name>
@@ -1447,7 +1448,7 @@
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 				Enchanted Pokémon has "T: put a +1/+1 counter on this Pokémon."
-				When enchanted Pokémon has 3 or more +1/+1 counters on it, sacrifice this card. If you do, draw 2 cards.</text>
+				When enchanted Pokémon has three or more +1/+1 counters on it, sacrifice Spit Up. If you do, draw 2 cards.</text>
 		</card>
 		<card>
 			<name>Quick Attack</name>
@@ -1467,7 +1468,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Water Pokémon
-				Enchanted Pokémon gets +2/+2 and has "{1U} {T}: return target Pokémon to its owner's hand."</text>
+				Enchanted Pokémon gets +2/+2 and has "{1U}, {T}: Return target Pokémon to its owner's hand."</text>
 		</card>		
 		<card>
 			<name>Fire Blast</name>
@@ -1477,7 +1478,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Fire Pokémon
-				Enchanted Pokémon gets +3/+1 and has "{1R}: This Pokémon deals 1 damage to any target. If that target is a Pokémon, put a burn counter on it."</text>
+				Enchanted Pokémon gets +3/+1 and has "{1R}: This Pokémon deals 1 damage to any target. If a Pokémon is dealt damage this way, put a burn counter on it."</text>
 		</card>
 		<card>
 			<name>Giga Drain</name>
@@ -1487,7 +1488,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Grass Pokémon
-				Enchanted Pokémon gets +2/+1 and has lifelink and "{1G}: target Pokémon attacks, or blocks this Pokémon, this combat if able."</text>
+				Enchanted Pokémon gets +2/+1 and has lifelink and "{1G}: Target Pokémon attacks or blocks this turn if able."</text>
 		</card>
 		<card>
 			<name>Confuse Ray</name>
@@ -1497,7 +1498,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				Enchanted Pokémon has "{T}: put a confusion counter on target Pokémon."</text>
+				Enchanted Pokémon has "{T}: Put a confusion counter on target Pokémon."</text>
 		</card>
 		<card>
 			<name>Fly</name>
@@ -1520,7 +1521,7 @@
 				Enchanted Pokémon has "{T}: Flip a coin. If heads, destroy target Pokémon."</text>
 		</card>
 		<card>
-			<name>Spash</name>
+			<name>Splash</name>
 			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>U</manacost>
@@ -1536,7 +1537,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				Sacrifice Rock Throw: enchanted Pokémon deals 4 damage to target Pokémon or 2 damage to target trainer.</text>
+				Sacrifice Rock Throw: Enchanted Pokémon deals 4 damage to target Pokémon or 2 damage to target Trainer.</text>
 		</card>
 		<card>
 			<name>Conversion</name>
@@ -1546,7 +1547,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				Enchanted Pokémon has "{2}: this Pokémon becomes the type(s) and color(s) of your choice until end of turn."</text>
+				Enchanted Pokémon has "{2}: this Pokémon becomes the types and colors of your choice until end of turn."</text>
 		</card>
 		<card>
 			<name>Flash</name>
@@ -1566,7 +1567,7 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {1} of any color. Spend this mana only to cast Pokémon spells with mana cost 2 or less.
+			<text>{T}: Add one mana of any color. Spend this mana only to cast Pokémon spells with converted mana cost 2 or less.
 				{4}, {T}: Draw a card.</text>
 		</card>
 		<card>
@@ -1636,7 +1637,7 @@
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {B}.
-				{2}{B}: put a poison counter on target Pokémon.</text>
+				{2}{B}: Put a poison counter on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Saffron City</name>
@@ -1655,7 +1656,7 @@
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
 			<text>T: Add R.
-				T, Sacrifice Cinnabar Island: destroy target land.</text>
+				{T}, Sacrifice Cinnabar Island: Destroy target land.</text>
 		</card>
 		<card>
 			<name>Lavender Town</name>
