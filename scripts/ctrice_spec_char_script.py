@@ -57,7 +57,15 @@ def main():
                     unicode_string = tag.string
                     if unicode_string != None:
                         unicode_string = tag.string.replace('Pokemon', 'Pokémon') # in case we miss any Pokemon w/ special character
-                        unicode_string = tag.string.replace('\n\t\t\t\t', '\n')
+                        unicode_string = unicode_string.replace('\n\t\t\t\t', '\n')
+
+                        # repeat some number of loops of trying to replace any missed mana symbols: for example W, should be {W},; 2B should be {2}{B}; etc
+                        # I picked 5 cuz 5 symbols in a row is pretty edge-case so it should catch all of them that matter
+                        for loop in range(1, 5):
+                            for char in ['W', 'B', 'G', 'U', 'R', '1', '2', '3', '4', '5', '6', '7', '8', '9']:
+                                unicode_string = unicode_string.replace(f'{char},', f'{{{char}}},')
+                                unicode_string = unicode_string.replace(f'{char}:', f'{{{char}}}:')
+                                unicode_string = unicode_string.replace(f'{char}{{', f'{{{char}}}{{')
                         tag.string.replace_with(unicode_string)
                         print("===")
                         print(tag)
