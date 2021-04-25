@@ -62,7 +62,7 @@
 			<tablerow>2</tablerow>
 			<text>2G: Evolve from Metapod
 				Flying
-				When you evolve this Pokémon, put two +1/+1 counters on it.</text>
+				Whenever this Pokémon evolves, put two +1/+1 counters on it.</text>
 		</card>
 		<card>
 			<name>Weedle</name>
@@ -85,7 +85,7 @@
 			<tablerow>2</tablerow>
 			<text>1BG: Evolve from Kakuna
 				Flying
-				When you evolve this Pokémon, distribute up to two -1/-1 counters among any number of target Pokémon.</text>
+				Whenever this Pokémon evolves, distribute up to two -1/-1 counters among any number of target Pokémon.</text>
 		</card>
 		<card>
 			<name>Pidgey</name>
@@ -958,7 +958,7 @@
 			<tablerow>2</tablerow>
 			<text>WRG: Evolve from Dragonair
 				Flying
-				When you evolve this Pokémon, Pokémon you control gain indestructible until end of turn.</text>
+				Whenever this Pokémon evolves, Pokémon you control gain indestructible until end of turn.</text>
 		</card>
 		<card>
 			<name>Mewtwo</name>
