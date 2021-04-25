@@ -129,7 +129,7 @@
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>2B: Evolve to Arbok
-				Infect.</text>
+				Infect</text>
 		</card>
 		<card>
 			<name>Arbok</name>
@@ -140,7 +140,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>B: Evolve from Ekans
-				When this Pokémon evolves, put a +1/+1 counter on it.</text>
+				Whenever this Pokémon evolves, put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Pikachu</name>
@@ -173,7 +173,7 @@
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
 			<text>1B: Evolve to Nidorina
-				2B: Search your library for a card named Nidoran♀ or Nidoran♂ and put it onto the battlefield. Then shuffle your library.</text>
+				2B: Search your library for a card named Nidoran♀ or Nidoran♂ and put it onto the battlefield. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Nidoran♂</name>
@@ -197,7 +197,7 @@
 			<text>2{W/B}: Evolve with Moonstone to Clefable.
 				{T}: Add {W}. You gain 1 life.
 				{T}: Add {B}. You lose 1 life.
-				{2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon. This Pokémon gains all abilities of the revealed card, except for its evolve abilities, until end of turn. Then shuffle your library.</text>
+				{2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon. This Pokémon gains all abilities of the revealed card, except for its evolve abilities, until end of turn. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Vulpix</name>
@@ -466,7 +466,7 @@
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
 			<text>{3}: Evolve with Shellder to Slowbro
-				{U}, {T}: Search your library for a card named Shellder and put it into your hand. Then shuffle your library.</text>
+				{U}, {T}: Search your library for a card named Shellder and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Magnemite</name>
@@ -479,7 +479,7 @@
 			<text>3: Evolve with two Magnemite to Magneton
 				Protection from Ground
 				This creature gets +1/+1.
-				X: Search your library for a Steel card with converted mana cost X and put it into to your hand, then shuffle your library.</text>
+				X: Search your library for a Steel card with converted mana cost X and put it into to your hand, then shuffle.</text>
 		</card>
 		<card>
 			<name>Farfetch'd</name>
@@ -1017,7 +1017,7 @@
 			<loyalty>5</loyalty>
 			<text>[+1]: Each player searches their library for an artifact card, puts it into their hand, and shuffles their library.
 				[-2]: Return an enchantment or artifact card from your graveyard to your hand.
-				[−5]: For each Pokémon you control, you may search your library for a TM card and put it onto the battlefield enchanting that Pokémon. Then shuffle your library.</text>
+				[−5]: For each Pokémon you control, you may search your library for a TM card and put it onto the battlefield enchanting that Pokémon. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Brock</name>
@@ -1028,7 +1028,7 @@
 			<type>Legendary Trainer - Brock</type>
 			<loyalty>2</loyalty>
 			<text>[+1]: Target Pokémon gets +2/+2 until end of turn.
-				[−2]: Search your library for a Rock or Ground card, reveal it, then shuffle your library and put that card on top of it.
+				[−2]: Search your library for a Rock or Ground card, reveal it, then shuffle and put that card on top.
 				[−4]: You get an emblem with "Whenever a Pokémon you control evolves, put two +1/+1 counters on it."</text>
 		</card>
 		<card>
@@ -1088,7 +1088,7 @@
 			<type>Legendary Trainer - Sabrina</type>
 			<loyalty>6</loyalty>
 			<text>[+1]: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
-				[-2]: Search your library for a card, then shuffle your library and put that card third from the top.
+				[-2]: Search your library for a card, then shuffle and put that card third from the top.
 				[-4]: Target player discards a card, then each player draws cards equal to the number of cards in their hand.</text>
 		</card>
 		<card>
@@ -1131,7 +1131,7 @@
 			<manacost>3</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Pokémon card and put it into your hand. Then shuffle your library.</text>
+			<text>Search your library for a Pokémon card and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Switch</name>
@@ -1158,7 +1158,7 @@
 			<manacost>1</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Stone card and put it into your hand. Then shuffle your library.</text>
+			<text>Search your library for a Stone card and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Pokéflute</name>
@@ -1176,7 +1176,7 @@
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Water card and put it into your hand. Then shuffle your library.</text>
+			<text>Search your library for a Water card and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Revive</name>
@@ -1203,7 +1203,7 @@
 			<manacost>1G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a basic land card and put it on the battlefield tapped. Then shuffle your library.</text>
+			<text>Search your library for a basic land card and put it on the battlefield tapped. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Gambler</name>
@@ -1221,7 +1221,7 @@
 			<manacost>1{U/R}{U/G}</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a card named Omanyte or Kabuto and put it into your hand. Then shuffle your library.</text>
+			<text>Search your library for a card named Omanyte or Kabuto and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Potion</name>
@@ -1239,7 +1239,7 @@
 			<manacost>3</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Shuffle target land you control into your library. If you do, search your library for a basic land card and put it into play. Then shuffle your library.</text>
+			<text>Shuffle target land you control into your library. If you do, search your library for a basic land card and put it into play. Then shuffle.</text>
 		</card>
 		<card>
 			<name>PlusPower</name>
@@ -1284,7 +1284,7 @@
 			<manacost>2{W/G}</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle your library.</text>
+			<text>Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Versus Seeker</name>
@@ -1375,7 +1375,7 @@
 			<manacost>4</manacost>
 			<type>Artifact - Tool</type>
 			<tablerow>1</tablerow>
-			<text>{T}: Search your library for a Water Pokémon with an evolve ability, then shuffle your library and put that card third from the top.</text>
+			<text>{T}: Search your library for a Water Pokémon with an evolve ability, then shuffle and put that card third from the top.</text>
 		</card>
 		<!-- attack enchantments -->
 		<card>
