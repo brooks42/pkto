@@ -641,7 +641,7 @@
 			<type>Pokémon - Fighting</type>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
-			<text>Defender, Reach
+			<text>Defender, reach
 				Prevent all noncombat damage that would be dealt to Hitmonchan.</text>
 		</card>
 		<card>
@@ -696,7 +696,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Reach
-				{G}, {T}: Tap target creature and put a +1/+1 counter on Tangela.</text>
+				{G}, {T}: Tap target creature. Put a +1/+1 counter on Tangela.</text>
 		</card>
 		<card>
 			<name>Kangaskhan</name>
@@ -974,8 +974,8 @@
 		<card>
 			<name>Mew</name>
 			<set picURL="https://images.pokemontcg.io/basep/9_hires.png" rarity="mythic">PTCG</set>
-			<color>RWUBG</color>
-			<manacost>RWUBG</manacost>
+			<color>WUBRG</color>
+			<manacost>WUBRG</manacost>
 			<type>Pokémon - Psychic</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
@@ -1003,8 +1003,8 @@
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Blue</type>
 			<loyalty>3</loyalty>
-			<text>[+2]: Remove all counters from up to 1 target Pokémon. You gain 1 life for each counter removed this way.
-				[-3]: Discard a card, then return a Pokémon from your graveyard to the battlefield tapped.
+			<text>[+2]: Target Pokémon gets +3/-1.
+				[-3]: Discard a card, then return a Pokémon card from your graveyard to the battlefield tapped.
 				[−7]: Pokémon you control get +3/+3 and gain lifelink, indestructible, haste, vigilance, and hexproof until end of turn.</text>
 		</card>
 		<card>
@@ -1015,9 +1015,9 @@
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Green</type>
 			<loyalty>5</loyalty>
-			<text>[+1]: Each player searches their library for an artifact card, puts it into their hand, and shuffles their library.
+			<text>[+1]: Each player searches their library for an artifact card, puts it into their hand, and shuffles.
 				[-2]: Return an enchantment or artifact card from your graveyard to your hand.
-				[−5]: For each Pokémon you control, you may search your library for a TM card and put it onto the battlefield enchanting that Pokémon. Then shuffle.</text>
+				[−5]: For each Pokémon you control, search your library for a TM card and put it onto the battlefield enchanting that Pokémon. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Brock</name>
@@ -1041,7 +1041,7 @@
 			<loyalty>4</loyalty>
 			<text>[+1]: Tap or untap target Pokémon.  
 				[−1]: Target Water Pokémon gains unblockable until end of turn. 
-				[−6]: Draw 2 cards for each Pokémon you control. You have no maximum hand size until your next turn.</text>
+				[−6]: Draw two cards for each Pokémon you control. You have no maximum hand size until your next turn.</text>
 		</card>	
 		<card>
 			<name>Lt. Surge</name>
@@ -1053,7 +1053,7 @@
 			<loyalty>5</loyalty>
 			<text>[+1]: Target Pokémon gains vigilance and haste until end of turn.
 				[−3]: Pokémon you control with first strike gain double strike until end of turn, then Pokémon you control gain first strike until end of turn.
-				[−6]: Target Pokémon gains indestructible until end of turn. Deal 12 damage to each Pokémon.</text>
+				[−6]: Target Pokémon gains indestructible until end of turn. Lt. Surge deals 12 damage to each Pokémon.</text>
 		</card>
 		<card>
 			<name>Erika</name>
@@ -1063,8 +1063,8 @@
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Erika</type>
 			<loyalty>1</loyalty>
-			<text>[+1]: Add {G}, {U} or {W}.
-				[x2]: Reveal your hand. You gain 1 life for each Pokémon card revealed this way.
+			<text>[+1]: Add {G}, {U}, or {W}.
+				[-2]: Reveal your hand. You gain 1 life for each Pokémon card revealed this way.
 				[−X]: Pokémon you control get +X/+X until end of turn.</text>
 		</card>	
 		<card>
@@ -1076,7 +1076,7 @@
 			<type>Legendary Trainer - Koga</type>
 			<loyalty>3</loyalty>
 			<text>[+1]: Target Pokémon gains infect until end of turn.
-				[-2]: Put 2 -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
+				[-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
 				[−6]: You get an emblem with "Pokémon you control have {B}: this Pokémon gains shadow until end of turn."</text>
 		</card>	
 		<card>
@@ -1099,9 +1099,9 @@
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Blaine</type>
 			<loyalty>3</loyalty>
-			<text>[+0]: Up to three target Pokémon get +1/+0 until end of turn.
-				[+1]: Draw 2 cards, then discard 2 cards.
-				[−3]: You get an emblem with "Medicine spells you cast have flash."</text>
+			<text>[+1]: Draw two cards, then discard two cards.
+				[0]: Up to three target Pokémon get +1/+0 until end of turn.
+				[−3]: You get an emblem with "Medicine cards in your hand have flash."</text>
 		</card>
 		<card>
 			<name>Giovanni</name>
@@ -1112,17 +1112,18 @@
 			<type>Legendary Trainer - Giovanni</type>
 			<loyalty>5</loyalty>
 			<text>[+1]: Draw a card. You lose 1 life for each card in your hand.
-				[+0]: Each player sacrifices a Pokémon or Trainer.
+				[0]: Each player sacrifices a Pokémon or Trainer.
 				[-8]: Each player discards their hand. Put all Pokémon cards from all graveyards onto the battlefield under your control.</text>
 		</card>
 		<!-- sorceries/instants -->
 		<card>
 			<name>Bill</name>
 			<set picURL="https://images.pokemontcg.io/base1/91_hires.png" rarity="uncommon">PTCG</set>
-			<manacost>3</manacost>
+			<color>U</color>
+			<manacost>2U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Draw 2 cards.</text>
+			<text>Draw two cards.</text>
 		</card>
 		<card>
 			<name>Pokéball</name>
@@ -1140,7 +1141,7 @@
 			<manacost>2G</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Return target Pokémon you control to its owner's hand. If you do, put a Pokémon with equal or lesser converted mana cost from your hand onto the battlefield.</text>
+			<text>Return target Pokémon you control to its owner's hand. If you do, put a Pokémon with equal or lesser mana value from your hand onto the battlefield.</text>
 		</card>
 		<card>
 			<name>Master Ball</name>
@@ -1149,7 +1150,7 @@
 			<manacost>5</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Look at the top 7 cards of your library. You may reveal a Pokémon card from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+			<text>Look at the top 7 cards of your library. Put up to one Pokémon card from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
 		</card>
 		<card>
 			<name>Stonefinder Radar</name>
@@ -1536,7 +1537,7 @@
 			<manacost></manacost>
 			<type>Legendary Land - City</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add one mana of any color. Spend this mana only to cast Pokémon spells with converted mana cost 2 or less.
+			<text>{T}: Add one mana of any color. Spend this mana only to cast Pokémon spells with mana value 2 or less.
 				{4}, {T}: Draw a card.</text>
 		</card>
 		<card>
