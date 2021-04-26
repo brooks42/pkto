@@ -194,7 +194,7 @@
 			<type>Pokémon - Fairy</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>2{W/B}: Evolve with Moonstone to Clefable.
+			<text>2{W/B}: Evolve to Clefable
 				{T}: Add {W}. You gain 1 life.
 				{T}: Add {B}. You lose 1 life.
 				{2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon. This Pokémon gains all abilities of the revealed card, except for its evolve abilities, until end of turn. Then shuffle.</text>
@@ -207,7 +207,7 @@
 			<type>Pokémon - Fire</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>1R: Evolve with Fire Stone to Ninetales
+			<text>1R: Evolve to Ninetales
 				R: Vulpix gets +1/+0 and first strike until end of turn.</text>
 		</card>
 		<card>
@@ -218,7 +218,7 @@
 			<type>Pokémon - Normal Fairy</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{W}: Evolve with Moonstone to Wigglytuff
+			<text>{2}{W}: Evolve to Wigglytuff
 				{W}: Jigglypuff gets +0/+1 until end of turn.</text>
 		</card>
 		<card>
@@ -587,7 +587,7 @@
 			<tablerow>2</tablerow>
 			<text>{2}{R}: Evolve to Electrode
 				Haste
-				{X}{R}, {T}, sacrifice Voltorb: It deals X damage to target Pokémon.</text>
+				{X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon.</text>
 		</card>
 		<card>
 			<name>Electrode</name>
@@ -673,7 +673,7 @@
 			<type>Pokémon - Ground Rock</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{R}: Evolve into Rhyhorn
+			<text>{2}{R}: Evolve into Rhydon
 				Trample
 				{1}{R}: Rhyhorn gets +1/+0 until end of turn.</text>
 		</card>
@@ -717,7 +717,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{U}: Evolve to Seadra
-				{1}{U}: Return Horsea and target Pokémon you don't control to their owners's hands.</text>
+				{1}{U}: Return Horsea and target Pokémon you don't control to their owners' hands.</text>
 		</card>		
 		<card>
 			<name>Goldeen</name>
@@ -768,7 +768,7 @@
 			<type>Pokémon - Ice Psychic</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
-			<text>{U}{B}, {T}: target player draws 2 cards, then loses 2 life.</text>
+			<text>{U}{B}, {T}: Target player draws two cards and loses 2 life.</text>
 		</card>
 		<card>
 			<name>Electabuzz</name>
@@ -828,7 +828,7 @@
 			<type>Pokémon - Water Ice</type>
 			<pt>3/6</pt>
 			<tablerow>2</tablerow>
-			<text>Sacrifice Lapras: target player sacrifices a Pokémon.</text>
+			<text>Sacrifice Lapras: Target player sacrifices a Pokémon.</text>
 		</card>
 		<card>
 			<name>Ditto</name>
@@ -859,7 +859,7 @@
 			<type>Pokémon - Normal</type>
 			<pt>3/6</pt>
 			<tablerow>2</tablerow>
-			<text>{1}: Porygon becomes the color(s) of your choice until end of turn.
+			<text>{1}: Porygon becomes the colors of your choice until end of turn.
 				{W}{U}{B}: Porygon deals 6 damage to target Pokémon.</text>
 		</card>
 		<card>
@@ -888,7 +888,7 @@
 			<name>Aerodactyl</name>
 			<set picURL="https://images.pokemontcg.io/base3/16_hires.png" rarity="rare">PTCG</set>
 			<color>RG</color>
-			<manacost>RG</manacost>
+			<manacost>1RG</manacost>
 			<type>Pokémon - Rock Flying</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
@@ -903,7 +903,7 @@
 			<type>Pokémon - Normal</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>{T}: regenerate Snorlax. If you do, it doesn't untap during its controller's next untap step.</text>
+			<text>{T}: Regenerate Snorlax. It doesn't untap during its controller's next untap step.</text>
 		</card>
 		<card>
 			<name>Articuno</name>
@@ -914,7 +914,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-				When Articuno enters the battlefield, Pokémon your opponents control don't untap during their controllers' next untap steps.</text>
+				When Articuno enters the battlefield, tap all Pokémon you don't control. Those Pokémon don't untap during their controller's next untap step.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
@@ -925,7 +925,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-				When this Pokémon enters the battlefield, Pokémon you control gain haste and first strike until the end step.</text>
+				When Zapdos enters the battlefield, Pokémon you control gain haste and first strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Moltres</name>
@@ -936,7 +936,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-				When this Pokémon enters the battlefield, it deals 2 damage to each other Pokémon and each player.</text>
+				When Moltres enters the battlefield, it deals 2 damage to each other Pokémon and each player.</text>
 		</card>
 		<card>
 			<name>Dratini</name>
@@ -950,7 +950,7 @@
 		</card>
 		<card>
 			<name>Dragonite</name>
-			<set picURL="https://images.pokemontcg.io/gym1/42_hires.png" rarity="mythin">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym1/42_hires.png" rarity="mythic">PTCG</set>
 			<color>WRG</color>
 			<manacost>4WRG</manacost>
 			<type>Pokémon - Dragon Flying</type>
@@ -958,7 +958,7 @@
 			<tablerow>2</tablerow>
 			<text>WRG: Evolve from Dragonair
 				Flying
-				Whenever this Pokémon evolves, Pokémon you control gain indestructible until end of turn.</text>
+				Whenever Dragonite evolves, Pokémon you control gain indestructible until end of turn.</text>
 		</card>
 		<card>
 			<name>Mewtwo</name>
