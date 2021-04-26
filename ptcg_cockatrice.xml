@@ -859,7 +859,7 @@
 			<type>Pokémon - Normal</type>
 			<pt>3/6</pt>
 			<tablerow>2</tablerow>
-			<text>{1}: Porygon becomes the colors of your choice until end of turn.
+			<text>{1}: Porygon becomes the color or colors of your choice until end of turn.
 				{W}{U}{B}: Porygon deals 6 damage to target Pokémon.</text>
 		</card>
 		<card>
