@@ -73,7 +73,7 @@
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{B}: Evolve to Kakuna
-				Infect</text>
+				Deathtouch</text>
 		</card>
 		<card>
 			<name>Beedrill</name>
@@ -281,7 +281,7 @@
 			<name>Meowth</name>
 			<set picURL="https://images.pokemontcg.io/base6/53_hires.png" rarity="common">PTCG</set>
 			<color>WB</color>
-			<manacost>1WB</manacost>
+			<manacost>WB</manacost>
 			<type>Pokémon - Normal</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
@@ -309,7 +309,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{U}: Evolve to Golduck
-				If Psyduck is unevolved, whenever it has power or toughness 5 or greater, each player takes 2 damage and draws 2 cards. Then its power and toughness become 2.</text>
+				Whenever Psyduck’s power or toughness become 5 or greater, if it is unevolved, it deals 4 damage to each player and each Pokémon.</text>
 		</card>
 		<card>
 			<name>Mankey</name>
@@ -348,7 +348,7 @@
 			<name>Poliwrath</name>
 			<set picURL="https://images.pokemontcg.io/base4/88_hires.png" rarity="rare">PTCG</set>
 			<color>U</color>
-			<manacost>U</manacost>
+			<manacost>3U</manacost>
 			<type>Pokémon - Water Fighting</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -421,8 +421,8 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{G/B}: Evolve from Weepinbell
-				When this Pokémon evolves, put two +1/+1 counters on it.
 				Reach
+				When this Pokémon evolves, put two +1/+1 counters on it.
 				BG: Victreebel deals 1 damage to target Flying Pokémon you don't control. You gain 1 life.</text>
 		</card>
 		<card>
@@ -433,7 +433,7 @@
 			<type>Pokémon - Water Poison</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>1UB: Evolve to Tentacruel
+			<text>{1}{U}{B}: Evolve to Tentacruel
 				Deathtouch</text>
 		</card>
 		<card>
@@ -444,7 +444,8 @@
 			<type>Pokémon - Rock Ground</type>
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{R}: Evolve to Graveler</text>
+			<text>{2}{R}: Evolve to Graveler
+			{1}: Geodude gains +0/+1 until end of turn.</text>
 		</card>
 		<card>
 			<name>Ponyta</name>
@@ -476,10 +477,9 @@
 			<type>Pokémon - Electric Steel</type>
 			<pt>0/0</pt>
 			<tablerow>2</tablerow>
-			<text>3: Evolve with two Magnemite to Magneton
+			<text>3: Evolve to Magneton. Activate this ability only if Magnemite has two or more +1/+1 counters on it.
 				Protection from Ground
-				This creature gets +1/+1.
-				X: Search your library for a Steel card with converted mana cost X and put it into to your hand, then shuffle.</text>
+				{3}: Put a +1/+1 counter on Magnemite.
 		</card>
 		<card>
 			<name>Farfetch'd</name>
@@ -510,7 +510,7 @@
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{W}{U}: Evolve to Dewgong</text>
+			<text>{1}{W}{U}: Evolve to Dewgong</text>
 		</card>
 		<card>
 			<name>Grimer</name>
@@ -825,7 +825,7 @@
 			<set picURL="https://images.pokemontcg.io/si1/12_hires.png" rarity="rare">PTCG</set>
 			<color>WU</color>
 			<manacost>2{W/U}W</manacost>
-			<type>Pokémon - Water</type>
+			<type>Pokémon - Water Ice</type>
 			<pt>3/6</pt>
 			<tablerow>2</tablerow>
 			<text>Sacrifice Lapras: target player sacrifices a Pokémon.</text>
