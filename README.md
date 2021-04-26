@@ -18,17 +18,3 @@ Evolve from X: If you control X, put this card on top of it as though it evolved
 ```
 
 Evolve works a lot like the Mutate mechanic from Ikoria, except you make a token of the appropriate type instead of mutating from your hand.
-
-## Status Effect counters
-
-- Paralysis: the next time this Pokémon would untap, instead remove a paralysis counter from it.
-
-- Confusion: this Pokémon attacks and blocks each turn if able. When blocking, it blocks a random Pokémon. When attacking, it attacks a random opponent or Trainer.
-
-- Poison: at the beginning of your end step, this Pokémon deals 1 damage to you. Then, remove a poison counter from it.
-
-- Burn: the next time this Pokémon would deal damage, it also deals that much damage to itself.
-
-- Sleep: This Pokémon cannot attack or block, or activate abilities. At the start of each upkeep, flip a coin. If heads, remove all sleep counters from this Pokémon. 
-
-- Frozen: This Pokémon cannot attack or block, or activate abilities. It doesn't untap during your untap step. If this Pokémon takes damage, remove all frozen counters from it. At the end of your turn, remove a frozen counter from this Pokémon.
