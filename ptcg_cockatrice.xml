@@ -871,7 +871,7 @@
 			<pt>1/4</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{U}{R}: Evolve to Omastar
-				{3}{U}{R}: Return Omanyte from your graveyard to the battlefield.</text>
+				Fossil {3}{U}{R}</text>
 		</card>
 		<card>
 			<name>Kabuto</name>
@@ -882,7 +882,7 @@
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{U}{G}: Evolve to Kabutops
-				{3}{U}{G}: Return Kabuto from your graveyard to the battlefield.</text>
+				Fossil {3}{U}{G}</text>
 		</card>
 		<card>
 			<name>Aerodactyl</name>
@@ -1118,7 +1118,7 @@
 		<!-- sorceries/instants -->
 		<card>
 			<name>Bill</name>
-			<set picURL="https://images.pokemontcg.io/base1/91_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base1/91_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
@@ -1222,7 +1222,7 @@
 			<manacost>1{U/R}{U/G}</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a card named Omanyte or Kabuto and put it into your hand. Then shuffle.</text>
+			<text>Search your library for a Pokémon card with fossil and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Potion</name>
@@ -1288,13 +1288,13 @@
 			<text>Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
-			<name>Versus Seeker</name>
+			<name>VS Seeker</name>
 			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
 			<color>UB</color>
 			<manacost>{U/B}</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Each player searches their library for a card, reveals it, shuffles their library, and puts that card on top.</text>
+			<text>Each player searches their library for a card, reveals it, shuffles, and puts that card on top.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
@@ -1315,7 +1315,7 @@
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {G}.
-				Sacrifice Leaf Stone: add {G}{G}{G}.</text>
+				Sacrifice Leaf Stone: Add {G}{G}{G}.</text>
 			<font></font>
 		</card>
 		<card>
@@ -1326,7 +1326,7 @@
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {U}.
-				Sacrifice Water Stone: scry 3.</text>
+				Sacrifice Water Stone: Scry 3.</text>
 			<font></font>
 		</card>
 		<card>
@@ -1337,7 +1337,7 @@
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {R}.
-				Sacrifice Fire Stone: deal 2 damage to any target.</text>
+				Sacrifice Fire Stone: Fire Stone deals 2 damage to any target.</text>
 			<font></font>
 		</card>
 		<card>
@@ -1407,7 +1407,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon with no evolve abilities
-				Enchanted Pokémon has "{T}: Destroy target Pokémon. This Pokémon doesn't untap during its controller's next untap step".</text>
+				Enchanted Pokémon has "{T}: Destroy target Pokémon. This Pokémon doesn't untap during its controller's next untap step."</text>
 		</card>		
 		<card>
 			<name>Focus Energy</name>
@@ -1497,7 +1497,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				Enchanted Pokémon has "{2}: this Pokémon becomes the types and colors of your choice until end of turn."</text>
+				Enchanted Pokémon has "{2}: This Pokémon becomes the types and colors of your choice until end of turn."</text>
 		</card>
 		<card>
 			<name>Barrier</name>
@@ -1507,7 +1507,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				{T}: target Pokémon gets +0/+3 until end of turn.</text>
+				{T}: Target Pokémon gets +0/+3 until end of turn.</text>
 		</card>
 		<card>
 			<name>Counter</name>
@@ -1537,8 +1537,8 @@
 			<manacost></manacost>
 			<type>Legendary Land - City</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add one mana of any color. Spend this mana only to cast Pokémon spells with mana value 2 or less.
-				{4}, {T}: Draw a card.</text>
+			<text>{T}: Add {W}.
+				{T}: Add {W}{W}. Spend this mana only to cast Pokémon spells with mana value 2 or less.</text>
 		</card>
 		<card>
 			<name>Pewter City</name>
@@ -1547,7 +1547,9 @@
 			<manacost></manacost>
 			<type>Legendary Land - City</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {R}. If you control a Stone, add {R}{R} instead.</text>
+			<text>Pewter City enters the battlefield tapped.
+				{T}: Add {R}, {G}, or {W}.
+				Cycling {3}</text>
 		</card>
 		<card>
 			<name>Cerulean City</name>
@@ -1566,8 +1568,7 @@
 			<manacost></manacost>
 			<type>Legendary Land - City</type>
 			<tablerow>0</tablerow>
-			<text>Viridian City comes into play tapped.
-				{T}: Add {R}, {U}, or {B}.</text>
+			<text>{T}: Add {G}. If you control a Stone, add {G}{G} instead.</text>
 		</card>
 		<card>
 			<name>Saffron City</name>
@@ -1576,8 +1577,9 @@
 			<manacost></manacost>
 			<type>Legendary Land - City</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {B}.
-				{1}{B}, {T}: Draw a card, then discard a card.</text>
+			<text>Saffron City enters the battlefield tapped.
+				{T}: Add {U}, {B}, or {R}.
+				Cycling {3}</text>
 		</card>
 		<card>
 			<name>Celadon City</name>
@@ -1586,8 +1588,9 @@
 			<manacost></manacost>
 			<type>Legendary Land - City</type>
 			<tablerow>0</tablerow>
-			<text>Celadon City comes into play tapped.
-				{T}: Add {G}, {W}, or {U}.</text>
+			<text>Celadon City enters the battlefield tapped.
+				{T}: Add {G}, {W}, or {U}.
+				Cycling {3}</text>
 		</card>
 		<card>
 			<name>Vermillion City</name>
@@ -1596,8 +1599,9 @@
 			<manacost></manacost>
 			<type>Legendary Land - City</type>
 			<tablerow>0</tablerow>
-			<text>Vermillion City comes into play tapped.
-				{T}: Add {R}, {W}. or {B}.</text>
+			<text>Vermillion City enters the battlefield tapped.
+				{T}: Add {U}, {R}, or {W}.
+				Cycling {3}</text>
 		</card>
 		<card>
 			<name>Fuschia City</name>
@@ -1610,22 +1614,13 @@
 				{2}{B}, {T}: Fuschia City deals 2 damage to target player and you gain 2 life.</text>
 		</card>
 		<card>
-			<name>Saffron City</name>
-			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
-			<color></color>
-			<manacost></manacost>
-			<type>Legendary Land - City</type>
-			<tablerow>0</tablerow>
-			<text>{T}: Add {U}, {B}, or {G}. Saffron City deals 1 damage to you.</text>
-		</card>
-		<card>
 			<name>Cinnabar Island</name>
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
 			<type>Legendary Land - City</type>
 			<tablerow>0</tablerow>
-			<text>T: Add R.
+			<text>{T}: Add {R}.
 				{T}, Sacrifice Cinnabar Island: Destroy target land.</text>
 		</card>
 		<card>
@@ -1635,8 +1630,9 @@
 			<manacost></manacost>
 			<type>Legendary Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {C}.
-				{T}, sacrifice Lavender Town: Each player returns a Pokémon from their graveyard to their hand.</text>
+			<text>Lavender Town enters the battlefield tapped.
+				{T}: Add {W}, {U}, or {B}.
+				Cycling {3}</text>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
