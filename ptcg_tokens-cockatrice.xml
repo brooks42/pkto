@@ -10,7 +10,7 @@
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>2GG: Evolve to Venusaur
-				Reach, Deathtouch
+				Reach, deathtouch
 				1G: Ivysaur gains lifelink until the end of the turn.</text>
 			<reverse-related attach="attach">Bulbasaur</reverse-related>
 		</card>
@@ -35,8 +35,8 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>2UU: Evolve to Blastoise
-				Wartortle can block up to 3 creatures.
-				U1: Wartortle gets +0/+2 until the end of the turn.</text>
+				Wartortle can block up to three creatures.
+				1U: Wartortle gets +0/+2 until end of turn.</text>
 			<reverse-related attach="attach">Squirtle</reverse-related>
 		</card>
 		<card>
@@ -48,7 +48,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Hexproof
-				When this creature blocks, it gains indestructible until the end of the turn.</text> 
+				Whenever Blastoise blocks, it gains indestructible until end of turn.</text> 
 			<reverse-related attach="attach">Wartortle</reverse-related>
 		</card>
 		<card>
@@ -71,7 +71,7 @@
 			<type>Pokémon - Fire Flying</type>
 			<pt>6/3</pt>
 			<tablerow>2</tablerow>
-			<text>Sacrifice a mountain: Charizard gains double strike until the end of the turn.</text> 
+			<text>Sacrifice a Mountain: Charizard gains double strike until end of turn.</text> 
 			<reverse-related attach="attach">Charmeleon</reverse-related>
 		</card>
 		<card>
@@ -93,7 +93,7 @@
 			<type>Pokémon - Bug Flying</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>When this Pokémon deals combat damage to another Pokémon, if that Pokémon would die this turn, shuffle it into its owner's library instead.</text> 
+			<text>Whenever Butterfree deals combat damage to another Pokémon, if that Pokémon would die this turn, its owner shuffles it into their library instead.</text> 
 			<reverse-related attach="attach">Metapod</reverse-related>
 		</card>
 		<card>
@@ -182,7 +182,7 @@
 			<type>Pokémon - Electric</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>T: deal 3 damage to target Pokémon.</text> 
+			<text>T: Raichu deals 3 damage to target Pokémon.</text> 
 			<reverse-related attach="attach">Pikachu</reverse-related>
 		</card>
 		<card>
@@ -216,7 +216,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Trample
-				When Nidoqueen deals combat damage to a player, search your library for a Pokémon and put it into your hand. Then shuffle your library.</text> 
+				Whenever Nidoqueen deals combat damage to a player, search your library for a Pokémon card and put it into your hand. Then shuffle.</text> 
 			<reverse-related attach="attach">Nidorina</reverse-related>
 		</card>
 		<card>
@@ -261,7 +261,7 @@
 			<type>Pokémon - Fire</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>2R: target Pokémon takes 1 damage for each counter on it.</text>
+			<text>2R: Ninetales deals 1 damage to target Pokémon for each counter on that Pokémon.</text>
 			<reverse-related attach="attach">Vulpix</reverse-related>
 		</card>
 		<card>
@@ -306,7 +306,7 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
-			<text>{T}: Put a -1/-1 counter on up to 2 target Pokémon.</text>
+			<text>{T}: Put a -1/-1 counter on up to two target Pokémon.</text>
 			<reverse-related attach="attach">Gloom</reverse-related>
 		</card>
 		<card>
