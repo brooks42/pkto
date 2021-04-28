@@ -1451,14 +1451,14 @@
 				Enchanted Pokémon has "{T}: This Pokémon deals damage equal to its power to target Pokémon. If that Pokémon dies this turn, exile it."</text>
 		</card>
 		<card>
-			<name>Giga Drain</name>
+			<name>Solar Beam</name>
 			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
 			<color></color>
-			<manacost>1GG</manacost>
+			<manacost>2GG</manacost>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Grass Pokémon
-				Enchanted Pokémon gets +2/+2 and has lifelink.</text>
+				Enchanted Pokémon gets +0/+2 and has “{T}: At the beginning of your next upkeep, if you control this Pokémon, it deals damage equal to its toughness to a Pokémon of your choice.”</text>
 		</card>
 		<card>
 			<name>Guillotine</name>
@@ -1517,7 +1517,7 @@
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				When enchanted Pokémon is dealt combat damage, you may have it deal double that much damage to the source of that damage.</text>
+				Whenever enchanted Pokémon is dealt damage by another Pokémon, it deals twice that much damage to that Pokémon.</text>
 		</card>
 		<card>
 			<name>Flash</name>
