@@ -61,8 +61,8 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>2G: Evolve from Metapod
-				Flying
-				Whenever this Pokémon evolves, put two +1/+1 counters on it.</text>
+				Whenever this Pokémon evolves, put two +1/+1 counters on it.
+				Flying</text>
 		</card>
 		<card>
 			<name>Weedle</name>
@@ -84,8 +84,8 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>1BG: Evolve from Kakuna
-				Flying
-				Whenever this Pokémon evolves, distribute up to two -1/-1 counters among any number of target Pokémon.</text>
+				Whenever this Pokémon evolves, distribute up to two -1/-1 counters among any number of target Pokémon.
+				Flying</text>
 		</card>
 		<card>
 			<name>Pidgey</name>
@@ -375,9 +375,9 @@
 			<pt>5/2</pt>
 			<tablerow>2</tablerow>
 			<text>2UB: Evolve from Kadabra
-				When this Pokémon evolves, it gains first strike and you draw 2 cards.
 				UU: Scry 1
-				BB: Target Pokémon gets -2/-2 until end of turn for each +1/+1 counter on it.</text>
+				BB: Target Pokémon gets -2/-2 until end of turn for each +1/+1 counter on it.
+				Whenever this Pokémon evolves, it gains first strike and you draw two cards.</text>
 		</card>		
 		<card>
 			<name>Machop</name>
@@ -586,8 +586,8 @@
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{R}: Evolve to Electrode
-				Haste
-				{X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon.</text>
+				{X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon.
+				Haste</text>
 		</card>
 		<card>
 			<name>Electrode</name>
@@ -619,8 +619,8 @@
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{G}{G/W}: Evolve to Marowak
-				Reach
-				Evolve abilities of Pokémon named Cubone you control cost {1} less to activate.</text>
+				Evolve abilities of Pokémon named Cubone you control cost {1} less to activate.
+				Reach</text>
 		</card>
 		<card>
 			<name>Hitmonlee</name>
@@ -674,8 +674,8 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{R}: Evolve into Rhydon
-				Trample
-				{1}{R}: Rhyhorn gets +1/+0 until end of turn.</text>
+				{1}{R}: Rhyhorn gets +1/+0 until end of turn.
+				Trample</text>
 		</card>
 		<card>
 			<name>Chansey</name>
