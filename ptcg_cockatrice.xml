@@ -1115,6 +1115,18 @@
 				[0]: Each player sacrifices a Pokémon or Trainer.
 				[-8]: Each player discards their hand. Put all Pokémon cards from all graveyards onto the battlefield under your control.</text>
 		</card>
+		<card>
+			<name>Mr. Fuji</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>W</color>
+			<manacost>2WW</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Fuji</type>
+			<loyalty>3</loyalty>
+			<text>[+1]: Target Pokémon gets +0/+4 until end of turn.
+				[-3]: Exile target creature with power greater than its toughness.
+				[-7]: You get an emblem with "Whenever a Pokémon you control dies, return it to your hand at the beginning of your end step."</text>
+		</card>
 		<!-- sorceries/instants -->
 		<card>
 			<name>Bill</name>
