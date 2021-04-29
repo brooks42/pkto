@@ -1604,14 +1604,14 @@
 				Cycling {3}</text>
 		</card>
 		<card>
-			<name>Fuschia City</name>
+			<name>Fuchsia City</name>
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost></manacost>
 			<type>Legendary Land - City</type>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {B}.
-				{2}{B}, {T}: Fuschia City deals 2 damage to target player and you gain 2 life.</text>
+				{2}{B}, {T}: Fuchsia City deals 2 damage to target player and you gain 2 life.</text>
 		</card>
 		<card>
 			<name>Cinnabar Island</name>
