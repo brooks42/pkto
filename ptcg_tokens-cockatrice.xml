@@ -329,7 +329,7 @@
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-				{B/G}{B/G}: target Pokémon loses flying and reach until end of turn.
+				{B/G}{B/G}: Target Pokémon loses flying and reach until end of turn.
 			</text>
 			<reverse-related attach="attach">Venonat</reverse-related>
 		</card>
@@ -342,7 +342,7 @@
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text></text>
-			<reverse-related attach="Diglett">Venonat</reverse-related>
+			<reverse-related attach="attach">Diglett</reverse-related>
 		</card>
 		<card>
 			<name>Persian</name>
