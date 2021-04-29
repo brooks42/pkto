@@ -604,7 +604,7 @@
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{B}{B}: Evolve to Gengar
-				When Haunter deals combat damage to a player, that player discards a card.</text>
+				Whenever Haunter deals combat damage to a player, that player discards a card.</text>
 			<reverse-related attach="attach">Gastly</reverse-related>
 		</card>
 		<card>
@@ -615,7 +615,7 @@
 			<type>Pokémon - Ghost Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Shadow (This creature can block or be blocked by only creatures with shadow.)</text>
+			<text>Shadow</text>
 			<reverse-related attach="attach">Haunter</reverse-related>
 		</card>
 		<card>
@@ -626,7 +626,7 @@
 			<type>Pokémon - Psychic</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{B}: Target Pokémon gets -1/-1. If it dies this turn, you gain 3 life.</text>
+			<text>{2}{B}: Target Pokémon gets -1/-1. If that Pokémon dies this turn, you gain 3 life.</text>
 			<reverse-related attach="attach">Drowzee</reverse-related>
 		</card>
 		<card>
@@ -661,7 +661,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Menace
-				{1}{G}: Exeggutor gets trample until end of turn.</text>
+				{1}{G}: Exeggutor gains trample until end of turn.</text>
 			<reverse-related attach="attach">Exeggcute</reverse-related>
 		</card>
 		<card>
@@ -672,7 +672,7 @@
 			<type>Pokémon - Ground</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>{T}: Marowak deals damage equal to its power to target Pokémon with Flying or Shadow.</text>
+			<text>{T}: Marowak deals damage equal to its power to target Pokémon with flying or shadow.</text>
 			<reverse-related attach="attach">Cubone</reverse-related>
 		</card>
 		<card>
@@ -683,7 +683,7 @@
 			<type>Pokémon - Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Sacrifice Weezing: Weezing deals damage to each Pokémon equal to its power.</text>
+			<text>Sacrifice Weezing: It deals damage equal to its power to each Pokémon.</text>
 			<reverse-related attach="attach">Koffing</reverse-related>
 		</card>
 		<card>
@@ -694,7 +694,7 @@
 			<type>Pokémon - Ground Rock</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>While attacking, Rhydon can't be destroyed by card effects.</text>
+			<text>Rhydon has indestructible while attacking.</text>
 			<reverse-related attach="attach">Rhyhorn</reverse-related>
 		</card>
 		<card>
@@ -705,7 +705,7 @@
 			<type>Pokémon - Water</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>When this Pokémon would be returned to your hand, you can return another Pokémon you control instead. If you do, you can draw a card and discard a card.</text>
+				<text>If Seadra would be returned to your hand, you may return another Pokémon you control instead. If you do, you may draw a card and discard a card.</text>
 			<reverse-related attach="attach">Horsea</reverse-related>
 		</card>
 		<card>
@@ -749,8 +749,7 @@
 			<type>Pokémon - Water</type>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever you evolve a Pokémon, gain 3 life.
-				{1}{U}{W}: Tap target Pokémon. It doesn't untap during its controller's next untap step.</text>
+			<text>Whenever a Pokémon you control evolves, gain 3 life.</text>
 			<reverse-related attach="attach">Eevee</reverse-related>
 		</card>
 		<card>
@@ -761,8 +760,7 @@
 			<type>Pokémon - Electric</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever you evolve a Pokémon, Jolteon and that Pokémon gain first strike until end of turn.
-				{1}{W}{W}: Jolteon gains lifelink until end of turn.</text>
+			<text>Whenever a Pokémon you control evolves, Jolteon and that Pokémon gain first strike until end of turn.</text>
 			<reverse-related attach="attach">Eevee</reverse-related>
 		</card>
 		<card>
@@ -773,8 +771,7 @@
 			<type>Pokémon - Fire</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever you evolve a Pokémon, Flareon gets +2/+0 until end of turn. 
-				{1}{R}{R}: Flareon deals damage equal to its power to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
+			<text>Whenever a Pokémon you control evolves, Flareon gets +2/+0 until end of turn.</text>
 			<reverse-related attach="attach">Eevee</reverse-related>
 		</card>
 		<card>
@@ -808,7 +805,6 @@
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{4}{W}{R}{G}: Evolve to Dragonite
-				{1}{W}: Dragonair gains hexproof until end of turn.
 				{1}{W}{R}{G}: Remove all counters from Dragonair. You gain life equal to the number of counters removed this way.</text>
 			<reverse-related attach="attach">Dratini</reverse-related>
 		</card>
