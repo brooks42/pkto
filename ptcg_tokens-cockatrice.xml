@@ -397,7 +397,7 @@
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{2UU}: Evolve to Poliwrath
-				When Poliwhirl is targeted by a spell or ability, you may draw a card. If you do, discard a card.</text>
+				Whenever Poliwhirl becomes the target of a spell or ability, you may draw a card. If you do, discard a card.</text>
 			<reverse-related attach="attach">Poliwag</reverse-related>
 		</card>
 		<card>
@@ -408,7 +408,7 @@
 			<type>Pokémon - Water Fighting</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>TM spells and equip abilities targeting Poliwrath cost {3} less.</text>
+			<text>TM spells and equip abilities that target Poliwrath cost {3} less to cast or activate.</text>
 			<reverse-related attach="attach">Poliwrath</reverse-related>
 		</card>
 		<card>
@@ -420,7 +420,7 @@
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
 			<text>{3U}: Evolve to Alakazam
-				When you evolve this Pokémon, draw a card.</text>
+				Whenever this Pokémon evolves, draw a card.</text>
 			<reverse-related attach="attach">Abra</reverse-related>
 		</card>
 		<card>
@@ -431,7 +431,7 @@
 			<type>Pokémon - Psychic</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>When you evolve this Pokémon, draw a card. Then you can target X creatures and return them to owner's hand, where X is the number of cards in your hand.</text>
+			<text>Whenever this Pokémon evolves, draw a card. Then return up to X Pokémon to their owner's hand, where X is the number of cards in your hand.</text>
 			<reverse-related attach="attach">Kadabra</reverse-related>
 		</card>
 		<card>
@@ -454,8 +454,8 @@
 			<type>Pokémon - Fighting</type>
 			<pt>8/8</pt>
 			<tablerow>2</tablerow>
-			<text>When you evolve this Pokémon, it fights any number of target Pokémon.
-				When this Pokémon fights, it gets +2/+0 until end of turn.</text>
+			<text>Whenever this Pokémon evolves, it fights any number of target Pokémon.
+				Whenever Machamp fights, it gets +2/+0 until end of turn.</text>
 			<reverse-related attach="attach">Machoke</reverse-related>
 		</card>
 		<card>
@@ -467,7 +467,8 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{G/B}: Evolve to Victreebel
-				{3}{B}: target Pokémon gets -2/-2 until end of turn.</text>
+				{3}{B}: target Pokémon gets -2/-2 until end of turn.
+				Reach</text>
 			<reverse-related attach="attach">Bellsprout</reverse-related>
 		</card>
 		<card>
@@ -478,9 +479,8 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Reach
-				You don't lose the game because of poison counters.
-				Your Pokémon can't have -1/-1 counters put on them.</text>
+			<text>You don't lose the game for having 10 or more poison counters.
+				Pokémon you control can't have -1/-1 counters put on them.</text>
 			<reverse-related attach="attach">Weepinbell</reverse-related>
 		</card>		
 		<card>
@@ -491,7 +491,7 @@
 			<type>Pokémon - Water Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Tentacruel can block any number of Pokémon each combat.</text>
+			<text>Tentacruel can block any number of Pokémon.</text>
 			<reverse-related attach="attach">Tentacool</reverse-related>
 		</card>
 		<card>
@@ -537,7 +537,7 @@
 			<pt>4/6</pt>
 			<tablerow>2</tablerow>
 			<text>Pokémon blocking or blocked by Slowbro have first strike.
-				{2}{U}: Draw 2 cards, then put a card from your hand on bottom of your library.</text>
+				{2}{U}: Draw two cards, then put a card from your hand on the bottom of your library.</text>
 			<reverse-related attach="attach">Slowpoke</reverse-related>
 		</card>	
 		<card>
@@ -548,8 +548,7 @@
 			<type>Pokémon - Electric Steel</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Protection from Ground
-				4: Deal damage equal to this creature's power to target Flying Pokémon.</text> 
+			<text>4: Magneton deals damage equal its power to target Flying Pokémon.</text> 
 			<reverse-related attach="attach">Magnemite</reverse-related>
 		</card>
 		<card>
