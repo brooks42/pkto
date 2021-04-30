@@ -10,7 +10,7 @@
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>2GG: Evolve to Venusaur
-				Reach, Deathtouch
+				Reach, deathtouch
 				1G: Ivysaur gains lifelink until the end of the turn.</text>
 			<reverse-related attach="attach">Bulbasaur</reverse-related>
 		</card>
@@ -35,8 +35,8 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>2UU: Evolve to Blastoise
-				Wartortle can block up to 3 creatures.
-				U1: Wartortle gets +0/+2 until the end of the turn.</text>
+				Wartortle can block up to three creatures.
+				1U: Wartortle gets +0/+2 until end of turn.</text>
 			<reverse-related attach="attach">Squirtle</reverse-related>
 		</card>
 		<card>
@@ -48,7 +48,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Hexproof
-				When this creature blocks, it gains indestructible until the end of the turn.</text> 
+				Whenever Blastoise blocks, it gains indestructible until end of turn.</text> 
 			<reverse-related attach="attach">Wartortle</reverse-related>
 		</card>
 		<card>
@@ -71,7 +71,7 @@
 			<type>Pokémon - Fire Flying</type>
 			<pt>6/3</pt>
 			<tablerow>2</tablerow>
-			<text>Sacrifice a mountain: Charizard gains double strike until the end of the turn.</text> 
+			<text>Sacrifice a Mountain: Charizard gains double strike until end of turn.</text> 
 			<reverse-related attach="attach">Charmeleon</reverse-related>
 		</card>
 		<card>
@@ -93,7 +93,7 @@
 			<type>Pokémon - Bug Flying</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>When this Pokémon deals combat damage to another Pokémon, if that Pokémon would die this turn, shuffle it into its owner's library instead.</text> 
+			<text>Whenever Butterfree deals combat damage to another Pokémon, if that Pokémon would die this turn, its owner shuffles it into their library instead.</text> 
 			<reverse-related attach="attach">Metapod</reverse-related>
 		</card>
 		<card>
@@ -182,7 +182,7 @@
 			<type>Pokémon - Electric</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>T: deal 3 damage to target Pokémon.</text> 
+			<text>T: Raichu deals 3 damage to target Pokémon.</text> 
 			<reverse-related attach="attach">Pikachu</reverse-related>
 		</card>
 		<card>
@@ -216,7 +216,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Trample
-				When Nidoqueen deals combat damage to a player, search your library for a Pokémon and put it into your hand. Then shuffle your library.</text> 
+				Whenever Nidoqueen deals combat damage to a player, search your library for a Pokémon card and put it into your hand. Then shuffle.</text> 
 			<reverse-related attach="attach">Nidorina</reverse-related>
 		</card>
 		<card>
@@ -261,7 +261,7 @@
 			<type>Pokémon - Fire</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>2R: target Pokémon takes 1 damage for each counter on it.</text>
+			<text>2R: Ninetales deals 1 damage to target Pokémon for each counter on that Pokémon.</text>
 			<reverse-related attach="attach">Vulpix</reverse-related>
 		</card>
 		<card>
@@ -306,7 +306,7 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
-			<text>{T}: Put a -1/-1 counter on up to 2 target Pokémon.</text>
+			<text>{T}: Put a -1/-1 counter on up to two target Pokémon.</text>
 			<reverse-related attach="attach">Gloom</reverse-related>
 		</card>
 		<card>
@@ -329,7 +329,7 @@
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-				{B/G}{B/G}: target Pokémon loses flying and reach until end of turn.
+				{B/G}{B/G}: Target Pokémon loses flying and reach until end of turn.
 			</text>
 			<reverse-related attach="attach">Venonat</reverse-related>
 		</card>
@@ -342,7 +342,7 @@
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text></text>
-			<reverse-related attach="Diglett">Venonat</reverse-related>
+			<reverse-related attach="attach">Diglett</reverse-related>
 		</card>
 		<card>
 			<name>Persian</name>
@@ -397,7 +397,7 @@
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{2UU}: Evolve to Poliwrath
-				When Poliwhirl is targeted by a spell or ability, you may draw a card. If you do, discard a card.</text>
+				Whenever Poliwhirl becomes the target of a spell or ability, you may draw a card. If you do, discard a card.</text>
 			<reverse-related attach="attach">Poliwag</reverse-related>
 		</card>
 		<card>
@@ -408,7 +408,7 @@
 			<type>Pokémon - Water Fighting</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>TM spells and equip abilities targeting Poliwrath cost {3} less.</text>
+			<text>TM spells and equip abilities that target Poliwrath cost {3} less to cast or activate.</text>
 			<reverse-related attach="attach">Poliwrath</reverse-related>
 		</card>
 		<card>
@@ -420,7 +420,7 @@
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
 			<text>{3U}: Evolve to Alakazam
-				When you evolve this Pokémon, draw a card.</text>
+				Whenever this Pokémon evolves, draw a card.</text>
 			<reverse-related attach="attach">Abra</reverse-related>
 		</card>
 		<card>
@@ -431,7 +431,7 @@
 			<type>Pokémon - Psychic</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>When you evolve this Pokémon, draw a card. Then you can target X creatures and return them to owner's hand, where X is the number of cards in your hand.</text>
+			<text>Whenever this Pokémon evolves, draw a card. Then return up to X Pokémon to their owner's hand, where X is the number of cards in your hand.</text>
 			<reverse-related attach="attach">Kadabra</reverse-related>
 		</card>
 		<card>
@@ -454,8 +454,8 @@
 			<type>Pokémon - Fighting</type>
 			<pt>8/8</pt>
 			<tablerow>2</tablerow>
-			<text>When you evolve this Pokémon, it fights any number of target Pokémon.
-				When this Pokémon fights, it gets +2/+0 until end of turn.</text>
+			<text>Whenever this Pokémon evolves, it fights any number of target Pokémon.
+				Whenever Machamp fights, it gets +2/+0 until end of turn.</text>
 			<reverse-related attach="attach">Machoke</reverse-related>
 		</card>
 		<card>
@@ -467,7 +467,8 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{G/B}: Evolve to Victreebel
-				{3}{B}: target Pokémon gets -2/-2 until end of turn.</text>
+				{3}{B}: target Pokémon gets -2/-2 until end of turn.
+				Reach</text>
 			<reverse-related attach="attach">Bellsprout</reverse-related>
 		</card>
 		<card>
@@ -478,9 +479,8 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Reach
-				You don't lose the game because of poison counters.
-				Your Pokémon can't have -1/-1 counters put on them.</text>
+			<text>You don't lose the game for having 10 or more poison counters.
+				Pokémon you control can't have -1/-1 counters put on them.</text>
 			<reverse-related attach="attach">Weepinbell</reverse-related>
 		</card>		
 		<card>
@@ -491,7 +491,7 @@
 			<type>Pokémon - Water Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Tentacruel can block any number of Pokémon each combat.</text>
+			<text>Tentacruel can block any number of Pokémon.</text>
 			<reverse-related attach="attach">Tentacool</reverse-related>
 		</card>
 		<card>
@@ -537,7 +537,7 @@
 			<pt>4/6</pt>
 			<tablerow>2</tablerow>
 			<text>Pokémon blocking or blocked by Slowbro have first strike.
-				{2}{U}: Draw 2 cards, then put a card from your hand on bottom of your library.</text>
+				{2}{U}: Draw two cards, then put a card from your hand on the bottom of your library.</text>
 			<reverse-related attach="attach">Slowpoke</reverse-related>
 		</card>	
 		<card>
@@ -548,8 +548,7 @@
 			<type>Pokémon - Electric Steel</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Protection from Ground
-				4: Deal damage equal to this creature's power to target Flying Pokémon.</text> 
+			<text>4: Magneton deals damage equal its power to target Flying Pokémon.</text> 
 			<reverse-related attach="attach">Magnemite</reverse-related>
 		</card>
 		<card>
@@ -605,7 +604,7 @@
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{B}{B}: Evolve to Gengar
-				When Haunter deals combat damage to a player, that player discards a card.</text>
+				Whenever Haunter deals combat damage to a player, that player discards a card.</text>
 			<reverse-related attach="attach">Gastly</reverse-related>
 		</card>
 		<card>
@@ -616,7 +615,7 @@
 			<type>Pokémon - Ghost Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Shadow (This creature can block or be blocked by only creatures with shadow.)</text>
+			<text>Shadow</text>
 			<reverse-related attach="attach">Haunter</reverse-related>
 		</card>
 		<card>
@@ -627,7 +626,7 @@
 			<type>Pokémon - Psychic</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{B}: Target Pokémon gets -1/-1. If it dies this turn, you gain 3 life.</text>
+			<text>{2}{B}: Target Pokémon gets -1/-1. If that Pokémon dies this turn, you gain 3 life.</text>
 			<reverse-related attach="attach">Drowzee</reverse-related>
 		</card>
 		<card>
@@ -662,7 +661,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Menace
-				{1}{G}: Exeggutor gets trample until end of turn.</text>
+				{1}{G}: Exeggutor gains trample until end of turn.</text>
 			<reverse-related attach="attach">Exeggcute</reverse-related>
 		</card>
 		<card>
@@ -673,7 +672,7 @@
 			<type>Pokémon - Ground</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>{T}: Marowak deals damage equal to its power to target Pokémon with Flying or Shadow.</text>
+			<text>{T}: Marowak deals damage equal to its power to target Pokémon with flying or shadow.</text>
 			<reverse-related attach="attach">Cubone</reverse-related>
 		</card>
 		<card>
@@ -684,7 +683,7 @@
 			<type>Pokémon - Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Sacrifice Weezing: Weezing deals damage to each Pokémon equal to its power.</text>
+			<text>Sacrifice Weezing: It deals damage equal to its power to each Pokémon.</text>
 			<reverse-related attach="attach">Koffing</reverse-related>
 		</card>
 		<card>
@@ -695,7 +694,7 @@
 			<type>Pokémon - Ground Rock</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>While attacking, Rhydon can't be destroyed by card effects.</text>
+			<text>Rhydon has indestructible while attacking.</text>
 			<reverse-related attach="attach">Rhyhorn</reverse-related>
 		</card>
 		<card>
@@ -706,7 +705,7 @@
 			<type>Pokémon - Water</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>When this Pokémon would be returned to your hand, you can return another Pokémon you control instead. If you do, you can draw a card and discard a card.</text>
+				<text>If Seadra would be returned to your hand, you may return another Pokémon you control instead. If you do, you may draw a card and discard a card.</text>
 			<reverse-related attach="attach">Horsea</reverse-related>
 		</card>
 		<card>
@@ -750,8 +749,7 @@
 			<type>Pokémon - Water</type>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever you evolve a Pokémon, gain 3 life.
-				{1}{U}{W}: Tap target Pokémon. It doesn't untap during its controller's next untap step.</text>
+			<text>Whenever a Pokémon you control evolves, gain 3 life.</text>
 			<reverse-related attach="attach">Eevee</reverse-related>
 		</card>
 		<card>
@@ -762,8 +760,7 @@
 			<type>Pokémon - Electric</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever you evolve a Pokémon, Jolteon and that Pokémon gain first strike until end of turn.
-				{1}{W}{W}: Jolteon gains lifelink until end of turn.</text>
+			<text>Whenever a Pokémon you control evolves, Jolteon and that Pokémon gain first strike until end of turn.</text>
 			<reverse-related attach="attach">Eevee</reverse-related>
 		</card>
 		<card>
@@ -774,8 +771,7 @@
 			<type>Pokémon - Fire</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever you evolve a Pokémon, Flareon gets +2/+0 until end of turn. 
-				{1}{R}{R}: Flareon deals damage equal to its power to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
+			<text>Whenever a Pokémon you control evolves, Flareon gets +2/+0 until end of turn.</text>
 			<reverse-related attach="attach">Eevee</reverse-related>
 		</card>
 		<card>
@@ -809,7 +805,6 @@
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{4}{W}{R}{G}: Evolve to Dragonite
-				{1}{W}: Dragonair gains hexproof until end of turn.
 				{1}{W}{R}{G}: Remove all counters from Dragonair. You gain life equal to the number of counters removed this way.</text>
 			<reverse-related attach="attach">Dratini</reverse-related>
 		</card>
