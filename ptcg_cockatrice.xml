@@ -1171,7 +1171,7 @@
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Agatha</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Exile the top 3 cards of target player's library. You can play those cards until end of turn.
+			<text>[+1]: Exile the top three cards of target player's library. You may play those cards until end of turn.
 				[-2]: Destroy target Pokémon.
 				[-X]: Up to X target Pokémon get -0/-X until end of turn.</text>
 		</card>
@@ -1183,8 +1183,8 @@
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Lance</type>
 			<loyalty>4</loyalty>
-			<text>[+2]: Deal 3 damage to target Pokémon. You gain 3 life.
-				[0]: Until end of turn, Lance becomes a 6/6 Human creature with indestructible and flying that's still a Trainer. Prevent all damage that would be dealt to him this turn.
+			<text>[+2]: Lance deals 3 damage to target Pokémon. You gain 3 life.
+				[0]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying that's still a Trainer. Prevent all damage that would be dealt to him this turn.
 				[-8]: Gain control of all Pokémon.</text>
 		</card>
 		<!-- sorceries/instants -->
@@ -1312,7 +1312,7 @@
 			<manacost>1WW</manacost>
 			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
-			<text>Remove all damage from target Pokémon. It gains indestructible until end of turn.</text>
+			<text>Target Pokémon gains indestructible until end of turn.</text>
 		</card>
 		<card>
 			<name>Lemonade</name>
@@ -1321,7 +1321,7 @@
 			<manacost>5</manacost>
 			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
-			<text>Remove all damage from target Pokémon. If you do, untap it and it gains first strike until end of turn.</text>
+			<text>Untap target Pokémon and remove all damage from it. It gains first strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Weather Control Device</name>
@@ -1375,7 +1375,7 @@
 			<manacost>1W</manacost>
 			<type>Sorcery - Medicine</type>
 			<tablerow>3</tablerow>
-			<text>Remove up to 3 -1/-1 counters from target Pokémon, or up to 3 poison counters from target player.</text>
+			<text>Remove up to three -1/-1 counters from target Pokémon or up to three poison counters from target player.</text>
 		</card>
 		<card>
 			<name>Psych Up</name>
@@ -1529,17 +1529,17 @@
 			<manacost>2</manacost>
 			<type>Artifact</type>
 			<tablerow>1</tablerow>
-			<text>{1}, {T}: add one mana of any color.</text>
+			<text>{1}, {T}: Add one mana of any color.</text>
 		</card>
 		<card>
-			<name>Bill's Computer</name>
+			<name>Pokémon Storage System</name>
 			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="common">PTCG</set>
 			<color></color>
 			<manacost>4</manacost>
 			<type>Artifact</type>
 			<tablerow>1</tablerow>
 			<text>At the beginning of each opponent's upkeep, exile all cards from your hand face down.
-At the beginning of your upkeep, return all cards you own exiled with Bill's Computer to your hand, then draw a card.</text>
+At the beginning of your upkeep, return all cards you own exiled with Pokémon Storage System to your hand, then draw a card.</text>
 		</card>
 		<!-- attack enchantments -->
 		<card>
@@ -1700,7 +1700,7 @@ At the beginning of your upkeep, return all cards you own exiled with Bill's Com
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Grass or Bug Pokémon
-				Whenever enchanted Pokémon deals combat damage, you gain half that much life rounded up.</text>
+				Whenever enchanted Pokémon deals combat damage, you gain half that much life, rounded up.</text>
 		</card>
 		<card>
 			<name>Minimize</name>
@@ -1720,7 +1720,7 @@ At the beginning of your upkeep, return all cards you own exiled with Bill's Com
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				Whenever enchanted Pokémon deals combat damage, create a Treasure token. (It's an artifact with "{T}, Sacrifice this artifact: Add one mana of any color.")</text>
+				Whenever enchanted Pokémon deals combat damage, create a Treasure token.</text>
 		</card>
 		<!-- Locations -->
 		<card>
@@ -1835,11 +1835,11 @@ At the beginning of your upkeep, return all cards you own exiled with Bill's Com
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {1}
-				{T}: Add {3}. This mana can only be used to pay for fossil abilities.</text>
+				{T}: Add {3}. Spend this mana only to activate fossil abilities.</text>
 		</card>
 		<card>
 			<name>Safari Zone</name>
-			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
 			<color></color>
 			<manacost></manacost>
 			<type>Land</type>
