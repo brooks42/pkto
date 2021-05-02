@@ -1326,6 +1326,16 @@
 			<text>Exile the top two cards of your library. You may play those cards until end of turn.</text>
 		</card>
 		<card>
+			<name>Show of Force</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Show of Force deals 1 damage to each Pokémon without flying.
+				Draw a card.</text>
+		</card>
+		<card>
 			<name>Investigate</name>
 			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
@@ -1586,6 +1596,16 @@
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Put a -1/-1 counter on target Pokémon.
+				Draw a card.</text>
+		</card>
+		<card>
+			<name>Glare</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon can't block this turn.
 				Draw a card.</text>
 		</card>
 		<!-- evolution stones -->
