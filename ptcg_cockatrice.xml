@@ -378,7 +378,7 @@
 				UU: Scry 1
 				BB: Target Pokémon gets -2/-2 until end of turn for each +1/+1 counter on it.
 				Whenever this Pokémon evolves, it gains first strike and you draw two cards.</text>
-		</card>		
+		</card>
 		<card>
 			<name>Machop</name>
 			<set picURL="https://images.pokemontcg.io/base6/79_hires.png" rarity="uncommon">PTCG</set>
@@ -388,7 +388,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{R/G}{R/G}: Evolve to Machoke</text>
-		</card>		
+		</card>
 		<card>
 			<name>Machamp</name>
 			<set picURL="https://images.pokemontcg.io/base6/79_hires.png" rarity="uncommon">PTCG</set>
@@ -718,7 +718,7 @@
 			<tablerow>2</tablerow>
 			<text>{2}{U}: Evolve to Seadra
 				{1}{U}: Return Horsea and target Pokémon you don't control to their owners' hands.</text>
-		</card>		
+		</card>
 		<card>
 			<name>Goldeen</name>
 			<set picURL="https://images.pokemontcg.io/ex1/55_hires.png" rarity="common">PTCG</set>
@@ -1042,7 +1042,7 @@
 			<text>[+1]: Tap or untap target Pokémon.  
 				[−1]: Target Water Pokémon gains unblockable until end of turn. 
 				[−6]: Draw two cards for each Pokémon you control. You have no maximum hand size until your next turn.</text>
-		</card>	
+		</card>
 		<card>
 			<name>Lt. Surge</name>
 			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
@@ -1066,7 +1066,7 @@
 			<text>[+1]: Add {G}, {U}, or {W}.
 				[-2]: Reveal your hand. You gain 1 life for each Pokémon card revealed this way.
 				[−X]: Pokémon you control get +X/+X until end of turn.</text>
-		</card>	
+		</card>
 		<card>
 			<name>Koga</name>
 			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
@@ -1078,7 +1078,7 @@
 			<text>[+1]: Target Pokémon gains infect until end of turn.
 				[-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
 				[−6]: You get an emblem with "Pokémon you control have {B}: this Pokémon gains shadow until end of turn."</text>
-		</card>	
+		</card>
 		<card>
 			<name>Sabrina</name>
 			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
@@ -1124,8 +1124,68 @@
 			<type>Legendary Trainer - Fuji</type>
 			<loyalty>3</loyalty>
 			<text>[+1]: Target Pokémon gets +0/+4 until end of turn.
-				[-3]: Exile target creature with power greater than its toughness.
+				[-3]: Exile target Pokémon with power greater than its toughness.
 				[-7]: You get an emblem with "Whenever a Pokémon you control dies, return it to your hand at the beginning of your end step."</text>
+		</card>
+		<card>
+			<name>Professor Oak</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color></color>
+			<manacost>7</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Oak</type>
+			<loyalty>4</loyalty>
+			<text>[+1]: Target player draws a card.
+				[-3]: Exile target Pokémon. Its controller gains 3 life.
+				[-7]: You get an emblem with "Pokémon you control have indestructible."</text>
+		</card>
+		<card>
+			<name>Lorelei</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>WU</color>
+			<manacost>1{W/U}{W/U}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Lorelei</type>
+			<loyalty>2</loyalty>
+			<text>[+1]: Target player gains 3 life.
+				[0]: Water and Ice Pokémon you control get +0/+2 until end of turn.
+				[-5]: Put any number of Water and Ice Pokémon cards from your hand onto the battlefield.</text>
+		</card>
+		<card>
+			<name>Bruno</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>RG</color>
+			<manacost>2{R/G}{R/G}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Bruno</type>
+			<loyalty>2</loyalty>
+			<text>[+2]: Untap up to three target lands.
+				[-1]: Put a +1/+1 counter on target Fighting or Rock Pokémon.
+				[-3]: Pokémon you control with +1/+1 counters on them gain trample until end of turn.</text>
+		</card>
+		<card>
+			<name>Agatha</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>BU</color>
+			<manacost>3{B/U}{B/U}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Agatha</type>
+			<loyalty>3</loyalty>
+			<text>[+1]: Exile the top three cards of target player's library. You may play those cards until end of turn.
+				[-2]: Destroy target Pokémon.
+				[-X]: Up to X target Pokémon get -0/-X until end of turn.</text>
+		</card>
+		<card>
+			<name>Lance</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>WRG</color>
+			<manacost>4WRG</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Lance</type>
+			<loyalty>4</loyalty>
+			<text>[+2]: Lance deals 3 damage to target Pokémon. You gain 3 life.
+				[0]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying that's still a Trainer. Prevent all damage that would be dealt to him this turn.
+				[-8]: Gain control of all Pokémon.</text>
 		</card>
 		<!-- sorceries/instants -->
 		<card>
@@ -1246,6 +1306,24 @@
 			<text>Remove all damage from target Pokémon.</text>
 		</card>
 		<card>
+			<name>Super Potion</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/156_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>1WW</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gains indestructible until end of turn.</text>
+		</card>
+		<card>
+			<name>Lemonade</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/156_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>5</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Untap target Pokémon and remove all damage from it. It gains first strike until end of turn.</text>
+		</card>
+		<card>
 			<name>Weather Control Device</name>
 			<set picURL="https://images.pokemontcg.io/ecard2/119_hires.png" rarity="common">PTCG</set>
 			<color></color>
@@ -1262,6 +1340,42 @@
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Target Pokémon gets +2/+2 and gains haste until end of turn.</text>
+		</card>
+		<card>
+			<name>X-Attack</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>{R/G}</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gets +3/+0 until end of turn.</text>
+		</card>
+		<card>
+			<name>X-Defense</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>{W/U}</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gets +0/+3 until end of turn.</text>
+		</card>
+		<card>
+			<name>Guard Spec.</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>{U/G}</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gains hexproof until end of turn.</text>
+		</card>
+		<card>
+			<name>Antidote</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>1W</manacost>
+			<type>Sorcery - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Remove up to three -1/-1 counters from target Pokémon or up to three poison counters from target player.</text>
 		</card>
 		<card>
 			<name>Psych Up</name>
@@ -1307,6 +1421,24 @@
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>Each player searches their library for a card, reveals it, shuffles, and puts that card on top.</text>
+		</card>
+		<card>
+			<name>Body Slam</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon you control deals damage equal to its power to target Pokémon you don't control. If the Pokémon you control has trample, excess damage is dealt to that Pokémon's controller instead.</text>
+		</card>
+		<card>
+			<name>Slash</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Slash deals 4 damage to target Pokémon.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
@@ -1371,7 +1503,7 @@
 			<type>Artifact</type>
 			<tablerow>1</tablerow>
 			<text>Sacrifice Pokédoll: Prevent all combat damage that would be dealt this turn.</text>
-		</card>	
+		</card>
 		<card>
 			<name>Silph Scope</name>
 			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="rare">PTCG</set>
@@ -1389,6 +1521,25 @@
 			<type>Artifact - Tool</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Search your library for a Water Pokémon with an evolve ability, then shuffle and put that card third from the top.</text>
+		</card>
+		<card>
+			<name>Ancient Slab</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add one mana of any color.</text>
+		</card>
+		<card>
+			<name>Pokémon Storage System</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>4</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>At the beginning of each opponent's upkeep, exile all cards from your hand face down.
+At the beginning of your upkeep, return all cards you own exiled with Pokémon Storage System to your hand, then draw a card.</text>
 		</card>
 		<!-- attack enchantments -->
 		<card>
@@ -1420,7 +1571,7 @@
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon with no evolve abilities
 				Enchanted Pokémon has "{T}: Destroy target Pokémon. This Pokémon doesn't untap during its controller's next untap step."</text>
-		</card>		
+		</card>
 		<card>
 			<name>Focus Energy</name>
 			<set picURL="https://images.pokemontcg.io/ex8/21_hires.png" rarity="common">PTCG</set>
@@ -1451,7 +1602,7 @@
 			<tablerow>1</tablerow>
 			<text>Enchant Water Pokémon
 				Enchanted Pokémon gets +2/+0 and has "{1U}, {T}: Return target Pokémon to its owner's hand."</text>
-		</card>		
+		</card>
 		<card>
 			<name>Fire Blast</name>
 			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
@@ -1540,6 +1691,36 @@
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 				Sacrifice Flash: Prevent all combat damage that would be dealt this turn.</text>
+		</card>
+		<card>
+			<name>Mega Drain</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Grass or Bug Pokémon
+				Whenever enchanted Pokémon deals combat damage, you gain half that much life, rounded up.</text>
+		</card>
+		<card>
+			<name>Minimize</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>UB</color>
+			<manacost>2{U/B}</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Whenever enchanted Pokémon is dealt combat damage, prevent 2 of that damage.</text>
+		</card>
+		<card>
+			<name>Pay Day</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Whenever enchanted Pokémon deals combat damage, create a Treasure token.</text>
 		</card>
 		<!-- Locations -->
 		<card>
@@ -1645,6 +1826,25 @@
 			<text>Lavender Town enters the battlefield tapped.
 				{T}: Add {W}, {U}, or {B}.
 				Cycling {3}</text>
+		</card>
+		<card>
+			<name>Cinnabar Lab</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="rare">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {1}
+				{T}: Add {3}. Spend this mana only to activate fossil abilities.</text>
+		</card>
+		<card>
+			<name>Safari Zone</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}, Sacrifice Safari Zone: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</text>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
