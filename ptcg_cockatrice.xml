@@ -1900,8 +1900,8 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 		<card>
 			<name>Pay Day</name>
 			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
-			<color></color>
-			<manacost>3</manacost>
+			<color>WB</color>
+			<manacost>WB</manacost>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
