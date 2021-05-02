@@ -965,7 +965,7 @@
 			<set picURL="https://images.pokemontcg.io/basep/12_hires.png" rarity="mythic">PTCG</set>
 			<color>RWBU</color>
 			<manacost>2RWBU</manacost>
-			<type>Pokémon - Psychic</type>
+			<type>Legendary Pokémon - Psychic</type>
 			<pt>7/4</pt>
 			<tablerow>2</tablerow>
 			<text>Flying, first strike, intimidate
@@ -976,7 +976,7 @@
 			<set picURL="https://images.pokemontcg.io/basep/9_hires.png" rarity="mythic">PTCG</set>
 			<color>WUBRG</color>
 			<manacost>WUBRG</manacost>
-			<type>Pokémon - Psychic</type>
+			<type>Legendary Pokémon - Psychic</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
