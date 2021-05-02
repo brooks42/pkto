@@ -1148,7 +1148,7 @@
 			<type>Legendary Trainer - Lorelei</type>
 			<loyalty>2</loyalty>
 			<text>[+1]: Target player gains 3 life.
-				[0]: Until end of turn, Water and Ice Pokémon you control get +0/+2.
+				[0]: Water and Ice Pokémon you control get +0/+2 until end of turn.
 				[-5]: Put any number of Water and Ice Pokémon from your hand onto the battlefield.</text>
 		</card>
 		<card>
