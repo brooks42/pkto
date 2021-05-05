@@ -1905,7 +1905,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Grass or Bug Pokémon
-				Whenever enchanted Pokémon deals combat damage, you gain half that much life, rounded up.</text>
+				Whenever enchanted Pokémon deals combat damage, you gain that much life.</text>
 		</card>
 		<card>
 			<name>Minimize</name>
@@ -1915,7 +1915,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				Whenever enchanted Pokémon is dealt combat damage, prevent 2 of that damage.</text>
+				Whenever enchanted Pokémon would be dealt combat damage, prevent 2 of that damage.</text>
 		</card>
 		<card>
 			<name>Pay Day</name>
@@ -2089,7 +2089,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<manacost></manacost>
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}, Sacrifice Safari Zone: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</text>
+			<text>{T}, Sacrifice Safari Zone: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
 		</card>
 		<card>
 			<name>PC Grassland</name>
