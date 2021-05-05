@@ -1531,7 +1531,7 @@
 			<manacost>1BBB</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Put a -1/-1 counter on all attacking Pokémon. Each player gets a poison counter.</text>
+			<text>Put a -1/-1 counter on each attacking Pokémon. Each player gets a poison counter.</text>
 		</card>
 		<card>
 			<name>String Shot</name>
@@ -1577,7 +1577,7 @@
 			<manacost>{W/G}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Gust deals 2 damage to target Pokémon with flying. If that Pokémon is attacking, Gust deals 5 damage, instead.</text>
+			<text>Gust deals 2 damage to target Pokémon with flying. If that Pokémon is attacking, Gust deals 5 damage instead.</text>
 		</card>
 		<card>
 			<name>Slam</name>
@@ -1716,7 +1716,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<manacost>1</manacost>
 			<type>Artifact</type>
 			<tablerow>1</tablerow>
-			<text>{2}, {T}, Sacrifice Town Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.</text>
+			<text>{2}, {T}, Sacrifice Town Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Super Repel</name>
