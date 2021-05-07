@@ -1297,6 +1297,54 @@
 			<text>Search your library for a Pokémon card with fossil and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
+			<name>Explore</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>You may play an additional land this turn.
+				Draw a card.</text>
+		</card>
+		<card>
+			<name>Revitalize</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>You gain 3 life.
+				Draw a card.</text>
+		</card>
+		<card>
+			<name>Rummage</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Exile the top two cards of your library. You may play those cards until end of turn.</text>
+		</card>
+		<card>
+			<name>Show of Force</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Show of Force deals 1 damage to each Pokémon without flying.
+				Draw a card.</text>
+		</card>
+		<card>
+			<name>Investigate</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Scry 2. Draw a card.</text>
+		</card>
+		<card>
 			<name>Potion</name>
 			<set picURL="https://images.pokemontcg.io/ecard1/156_hires.png" rarity="common">PTCG</set>
 			<color>W</color>
@@ -1378,6 +1426,15 @@
 			<text>Remove up to three -1/-1 counters from target Pokémon or up to three poison counters from target player.</text>
 		</card>
 		<card>
+			<name>Ice Heal</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Untap target Pokémon. It gains vigilance until end of turn.</text>
+		</card>
+		<card>
 			<name>Psych Up</name>
 			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
 			<color></color>
@@ -1439,6 +1496,117 @@
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>Slash deals 4 damage to target Pokémon.</text>
+		</card>
+		<card>
+			<name>Mist</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Prevent all combat damage that would be dealt this turn.</text>
+		</card>
+		<card>
+			<name>Whirlwind</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>WU</color>
+			<manacost>{W/U}</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Return target Pokémon to its owner's hand. Its controller draws a card.</text>
+		</card>
+		<card>
+			<name>Sing</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Tap all Pokémon target player controls. Those Pokémon don't untap during that player's next untap step.</text>
+		</card>
+		<card>
+			<name>Smog</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1BBB</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Put a -1/-1 counter on each attacking Pokémon. Each player gets a poison counter.</text>
+		</card>
+		<card>
+			<name>String Shot</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>All Pokémon lose haste and hexproof until end of turn.</text>
+		</card>
+		<card>
+			<name>Swift</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>WB</color>
+			<manacost>1{W/B}</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Damage can't be prevented this turn.</text>
+		</card>
+		<card>
+			<name>Disable</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>UB</color>
+			<manacost>1{U/B}</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Split second
+				Until end of turn, target Pokémon can't attack or block, and its activated abilities can't be activated.</text>
+		</card>
+		<card>
+			<name>Fire Spin</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Fire Spin deals 2 damage to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
+		</card>
+		<card>
+			<name>Gust</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>WG</color>
+			<manacost>{W/G}</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Gust deals 2 damage to target Pokémon with flying. If that Pokémon is attacking, Gust deals 5 damage instead.</text>
+		</card>
+		<card>
+			<name>Slam</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>2W</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Destroy target tapped Pokémon.</text>
+		</card>
+		<card>
+			<name>Poison Sting</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Put a -1/-1 counter on target Pokémon.
+				Draw a card.</text>
+		</card>
+		<card>
+			<name>Glare</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon can't block this turn.
+				Draw a card.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
@@ -1540,6 +1708,43 @@
 			<tablerow>1</tablerow>
 			<text>At the beginning of each opponent's upkeep, exile all cards from your hand face down.
 At the beginning of your upkeep, return all cards you own exiled with Pokémon Storage System to your hand, then draw a card.</text>
+		</card>
+		<card>
+			<name>Town Map</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>1</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{2}, {T}, Sacrifice Town Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle.</text>
+		</card>
+		<card>
+			<name>Super Repel</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>No more than two Pokémon can attack you each combat.</text>
+		</card>
+		<card>
+			<name>Nugget</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>1</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}, Sacrifice Nugget: Add one mana of any color.
+				When Nugget is put into a graveyard from the battlefield, draw a card.</text>
+		</card>
+		<card>
+			<name>Mysterious Feather</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="mythic">PTCG</set>
+			<color></color>
+			<manacost>0</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{T}, Sacrifice Mysterious Feather: Add one mana of any color.</text>
 		</card>
 		<!-- attack enchantments -->
 		<card>
@@ -1715,12 +1920,52 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 		<card>
 			<name>Pay Day</name>
 			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
-			<color></color>
+			<color>WB</color>
 			<manacost>WB</manacost>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 				Whenever enchanted Pokémon deals combat damage, create a Treasure token.</text>
+		</card>
+		<card>
+			<name>Sky Attack</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>W</color>
+			<manacost>1WW</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Flying Pokémon
+				Enchanted Pokémon has flying and gets +2/+0.</text>
+		</card>
+		<card>
+			<name>Light Screen</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>UB</color>
+			<manacost>1{U/B}</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Psychic Pokémon
+				Enchanted Pokémon has "{T}: Target Pokémon gains hexproof until end of turn."</text>
+		</card>
+		<card>
+			<name>Teleport</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>UB</color>
+			<manacost>1{U/B}</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon has "{T}: Return this Pokémon and all TMs attached to it to their owners' hand."</text>
+		</card>
+		<card>
+			<name>Growth</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon has "{T}: Add one mana of any color."</text>
 		</card>
 		<!-- Locations -->
 		<card>
@@ -1845,6 +2090,61 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>{T}, Sacrifice Safari Zone: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+		</card>
+		<card>
+			<name>PC Grassland</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>PC Grassland enters the battlefield tapped.
+				{T}: Put a storage counter on PC Grassland.
+				{T}, Remove any number of storage counters from PC Grassland: Add {W} for each storage counter removed this way.</text>
+		</card>
+		<card>
+			<name>PC Volcano</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>PC Volcano enters the battlefield tapped.
+				{T}: Put a storage counter on PC Volcano.
+				{T}, Remove any number of storage counters from PC Volcano: Add {R} for each storage counter removed this way.</text>
+		</card>
+		<card>
+			<name>PC Rainforest</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>PC Rainforest enters the battlefield tapped.
+				{T}: Put a storage counter on PC Rainforest.
+				{T}, Remove any number of storage counters from PC Rainforest: Add {G} for each storage counter removed this way.</text>
+		</card>
+		<card>
+			<name>PC Bog</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>PC Bog enters the battlefield tapped.
+				{T}: Put a storage counter on PC Bog.
+				{T}, Remove any number of storage counters from PC Bog: Add {B} for each storage counter removed this way.</text>
+		</card>
+		<card>
+			<name>PC Beach</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>PC Beach enters the battlefield tapped.
+				{T}: Put a storage counter on PC Beach.
+				{T}, Remove any number of storage counters from PC Beach: Add {U} for each storage counter removed this way.</text>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
