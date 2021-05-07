@@ -1967,6 +1967,36 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Enchant Pokémon
 				Enchanted Pokémon has "{T}: Add one mana of any color."</text>
 		</card>
+		<card>
+			<name>Toxic</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Enchanted Pokémon gains infect.</text>
+		</card>
+		<card>
+			<name>Dream Eater</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>2B</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Whenever enchanted Pokémon deals combat damage to a player, that player discards a card and you draw a card.</text>
+		</card>
+		<card>
+			<name>Psywave</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+				Whenever enchanted Pokémon attacks or blocks, reveal the top card of your library. Enchanted Pokémon's base power becomes the mana value of the revealed card until end of turn.</text>
+		</card>
 		<!-- Locations -->
 		<card>
 			<name>Pallet Town</name>
