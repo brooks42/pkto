@@ -2092,59 +2092,59 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>{T}, Sacrifice Safari Zone: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
 		</card>
 		<card>
-			<name>PC Grassland</name>
+			<name>Bill's Grassland</name>
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
 			<color></color>
 			<manacost></manacost>
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>PC Grassland enters the battlefield tapped.
-				{T}: Put a storage counter on PC Grassland.
-				{T}, Remove any number of storage counters from PC Grassland: Add {W} for each storage counter removed this way.</text>
+			<text>{T}: Add {C}.
+				{T}: Put a storage counter on Bill's Grassland.
+				{1}, Remove any number of storage counters from Bill's Grassland: Add {W} for each storage counter removed this way.</text>
 		</card>
 		<card>
-			<name>PC Volcano</name>
+			<name>Bill's Volcano</name>
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
 			<color></color>
 			<manacost></manacost>
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>PC Volcano enters the battlefield tapped.
-				{T}: Put a storage counter on PC Volcano.
-				{T}, Remove any number of storage counters from PC Volcano: Add {R} for each storage counter removed this way.</text>
+			<text>{T}: Add {C}.
+				{T}: Put a storage counter on Bill's Volcano.
+				{1}, Remove any number of storage counters from Bill's Volcano: Add {R} for each storage counter removed this way.</text>
 		</card>
 		<card>
-			<name>PC Rainforest</name>
+			<name>Bill's Rainforest</name>
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
 			<color></color>
 			<manacost></manacost>
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>PC Rainforest enters the battlefield tapped.
-				{T}: Put a storage counter on PC Rainforest.
-				{T}, Remove any number of storage counters from PC Rainforest: Add {G} for each storage counter removed this way.</text>
+			<text>{T}: Add {C}.
+				{T}: Put a storage counter on Bill's Rainforest.
+				{1}, Remove any number of storage counters from Bill's Rainforest: Add {G} for each storage counter removed this way.</text>
 		</card>
 		<card>
-			<name>PC Bog</name>
+			<name>Bill's Marsh</name>
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
 			<color></color>
 			<manacost></manacost>
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>PC Bog enters the battlefield tapped.
-				{T}: Put a storage counter on PC Bog.
-				{T}, Remove any number of storage counters from PC Bog: Add {B} for each storage counter removed this way.</text>
+			<text>{T}: Add {C}.
+				{T}: Put a storage counter on Bill's Marsh.
+				{1}, Remove any number of storage counters from Bill's Marsh: Add {B} for each storage counter removed this way.</text>
 		</card>
 		<card>
-			<name>PC Beach</name>
+			<name>Bill's Coastline</name>
 			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
 			<color></color>
 			<manacost></manacost>
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>PC Beach enters the battlefield tapped.
-				{T}: Put a storage counter on PC Beach.
-				{T}, Remove any number of storage counters from PC Beach: Add {U} for each storage counter removed this way.</text>
+			<text>{T}: Add {C}.
+				{T}: Put a storage counter on Bill's Coastline.
+				{1}, Remove any number of storage counters from Bill's Coastline: Add {U} for each storage counter removed this way.</text>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
