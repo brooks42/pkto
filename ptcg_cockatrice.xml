@@ -231,7 +231,7 @@
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{W}{R}: Evolve from Pikachu
-				When Raichu attacks, if it has first strike, it gains double strike until end of turn.</text>
+				Whenever Raichu attacks, if it has first strike, it gains double strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Sandshrew</name>
@@ -268,14 +268,14 @@
 		</card>
 		<card>
 			<name>Nidoqueen</name>
-			<set picURL="https://images.pokemontcg.io/ecard2/96_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard2/96_hires.png" rarity="rare">PTCG</set>
 			<color>B</color>
 			<manacost>6B</manacost>
 			<type>Pokémon - Poison Ground</type>
 			<pt>4/7</pt>
 			<tablerow>2</tablerow>
 			<text>3BB: Evolve from Nidorina
-				If a Pokémon you control with no +1/+1 counters on it would be put into the graveyard from the battlefield, exile it instead. Return it to the battlefield under its owner's control with a +1/+1 counter on it at the beginning of the next end step.</text>
+				If a Pokémon you control with no counters on it would be put into a graveyard from the battlefield, you may exile it instead. If you do, return it to the battlefield under its owner's control at the beginning of the next end step. Put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Nidoran♂</name>
@@ -290,14 +290,14 @@
 		</card>
 		<card>
 			<name>Nidoking</name>
-			<set picURL="https://images.pokemontcg.io/ecard3/81_hires.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard3/81_hires.png" rarity="rare">PTCG</set>
 			<color>B</color>
 			<manacost>5BB</manacost>
 			<type>Pokémon - Poison Ground</type>
 			<pt>8/6</pt>
 			<tablerow>2</tablerow>
 			<text>4B: Evolve from Nidorino
-				{B}, sacrifice a Pokémon: Nidoking gains indestructible until end of turn. Put a +1/+1 counter on it.</text>
+				{B}, Sacrifice a Pokémon: Nidoking gains indestructible until end of turn. Put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Clefairy</name>
@@ -310,7 +310,7 @@
 			<text>2{W/B}: Evolve to Clefable
 				{T}: Add {W}. You gain 1 life.
 				{T}: Add {B}. You lose 1 life.
-				{2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon. This Pokémon gains all abilities of the revealed card, except for its evolve abilities, until end of turn. Then shuffle.</text>
+				{2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon card. Clefairy gains all abilities of the revealed card, except for its evolve abilities, until end of turn. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Clefable</name>
@@ -444,7 +444,7 @@
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{G}{U}: Evolve to Venomoth
-				When this Pokémon enters the battlefield, target player reveals their hand.</text>
+				When Venonat enters the battlefield, target player reveals their hand.</text>
 		</card>
 		<card>
 			<name>Venomoth</name>
@@ -944,7 +944,7 @@
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{U}{R}: Evolve to Kingler
-				As long as Kingler has first strike, it has double strike.</text>
+				Kingler has double strike as long as it has first strike.</text>
 		</card>
 		<card>
 			<name>Voltorb</name>
@@ -1012,7 +1012,7 @@
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{G/W}{G/W}: Evolve from Cubone
-				{X}, {T}: Marowak deals X+3 damage to target attacking or blocking Pokémon, or target Pokémon with flying.</text>
+				{X}, {T}: Marowak deals X plus 3 damage to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
 		</card>
 		<card>
 			<name>Hitmonlee</name>
@@ -1065,8 +1065,7 @@
 			<type>Pokémon - Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>{X}{B}: Evolve from Koffing
-				When this Pokémon evolves, put X -1/-1 counters on up to X target Pokémon.
+			<text>{X}{B}: Evolve from Koffing. Put X -1/-1 counters on up to X target Pokémon.
 				This Pokémon gets +1/+1 for each -1/-1 counter on all Pokémon.</text>
 		</card>
 		<card>
@@ -1186,7 +1185,7 @@
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{U}: Evolve from Staryu
-				{T}: return target TM to its owner's hand.</text>
+				{T}: Return target TM to its owner's hand.</text>
 		</card>
 		<card>
 			<name>Mr. Mime</name>
@@ -1374,8 +1373,8 @@
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{U}{R}: Evolve from Omanyte
-				{U}: Omastar deals 1 damage to target Pokémon or trainer. Omastar deals 1 damage to you.
-				{R}: The next time Omastar deals damage, it deals 1 additional damage.
+				{U}: Omastar deals 1 damage to target Pokémon or trainer and 1 damage to you.
+				{R}: The next time Omastar would deal damage, it deals that much damage plus 1 instead.
 				Fossil {3}{U}{R}</text>
 		</card>
 		<card>
@@ -1399,7 +1398,7 @@
 			<tablerow>2</tablerow>
 			<text>{2}{U}{G}: Evolve from Kabuto
 				{G}: Kabutops gets +1/+1 until end of turn.
-				{U}: Kabutops fights target Pokémon. If that Pokémon dies, return it to its owner's hand instead.
+				{U}: Kabutops fights target Pokémon. If that Pokémon would die, return it to its owner's hand instead.
 				Fossil {3}{U}{G}</text>
 		</card>
 		<card>
@@ -2493,7 +2492,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-				Enchanted Pokémon gains infect.</text>
+				Enchanted Pokémon has infect.</text>
 		</card>
 		<card>
 			<name>Dream Eater</name>

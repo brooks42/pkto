@@ -22,7 +22,7 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/6</pt>
 			<tablerow>2</tablerow>
-			<text>1G: Venusaur gets +2/+2 and trample until end of the turn.</text>
+			<text>1G: Venusaur gets +2/+2 and gains trample until end of turn.</text>
 			<reverse-related attach="attach">Ivysaur</reverse-related>
 		</card>
 		<card>
@@ -137,7 +137,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Vigilance
-				T: Remove this Pokémon from combat.</text>
+				{T}: Remove Pidgeot from combat.</text>
 			<reverse-related attach="attach">Pidgeotto</reverse-related>
 		</card>
 		<card>
