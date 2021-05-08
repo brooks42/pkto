@@ -187,7 +187,7 @@
 			<tablerow>2</tablerow>
 			<text>{2}{W/R}: Evolve to Fearow
 				Flying
-				If Fearow would take damage from a Pokémon with first strike, prevent that damage.</text>
+				If Fearow would be dealt damage from a Pokémon with first strike, prevent that damage.</text>
 		</card>
 		<card>
 			<name>Ekans</name>
