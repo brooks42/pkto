@@ -22,8 +22,7 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/6</pt>
 			<tablerow>2</tablerow>
-			<text>
-				1G: Venusaur gets +2/+2 and trample until end of the turn.</text> 
+			<text>1G: Venusaur gets +2/+2 and trample until end of the turn.</text>
 			<reverse-related attach="attach">Ivysaur</reverse-related>
 		</card>
 		<card>
@@ -48,7 +47,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Hexproof
-				Whenever Blastoise blocks, it gains indestructible until end of turn.</text> 
+				Whenever Blastoise blocks, it gains indestructible until end of turn.</text>
 			<reverse-related attach="attach">Wartortle</reverse-related>
 		</card>
 		<card>
@@ -71,7 +70,7 @@
 			<type>Pokémon - Fire Flying</type>
 			<pt>6/3</pt>
 			<tablerow>2</tablerow>
-			<text>Sacrifice a Mountain: Charizard gains double strike until end of turn.</text> 
+			<text>Sacrifice a Mountain: Charizard gains double strike until end of turn.</text>
 			<reverse-related attach="attach">Charmeleon</reverse-related>
 		</card>
 		<card>
@@ -82,7 +81,7 @@
 			<type>Pokémon - Bug</type>
 			<pt>0/4</pt>
 			<tablerow>2</tablerow>
-			<text>2G: Evolve to Butterfree</text> 
+			<text>2G: Evolve to Butterfree</text>
 			<reverse-related attach="attach">Caterpie</reverse-related>
 		</card>
 		<card>
@@ -93,7 +92,7 @@
 			<type>Pokémon - Bug Flying</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Butterfree deals combat damage to another Pokémon, if that Pokémon would die this turn, its owner shuffles it into their library instead.</text> 
+			<text>Whenever Butterfree deals combat damage to another Pokémon, if that Pokémon would die this turn, its owner shuffles it into their library instead.</text>
 			<reverse-related attach="attach">Metapod</reverse-related>
 		</card>
 		<card>
@@ -104,7 +103,7 @@
 			<type>Pokémon - Bug Poison</type>
 			<pt>0/3</pt>
 			<tablerow>2</tablerow>
-			<text>2G: Evolve to Beedrill</text> 
+			<text>2G: Evolve to Beedrill</text>
 			<reverse-related attach="attach">Weedle</reverse-related>
 		</card>
 		<card>
@@ -115,7 +114,7 @@
 			<type>Pokémon - Bug Poison</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
-			<text>Double strike</text> 
+			<text>Double strike</text>
 			<reverse-related attach="attach">Kakuna</reverse-related>
 		</card>
 		<card>
@@ -126,7 +125,7 @@
 			<type>Pokémon - Normal Flying</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>2W: Evolve to Pidgeot</text> 
+			<text>2W: Evolve to Pidgeot</text>
 			<reverse-related attach="attach">Pidgey</reverse-related>
 		</card>
 		<card>
@@ -138,7 +137,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Vigilance
-				T: Remove this Pokémon from combat.</text> 
+				T: Remove this Pokémon from combat.</text>
 			<reverse-related attach="attach">Pidgeotto</reverse-related>
 		</card>
 		<card>
@@ -149,7 +148,7 @@
 			<type>Pokémon - Normal</type>
 			<pt>4/2</pt>
 			<tablerow>2</tablerow>
-			<text></text> 
+			<text></text>
 			<reverse-related attach="attach">Rattata</reverse-related>
 		</card>
 		<card>
@@ -160,7 +159,7 @@
 			<type>Pokémon - Normal Flying</type>
 			<pt>4/2</pt>
 			<tablerow>2</tablerow>
-			<text>Flying</text> 
+			<text>Flying</text>
 			<reverse-related attach="attach">Spearow</reverse-related>
 		</card>
 		<card>
@@ -171,7 +170,7 @@
 			<type>Pokémon - Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Deathtouch</text> 
+			<text>Deathtouch</text>
 			<reverse-related attach="attach">Ekans</reverse-related>
 		</card>
 		<card>
@@ -182,7 +181,7 @@
 			<type>Pokémon - Electric</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>T: Raichu deals 3 damage to target Pokémon.</text> 
+			<text>T: Raichu deals 3 damage to target Pokémon.</text>
 			<reverse-related attach="attach">Pikachu</reverse-related>
 		</card>
 		<card>
@@ -193,7 +192,7 @@
 			<type>Pokémon - Ground</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
-			<text>Protection from Electric</text> 
+			<text>Protection from Electric</text>
 			<reverse-related attach="attach">Sandshrew</reverse-related>
 		</card>
 		<card>
@@ -204,7 +203,7 @@
 			<type>Pokémon - Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>2B: Evolve to Nidoqueen</text> 
+			<text>2B: Evolve to Nidoqueen</text>
 			<reverse-related attach="attach">Nidoran♀</reverse-related>
 		</card>
 		<card>
@@ -216,7 +215,7 @@
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Trample
-				Whenever Nidoqueen deals combat damage to a player, search your library for a Pokémon card and put it into your hand. Then shuffle.</text> 
+				Whenever Nidoqueen deals combat damage to a player, search your library for a Pokémon card and put it into your hand. Then shuffle.</text>
 			<reverse-related attach="attach">Nidorina</reverse-related>
 		</card>
 		<card>
@@ -228,7 +227,7 @@
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>2B: Evolve to Nidoking
-				Trample</text> 
+				Trample</text>
 			<reverse-related attach="attach">Nidoran♂</reverse-related>
 		</card>
 		<card>
@@ -239,7 +238,7 @@
 			<type>Pokémon - Poison Ground</type>
 			<pt>6/5</pt>
 			<tablerow>2</tablerow>
-			<text>Protection from Electric and Steel</text> 
+			<text>Protection from Electric and Steel</text>
 			<reverse-related attach="attach">Nidorino</reverse-related>
 		</card>
 		<card>
@@ -482,7 +481,7 @@
 			<text>You don't lose the game for having 10 or more poison counters.
 				Pokémon you control can't have -1/-1 counters put on them.</text>
 			<reverse-related attach="attach">Weepinbell</reverse-related>
-		</card>		
+		</card>
 		<card>
 			<name>Tentacruel</name>
 			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
@@ -505,7 +504,7 @@
 			<text>{2}{R}{R}: Evolve to Golem
 				{T}: Graveler gains indestructible until end of turn.</text>
 			<reverse-related attach="attach">Geodude</reverse-related>
-		</card>		
+		</card>
 		<card>
 			<name>Golem</name>
 			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
@@ -527,7 +526,7 @@
 			<tablerow>2</tablerow>
 			<text>Haste</text>
 			<reverse-related attach="attach">Ponyta</reverse-related>
-		</card>	
+		</card>
 		<card>
 			<name>Slowbro</name>
 			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
@@ -539,7 +538,7 @@
 			<text>Pokémon blocking or blocked by Slowbro have first strike.
 				{2}{U}: Draw two cards, then put a card from your hand on the bottom of your library.</text>
 			<reverse-related attach="attach">Slowpoke</reverse-related>
-		</card>	
+		</card>
 		<card>
 			<name>Magneton</name>
 			<set picURL="https://images.pokemontcg.io/base4/9_hires.png" rarity="token">PTCG</set>
@@ -548,7 +547,7 @@
 			<type>Pokémon - Electric Steel</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>4: Magneton deals damage equal its power to target Flying Pokémon.</text> 
+			<text>4: Magneton deals damage equal its power to target Flying Pokémon.</text>
 			<reverse-related attach="attach">Magnemite</reverse-related>
 		</card>
 		<card>
@@ -705,7 +704,7 @@
 			<type>Pokémon - Water</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-				<text>If Seadra would be returned to your hand, you may return another Pokémon you control instead. If you do, you may draw a card and discard a card.</text>
+			<text>If Seadra would be returned to your hand, you may return another Pokémon you control instead. If you do, you may draw a card and discard a card.</text>
 			<reverse-related attach="attach">Horsea</reverse-related>
 		</card>
 		<card>

@@ -20,6 +20,17 @@
 				T: Add G.</text>
 		</card>
 		<card>
+			<name>Venusaur</name>
+			<set picURL="https://images.pokemontcg.io/base6/68_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>2BGG</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>2BG: Evolve from Ivysaur
+				Whenever Venusaur evolves or becomes tapped, put a +1/+1 counter on it.</text>
+		</card>
+		<card>
 			<name>Squirtle</name>
 			<set picURL="https://images.pokemontcg.io/base6/95_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
@@ -31,6 +42,17 @@
 				Whenever Squirtle blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
 		</card>
 		<card>
+			<name>Blastoise</name>
+			<set picURL="https://images.pokemontcg.io/base6/95_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>2WUU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/6</pt>
+			<tablerow>2</tablerow>
+			<text>2WU: Evolve from Wartotle
+				You can have Pokémon you control assign combat damage equal to its toughness rather than its power.</text>
+		</card>
+		<card>
 			<name>Charmander</name>
 			<set picURL="https://images.pokemontcg.io/base5/50_hires.png" rarity="common">PTCG</set>
 			<color>R</color>
@@ -40,6 +62,19 @@
 			<tablerow>2</tablerow>
 			<text>2R: Evolve to Charmeleon
 				R: Charmander gets +1/+0 until end of turn.</text>
+		</card>
+		<card>
+			<name>Charizard</name>
+			<set picURL="https://images.pokemontcg.io/base5/50_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1WRR</manacost>
+			<type>Pokémon - Fire Flying</type>
+			<pt>6/4</pt>
+			<tablerow>2</tablerow>
+			<text>2R: Evolve from Charmeleon
+				Flying
+				Charizard attacks each turn if able.
+				When Charizard becomes blocked, double its power until end of turn.</text>
 		</card>
 		<card>
 			<name>Caterpie</name>
@@ -99,6 +134,17 @@
 				Flying</text>
 		</card>
 		<card>
+			<name>Pidgeot</name>
+			<set picURL="https://images.pokemontcg.io/base4/86_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>2WWW</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>1WW: Evolve from Pidgeotto
+				Flying, vigilance, haste</text>
+		</card>
+		<card>
 			<name>Rattata</name>
 			<set picURL="https://images.pokemontcg.io/base5/66_hires.png" rarity="common">PTCG</set>
 			<color>WR</color>
@@ -110,6 +156,17 @@
 				First strike</text>
 		</card>
 		<card>
+			<name>Raticate</name>
+			<set picURL="https://images.pokemontcg.io/base5/66_hires.png" rarity="common">PTCG</set>
+			<color>WR</color>
+			<manacost>1{W/R}{W/R}</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>2{W/R}: Evolve from Rattata
+				When Raticate dies, you gain 5 life.</text>
+		</card>
+		<card>
 			<name>Spearow</name>
 			<set picURL="https://images.pokemontcg.io/gym1/83_hires.png" rarity="uncommon">PTCG</set>
 			<color>WB</color>
@@ -119,6 +176,18 @@
 			<tablerow>2</tablerow>
 			<text>1{W/R}: Evolve to Fearow
 				First strike, intimidate</text>
+		</card>
+		<card>
+			<name>Fearow</name>
+			<set picURL="https://images.pokemontcg.io/gym1/83_hires.png" rarity="uncommon">PTCG</set>
+			<color>WB</color>
+			<manacost>{2}{W/B}{W/B}{W/B}</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>5/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{W/R}: Evolve to Fearow
+				Flying
+				If Fearow would take damage from a Pokémon with first strike, prevent that damage.</text>
 		</card>
 		<card>
 			<name>Ekans</name>
@@ -139,7 +208,7 @@
 			<type>Pokémon - Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>B: Evolve from Ekans
+			<text>{B}: Evolve from Ekans
 				Whenever this Pokémon evolves, put a +1/+1 counter on it.</text>
 		</card>
 		<card>
@@ -150,8 +219,19 @@
 			<type>Pokémon - Electric</type>
 			<pt>2/1</pt>
 			<tablerow>2</tablerow>
-			<text>2WR: Evolve to Raichu
+			<text>{2}{W}{R}: Evolve to Raichu
 				First strike, haste</text>
+		</card>
+		<card>
+			<name>Raichu</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="rare">PTCG</set>
+			<color>WR</color>
+			<manacost>3WR</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{W}{R}: Evolve from Pikachu
+				When Raichu attacks, if it has first strike, it gains double strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Sandshrew</name>
@@ -165,6 +245,17 @@
 				If an odd amount of damage would be dealt to Sandshrew, prevent that damage.</text>
 		</card>
 		<card>
+			<name>Sandslash</name>
+			<set picURL="https://images.pokemontcg.io/base6/91_hires.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>4G</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>2G: Evolve from Sandshrew
+				If an even amount of damage would be dealt to Sandslash, prevent that damage.</text>
+		</card>
+		<card>
 			<name>Nidoran♀</name>
 			<set picURL="https://images.pokemontcg.io/ecard2/96_hires.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
@@ -176,6 +267,17 @@
 				2B: Search your library for a card named Nidoran♀ or Nidoran♂ and put it onto the battlefield. Then shuffle.</text>
 		</card>
 		<card>
+			<name>Nidoqueen</name>
+			<set picURL="https://images.pokemontcg.io/ecard2/96_hires.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>6B</manacost>
+			<type>Pokémon - Poison Ground</type>
+			<pt>4/7</pt>
+			<tablerow>2</tablerow>
+			<text>3BB: Evolve from Nidorina
+				If a Pokémon you control with no +1/+1 counters on it would be put into the graveyard from the battlefield, exile it instead. Return it to the battlefield under its owner's control with a +1/+1 counter on it at the beginning of the next end step.</text>
+		</card>
+		<card>
 			<name>Nidoran♂</name>
 			<set picURL="https://images.pokemontcg.io/ecard3/81_hires.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
@@ -185,6 +287,17 @@
 			<tablerow>2</tablerow>
 			<text>1B: Evolve to Nidorino
 				When this Pokémon attacks, it gains first strike and deathtouch.</text>
+		</card>
+		<card>
+			<name>Nidoking</name>
+			<set picURL="https://images.pokemontcg.io/ecard3/81_hires.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>5BB</manacost>
+			<type>Pokémon - Poison Ground</type>
+			<pt>8/6</pt>
+			<tablerow>2</tablerow>
+			<text>4B: Evolve from Nidorino
+				{B}, sacrifice a Pokémon: Nidoking gains indestructible until end of turn. Put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Clefairy</name>
@@ -200,6 +313,17 @@
 				{2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon. This Pokémon gains all abilities of the revealed card, except for its evolve abilities, until end of turn. Then shuffle.</text>
 		</card>
 		<card>
+			<name>Clefable</name>
+			<set picURL="https://images.pokemontcg.io/ex6/59_hires.png" rarity="rare">PTCG</set>
+			<color>WB</color>
+			<manacost>2WB</manacost>
+			<type>Pokémon - Fairy</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>1{W/B}: Evolve from Clefairy
+				Whenever Clefable becomes tapped, you gain life equal to its toughness.</text>
+		</card>
+		<card>
 			<name>Vulpix</name>
 			<set picURL="https://images.pokemontcg.io/bw6/18_hires.png" rarity="rare">PTCG</set>
 			<color>R</color>
@@ -209,6 +333,17 @@
 			<tablerow>2</tablerow>
 			<text>1R: Evolve to Ninetales
 				R: Vulpix gets +1/+0 and first strike until end of turn.</text>
+		</card>
+		<card>
+			<name>Ninetales</name>
+			<set picURL="https://images.pokemontcg.io/bw6/18_hires.png" rarity="rare">PTCG</set>
+			<color>R</color>
+			<manacost>2{B/R}{B/R}</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>1{B/R}: Evolve from Vulpix
+				{1}{B}{R}: Tap target Pokémon and gain control of it until end of turn.</text>
 		</card>
 		<card>
 			<name>Jigglypuff</name>
@@ -243,6 +378,17 @@
 			<text>{1}{B/G}{B/G}: Evolve to Gloom</text>
 		</card>
 		<card>
+			<name>Vileplume</name>
+			<set picURL="https://images.pokemontcg.io/base5/63_hires.png" rarity="common">PTCG</set>
+			<color>BG</color>
+			<manacost>1{B/G}{B/G}{B/G}</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>3/5</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{B/G}{B/G}: Evolve from Gloom
+				{T}, discard a card: add mana equal to the discarded card's mana value.</text>
+		</card>
+		<card>
 			<name>Paras</name>
 			<set picURL="https://images.pokemontcg.io/base4/85_hires.png" rarity="common">PTCG</set>
 			<color>G</color>
@@ -254,6 +400,18 @@
 				Protection from Grass and Bug
 				Weakness to Fire and Ice (if this Pokémon is dealt damage by a Fire or Ice Pokémon, destroy it.)
 			</text>
+		</card>
+		<card>
+			<name>Parasect</name>
+			<set picURL="https://images.pokemontcg.io/base4/85_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>3G</manacost>
+			<type>Pokémon - Bug Grass</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>1G: Evolve from Paras
+				Lifelink
+				If Paras would take damage from a Water Pokémon, prevent that damage. You gain that much life.</text>
 		</card>
 		<card>
 			<name>Venonat</name>
@@ -297,8 +455,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>1WB: Evolve from Meowth
-				When this Pokémon evolves, put a +1/+1 counter on it.
-				Discard a card: Persian gains first strike until end of turn.</text>
+				Discard a card: Persian gains first strike and trample until end of turn.</text>
 		</card>
 		<card>
 			<name>Psyduck</name>
@@ -448,6 +605,16 @@
 			{1}: Geodude gains +0/+1 until end of turn.</text>
 		</card>
 		<card>
+			<name>Golem</name>
+			<set picURL="https://images.pokemontcg.io/base6/77_hires.png" rarity="common">PTCG</set>
+			<color>RG</color>
+			<manacost>1RRG</manacost>
+			<type>Pokémon - Rock Ground</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{R}{G}: Evolve from Graveler</text>
+		</card>
+		<card>
 			<name>Ponyta</name>
 			<set picURL="https://images.pokemontcg.io/base5/64_hires.png" rarity="uncommon">PTCG</set>
 			<color>R</color>
@@ -470,6 +637,17 @@
 				{U}, {T}: Search your library for a card named Shellder and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
+			<name>Slowbro</name>
+			<set picURL="https://images.pokemontcg.io/base5/67_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>2UUB</manacost>
+			<type>Pokémon - Water Psychic</type>
+			<pt>3/6</pt>
+			<tablerow>2</tablerow>
+			<text>{U}{B}: Evolve from Slowpoke
+				{U}{B}, {T}, discard a card: draw 2 cards, then put a +1/+1 counter on Slowbro.</text>
+		</card>
+		<card>
 			<name>Magnemite</name>
 			<set picURL="https://images.pokemontcg.io/base6/80_hires.png" rarity="common">PTCG</set>
 			<color></color>
@@ -480,6 +658,18 @@
 			<text>3: Evolve to Magneton. Activate this ability only if Magnemite has two or more +1/+1 counters on it.
 				{3}: Put a +1/+1 counter on Magnemite.
 				Protection from Ground</text>
+		</card>
+		<card>
+			<name>Magneton</name>
+			<set picURL="https://images.pokemontcg.io/base6/80_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>4</manacost>
+			<type>Pokémon - Electric Steel</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>3: Evolve from Magnemite
+				When this Pokémon evolves, put 3 +1/+1 counters on it.
+				Protection from Poison</text>
 		</card>
 		<card>
 			<name>Farfetch'd</name>
@@ -544,6 +734,17 @@
 			<tablerow>2</tablerow>
 			<text>{1}{B}{B}: Evolve to Haunter
 				Protection from Ground and Fighting</text>
+		</card>
+		<card>
+			<name>Gengar</name>
+			<set picURL="https://images.pokemontcg.io/xy12/47_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>3{B}{B}{B}</manacost>
+			<type>Pokémon - Ghost Poison</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{B}{B}: Evolve from Haunter
+				{B}{B}{B}{B}{B}, {T}: Target player loses 10 life.</text>
 		</card>
 		<card>
 			<name>Onix</name>
@@ -611,6 +812,18 @@
 			<text>{1}{G}{G}{B}: Evolve to Exeggutor</text>
 		</card>
 		<card>
+			<name>Exeggutor</name>
+			<set picURL="https://images.pokemontcg.io/bw10/102_hires.png" rarity="uncommon">PTCG</set>
+			<color>GB</color>
+			<manacost>2GGB</manacost>
+			<type>Pokémon - Grass Psychic</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{G}{G}{B}: Evolve from Exeggcute
+				Reach
+				Whenever Exeggutor blocks a Pokémon with flying, it deals 3 damage to that Pokémon and you draw a card.</text>
+		</card>
+		<card>
 			<name>Cubone</name>
 			<set picURL="https://images.pokemontcg.io/xy8/77_hires.png" rarity="uncommon">PTCG</set>
 			<color>WG</color>
@@ -619,7 +832,7 @@
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{G}{G/W}: Evolve to Marowak
-				Evolve abilities of Pokémon named Cubone you control cost {1} less to activate.
+				Evolve abilities of Pokémon you control cost {1} less to activate.
 				Reach</text>
 		</card>
 		<card>
@@ -741,6 +954,17 @@
 				Whenever Staryu deals combat damage, you may draw a card. If you do, discard a card.</text>
 		</card>
 		<card>
+			<name>Starmie</name>
+			<set picURL="https://images.pokemontcg.io/ex5/75_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>3UU</manacost>
+			<type>Pokémon - Water Psychic</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}: Evolve from Staryu
+				{T}: return target TM to its owner's hand.</text>
+		</card>
+		<card>
 			<name>Mr. Mime</name>
 			<set picURL="https://images.pokemontcg.io/ex6/110_hires.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
@@ -821,6 +1045,17 @@
 			<text>{6}{U}{R}: Evolve to Gyarados</text>
 		</card>
 		<card>
+			<name>Gyarados</name>
+			<set picURL="https://images.pokemontcg.io/base5/47_hires.png" rarity="mythic">PTCG</set>
+			<color>UR</color>
+			<manacost>UUUURRRR</manacost>
+			<type>Pokémon - Water Flying</type>
+			<pt>10/10</pt>
+			<tablerow>2</tablerow>
+			<text>{6}{U}{R}: Evolve from Magikarp
+				Whenever this Pokémon evolves, destroy all other Pokémon.</text>
+		</card>
+		<card>
 			<name>Lapras</name>
 			<set picURL="https://images.pokemontcg.io/si1/12_hires.png" rarity="rare">PTCG</set>
 			<color>WU</color>
@@ -850,6 +1085,39 @@
 			<text>{3}{U}: Evolve to Vaporeon
 				{3}{W}: Evolve to Jolteon
 				{3}{R}: Evolve to Flareon</text>
+		</card>
+		<card>
+			<name>Vaporeon</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/5</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{U}: Evolve from Eevee
+				Whenever a Pokémon you control evolves, draw a card, then discard a card.</text>
+		</card>
+		<card>
+			<name>Jolteon</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="uncommon">PTCG</set>
+			<color>W</color>
+			<manacost>2WW</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{W}: Evolve from Eevee
+				Whenever a Pokémon you control evolves, that Pokémons gains vigilance until end of turn.</text>
+		</card>
+		<card>
+			<name>Flareon</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="uncommon">PTCG</set>
+			<color>R</color>
+			<manacost>2RR</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{R}: Evolve from Eevee
+				Whenever a Pokémon you control evolves, Flareon deals 2 damage to target Pokémon.</text>
 		</card>
 		<card>
 			<name>Porygon</name>
