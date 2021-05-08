@@ -819,7 +819,7 @@
 			<name>Dewgong</name>
 			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="common">PTCG</set>
 			<color>WU</color>
-			<manacost>WU</manacost>
+			<manacost>3WU</manacost>
 			<type>Pokémon - Water Ice</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
