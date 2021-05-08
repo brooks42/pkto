@@ -365,7 +365,7 @@
 			<pt>1/6</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{W}: Evolve from Jigglypuff
-				When Wigglytuff deals combat damage to a Pokémon, that Pokémon's base power becomes 0 until Wigglytuff leaves the battlefield.</text>
+				Whenever Wigglytuff deals combat damage to a Pokémon, that Pokémon's base power becomes 0 until Wigglytuff leaves the battlefield.</text>
 		</card>
 		<card>
 			<name>Zubat</name>
@@ -408,7 +408,7 @@
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{B/G}{B/G}: Evolve from Gloom
-				{T}, discard a card: add mana equal to the discarded card's mana value.</text>
+				{T}, Discard a card: add mana equal to the discarded card's mana value.</text>
 		</card>
 		<card>
 			<name>Paras</name>
@@ -433,7 +433,7 @@
 			<tablerow>2</tablerow>
 			<text>1G: Evolve from Paras
 				Lifelink
-				If Paras would take damage from a Water Pokémon, prevent that damage. You gain that much life.</text>
+				If Parasect would be dealt damage by a Water Pokémon, prevent that damage. You gain that much life.</text>
 		</card>
 		<card>
 			<name>Venonat</name>
@@ -456,7 +456,7 @@
 			<tablerow>2</tablerow>
 			<text>{G}{U}: Evolve from Venonat
 				Flying
-				When this Pokémon evolves, name a Pokémon card. Target opponent reveals their hand. If a card with that name is among those cards, put it onto the battlefield under your control.</text>
+				Whenever this Pokémon evolves, choose a Pokémon card name. Target opponent reveals their hand. Put all cards revealed this way with the chosen name onto the battlefield under your control.</text>
 		</card>
 		<card>
 			<name>Diglett</name>
@@ -478,7 +478,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{R}: Evolve from Diglett
-				When this Pokémon evolves, it gains haste until end of turn.</text>
+				Whenever this Pokémon evolves, it gains haste until end of turn.</text>
 		</card>
 		<card>
 			<name>Meowth</name>
@@ -500,7 +500,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>1WB: Evolve from Meowth
-				Discard a card: Persian gains +1/+0, first strike, and trample until end of turn.</text>
+				Discard a card: Persian gets +1/+0 and gains first strike and trample until end of turn.</text>
 		</card>
 		<card>
 			<name>Psyduck</name>
@@ -567,7 +567,7 @@
 			<pt>7/6</pt>
 			<tablerow>2</tablerow>
 			<text>3{R/W}{R/W}: Evolve from Growlithe
-				Double all damage this Pokémon deals to other Pokémon.</text>
+				If Arcanine would deal damage to a Pokémon, it deals double that damage to that Pokémon instead.</text>
 		</card>
 		<card>
 			<name>Poliwag</name>
@@ -746,7 +746,7 @@
 			<pt>3/6</pt>
 			<tablerow>2</tablerow>
 			<text>{U}{B}: Evolve from Slowpoke
-				{U}{B}, {T}, discard a card: draw 2 cards, then put a +1/+1 counter on Slowbro.</text>
+				{U}{B}, {T}, Discard a card: Draw two cards, then put a +1/+1 counter on Slowbro.</text>
 		</card>
 		<card>
 			<name>Magnemite</name>
@@ -769,7 +769,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>3: Evolve from Magnemite
-				When this Pokémon evolves, put 3 +1/+1 counters on it.
+				Whenever this Pokémon evolves, put three +1/+1 counters on it.
 				Protection from Poison</text>
 		</card>
 		<card>
@@ -802,7 +802,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>1{R/B}{R/B}: Evolve from Doduo
-				When this Pokémon evolves, reveal your hand. Put a +1/+1 counter on Dodrio for each red or black card revealed this way.
+				Whenever this Pokémon evolves, reveal your hand. Put a +1/+1 counter on it for each red or black card revealed this way.
 				Double strike, haste</text>
 		</card>
 		<card>
@@ -824,7 +824,7 @@
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{W}{U}: Evolve from Seel
-				{T}: remove all damage from Dewgong. You gain life equal to the damage removed this way.</text>
+				{T}: Remove all damage from Dewgong. You gain life equal to the damage removed this way.</text>
 		</card>
 		<card>
 			<name>Grimer</name>
@@ -846,7 +846,7 @@
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{B}{B}: Evolve from Grimer
-				Whenever a Pokémon with -1/-1 counters on it dies, move those counters to another Pokémon with a different owner.</text>
+				Whenever a Pokémon with -1/-1 counters on it dies, put those counters on another Pokémon with a different owner.</text>
 		</card>
 		<card>
 			<name>Shellder</name>
