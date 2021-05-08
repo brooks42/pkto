@@ -186,7 +186,7 @@
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{W/B}: Evolve from Spearow
-				Flying
+				If Fearow would take damage from a Pokémon with first strike, prevent that damage.
 				If Fearow would be dealt damage from a Pokémon with first strike, prevent that damage.</text>
 		</card>
 		<card>
@@ -380,7 +380,7 @@
 		</card>
 		<card>
 			<name>Golbat</name>
-			<set picURL="https://images.pokemontcg.io/base3/57_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base3/57_hires.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>1BB</manacost>
 			<type>Pokémon - Poison Flying</type>
@@ -1066,7 +1066,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{X}{B}: Evolve from Koffing. Put X -1/-1 counters on up to X target Pokémon.
-				This Pokémon gets +1/+1 for each -1/-1 counter on all Pokémon.</text>
+				Weezing gets +1/+1 for each Pokémon with a -1/-1 counter on it.</text>
 		</card>
 		<card>
 			<name>Rhyhorn</name>
