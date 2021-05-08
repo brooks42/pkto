@@ -357,6 +357,17 @@
 				{W}: Jigglypuff gets +0/+1 until end of turn.</text>
 		</card>
 		<card>
+			<name>Wigglytuff</name>
+			<set picURL="https://images.pokemontcg.io/base4/77_hires.png" rarity="uncommon">PTCG</set>
+			<color>W</color>
+			<manacost>2WW</manacost>
+			<type>Pokémon - Normal Fairy</type>
+			<pt>1/6</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{W}: Evolve from Jigglypuff
+				When Wigglytuff deals combat damage to a Pokémon, that Pokémon's base power becomes 0 until Wigglytuff leaves the battlefield.</text>
+		</card>
+		<card>
 			<name>Zubat</name>
 			<set picURL="https://images.pokemontcg.io/base3/57_hires.png" rarity="common">PTCG</set>
 			<color>B</color>
@@ -364,8 +375,19 @@
 			<type>Pokémon - Poison Flying</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>2B: Evolve to Golbat
+			<text>{2}{B}: Evolve to Golbat
 				Flying</text>
+		</card>
+		<card>
+			<name>Golbat</name>
+			<set picURL="https://images.pokemontcg.io/base3/57_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1BB</manacost>
+			<type>Pokémon - Poison Flying</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{B}: Evolve from Zubat
+				Lifelink, deathtouch</text>
 		</card>
 		<card>
 			<name>Oddish</name>
@@ -421,8 +443,20 @@
 			<type>Pokémon - Bug Poison</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>2GU: Evolve to Venomoth
+			<text>{2}{G}{U}: Evolve to Venomoth
 				When this Pokémon enters the battlefield, target player reveals their hand.</text>
+		</card>
+		<card>
+			<name>Venomoth</name>
+			<set picURL="https://images.pokemontcg.io/gym1/96_hires.png" rarity="common">PTCG</set>
+			<color>GU</color>
+			<manacost>2GU</manacost>
+			<type>Pokémon - Bug Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{G}{U}: Evolve from Venonat
+				Flying
+				When this Pokémon evolves, name a Pokémon card. Target opponent reveals their hand. If a card with that name is among those cards, put it onto the battlefield under your control.</text>
 		</card>
 		<card>
 			<name>Diglett</name>
@@ -432,8 +466,19 @@
 			<type>Pokémon - Ground</type>
 			<pt>2/1</pt>
 			<tablerow>2</tablerow>
-			<text>3R: Evolve to Dugtrio
+			<text>{3}{R}: Evolve to Dugtrio
 				You may have Diglett assign its combat damage as though it weren't blocked.</text>
+		</card>
+		<card>
+			<name>Dugtrio</name>
+			<set picURL="https://images.pokemontcg.io/base4/71_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1RR</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{R}: Evolve from Diglett
+				When this Pokémon evolves, it gains haste until end of turn.</text>
 		</card>
 		<card>
 			<name>Meowth</name>
@@ -455,7 +500,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>1WB: Evolve from Meowth
-				Discard a card: Persian gains first strike and trample until end of turn.</text>
+				Discard a card: Persian gains +1/+0, first strike, and trample until end of turn.</text>
 		</card>
 		<card>
 			<name>Psyduck</name>
@@ -469,6 +514,17 @@
 				Whenever Psyduck’s power or toughness become 5 or greater, if it is unevolved, it deals 4 damage to each player and each Pokémon.</text>
 		</card>
 		<card>
+			<name>Golduck</name>
+			<set picURL="https://images.pokemontcg.io/base3/53_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}: Evolve from Psyduck
+				You may cast TM spells as though they had flash.</text>
+		</card>
+		<card>
 			<name>Mankey</name>
 			<set picURL="https://images.pokemontcg.io/base5/61_hires.png" rarity="common">PTCG</set>
 			<color>R</color>
@@ -476,8 +532,19 @@
 			<type>Pokémon - Fighting</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>2R: Evolve to Primeape
+			<text>{2}{R}: Evolve to Primeape
 				Haste, reach</text>
+		</card>
+		<card>
+			<name>Primeape</name>
+			<set picURL="https://images.pokemontcg.io/base5/61_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>2RR</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>5/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{R}: Evolve from Mankey
+				Menace</text>
 		</card>
 		<card>
 			<name>Growlithe</name>
@@ -490,6 +557,17 @@
 			<text>3{R/W}: Evolve to Arcanine
 				Vigilance
 				Whenever Growlithe deals damage to a Pokémon, if that Pokémon would die this turn, exile it instead.</text>
+		</card>
+		<card>
+			<name>Arcanine</name>
+			<set picURL="https://images.pokemontcg.io/bw4/11_hires.png" rarity="rare">PTCG</set>
+			<color>RW</color>
+			<manacost>5{R/W}{R/W}</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>7/6</pt>
+			<tablerow>2</tablerow>
+			<text>3{R/W}{R/W}: Evolve from Growlithe
+				Double all damage this Pokémon deals to other Pokémon.</text>
 		</card>
 		<card>
 			<name>Poliwag</name>
@@ -594,6 +672,18 @@
 				Deathtouch</text>
 		</card>
 		<card>
+			<name>Tentacruel</name>
+			<set picURL="https://images.pokemontcg.io/base6/96_hires.png" rarity="common">PTCG</set>
+			<color>UB</color>
+			<manacost>4UB</manacost>
+			<type>Pokémon - Water Poison</type>
+			<pt>4/6</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{U}{B}: Evolve from Tentacool
+				Islandwalk
+				All lands are Islands and Swamps in addition to their other types.</text>
+		</card>
+		<card>
 			<name>Geodude</name>
 			<set picURL="https://images.pokemontcg.io/base6/77_hires.png" rarity="common">PTCG</set>
 			<color>R</color>
@@ -624,6 +714,17 @@
 			<tablerow>2</tablerow>
 			<text>{1}{R}: Evolve to Rapidash
 				Trample</text>
+		</card>
+		<card>
+			<name>Rapidash</name>
+			<set picURL="https://images.pokemontcg.io/base5/64_hires.png" rarity="uncommon">PTCG</set>
+			<color>R</color>
+			<manacost>4R</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{R}: Evolve from Ponyta
+				First strike, haste</text>
 		</card>
 		<card>
 			<name>Slowpoke</name>
@@ -693,6 +794,18 @@
 				First strike, haste</text>
 		</card>
 		<card>
+			<name>Dodrio</name>
+			<set picURL="https://images.pokemontcg.io/ecard2/73_hires.png" rarity="common">PTCG</set>
+			<color>RB</color>
+			<manacost>3RB</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>1{R/B}{R/B}: Evolve from Doduo
+				When this Pokémon evolves, reveal your hand. Put a +1/+1 counter on Dodrio for each red or black card revealed this way.
+				Double strike, haste</text>
+		</card>
+		<card>
 			<name>Seel</name>
 			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="common">PTCG</set>
 			<color>WU</color>
@@ -703,6 +816,17 @@
 			<text>{1}{W}{U}: Evolve to Dewgong</text>
 		</card>
 		<card>
+			<name>Dewgong</name>
+			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="common">PTCG</set>
+			<color>WU</color>
+			<manacost>WU</manacost>
+			<type>Pokémon - Water Ice</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{W}{U}: Evolve from Seel
+				{T}: remove all damage from Dewgong. You gain life equal to the damage removed this way.</text>
+		</card>
+		<card>
 			<name>Grimer</name>
 			<set picURL="https://images.pokemontcg.io/bw4/52_hires.png" rarity="common">PTCG</set>
 			<color>B</color>
@@ -710,8 +834,19 @@
 			<type>Pokémon - Poison</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>3{B}{B}: Evolve to Muk
+			<text>{3}{B}{B}: Evolve to Muk
 				{B}{B}, {T}: Put a -1/-1 counter on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Muk</name>
+			<set picURL="https://images.pokemontcg.io/bw4/52_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1BBB</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{B}{B}: Evolve from Grimer
+				Whenever a Pokémon with -1/-1 counters on it dies, move those counters to another Pokémon with a different owner.</text>
 		</card>
 		<card>
 			<name>Shellder</name>
@@ -723,6 +858,17 @@
 			<tablerow>2</tablerow>
 			<text>{2}{U}{U}: Evolve to Cloyster
 				{2}, {T}: Draw a card, then discard a card.</text>
+		</card>
+		<card>
+			<name>Cloyster</name>
+			<set picURL="https://images.pokemontcg.io/g1/19_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>2UR</manacost>
+			<type>Pokémon - Water Ice</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>{U}{R}: Evolve from Shellder
+				{T}: Cloyster deals 1 damage to up to three target Pokémon or trainers.</text>
 		</card>
 		<card>
 			<name>Gastly</name>
@@ -768,6 +914,17 @@
 				{T}: Tap or untap target Pokémon.</text>
 		</card>
 		<card>
+			<name>Hypno</name>
+			<set picURL="https://images.pokemontcg.io/base4/73_hires.png" rarity="uncommon">PTCG</set>
+			<color>UB</color>
+			<manacost>3UB</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{U}{B}: Evolve from Drowzee
+				Tapped Pokémon get -1/-1.</text>
+		</card>
+		<card>
 			<name>Krabby</name>
 			<set picURL="https://images.pokemontcg.io/base3/51_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
@@ -777,6 +934,17 @@
 			<tablerow>2</tablerow>
 			<text>{1}{U}{R}: Evolve to Kingler
 				{R}: Krabby gets +1/+0 and gains first strike until end of turn.</text>
+		</card>
+		<card>
+			<name>Kingler</name>
+			<set picURL="https://images.pokemontcg.io/base3/51_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>3UR</manacost>
+			<type>Pokémon - Water</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}{R}: Evolve to Kingler
+				As long as Kingler has first strike, it has double strike.</text>
 		</card>
 		<card>
 			<name>Voltorb</name>
@@ -836,6 +1004,17 @@
 				Reach</text>
 		</card>
 		<card>
+			<name>Marowak</name>
+			<set picURL="https://images.pokemontcg.io/xy8/77_hires.png" rarity="uncommon">PTCG</set>
+			<color>WG</color>
+			<manacost>1WWGG</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{G/W}{G/W}: Evolve from Cubone
+				{X}, {T}: Marowak deals X+3 damage to target attacking or blocking Pokémon, or target Pokémon with flying.</text>
+		</card>
+		<card>
 			<name>Hitmonlee</name>
 			<set picURL="https://images.pokemontcg.io/sm9/73_hires.png" rarity="uncommon">PTCG</set>
 			<color>RG</color>
@@ -879,6 +1058,18 @@
 				Deathtouch</text>
 		</card>
 		<card>
+			<name>Weezing</name>
+			<set picURL="https://images.pokemontcg.io/base5/58_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>3BB</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{X}{B}: Evolve from Koffing
+				When this Pokémon evolves, put X -1/-1 counters on up to X target Pokémon.
+				This Pokémon gets +1/+1 for each -1/-1 counter on all Pokémon.</text>
+		</card>
+		<card>
 			<name>Rhyhorn</name>
 			<set picURL="https://images.pokemontcg.io/gym1/22_hires.png" rarity="common">PTCG</set>
 			<color>R</color>
@@ -889,6 +1080,18 @@
 			<text>{2}{R}: Evolve into Rhydon
 				{1}{R}: Rhyhorn gets +1/+0 until end of turn.
 				Trample</text>
+		</card>
+		<card>
+			<name>Rhydon</name>
+			<set picURL="https://images.pokemontcg.io/gym1/22_hires.png" rarity="common">PTCG</set>
+			<color>RG</color>
+			<manacost>7RG</manacost>
+			<type>Pokémon - Ground Rock</type>
+			<pt>7/7</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{R/G}{R/G}: Evolve from Rhyhorn
+				Protection from Fire
+				{R}: Each Pokémon you control gets +1/+0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Chansey</name>
@@ -933,6 +1136,17 @@
 				{1}{U}: Return Horsea and target Pokémon you don't control to their owners' hands.</text>
 		</card>
 		<card>
+			<name>Seadra</name>
+			<set picURL="https://images.pokemontcg.io/ecard2/85_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>3UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}: Evolve from Horsea
+				Whenever you draw a card, target player mills a card.</text>
+		</card>
+		<card>
 			<name>Goldeen</name>
 			<set picURL="https://images.pokemontcg.io/ex1/55_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
@@ -941,6 +1155,16 @@
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{U}: Evolve to Seaking</text>
+		</card>
+		<card>
+			<name>Seaking</name>
+			<set picURL="https://images.pokemontcg.io/ex1/55_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1UUU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{U}: Evolve from Goldeen</text>
 		</card>
 		<card>
 			<name>Staryu</name>
@@ -1142,6 +1366,19 @@
 				Fossil {3}{U}{R}</text>
 		</card>
 		<card>
+			<name>Omastar</name>
+			<set picURL="https://images.pokemontcg.io/base6/57_hires.png" rarity="uncommon">PTCG</set>
+			<color>UR</color>
+			<manacost>1URRR</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>5/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}{R}: Evolve from Omanyte
+				{U}: Omastar deals 1 damage to target Pokémon or trainer. Omastar deals 1 damage to you.
+				{R}: The next time Omastar deals damage, it deals 1 additional damage.
+				Fossil {3}{U}{R}</text>
+		</card>
+		<card>
 			<name>Kabuto</name>
 			<set picURL="https://images.pokemontcg.io/base6/48_hires.png" rarity="uncommon">PTCG</set>
 			<color>UG</color>
@@ -1150,6 +1387,19 @@
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{U}{G}: Evolve to Kabutops
+				Fossil {3}{U}{G}</text>
+		</card>
+		<card>
+			<name>Kabutops</name>
+			<set picURL="https://images.pokemontcg.io/base6/48_hires.png" rarity="uncommon">PTCG</set>
+			<color>UG</color>
+			<manacost>1UGGG</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>6/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}{G}: Evolve from Kabuto
+				{G}: Kabutops gets +1/+1 until end of turn.
+				{U}: Kabutops fights target Pokémon. If that Pokémon dies, return it to its owner's hand instead.
 				Fossil {3}{U}{G}</text>
 		</card>
 		<card>
