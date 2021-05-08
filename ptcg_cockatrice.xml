@@ -21,7 +21,7 @@
 		</card>
 		<card>
 			<name>Venusaur</name>
-			<set picURL="https://images.pokemontcg.io/base6/68_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/68_hires.png" rarity="rare">PTCG</set>
 			<color>G</color>
 			<manacost>2BGG</manacost>
 			<type>Pokémon - Grass Poison</type>
