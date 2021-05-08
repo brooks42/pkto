@@ -43,14 +43,14 @@
 		</card>
 		<card>
 			<name>Blastoise</name>
-			<set picURL="https://images.pokemontcg.io/base6/95_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/95_hires.png" rarity="rare">PTCG</set>
 			<color>U</color>
 			<manacost>2WUU</manacost>
 			<type>Pokémon - Water</type>
 			<pt>3/6</pt>
 			<tablerow>2</tablerow>
 			<text>2WU: Evolve from Wartotle
-				You can have Pokémon you control assign combat damage equal to its toughness rather than its power.</text>
+				You may have each Pokémon you control assign combat damage equal to its toughness rather than its power.</text>
 		</card>
 		<card>
 			<name>Charmander</name>
@@ -65,7 +65,7 @@
 		</card>
 		<card>
 			<name>Charizard</name>
-			<set picURL="https://images.pokemontcg.io/base5/50_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/50_hires.png" rarity="rare">PTCG</set>
 			<color>R</color>
 			<manacost>1WRR</manacost>
 			<type>Pokémon - Fire Flying</type>
@@ -73,8 +73,8 @@
 			<tablerow>2</tablerow>
 			<text>2R: Evolve from Charmeleon
 				Flying
-				Charizard attacks each turn if able.
-				When Charizard becomes blocked, double its power until end of turn.</text>
+				Charizard attacks each combat if able.
+				Whenever Charizard becomes blocked, double its power until end of turn.</text>
 		</card>
 		<card>
 			<name>Caterpie</name>
@@ -135,7 +135,7 @@
 		</card>
 		<card>
 			<name>Pidgeot</name>
-			<set picURL="https://images.pokemontcg.io/base4/86_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/86_hires.png" rarity="rare">PTCG</set>
 			<color>W</color>
 			<manacost>2WWW</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -157,7 +157,7 @@
 		</card>
 		<card>
 			<name>Raticate</name>
-			<set picURL="https://images.pokemontcg.io/base5/66_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/66_hires.png" rarity="uncommon">PTCG</set>
 			<color>WR</color>
 			<manacost>1{W/R}{W/R}</manacost>
 			<type>Pokémon - Normal</type>
