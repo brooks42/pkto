@@ -174,7 +174,7 @@
 			<type>Pokémon - Normal Flying</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>1{W/R}: Evolve to Fearow
+			<text>1{W/B}: Evolve to Fearow
 				First strike, intimidate</text>
 		</card>
 		<card>
@@ -185,7 +185,7 @@
 			<type>Pokémon - Normal Flying</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{W/R}: Evolve to Fearow
+			<text>{2}{W/B}: Evolve from Spearow
 				Flying
 				If Fearow would be dealt damage from a Pokémon with first strike, prevent that damage.</text>
 		</card>
