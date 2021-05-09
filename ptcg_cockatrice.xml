@@ -401,14 +401,14 @@
 		</card>
 		<card>
 			<name>Vileplume</name>
-			<set picURL="https://images.pokemontcg.io/base5/63_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/63_hires.png" rarity="rare">PTCG</set>
 			<color>BG</color>
 			<manacost>1{B/G}{B/G}{B/G}</manacost>
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{B/G}{B/G}: Evolve from Gloom
-				{T}, Discard a card: add mana equal to the discarded card's mana value.</text>
+				{T}, Discard a card: Add mana equal to the discarded card's mana cost.</text>
 		</card>
 		<card>
 			<name>Paras</name>
@@ -425,7 +425,7 @@
 		</card>
 		<card>
 			<name>Parasect</name>
-			<set picURL="https://images.pokemontcg.io/base4/85_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/85_hires.png" rarity="uncommon">PTCG</set>
 			<color>G</color>
 			<manacost>3G</manacost>
 			<type>Pokémon - Bug Grass</type>
@@ -448,7 +448,7 @@
 		</card>
 		<card>
 			<name>Venomoth</name>
-			<set picURL="https://images.pokemontcg.io/gym1/96_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym1/96_hires.png" rarity="uncommon">PTCG</set>
 			<color>GU</color>
 			<manacost>2GU</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -471,7 +471,7 @@
 		</card>
 		<card>
 			<name>Dugtrio</name>
-			<set picURL="https://images.pokemontcg.io/base4/71_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/71_hires.png" rarity="ucommon">PTCG</set>
 			<color>R</color>
 			<manacost>1RR</manacost>
 			<type>Pokémon - Ground</type>
@@ -537,7 +537,7 @@
 		</card>
 		<card>
 			<name>Primeape</name>
-			<set picURL="https://images.pokemontcg.io/base5/61_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/61_hires.png" rarity="ucommon">PTCG</set>
 			<color>R</color>
 			<manacost>2RR</manacost>
 			<type>Pokémon - Fighting</type>
@@ -673,15 +673,15 @@
 		</card>
 		<card>
 			<name>Tentacruel</name>
-			<set picURL="https://images.pokemontcg.io/base6/96_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/96_hires.png" rarity="ucommon">PTCG</set>
 			<color>UB</color>
 			<manacost>4UB</manacost>
 			<type>Pokémon - Water Poison</type>
 			<pt>4/6</pt>
 			<tablerow>2</tablerow>
-			<text>{3}{U}{B}: Evolve from Tentacool
-				Islandwalk
-				All lands are Islands and Swamps in addition to their other types.</text>
+			<text>{3}{U}{B}: Evolve from Tentacool				
+				All lands are Islands and Swamps in addition to their other types.
+				Islandwalk</text>
 		</card>
 		<card>
 			<name>Geodude</name>
@@ -696,7 +696,7 @@
 		</card>
 		<card>
 			<name>Golem</name>
-			<set picURL="https://images.pokemontcg.io/base6/77_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/77_hires.png" rarity="rare">PTCG</set>
 			<color>RG</color>
 			<manacost>1RRG</manacost>
 			<type>Pokémon - Rock Ground</type>
@@ -762,13 +762,13 @@
 		</card>
 		<card>
 			<name>Magneton</name>
-			<set picURL="https://images.pokemontcg.io/base6/80_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/80_hires.png" rarity="uncommon">PTCG</set>
 			<color></color>
 			<manacost>4</manacost>
 			<type>Pokémon - Electric Steel</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>3: Evolve from Magnemite
+			<text>{3}: Evolve from Magnemite
 				Whenever this Pokémon evolves, put three +1/+1 counters on it.
 				Protection from Poison</text>
 		</card>
@@ -795,7 +795,7 @@
 		</card>
 		<card>
 			<name>Dodrio</name>
-			<set picURL="https://images.pokemontcg.io/ecard2/73_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard2/73_hires.png" rarity="ucommon">PTCG</set>
 			<color>RB</color>
 			<manacost>3RB</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -817,7 +817,7 @@
 		</card>
 		<card>
 			<name>Dewgong</name>
-			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="uncommon">PTCG</set>
 			<color>WU</color>
 			<manacost>3WU</manacost>
 			<type>Pokémon - Water Ice</type>
@@ -839,14 +839,14 @@
 		</card>
 		<card>
 			<name>Muk</name>
-			<set picURL="https://images.pokemontcg.io/bw4/52_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/bw4/52_hires.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>1BBB</manacost>
 			<type>Pokémon - Poison</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{B}{B}: Evolve from Grimer
-				Whenever a Pokémon with -1/-1 counters on it dies, put those counters on another Pokémon with a different owner.</text>
+				Whenever a Pokémon dies, if it had -1/-1 counters on it, put those counters on another target Pokémon with a different owner./text>
 		</card>
 		<card>
 			<name>Shellder</name>
@@ -861,14 +861,14 @@
 		</card>
 		<card>
 			<name>Cloyster</name>
-			<set picURL="https://images.pokemontcg.io/g1/19_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/g1/19_hires.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>2UR</manacost>
 			<type>Pokémon - Water Ice</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>{U}{R}: Evolve from Shellder
-				{T}: Cloyster deals 1 damage to up to three target Pokémon or trainers.</text>
+				{T}: Cloyster deals 1 damage to each of up to three target Pokémon or trainers.</text>
 		</card>
 		<card>
 			<name>Gastly</name>
@@ -883,7 +883,7 @@
 		</card>
 		<card>
 			<name>Gengar</name>
-			<set picURL="https://images.pokemontcg.io/xy12/47_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/xy12/47_hires.png" rarity="rare">PTCG</set>
 			<color>B</color>
 			<manacost>3{B}{B}{B}</manacost>
 			<type>Pokémon - Ghost Poison</type>
@@ -937,7 +937,7 @@
 		</card>
 		<card>
 			<name>Kingler</name>
-			<set picURL="https://images.pokemontcg.io/base3/51_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base3/51_hires.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>3UR</manacost>
 			<type>Pokémon - Water</type>
@@ -988,8 +988,8 @@
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{G}{G}{B}: Evolve from Exeggcute
-				Reach
-				Whenever Exeggutor blocks a Pokémon with flying, it deals 3 damage to that Pokémon and you draw a card.</text>
+				Whenever Exeggutor blocks a Pokémon with flying, it deals 3 damage to that Pokémon and you draw a card.
+				Reach</text>
 		</card>
 		<card>
 			<name>Cubone</name>
@@ -1059,7 +1059,7 @@
 		</card>
 		<card>
 			<name>Weezing</name>
-			<set picURL="https://images.pokemontcg.io/base5/58_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/58_hires.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>3BB</manacost>
 			<type>Pokémon - Poison</type>
@@ -1082,15 +1082,15 @@
 		</card>
 		<card>
 			<name>Rhydon</name>
-			<set picURL="https://images.pokemontcg.io/gym1/22_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym1/22_hires.png" rarity="uncommon">PTCG</set>
 			<color>RG</color>
 			<manacost>7RG</manacost>
 			<type>Pokémon - Ground Rock</type>
 			<pt>7/7</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{R/G}{R/G}: Evolve from Rhyhorn
-				Protection from Fire
-				{R}: Each Pokémon you control gets +1/+0 until end of turn.</text>
+				{R}: Each Pokémon you control gets +1/+0 until end of turn.
+				Protection from Fire</text>
 		</card>
 		<card>
 			<name>Chansey</name>
@@ -1136,7 +1136,7 @@
 		</card>
 		<card>
 			<name>Seadra</name>
-			<set picURL="https://images.pokemontcg.io/ecard2/85_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard2/85_hires.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>3UU</manacost>
 			<type>Pokémon - Water</type>
@@ -1157,7 +1157,7 @@
 		</card>
 		<card>
 			<name>Seaking</name>
-			<set picURL="https://images.pokemontcg.io/ex1/55_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ex1/55_hires.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>1UUU</manacost>
 			<type>Pokémon - Water</type>
@@ -1178,7 +1178,7 @@
 		</card>
 		<card>
 			<name>Starmie</name>
-			<set picURL="https://images.pokemontcg.io/ex5/75_hires.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ex5/75_hires.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>3UU</manacost>
 			<type>Pokémon - Water Psychic</type>
