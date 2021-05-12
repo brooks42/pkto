@@ -471,7 +471,7 @@
 		</card>
 		<card>
 			<name>Dugtrio</name>
-			<set picURL="https://images.pokemontcg.io/base4/71_hires.png" rarity="ucommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/71_hires.png" rarity="uncommon">PTCG</set>
 			<color>R</color>
 			<manacost>1RR</manacost>
 			<type>Pokémon - Ground</type>
