@@ -673,7 +673,7 @@
 		</card>
 		<card>
 			<name>Tentacruel</name>
-			<set picURL="https://images.pokemontcg.io/base6/96_hires.png" rarity="ucommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/96_hires.png" rarity="uncommon">PTCG</set>
 			<color>UB</color>
 			<manacost>4UB</manacost>
 			<type>Pokémon - Water Poison</type>
