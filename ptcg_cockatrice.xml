@@ -795,7 +795,7 @@
 		</card>
 		<card>
 			<name>Dodrio</name>
-			<set picURL="https://images.pokemontcg.io/ecard2/73_hires.png" rarity="ucommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard2/73_hires.png" rarity="uncommon">PTCG</set>
 			<color>RB</color>
 			<manacost>3RB</manacost>
 			<type>Pokémon - Normal Flying</type>
