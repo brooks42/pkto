@@ -537,7 +537,7 @@
 		</card>
 		<card>
 			<name>Primeape</name>
-			<set picURL="https://images.pokemontcg.io/base5/61_hires.png" rarity="ucommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/61_hires.png" rarity="uncommon">PTCG</set>
 			<color>R</color>
 			<manacost>2RR</manacost>
 			<type>Pokémon - Fighting</type>
