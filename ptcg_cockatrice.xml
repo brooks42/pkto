@@ -1859,7 +1859,7 @@
 			<manacost>1U</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Scry 2. Draw a card.</text>
+			<text>Scry 2, then draw a card.</text>
 		</card>
 		<card>
 			<name>Potion</name>
