@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_carddatabase version="3">
 	<sets>
 		<set>
@@ -10,7 +10,7 @@
 		<!-- Pokémon -->
 		<card>
 			<name>Bulbasaur</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Bulbasaur.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/68_hires.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -21,7 +21,7 @@
 		</card>
 		<card>
 			<name>Venusaur</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Venusaur.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/68_hires.png" rarity="rare">PTCG</set>
 			<color>G</color>
 			<manacost>2BGG</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -32,7 +32,7 @@
 		</card>
 		<card>
 			<name>Squirtle</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Squirtle.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/95_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<manacost>1U</manacost>
 			<type>Pokémon - Water</type>
@@ -43,7 +43,7 @@
 		</card>
 		<card>
 			<name>Blastoise</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Blastoise.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/95_hires.png" rarity="rare">PTCG</set>
 			<color>U</color>
 			<manacost>2WUU</manacost>
 			<type>Pokémon - Water</type>
@@ -54,7 +54,7 @@
 		</card>
 		<card>
 			<name>Charmander</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Charmander.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/50_hires.png" rarity="common">PTCG</set>
 			<color>R</color>
 			<manacost>1R</manacost>
 			<type>Pokémon - Fire</type>
@@ -65,7 +65,7 @@
 		</card>
 		<card>
 			<name>Charizard</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Charizard.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/50_hires.png" rarity="rare">PTCG</set>
 			<color>R</color>
 			<manacost>1WRR</manacost>
 			<type>Pokémon - Fire Flying</type>
@@ -78,7 +78,7 @@
 		</card>
 		<card>
 			<name>Caterpie</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Caterpie.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/69_hires.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<manacost>G</manacost>
 			<type>Pokémon - Bug</type>
@@ -89,7 +89,7 @@
 		</card>
 		<card>
 			<name>Butterfree</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Butterfree.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/g1/5_hires.png" rarity="uncommon">PTCG</set>
 			<color>G</color>
 			<manacost>3GG</manacost>
 			<type>Pokémon - Bug Flying</type>
@@ -101,7 +101,7 @@
 		</card>
 		<card>
 			<name>Weedle</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Weedle.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/99_hires.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>B</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -112,7 +112,7 @@
 		</card>
 		<card>
 			<name>Beedrill</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Beedrill.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/pl4/53_hires.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>2BG</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -124,7 +124,7 @@
 		</card>
 		<card>
 			<name>Pidgey</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Pidgey.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/86_hires.png" rarity="common">PTCG</set>
 			<color>W</color>
 			<manacost>1W</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -135,7 +135,7 @@
 		</card>
 		<card>
 			<name>Pidgeot</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Pidgeot.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/86_hires.png" rarity="rare">PTCG</set>
 			<color>W</color>
 			<manacost>2WWW</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -146,7 +146,7 @@
 		</card>
 		<card>
 			<name>Rattata</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Rattata.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/66_hires.png" rarity="common">PTCG</set>
 			<color>WR</color>
 			<manacost>1{W/R}</manacost>
 			<type>Pokémon - Normal</type>
@@ -157,7 +157,7 @@
 		</card>
 		<card>
 			<name>Raticate</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Raticate.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/66_hires.png" rarity="uncommon">PTCG</set>
 			<color>WR</color>
 			<manacost>1{W/R}{W/R}</manacost>
 			<type>Pokémon - Normal</type>
@@ -168,7 +168,7 @@
 		</card>
 		<card>
 			<name>Spearow</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Spearow.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym1/83_hires.png" rarity="uncommon">PTCG</set>
 			<color>WB</color>
 			<manacost>1{W/B}{W/B}</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -179,7 +179,7 @@
 		</card>
 		<card>
 			<name>Fearow</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Fearow.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym1/83_hires.png" rarity="uncommon">PTCG</set>
 			<color>WB</color>
 			<manacost>{2}{W/B}{W/B}{W/B}</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -191,7 +191,7 @@
 		</card>
 		<card>
 			<name>Ekans</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Ekans.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym2/77_hires.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Pokémon - Poison</type>
@@ -202,7 +202,7 @@
 		</card>
 		<card>
 			<name>Arbok</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Arbok.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym2/25_hires.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>3B</manacost>
 			<type>Pokémon - Poison</type>
@@ -213,7 +213,7 @@
 		</card>
 		<card>
 			<name>Pikachu</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Pikachu.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="rare">PTCG</set>
 			<color>WR</color>
 			<manacost>1WR</manacost>
 			<type>Pokémon - Electric</type>
@@ -224,7 +224,7 @@
 		</card>
 		<card>
 			<name>Raichu</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Raichu.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="rare">PTCG</set>
 			<color>WR</color>
 			<manacost>3WR</manacost>
 			<type>Pokémon - Electric</type>
@@ -235,7 +235,7 @@
 		</card>
 		<card>
 			<name>Sandshrew</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Sandshrew.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/91_hires.png" rarity="uncommon">PTCG</set>
 			<color>G</color>
 			<manacost>2G</manacost>
 			<type>Pokémon - Ground</type>
@@ -246,7 +246,7 @@
 		</card>
 		<card>
 			<name>Sandslash</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Sandslash.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/91_hires.png" rarity="uncommon">PTCG</set>
 			<color>G</color>
 			<manacost>4G</manacost>
 			<type>Pokémon - Ground</type>
@@ -257,7 +257,7 @@
 		</card>
 		<card>
 			<name>Nidoran♀</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Nidoran%E2%99%80.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard2/96_hires.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>2B</manacost>
 			<type>Pokémon - Poison</type>
@@ -268,7 +268,7 @@
 		</card>
 		<card>
 			<name>Nidoqueen</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Nidoqueen.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard2/96_hires.png" rarity="rare">PTCG</set>
 			<color>B</color>
 			<manacost>6B</manacost>
 			<type>Pokémon - Poison Ground</type>
@@ -279,7 +279,7 @@
 		</card>
 		<card>
 			<name>Nidoran♂</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Nidoran%E2%99%82.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard3/81_hires.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>2B</manacost>
 			<type>Pokémon - Poison</type>
@@ -290,7 +290,7 @@
 		</card>
 		<card>
 			<name>Nidoking</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Nidoking.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard3/81_hires.png" rarity="rare">PTCG</set>
 			<color>B</color>
 			<manacost>5BB</manacost>
 			<type>Pokémon - Poison Ground</type>
@@ -301,7 +301,7 @@
 		</card>
 		<card>
 			<name>Clefairy</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Clefairy.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ex6/59_hires.png" rarity="rare">PTCG</set>
 			<color>WB</color>
 			<manacost>1WB</manacost>
 			<type>Pokémon - Fairy</type>
@@ -314,7 +314,7 @@
 		</card>
 		<card>
 			<name>Clefable</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Clefable.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ex6/59_hires.png" rarity="rare">PTCG</set>
 			<color>WB</color>
 			<manacost>2WB</manacost>
 			<type>Pokémon - Fairy</type>
@@ -325,7 +325,7 @@
 		</card>
 		<card>
 			<name>Vulpix</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Vulpix.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/bw6/18_hires.png" rarity="rare">PTCG</set>
 			<color>R</color>
 			<manacost>2R</manacost>
 			<type>Pokémon - Fire</type>
@@ -336,7 +336,7 @@
 		</card>
 		<card>
 			<name>Ninetales</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Ninetales.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/bw6/18_hires.png" rarity="rare">PTCG</set>
 			<color>R</color>
 			<manacost>2{B/R}{B/R}</manacost>
 			<type>Pokémon - Fire</type>
@@ -347,7 +347,7 @@
 		</card>
 		<card>
 			<name>Jigglypuff</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Jigglypuff.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/77_hires.png" rarity="uncommon">PTCG</set>
 			<color>W</color>
 			<manacost>1W</manacost>
 			<type>Pokémon - Normal Fairy</type>
@@ -358,7 +358,7 @@
 		</card>
 		<card>
 			<name>Wigglytuff</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Wigglytuff.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/77_hires.png" rarity="uncommon">PTCG</set>
 			<color>W</color>
 			<manacost>2WW</manacost>
 			<type>Pokémon - Normal Fairy</type>
@@ -369,7 +369,7 @@
 		</card>
 		<card>
 			<name>Zubat</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Zubat.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base3/57_hires.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Pokémon - Poison Flying</type>
@@ -380,7 +380,7 @@
 		</card>
 		<card>
 			<name>Golbat</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Golbat.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base3/57_hires.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>1BB</manacost>
 			<type>Pokémon - Poison Flying</type>
@@ -391,7 +391,7 @@
 		</card>
 		<card>
 			<name>Oddish</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Oddish.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/63_hires.png" rarity="common">PTCG</set>
 			<color>BG</color>
 			<manacost>{B/G}</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -401,7 +401,7 @@
 		</card>
 		<card>
 			<name>Vileplume</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Vileplume.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/63_hires.png" rarity="rare">PTCG</set>
 			<color>BG</color>
 			<manacost>1{B/G}{B/G}{B/G}</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -412,7 +412,7 @@
 		</card>
 		<card>
 			<name>Paras</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Paras.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/85_hires.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Pokémon - Bug Grass</type>
@@ -425,7 +425,7 @@
 		</card>
 		<card>
 			<name>Parasect</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Parasect.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/85_hires.png" rarity="uncommon">PTCG</set>
 			<color>G</color>
 			<manacost>3G</manacost>
 			<type>Pokémon - Bug Grass</type>
@@ -437,7 +437,7 @@
 		</card>
 		<card>
 			<name>Venonat</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Venonat.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym1/96_hires.png" rarity="common">PTCG</set>
 			<color>GU</color>
 			<manacost>GU</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -448,7 +448,7 @@
 		</card>
 		<card>
 			<name>Venomoth</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Venomoth.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym1/96_hires.png" rarity="uncommon">PTCG</set>
 			<color>GU</color>
 			<manacost>2GU</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -460,7 +460,7 @@
 		</card>
 		<card>
 			<name>Diglett</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Diglett.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/71_hires.png" rarity="common">PTCG</set>
 			<color>R</color>
 			<manacost>R</manacost>
 			<type>Pokémon - Ground</type>
@@ -471,7 +471,7 @@
 		</card>
 		<card>
 			<name>Dugtrio</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Dugtrio.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/71_hires.png" rarity="uncommon">PTCG</set>
 			<color>R</color>
 			<manacost>1RR</manacost>
 			<type>Pokémon - Ground</type>
@@ -482,7 +482,7 @@
 		</card>
 		<card>
 			<name>Meowth</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Meowth.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/53_hires.png" rarity="common">PTCG</set>
 			<color>WB</color>
 			<manacost>WB</manacost>
 			<type>Pokémon - Normal</type>
@@ -493,7 +493,7 @@
 		</card>
 		<card>
 			<name>Persian</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Persian.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/53_hires.png" rarity="rare">PTCG</set>
 			<color>WB</color>
 			<manacost>3WB</manacost>
 			<type>Pokémon - Normal</type>
@@ -504,7 +504,7 @@
 		</card>
 		<card>
 			<name>Psyduck</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Psyduck.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base3/53_hires.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>2U</manacost>
 			<type>Pokémon - Water</type>
@@ -515,7 +515,7 @@
 		</card>
 		<card>
 			<name>Golduck</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Golduck.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base3/53_hires.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>2UU</manacost>
 			<type>Pokémon - Water</type>
@@ -526,7 +526,7 @@
 		</card>
 		<card>
 			<name>Mankey</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Mankey.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/61_hires.png" rarity="common">PTCG</set>
 			<color>R</color>
 			<manacost>1R</manacost>
 			<type>Pokémon - Fighting</type>
@@ -537,7 +537,7 @@
 		</card>
 		<card>
 			<name>Primeape</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Primeape.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/61_hires.png" rarity="uncommon">PTCG</set>
 			<color>R</color>
 			<manacost>2RR</manacost>
 			<type>Pokémon - Fighting</type>
@@ -548,7 +548,7 @@
 		</card>
 		<card>
 			<name>Growlithe</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Growlithe.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/bw4/11_hires.png" rarity="rare">PTCG</set>
 			<color>RW</color>
 			<manacost>2{R/W}{R/W}</manacost>
 			<type>Pokémon - Fire</type>
@@ -560,7 +560,7 @@
 		</card>
 		<card>
 			<name>Arcanine</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Arcanine.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/bw4/11_hires.png" rarity="rare">PTCG</set>
 			<color>RW</color>
 			<manacost>5{R/W}{R/W}</manacost>
 			<type>Pokémon - Fire</type>
@@ -571,7 +571,7 @@
 		</card>
 		<card>
 			<name>Poliwag</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Poliwag.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/88_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<type>Pokémon - Water</type>
@@ -581,7 +581,7 @@
 		</card>
 		<card>
 			<name>Poliwrath</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Poliwrath.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base4/88_hires.png" rarity="rare">PTCG</set>
 			<color>U</color>
 			<manacost>3U</manacost>
 			<type>Pokémon - Water Fighting</type>
@@ -592,7 +592,7 @@
 		</card>
 		<card>
 			<name>Abra</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Abra.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym2/93_hires.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<type>Pokémon - Psychic</type>
@@ -603,7 +603,7 @@
 		</card>
 		<card>
 			<name>Alakazam</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Alakazam.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym2/93_hires.png" rarity="rare">PTCG</set>
 			<color>UB</color>
 			<manacost>4UB</manacost>
 			<type>Pokémon - Psychic</type>
@@ -616,7 +616,7 @@
 		</card>
 		<card>
 			<name>Machop</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Machop.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/79_hires.png" rarity="uncommon">PTCG</set>
 			<color>RG</color>
 			<manacost>{R/G}{R/G}</manacost>
 			<type>Pokémon - Fighting</type>
@@ -626,7 +626,7 @@
 		</card>
 		<card>
 			<name>Machamp</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Machamp.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/79_hires.png" rarity="uncommon">PTCG</set>
 			<color>RG</color>
 			<manacost>4{R/G}{R/G}</manacost>
 			<type>Pokémon - Fighting</type>
@@ -638,7 +638,7 @@
 		</card>
 		<card>
 			<name>Bellsprout</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Bellsprout.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym1/76_hires.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<manacost>2G</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -649,7 +649,7 @@
 		</card>
 		<card>
 			<name>Victreebel</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Victreebel.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/gym1/76_hires.png" rarity="rare">PTCG</set>
 			<color>G</color>
 			<manacost>2{G/B}GB</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -662,7 +662,7 @@
 		</card>
 		<card>
 			<name>Tentacool</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Tentacool.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/96_hires.png" rarity="common">PTCG</set>
 			<color>UB</color>
 			<manacost>2UB</manacost>
 			<type>Pokémon - Water Poison</type>
@@ -673,7 +673,7 @@
 		</card>
 		<card>
 			<name>Tentacruel</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Tentacruel.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/96_hires.png" rarity="uncommon">PTCG</set>
 			<color>UB</color>
 			<manacost>4UB</manacost>
 			<type>Pokémon - Water Poison</type>
@@ -685,7 +685,7 @@
 		</card>
 		<card>
 			<name>Geodude</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Geodude.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/77_hires.png" rarity="common">PTCG</set>
 			<color>R</color>
 			<manacost>1R</manacost>
 			<type>Pokémon - Rock Ground</type>
@@ -696,7 +696,7 @@
 		</card>
 		<card>
 			<name>Golem</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Golem.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base6/77_hires.png" rarity="rare">PTCG</set>
 			<color>RG</color>
 			<manacost>1RRG</manacost>
 			<type>Pokémon - Rock Ground</type>
@@ -706,7 +706,7 @@
 		</card>
 		<card>
 			<name>Ponyta</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Ponyta.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/64_hires.png" rarity="uncommon">PTCG</set>
 			<color>R</color>
 			<manacost>2R</manacost>
 			<type>Pokémon - Fire</type>
@@ -717,7 +717,7 @@
 		</card>
 		<card>
 			<name>Rapidash</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Rapidash.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/64_hires.png" rarity="uncommon">PTCG</set>
 			<color>R</color>
 			<manacost>4R</manacost>
 			<type>Pokémon - Fire</type>
@@ -728,7 +728,7 @@
 		</card>
 		<card>
 			<name>Slowpoke</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Slowpoke.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/67_hires.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>2U</manacost>
 			<type>Pokémon - Water Psychic</type>
@@ -739,7 +739,7 @@
 		</card>
 		<card>
 			<name>Slowbro</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Slowbro.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/base5/67_hires.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>2UUB</manacost>
 			<type>Pokémon - Water Psychic</type>
@@ -750,8 +750,8 @@
 		</card>
 		<card>
 			<name>Magnemite</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Magnemite.png" rarity="common">PTCG</set>
-			<color />
+			<set picURL="https://images.pokemontcg.io/base6/80_hires.png" rarity="common">PTCG</set>
+			<color></color>
 			<manacost>1</manacost>
 			<type>Pokémon - Electric Steel</type>
 			<pt>0/0</pt>
@@ -762,8 +762,8 @@
 		</card>
 		<card>
 			<name>Magneton</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Magneton.png" rarity="uncommon">PTCG</set>
-			<color />
+			<set picURL="https://images.pokemontcg.io/base6/80_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
 			<manacost>4</manacost>
 			<type>Pokémon - Electric Steel</type>
 			<pt>3/3</pt>
@@ -774,7 +774,7 @@
 		</card>
 		<card>
 			<name>Farfetch'd</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Farfetch%27d.png" rarity="rare">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/neo3/43_hires.png" rarity="rare">PTCG</set>
 			<color>WG</color>
 			<manacost>2WG</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -784,7 +784,7 @@
 		</card>
 		<card>
 			<name>Doduo</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Doduo.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard2/73_hires.png" rarity="common">PTCG</set>
 			<color>RB</color>
 			<manacost>2RB</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -795,7 +795,7 @@
 		</card>
 		<card>
 			<name>Dodrio</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Dodrio.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard2/73_hires.png" rarity="uncommon">PTCG</set>
 			<color>RB</color>
 			<manacost>3RB</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -807,7 +807,7 @@
 		</card>
 		<card>
 			<name>Seel</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Seel.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="common">PTCG</set>
 			<color>WU</color>
 			<manacost>WU</manacost>
 			<type>Pokémon - Water</type>
@@ -817,7 +817,7 @@
 		</card>
 		<card>
 			<name>Dewgong</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Dewgong.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="uncommon">PTCG</set>
 			<color>WU</color>
 			<manacost>3WU</manacost>
 			<type>Pokémon - Water Ice</type>
@@ -828,7 +828,7 @@
 		</card>
 		<card>
 			<name>Grimer</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Grimer.png" rarity="common">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/bw4/52_hires.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Pokémon - Poison</type>
@@ -839,1860 +839,1859 @@
 		</card>
 		<card>
 			<name>Muk</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Muk.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://images.pokemontcg.io/bw4/52_hires.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>1BBB</manacost>
 			<type>Pokémon - Poison</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{B}{B}: Evolve from Grimer
-				Whenever a Pokémon dies, if it had -1/-1 counters on it, put those counters on another target Pokémon with a different owner./text&gt;
-		</text>
-			<card>
-				<name>Shellder</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Shellder.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>2U</manacost>
-				<type>Pokémon - Water</type>
-				<pt>0/4</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{U}{U}: Evolve to Cloyster
+				Whenever a Pokémon dies, if it had -1/-1 counters on it, put those counters on another target Pokémon with a different owner./text>
+		</card>
+		<card>
+			<name>Shellder</name>
+			<set picURL="https://images.pokemontcg.io/g1/19_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>0/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}{U}: Evolve to Cloyster
 				{2}, {T}: Draw a card, then discard a card.</text>
-			</card>
-			<card>
-				<name>Cloyster</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Cloyster.png" rarity="uncommon">PTCG</set>
-				<color>U</color>
-				<manacost>2UR</manacost>
-				<type>Pokémon - Water Ice</type>
-				<pt>2/4</pt>
-				<tablerow>2</tablerow>
-				<text>{U}{R}: Evolve from Shellder
+		</card>
+		<card>
+			<name>Cloyster</name>
+			<set picURL="https://images.pokemontcg.io/g1/19_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>2UR</manacost>
+			<type>Pokémon - Water Ice</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>{U}{R}: Evolve from Shellder
 				{T}: Cloyster deals 1 damage to each of up to three target Pokémon or trainers.</text>
-			</card>
-			<card>
-				<name>Gastly</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Gastly.png" rarity="common">PTCG</set>
-				<color>B</color>
-				<manacost>1B</manacost>
-				<type>Pokémon - Ghost Poison</type>
-				<pt>0/1</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{B}{B}: Evolve to Haunter
+		</card>
+		<card>
+			<name>Gastly</name>
+			<set picURL="https://images.pokemontcg.io/xy12/47_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Pokémon - Ghost Poison</type>
+			<pt>0/1</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{B}{B}: Evolve to Haunter
 				Protection from Ground and Fighting</text>
-			</card>
-			<card>
-				<name>Gengar</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Gengar.png" rarity="rare">PTCG</set>
-				<color>B</color>
-				<manacost>3{B}{B}{B}</manacost>
-				<type>Pokémon - Ghost Poison</type>
-				<pt>5/5</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{B}{B}: Evolve from Haunter
+		</card>
+		<card>
+			<name>Gengar</name>
+			<set picURL="https://images.pokemontcg.io/xy12/47_hires.png" rarity="rare">PTCG</set>
+			<color>B</color>
+			<manacost>3{B}{B}{B}</manacost>
+			<type>Pokémon - Ghost Poison</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{B}{B}: Evolve from Haunter
 				{B}{B}{B}{B}{B}, {T}: Target player loses 10 life.</text>
-			</card>
-			<card>
-				<name>Onix</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Onix.png" rarity="common">PTCG</set>
-				<color>R</color>
-				<manacost>3R</manacost>
-				<type>Pokémon - Rock Ground</type>
-				<pt>5/2</pt>
-				<tablerow>2</tablerow>
-				<text />
-			</card>
-			<card>
-				<name>Drowzee</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Drowzee.png" rarity="uncommon">PTCG</set>
-				<color>UB</color>
-				<manacost>1UB</manacost>
-				<type>Pokémon - Psychic</type>
-				<pt>2/3</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{U}{B}: Evolve to Hypno
+		</card>
+		<card>
+			<name>Onix</name>
+			<set picURL="https://images.pokemontcg.io/sm7/71_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>3R</manacost>
+			<type>Pokémon - Rock Ground</type>
+			<pt>5/2</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Drowzee</name>
+			<set picURL="https://images.pokemontcg.io/base4/73_hires.png" rarity="uncommon">PTCG</set>
+			<color>UB</color>
+			<manacost>1UB</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{U}{B}: Evolve to Hypno
 				{T}: Tap or untap target Pokémon.</text>
-			</card>
-			<card>
-				<name>Hypno</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Hypno.png" rarity="uncommon">PTCG</set>
-				<color>UB</color>
-				<manacost>3UB</manacost>
-				<type>Pokémon - Psychic</type>
-				<pt>4/4</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{U}{B}: Evolve from Drowzee
+		</card>
+		<card>
+			<name>Hypno</name>
+			<set picURL="https://images.pokemontcg.io/base4/73_hires.png" rarity="uncommon">PTCG</set>
+			<color>UB</color>
+			<manacost>3UB</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{U}{B}: Evolve from Drowzee
 				Tapped Pokémon get -1/-1.</text>
-			</card>
-			<card>
-				<name>Krabby</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Krabby.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>1UR</manacost>
-				<type>Pokémon - Water</type>
-				<pt>2/2</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{U}{R}: Evolve to Kingler
+		</card>
+		<card>
+			<name>Krabby</name>
+			<set picURL="https://images.pokemontcg.io/base3/51_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1UR</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{U}{R}: Evolve to Kingler
 				{R}: Krabby gets +1/+0 and gains first strike until end of turn.</text>
-			</card>
-			<card>
-				<name>Kingler</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Kingler.png" rarity="uncommon">PTCG</set>
-				<color>U</color>
-				<manacost>3UR</manacost>
-				<type>Pokémon - Water</type>
-				<pt>5/3</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{U}{R}: Evolve to Kingler
+		</card>
+		<card>
+			<name>Kingler</name>
+			<set picURL="https://images.pokemontcg.io/base3/51_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>3UR</manacost>
+			<type>Pokémon - Water</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}{R}: Evolve to Kingler
 				Kingler has double strike as long as it has first strike.</text>
-			</card>
-			<card>
-				<name>Voltorb</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Voltorb.png" rarity="common">PTCG</set>
-				<color>R</color>
-				<manacost>R</manacost>
-				<type>Pokémon - Electric</type>
-				<pt>1/1</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{R}: Evolve to Electrode
+		</card>
+		<card>
+			<name>Voltorb</name>
+			<set picURL="https://images.pokemontcg.io/base5/69_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{R}: Evolve to Electrode
 				{X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon.
 				Haste</text>
-			</card>
-			<card>
-				<name>Electrode</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Electrode.png" rarity="common">PTCG</set>
-				<color>RW</color>
-				<manacost>2RW</manacost>
-				<type>Pokémon - Electric</type>
-				<pt>3/3</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{R/W}: Evolve from Voltorb
+		</card>
+		<card>
+			<name>Electrode</name>
+			<set picURL="https://images.pokemontcg.io/base5/69_hires.png" rarity="common">PTCG</set>
+			<color>RW</color>
+			<manacost>2RW</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{R/W}: Evolve from Voltorb
 				When Electrode enters the battlefield or takes damage, sacrifice it. If you do, it deals damage to each Pokémon equal to its power.</text>
-			</card>
-			<card>
-				<name>Exeggcute</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Exeggcute.png" rarity="uncommon">PTCG</set>
-				<color>GB</color>
-				<manacost>1GGB</manacost>
-				<type>Pokémon - Grass Psychic</type>
-				<pt>2/4</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{G}{G}{B}: Evolve to Exeggutor</text>
-			</card>
-			<card>
-				<name>Exeggutor</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Exeggutor.png" rarity="uncommon">PTCG</set>
-				<color>GB</color>
-				<manacost>2GGB</manacost>
-				<type>Pokémon - Grass Psychic</type>
-				<pt>4/5</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{G}{G}{B}: Evolve from Exeggcute
+		</card>
+		<card>
+			<name>Exeggcute</name>
+			<set picURL="https://images.pokemontcg.io/bw10/102_hires.png" rarity="uncommon">PTCG</set>
+			<color>GB</color>
+			<manacost>1GGB</manacost>
+			<type>Pokémon - Grass Psychic</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{G}{G}{B}: Evolve to Exeggutor</text>
+		</card>
+		<card>
+			<name>Exeggutor</name>
+			<set picURL="https://images.pokemontcg.io/bw10/102_hires.png" rarity="uncommon">PTCG</set>
+			<color>GB</color>
+			<manacost>2GGB</manacost>
+			<type>Pokémon - Grass Psychic</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{G}{G}{B}: Evolve from Exeggcute
 				Whenever Exeggutor blocks a Pokémon with flying, it deals 3 damage to that Pokémon and you draw a card.
 				Reach</text>
-			</card>
-			<card>
-				<name>Cubone</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Cubone.png" rarity="uncommon">PTCG</set>
-				<color>WG</color>
-				<manacost>1W{G/W}</manacost>
-				<type>Pokémon - Ground</type>
-				<pt>3/2</pt>
-				<tablerow>2</tablerow>
-				<text>{3}{G}{G/W}: Evolve to Marowak
+		</card>
+		<card>
+			<name>Cubone</name>
+			<set picURL="https://images.pokemontcg.io/xy8/77_hires.png" rarity="uncommon">PTCG</set>
+			<color>WG</color>
+			<manacost>1W{G/W}</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{G}{G/W}: Evolve to Marowak
 				Evolve abilities of Pokémon you control cost {1} less to activate.
 				Reach</text>
-			</card>
-			<card>
-				<name>Marowak</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Marowak.png" rarity="uncommon">PTCG</set>
-				<color>WG</color>
-				<manacost>1WWGG</manacost>
-				<type>Pokémon - Ground</type>
-				<pt>4/4</pt>
-				<tablerow>2</tablerow>
-				<text>{3}{G/W}{G/W}: Evolve from Cubone
+		</card>
+		<card>
+			<name>Marowak</name>
+			<set picURL="https://images.pokemontcg.io/xy8/77_hires.png" rarity="uncommon">PTCG</set>
+			<color>WG</color>
+			<manacost>1WWGG</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{G/W}{G/W}: Evolve from Cubone
 				{X}, {T}: Marowak deals X plus 3 damage to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
-			</card>
-			<card>
-				<name>Hitmonlee</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Hitmonlee.png" rarity="uncommon">PTCG</set>
-				<color>RG</color>
-				<manacost>2RG</manacost>
-				<type>Pokémon - Fighting</type>
-				<pt>5/3</pt>
-				<tablerow>2</tablerow>
-				<text>First strike
+		</card>
+		<card>
+			<name>Hitmonlee</name>
+			<set picURL="https://images.pokemontcg.io/sm9/73_hires.png" rarity="uncommon">PTCG</set>
+			<color>RG</color>
+			<manacost>2RG</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>First strike
 				When Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn.</text>
-			</card>
-			<card>
-				<name>Hitmonchan</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Hitmonchan.png" rarity="uncommon">PTCG</set>
-				<color>UG</color>
-				<manacost>2UG</manacost>
-				<type>Pokémon - Fighting</type>
-				<pt>3/5</pt>
-				<tablerow>2</tablerow>
-				<text>Defender, reach
+		</card>
+		<card>
+			<name>Hitmonchan</name>
+			<set picURL="https://images.pokemontcg.io/pl1/129_hires.png" rarity="uncommon">PTCG</set>
+			<color>UG</color>
+			<manacost>2UG</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>3/5</pt>
+			<tablerow>2</tablerow>
+			<text>Defender, reach
 				Prevent all noncombat damage that would be dealt to Hitmonchan.</text>
-			</card>
-			<card>
-				<name>Lickitung</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Lickitung.png" rarity="uncommon">PTCG</set>
-				<color>W</color>
-				<manacost>4W</manacost>
-				<type>Pokémon - Normal</type>
-				<pt>3/7</pt>
-				<tablerow>2</tablerow>
-				<text>Reach</text>
-			</card>
-			<card>
-				<name>Koffing</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Koffing.png" rarity="common">PTCG</set>
-				<color>B</color>
-				<manacost>1B</manacost>
-				<type>Pokémon - Poison</type>
-				<pt>1/2</pt>
-				<tablerow>2</tablerow>
-				<text>{3}{B}: Evolve into Weezing
+		</card>
+		<card>
+			<name>Lickitung</name>
+			<set picURL="https://images.pokemontcg.io/base4/48_hires.png" rarity="uncommon">PTCG</set>
+			<color>W</color>
+			<manacost>4W</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>3/7</pt>
+			<tablerow>2</tablerow>
+			<text>Reach</text>
+		</card>
+		<card>
+			<name>Koffing</name>
+			<set picURL="https://images.pokemontcg.io/base5/58_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{B}: Evolve into Weezing
 				Deathtouch</text>
-			</card>
-			<card>
-				<name>Weezing</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Weezing.png" rarity="uncommon">PTCG</set>
-				<color>B</color>
-				<manacost>3BB</manacost>
-				<type>Pokémon - Poison</type>
-				<pt>3/3</pt>
-				<tablerow>2</tablerow>
-				<text>{X}{B}: Evolve from Koffing. Put X -1/-1 counters on up to X target Pokémon.
+		</card>
+		<card>
+			<name>Weezing</name>
+			<set picURL="https://images.pokemontcg.io/base5/58_hires.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>3BB</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{X}{B}: Evolve from Koffing. Put X -1/-1 counters on up to X target Pokémon.
 				Weezing gets +1/+1 for each Pokémon with a -1/-1 counter on it.</text>
-			</card>
-			<card>
-				<name>Rhyhorn</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Rhyhorn.png" rarity="common">PTCG</set>
-				<color>R</color>
-				<manacost>3R</manacost>
-				<type>Pokémon - Ground Rock</type>
-				<pt>3/3</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{R}: Evolve into Rhydon
+		</card>
+		<card>
+			<name>Rhyhorn</name>
+			<set picURL="https://images.pokemontcg.io/gym1/22_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>3R</manacost>
+			<type>Pokémon - Ground Rock</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{R}: Evolve into Rhydon
 				{1}{R}: Rhyhorn gets +1/+0 until end of turn.
 				Trample</text>
-			</card>
-			<card>
-				<name>Rhydon</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Rhydon.png" rarity="uncommon">PTCG</set>
-				<color>RG</color>
-				<manacost>7RG</manacost>
-				<type>Pokémon - Ground Rock</type>
-				<pt>7/7</pt>
-				<tablerow>2</tablerow>
-				<text>{3}{R/G}{R/G}: Evolve from Rhyhorn
+		</card>
+		<card>
+			<name>Rhydon</name>
+			<set picURL="https://images.pokemontcg.io/gym1/22_hires.png" rarity="uncommon">PTCG</set>
+			<color>RG</color>
+			<manacost>7RG</manacost>
+			<type>Pokémon - Ground Rock</type>
+			<pt>7/7</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{R/G}{R/G}: Evolve from Rhyhorn
 				{R}: Each Pokémon you control gets +1/+0 until end of turn.
 				Protection from Fire</text>
-			</card>
-			<card>
-				<name>Chansey</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Chansey.png" rarity="rare">PTCG</set>
-				<color>W</color>
-				<manacost>3WW</manacost>
-				<type>Pokémon - Normal</type>
-				<pt>1/12</pt>
-				<tablerow>2</tablerow>
-				<text>{T}: Gain 3 life.</text>
-			</card>
-			<card>
-				<name>Tangela</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Tangela.png" rarity="uncommon">PTCG</set>
-				<color>G</color>
-				<manacost>GGG</manacost>
-				<type>Pokémon - Grass</type>
-				<pt>3/3</pt>
-				<tablerow>2</tablerow>
-				<text>Reach
+		</card>
+		<card>
+			<name>Chansey</name>
+			<set picURL="https://images.pokemontcg.io/base4/3_hires.png" rarity="rare">PTCG</set>
+			<color>W</color>
+			<manacost>3WW</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>1/12</pt>
+			<tablerow>2</tablerow>
+			<text>{T}: Gain 3 life.</text>
+		</card>
+		<card>
+			<name>Tangela</name>
+			<set picURL="https://images.pokemontcg.io/gym1/79_hires.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>GGG</manacost>
+			<type>Pokémon - Grass</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Reach
 				{G}, {T}: Tap target creature. Put a +1/+1 counter on Tangela.</text>
-			</card>
-			<card>
-				<name>Kangaskhan</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Kangaskhan.png" rarity="uncommon">PTCG</set>
-				<color>W</color>
-				<manacost>WWW</manacost>
-				<type>Pokémon - Normal</type>
-				<pt>3/5</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{W}: Return target Pokémon you control to its owner's hand. You gain life equal to its toughness.</text>
-			</card>
-			<card>
-				<name>Horsea</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Horsea.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>1U</manacost>
-				<type>Pokémon - Water</type>
-				<pt>2/2</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{U}: Evolve to Seadra
+		</card>
+		<card>
+			<name>Kangaskhan</name>
+			<set picURL="https://images.pokemontcg.io/ecard2/88_hires.png" rarity="uncommon">PTCG</set>
+			<color>W</color>
+			<manacost>WWW</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>3/5</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{W}: Return target Pokémon you control to its owner's hand. You gain life equal to its toughness.</text>
+		</card>
+		<card>
+			<name>Horsea</name>
+			<set picURL="https://images.pokemontcg.io/ecard2/85_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}: Evolve to Seadra
 				{1}{U}: Return Horsea and target Pokémon you don't control to their owners' hands.</text>
-			</card>
-			<card>
-				<name>Seadra</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Seadra.png" rarity="uncommon">PTCG</set>
-				<color>U</color>
-				<manacost>3UU</manacost>
-				<type>Pokémon - Water</type>
-				<pt>3/3</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{U}: Evolve from Horsea
+		</card>
+		<card>
+			<name>Seadra</name>
+			<set picURL="https://images.pokemontcg.io/ecard2/85_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>3UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}: Evolve from Horsea
 				Whenever you draw a card, target player mills a card.</text>
-			</card>
-			<card>
-				<name>Goldeen</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Goldeen.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>1UU</manacost>
-				<type>Pokémon - Water</type>
-				<pt>2/3</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{U}: Evolve to Seaking</text>
-			</card>
-			<card>
-				<name>Seaking</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Seaking.png" rarity="uncommon">PTCG</set>
-				<color>U</color>
-				<manacost>1UUU</manacost>
-				<type>Pokémon - Water</type>
-				<pt>4/4</pt>
-				<tablerow>2</tablerow>
-				<text>{U}: Evolve from Goldeen</text>
-			</card>
-			<card>
-				<name>Staryu</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Staryu.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>1U</manacost>
-				<type>Pokémon - Water</type>
-				<pt>2/2</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{U}: Evolve to Starmie
+		</card>
+		<card>
+			<name>Goldeen</name>
+			<set picURL="https://images.pokemontcg.io/ex1/55_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}: Evolve to Seaking</text>
+		</card>
+		<card>
+			<name>Seaking</name>
+			<set picURL="https://images.pokemontcg.io/ex1/55_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>1UUU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{U}: Evolve from Goldeen</text>
+		</card>
+		<card>
+			<name>Staryu</name>
+			<set picURL="https://images.pokemontcg.io/ex5/75_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}: Evolve to Starmie
 				Whenever Staryu deals combat damage, you may draw a card. If you do, discard a card.</text>
-			</card>
-			<card>
-				<name>Starmie</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Starmie.png" rarity="uncommon">PTCG</set>
-				<color>U</color>
-				<manacost>3UU</manacost>
-				<type>Pokémon - Water Psychic</type>
-				<pt>4/4</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{U}: Evolve from Staryu
+		</card>
+		<card>
+			<name>Starmie</name>
+			<set picURL="https://images.pokemontcg.io/ex5/75_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>3UU</manacost>
+			<type>Pokémon - Water Psychic</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}: Evolve from Staryu
 				{T}: Return target TM to its owner's hand.</text>
-			</card>
-			<card>
-				<name>Mr. Mime</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Mr.%20Mime.png" rarity="uncommon">PTCG</set>
-				<color>B</color>
-				<manacost>BBB</manacost>
-				<type>Pokémon - Psychic Fairy</type>
-				<pt>5/5</pt>
-				<tablerow>2</tablerow>
-				<text>At the beginning of your upkeep, sacrifice a Pokémon.</text>
-			</card>
-			<card>
-				<name>Scyther</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Scyther.png" rarity="uncommon">PTCG</set>
-				<color>RG</color>
-				<manacost>2RG</manacost>
-				<type>Pokémon - Bug Flying</type>
-				<pt>3/3</pt>
-				<tablerow>2</tablerow>
-				<text>Double strike</text>
-			</card>
-			<card>
-				<name>Jynx</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Jynx.png" rarity="rare">PTCG</set>
-				<color>UB</color>
-				<manacost>3UB</manacost>
-				<type>Pokémon - Ice Psychic</type>
-				<pt>4/3</pt>
-				<tablerow>2</tablerow>
-				<text>{U}{B}, {T}: Target player draws two cards and loses 2 life.</text>
-			</card>
-			<card>
-				<name>Electabuzz</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Electabuzz.png" rarity="uncommon">PTCG</set>
-				<color>WR</color>
-				<manacost>3WR</manacost>
-				<type>Pokémon - Electric</type>
-				<pt>4/4</pt>
-				<tablerow>2</tablerow>
-				<text />
-			</card>
-			<card>
-				<name>Magmar</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Magmar.png" rarity="uncommon">PTCG</set>
-				<color>R</color>
-				<manacost>4R</manacost>
-				<type>Pokémon - Fire</type>
-				<pt>3/3</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{R}: Magmar deals 1 damage to target Pokémon.</text>
-			</card>
-			<card>
-				<name>Pinsir</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Pinsir.png" rarity="uncommon">PTCG</set>
-				<color>G</color>
-				<manacost>4G</manacost>
-				<type>Pokémon - Bug</type>
-				<pt>6/6</pt>
-				<tablerow>2</tablerow>
-				<text>Trample</text>
-			</card>
-			<card>
-				<name>Tauros</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Tauros.png" rarity="uncommon">PTCG</set>
-				<color>RG</color>
-				<manacost>2{R/G}G</manacost>
-				<type>Pokémon - Normal</type>
-				<pt>6/4</pt>
-				<tablerow>2</tablerow>
-				<text>Trample</text>
-			</card>
-			<card>
-				<name>Magikarp</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Magikarp.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>U</manacost>
-				<type>Pokémon - Water</type>
-				<pt>0/1</pt>
-				<tablerow>2</tablerow>
-				<text>{6}{U}{R}: Evolve to Gyarados</text>
-			</card>
-			<card>
-				<name>Gyarados</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Gyarados.png" rarity="mythic">PTCG</set>
-				<color>UR</color>
-				<manacost>UUUURRRR</manacost>
-				<type>Pokémon - Water Flying</type>
-				<pt>10/10</pt>
-				<tablerow>2</tablerow>
-				<text>{6}{U}{R}: Evolve from Magikarp
+		</card>
+		<card>
+			<name>Mr. Mime</name>
+			<set picURL="https://images.pokemontcg.io/ex6/110_hires.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>BBB</manacost>
+			<type>Pokémon - Psychic Fairy</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>At the beginning of your upkeep, sacrifice a Pokémon.</text>
+		</card>
+		<card>
+			<name>Scyther</name>
+			<set picURL="https://images.pokemontcg.io/ex7/102_hires.png" rarity="uncommon">PTCG</set>
+			<color>RG</color>
+			<manacost>2RG</manacost>
+			<type>Pokémon - Bug Flying</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Double strike</text>
+		</card>
+		<card>
+			<name>Jynx</name>
+			<set picURL="https://images.pokemontcg.io/base6/26_hires.png" rarity="rare">PTCG</set>
+			<color>UB</color>
+			<manacost>3UB</manacost>
+			<type>Pokémon - Ice Psychic</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>{U}{B}, {T}: Target player draws two cards and loses 2 life.</text>
+		</card>
+		<card>
+			<name>Electabuzz</name>
+			<set picURL="https://images.pokemontcg.io/base4/24_hires.png" rarity="uncommon">PTCG</set>
+			<color>WR</color>
+			<manacost>3WR</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Magmar</name>
+			<set picURL="https://images.pokemontcg.io/base4/51_hires.png" rarity="uncommon">PTCG</set>
+			<color>R</color>
+			<manacost>4R</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{R}: Magmar deals 1 damage to target Pokémon.</text>
+		</card>
+		<card>
+			<name>Pinsir</name>
+			<set picURL="https://images.pokemontcg.io/base2/25_hires.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>4G</manacost>
+			<type>Pokémon - Bug</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>Trample</text>
+		</card>
+		<card>
+			<name>Tauros</name>
+			<set picURL="https://images.pokemontcg.io/gym1/64_hires.png" rarity="uncommon">PTCG</set>
+			<color>RG</color>
+			<manacost>2{R/G}G</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>6/4</pt>
+			<tablerow>2</tablerow>
+			<text>Trample</text>
+		</card>
+		<card>
+			<name>Magikarp</name>
+			<set picURL="https://images.pokemontcg.io/base5/47_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>0/1</pt>
+			<tablerow>2</tablerow>
+			<text>{6}{U}{R}: Evolve to Gyarados</text>
+		</card>
+		<card>
+			<name>Gyarados</name>
+			<set picURL="https://images.pokemontcg.io/base5/47_hires.png" rarity="mythic">PTCG</set>
+			<color>UR</color>
+			<manacost>UUUURRRR</manacost>
+			<type>Pokémon - Water Flying</type>
+			<pt>10/10</pt>
+			<tablerow>2</tablerow>
+			<text>{6}{U}{R}: Evolve from Magikarp
 				Whenever this Pokémon evolves, destroy all other Pokémon.</text>
-			</card>
-			<card>
-				<name>Lapras</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Lapras.png" rarity="rare">PTCG</set>
-				<color>WU</color>
-				<manacost>2{W/U}W</manacost>
-				<type>Pokémon - Water Ice</type>
-				<pt>3/6</pt>
-				<tablerow>2</tablerow>
-				<text>Sacrifice Lapras: Target player sacrifices a Pokémon.</text>
-			</card>
-			<card>
-				<name>Ditto</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Ditto.png" rarity="uncommon">PTCG</set>
-				<manacost>5</manacost>
-				<type>Pokémon - Normal</type>
-				<pt>0/1</pt>
-				<tablerow>2</tablerow>
-				<text>{3}: Ditto becomes a copy of target Pokémon until end of turn, except it has this ability.</text>
-			</card>
-			<card>
-				<name>Eevee</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Eevee.png" rarity="common">PTCG</set>
-				<color>W</color>
-				<manacost>1W</manacost>
-				<type>Pokémon - Normal</type>
-				<pt>1/2</pt>
-				<tablerow>2</tablerow>
-				<text>{3}{U}: Evolve to Vaporeon
+		</card>
+		<card>
+			<name>Lapras</name>
+			<set picURL="https://images.pokemontcg.io/si1/12_hires.png" rarity="rare">PTCG</set>
+			<color>WU</color>
+			<manacost>2{W/U}W</manacost>
+			<type>Pokémon - Water Ice</type>
+			<pt>3/6</pt>
+			<tablerow>2</tablerow>
+			<text>Sacrifice Lapras: Target player sacrifices a Pokémon.</text>
+		</card>
+		<card>
+			<name>Ditto</name>
+			<set picURL="https://images.pokemontcg.io/ecard3/51_hires.png" rarity="uncommon">PTCG</set>
+			<manacost>5</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>0/1</pt>
+			<tablerow>2</tablerow>
+			<text>{3}: Ditto becomes a copy of target Pokémon until end of turn, except it has this ability.</text>
+		</card>
+		<card>
+			<name>Eevee</name>
+			<set picURL="https://images.pokemontcg.io/ex2/63_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{U}: Evolve to Vaporeon
 				{3}{W}: Evolve to Jolteon
 				{3}{R}: Evolve to Flareon</text>
-			</card>
-			<card>
-				<name>Vaporeon</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Vaporeon.png" rarity="uncommon">PTCG</set>
-				<color>U</color>
-				<manacost>2UU</manacost>
-				<type>Pokémon - Water</type>
-				<pt>3/5</pt>
-				<tablerow>2</tablerow>
-				<text>{3}{U}: Evolve from Eevee
+		</card>
+		<card>
+			<name>Vaporeon</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/5</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{U}: Evolve from Eevee
 				Whenever a Pokémon you control evolves, draw a card, then discard a card.</text>
-			</card>
-			<card>
-				<name>Jolteon</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Jolteon.png" rarity="uncommon">PTCG</set>
-				<color>W</color>
-				<manacost>2WW</manacost>
-				<type>Pokémon - Electric</type>
-				<pt>5/3</pt>
-				<tablerow>2</tablerow>
-				<text>{3}{W}: Evolve from Eevee
+		</card>
+		<card>
+			<name>Jolteon</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="uncommon">PTCG</set>
+			<color>W</color>
+			<manacost>2WW</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{W}: Evolve from Eevee
 				Whenever a Pokémon you control evolves, that Pokémons gains vigilance until end of turn.</text>
-			</card>
-			<card>
-				<name>Flareon</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Flareon.png" rarity="uncommon">PTCG</set>
-				<color>R</color>
-				<manacost>2RR</manacost>
-				<type>Pokémon - Fire</type>
-				<pt>4/4</pt>
-				<tablerow>2</tablerow>
-				<text>{3}{R}: Evolve from Eevee
+		</card>
+		<card>
+			<name>Flareon</name>
+			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="uncommon">PTCG</set>
+			<color>R</color>
+			<manacost>2RR</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{R}: Evolve from Eevee
 				Whenever a Pokémon you control evolves, Flareon deals 2 damage to target Pokémon.</text>
-			</card>
-			<card>
-				<name>Porygon</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Porygon.png" rarity="rare">PTCG</set>
-				<color>WUB</color>
-				<manacost>1WUB</manacost>
-				<type>Pokémon - Normal</type>
-				<pt>3/6</pt>
-				<tablerow>2</tablerow>
-				<text>{1}: Porygon becomes the color or colors of your choice until end of turn.
+		</card>
+		<card>
+			<name>Porygon</name>
+			<set picURL="https://images.pokemontcg.io/ex6/47_hires.png" rarity="rare">PTCG</set>
+			<color>WUB</color>
+			<manacost>1WUB</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>3/6</pt>
+			<tablerow>2</tablerow>
+			<text>{1}: Porygon becomes the color or colors of your choice until end of turn.
 				{W}{U}{B}: Porygon deals 6 damage to target Pokémon.</text>
-			</card>
-			<card>
-				<name>Omanyte</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Omanyte.png" rarity="uncommon">PTCG</set>
-				<color>UR</color>
-				<manacost>1UR</manacost>
-				<type>Pokémon - Rock Water</type>
-				<pt>1/4</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{U}{R}: Evolve to Omastar
+		</card>
+		<card>
+			<name>Omanyte</name>
+			<set picURL="https://images.pokemontcg.io/base6/57_hires.png" rarity="uncommon">PTCG</set>
+			<color>UR</color>
+			<manacost>1UR</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>1/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}{R}: Evolve to Omastar
 				Fossil {3}{U}{R}</text>
-			</card>
-			<card>
-				<name>Omastar</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Omastar.png" rarity="uncommon">PTCG</set>
-				<color>UR</color>
-				<manacost>1URRR</manacost>
-				<type>Pokémon - Rock Water</type>
-				<pt>5/4</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{U}{R}: Evolve from Omanyte
+		</card>
+		<card>
+			<name>Omastar</name>
+			<set picURL="https://images.pokemontcg.io/base6/57_hires.png" rarity="uncommon">PTCG</set>
+			<color>UR</color>
+			<manacost>1URRR</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>5/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}{R}: Evolve from Omanyte
 				{U}: Omastar deals 1 damage to target Pokémon or trainer and 1 damage to you.
 				{R}: The next time Omastar would deal damage, it deals that much damage plus 1 instead.
 				Fossil {3}{U}{R}</text>
-			</card>
-			<card>
-				<name>Kabuto</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Kabuto.png" rarity="uncommon">PTCG</set>
-				<color>UG</color>
-				<manacost>1UG</manacost>
-				<type>Pokémon - Rock Water</type>
-				<pt>2/3</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{U}{G}: Evolve to Kabutops
+		</card>
+		<card>
+			<name>Kabuto</name>
+			<set picURL="https://images.pokemontcg.io/base6/48_hires.png" rarity="uncommon">PTCG</set>
+			<color>UG</color>
+			<manacost>1UG</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{U}{G}: Evolve to Kabutops
 				Fossil {3}{U}{G}</text>
-			</card>
-			<card>
-				<name>Kabutops</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Kabutops.png" rarity="uncommon">PTCG</set>
-				<color>UG</color>
-				<manacost>1UGGG</manacost>
-				<type>Pokémon - Rock Water</type>
-				<pt>6/4</pt>
-				<tablerow>2</tablerow>
-				<text>{2}{U}{G}: Evolve from Kabuto
+		</card>
+		<card>
+			<name>Kabutops</name>
+			<set picURL="https://images.pokemontcg.io/base6/48_hires.png" rarity="uncommon">PTCG</set>
+			<color>UG</color>
+			<manacost>1UGGG</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>6/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}{G}: Evolve from Kabuto
 				{G}: Kabutops gets +1/+1 until end of turn.
 				{U}: Kabutops fights target Pokémon. If that Pokémon would die, return it to its owner's hand instead.
 				Fossil {3}{U}{G}</text>
-			</card>
-			<card>
-				<name>Aerodactyl</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Aerodactyl.png" rarity="rare">PTCG</set>
-				<color>RG</color>
-				<manacost>1RG</manacost>
-				<type>Pokémon - Rock Flying</type>
-				<pt>2/2</pt>
-				<tablerow>2</tablerow>
-				<text>Flying, haste
+		</card>
+		<card>
+			<name>Aerodactyl</name>
+			<set picURL="https://images.pokemontcg.io/base3/16_hires.png" rarity="rare">PTCG</set>
+			<color>RG</color>
+			<manacost>1RG</manacost>
+			<type>Pokémon - Rock Flying</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Flying, haste
 				{3}{R}{G}: Return Aerodactyl from your graveyard to the battlefield.</text>
-			</card>
-			<card>
-				<name>Snorlax</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Snorlax.png" rarity="rare">PTCG</set>
-				<color>W</color>
-				<manacost>2WWW</manacost>
-				<type>Pokémon - Normal</type>
-				<pt>5/5</pt>
-				<tablerow>2</tablerow>
-				<text>{T}: Regenerate Snorlax. It doesn't untap during its controller's next untap step.</text>
-			</card>
-			<card>
-				<name>Articuno</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Articuno.png" rarity="mythic">PTCG</set>
-				<color>UW</color>
-				<manacost>{U/W}{U/W}{U/W}{U/W}</manacost>
-				<type>Legendary Pokémon - Ice Flying</type>
-				<pt>5/5</pt>
-				<tablerow>2</tablerow>
-				<text>Flying
+		</card>
+		<card>
+			<name>Snorlax</name>
+			<set picURL="https://images.pokemontcg.io/gym1/33_hires.png" rarity="rare">PTCG</set>
+			<color>W</color>
+			<manacost>2WWW</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>{T}: Regenerate Snorlax. It doesn't untap during its controller's next untap step.</text>
+		</card>
+		<card>
+			<name>Articuno</name>
+			<set picURL="https://images.pokemontcg.io/pl3/148_hires.png" rarity="mythic">PTCG</set>
+			<color>UW</color>
+			<manacost>{U/W}{U/W}{U/W}{U/W}</manacost>
+			<type>Legendary Pokémon - Ice Flying</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
 				When Articuno enters the battlefield, tap all Pokémon you don't control. Those Pokémon don't untap during their controller's next untap step.</text>
-			</card>
-			<card>
-				<name>Zapdos</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Zapdos.png" rarity="mythic">PTCG</set>
-				<color>WR</color>
-				<manacost>{W/R}{W/R}{W/R}{W/R}</manacost>
-				<type>Legendary Pokémon - Electric Flying</type>
-				<pt>5/5</pt>
-				<tablerow>2</tablerow>
-				<text>Flying
+		</card>
+		<card>
+			<name>Zapdos</name>
+			<set picURL="https://images.pokemontcg.io/base3/30_hires.png" rarity="mythic">PTCG</set>
+			<color>WR</color>
+			<manacost>{W/R}{W/R}{W/R}{W/R}</manacost>
+			<type>Legendary Pokémon - Electric Flying</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
 				When Zapdos enters the battlefield, Pokémon you control gain haste and first strike until end of turn.</text>
-			</card>
-			<card>
-				<name>Moltres</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Moltres.png" rarity="mythic">PTCG</set>
-				<color>GR</color>
-				<manacost>{G/R}{G/R}{G/R}{G/R}</manacost>
-				<type>Legendary Pokémon - Fire Flying</type>
-				<pt>5/5</pt>
-				<tablerow>2</tablerow>
-				<text>Flying
+		</card>
+		<card>
+			<name>Moltres</name>
+			<set picURL="https://images.pokemontcg.io/gym1/12_hires.png" rarity="mythic">PTCG</set>
+			<color>GR</color>
+			<manacost>{G/R}{G/R}{G/R}{G/R}</manacost>
+			<type>Legendary Pokémon - Fire Flying</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
 				When Moltres enters the battlefield, it deals 2 damage to each other Pokémon and each player.</text>
-			</card>
-			<card>
-				<name>Dratini</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Dratini.png" rarity="rare">PTCG</set>
-				<color>WRG</color>
-				<manacost>WRG</manacost>
-				<type>Pokémon - Dragon</type>
-				<pt>2/2</pt>
-				<tablerow>2</tablerow>
-				<text>{1}{W}{R}{G}: Evolve to Dragonair</text>
-			</card>
-			<card>
-				<name>Dragonite</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Dragonite.png" rarity="mythic">PTCG</set>
-				<color>WRG</color>
-				<manacost>4WRG</manacost>
-				<type>Pokémon - Dragon Flying</type>
-				<pt>6/6</pt>
-				<tablerow>2</tablerow>
-				<text>WRG: Evolve from Dragonair
+		</card>
+		<card>
+			<name>Dratini</name>
+			<set picURL="https://images.pokemontcg.io/gym1/42_hires.png" rarity="rare">PTCG</set>
+			<color>WRG</color>
+			<manacost>WRG</manacost>
+			<type>Pokémon - Dragon</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{W}{R}{G}: Evolve to Dragonair</text>
+		</card>
+		<card>
+			<name>Dragonite</name>
+			<set picURL="https://images.pokemontcg.io/gym1/42_hires.png" rarity="mythic">PTCG</set>
+			<color>WRG</color>
+			<manacost>4WRG</manacost>
+			<type>Pokémon - Dragon Flying</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>WRG: Evolve from Dragonair
 				Flying
 				Whenever Dragonite evolves, Pokémon you control gain indestructible until end of turn.</text>
-			</card>
-			<card>
-				<name>Mewtwo</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Mewtwo.png" rarity="mythic">PTCG</set>
-				<color>RWBU</color>
-				<manacost>2RWBU</manacost>
-				<type>Legendary Pokémon - Psychic</type>
-				<pt>7/4</pt>
-				<tablerow>2</tablerow>
-				<text>Flying, first strike, intimidate
+		</card>
+		<card>
+			<name>Mewtwo</name>
+			<set picURL="https://images.pokemontcg.io/basep/12_hires.png" rarity="mythic">PTCG</set>
+			<color>RWBU</color>
+			<manacost>2RWBU</manacost>
+			<type>Legendary Pokémon - Psychic</type>
+			<pt>7/4</pt>
+			<tablerow>2</tablerow>
+			<text>Flying, first strike, intimidate
 				T: Destroy target Pokémon or Trainer.</text>
-			</card>
-			<card>
-				<name>Mew</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Mew.png" rarity="mythic">PTCG</set>
-				<color>WUBRG</color>
-				<manacost>WUBRG</manacost>
-				<type>Legendary Pokémon - Psychic</type>
-				<pt>2/4</pt>
-				<tablerow>2</tablerow>
-				<text>Flying
+		</card>
+		<card>
+			<name>Mew</name>
+			<set picURL="https://images.pokemontcg.io/basep/9_hires.png" rarity="mythic">PTCG</set>
+			<color>WUBRG</color>
+			<manacost>WUBRG</manacost>
+			<type>Legendary Pokémon - Psychic</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
 				Tap any number of Pokémon you control: Each Pokémon tapped this way gains indestructible until end of turn.</text>
-			</card>
-			<!-- trainer cards -->
-			<card>
-				<name>Red</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Red.png" rarity="mythic">PTCG</set>
-				<color>RW</color>
-				<manacost>3RRW</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Red</type>
-				<loyalty>4</loyalty>
-				<text>[+1]: Reveal the top five cards of your library. Put a Pokémon card revealed this way into your hand and the rest on the bottom of your library in any order.
+		</card>
+		<!-- trainer cards -->
+		<card>
+			<name>Red</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>RW</color>
+			<manacost>3RRW</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Red</type>
+			<loyalty>4</loyalty>
+			<text>[+1]: Reveal the top five cards of your library. Put a Pokémon card revealed this way into your hand and the rest on the bottom of your library in any order.
 				[−3]: You may put a Pokémon card from your hand onto the battlefield.
 				[−7]: For each Pokémon you control, create a token that's a copy of that Pokémon.</text>
-			</card>
-			<card>
-				<name>Blue</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Blue.png" rarity="mythic">PTCG</set>
-				<color>UR</color>
-				<manacost>3RRU</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Blue</type>
-				<loyalty>3</loyalty>
-				<text>[+2]: Target Pokémon gets +3/-1.
+		</card>
+		<card>
+			<name>Blue</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>UR</color>
+			<manacost>3RRU</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Blue</type>
+			<loyalty>3</loyalty>
+			<text>[+2]: Target Pokémon gets +3/-1.
 				[-3]: Discard a card, then return a Pokémon card from your graveyard to the battlefield tapped.
 				[−7]: Pokémon you control get +3/+3 and gain lifelink, indestructible, haste, vigilance, and hexproof until end of turn.</text>
-			</card>
-			<card>
-				<name>Green</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Green.png" rarity="mythic">PTCG</set>
-				<color>GUB</color>
-				<manacost>3G{B/U}</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Green</type>
-				<loyalty>5</loyalty>
-				<text>[+1]: Each player searches their library for an artifact card, puts it into their hand, and shuffles.
+		</card>
+		<card>
+			<name>Green</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>GUB</color>
+			<manacost>3G{B/U}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Green</type>
+			<loyalty>5</loyalty>
+			<text>[+1]: Each player searches their library for an artifact card, puts it into their hand, and shuffles.
 				[-2]: Return an enchantment or artifact card from your graveyard to your hand.
 				[−5]: For each Pokémon you control, search your library for a TM card and put it onto the battlefield enchanting that Pokémon. Then shuffle.</text>
-			</card>
-			<card>
-				<name>Brock</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Brock.png" rarity="mythic">PTCG</set>
-				<color>GR</color>
-				<manacost>1GR</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Brock</type>
-				<loyalty>2</loyalty>
-				<text>[+1]: Target Pokémon gets +2/+2 until end of turn.
+		</card>
+		<card>
+			<name>Brock</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>GR</color>
+			<manacost>1GR</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Brock</type>
+			<loyalty>2</loyalty>
+			<text>[+1]: Target Pokémon gets +2/+2 until end of turn.
 				[−2]: Search your library for a Rock or Ground card, reveal it, then shuffle and put that card on top.
 				[−4]: You get an emblem with "Whenever a Pokémon you control evolves, put two +1/+1 counters on it."</text>
-			</card>
-			<card>
-				<name>Misty</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Misty.png" rarity="mythic">PTCG</set>
-				<color>U</color>
-				<manacost>2UU</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Misty</type>
-				<loyalty>4</loyalty>
-				<text>[+1]: Tap or untap target Pokémon.  
+		</card>
+		<card>
+			<name>Misty</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Misty</type>
+			<loyalty>4</loyalty>
+			<text>[+1]: Tap or untap target Pokémon.  
 				[−1]: Target Water Pokémon gains unblockable until end of turn. 
 				[−6]: Draw two cards for each Pokémon you control. You have no maximum hand size until your next turn.</text>
-			</card>
-			<card>
-				<name>Lt. Surge</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Lt.%20Surge.png" rarity="mythic">PTCG</set>
-				<color>RW</color>
-				<manacost>2RW</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Surge</type>
-				<loyalty>5</loyalty>
-				<text>[+1]: Target Pokémon gains vigilance and haste until end of turn.
+		</card>
+		<card>
+			<name>Lt. Surge</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>RW</color>
+			<manacost>2RW</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Surge</type>
+			<loyalty>5</loyalty>
+			<text>[+1]: Target Pokémon gains vigilance and haste until end of turn.
 				[−3]: Pokémon you control with first strike gain double strike until end of turn, then Pokémon you control gain first strike until end of turn.
 				[−6]: Target Pokémon gains indestructible until end of turn. Lt. Surge deals 12 damage to each Pokémon.</text>
-			</card>
-			<card>
-				<name>Erika</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Erika.png" rarity="mythic">PTCG</set>
-				<color>G</color>
-				<manacost>2GG</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Erika</type>
-				<loyalty>1</loyalty>
-				<text>[+1]: Add {G}, {U}, or {W}.
+		</card>
+		<card>
+			<name>Erika</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>G</color>
+			<manacost>2GG</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Erika</type>
+			<loyalty>1</loyalty>
+			<text>[+1]: Add {G}, {U}, or {W}.
 				[-2]: Reveal your hand. You gain 1 life for each Pokémon card revealed this way.
 				[−X]: Pokémon you control get +X/+X until end of turn.</text>
-			</card>
-			<card>
-				<name>Koga</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Koga.png" rarity="mythic">PTCG</set>
-				<color>B</color>
-				<manacost>1BB</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Koga</type>
-				<loyalty>3</loyalty>
-				<text>[+1]: Target Pokémon gains infect until end of turn.
+		</card>
+		<card>
+			<name>Koga</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>B</color>
+			<manacost>1BB</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Koga</type>
+			<loyalty>3</loyalty>
+			<text>[+1]: Target Pokémon gains infect until end of turn.
 				[-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
 				[−6]: You get an emblem with "Pokémon you control have {B}: this Pokémon gains shadow until end of turn."</text>
-			</card>
-			<card>
-				<name>Sabrina</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Sabrina.png" rarity="mythic">PTCG</set>
-				<color>BU</color>
-				<manacost>2B{U/B}</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Sabrina</type>
-				<loyalty>6</loyalty>
-				<text>[+1]: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
+		</card>
+		<card>
+			<name>Sabrina</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>BU</color>
+			<manacost>2B{U/B}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Sabrina</type>
+			<loyalty>6</loyalty>
+			<text>[+1]: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
 				[-2]: Search your library for a card, then shuffle and put that card third from the top.
 				[-4]: Target player discards a card, then each player draws cards equal to the number of cards in their hand.</text>
-			</card>
-			<card>
-				<name>Blaine</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Blaine.png" rarity="mythic">PTCG</set>
-				<color>R</color>
-				<manacost>2R</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Blaine</type>
-				<loyalty>3</loyalty>
-				<text>[+1]: Draw two cards, then discard two cards.
+		</card>
+		<card>
+			<name>Blaine</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>R</color>
+			<manacost>2R</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Blaine</type>
+			<loyalty>3</loyalty>
+			<text>[+1]: Draw two cards, then discard two cards.
 				[0]: Up to three target Pokémon get +1/+0 until end of turn.
 				[−3]: You get an emblem with "Medicine cards in your hand have flash."</text>
-			</card>
-			<card>
-				<name>Giovanni</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Giovanni.png" rarity="mythic">PTCG</set>
-				<color>BR</color>
-				<manacost>3B{B/R}</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Giovanni</type>
-				<loyalty>5</loyalty>
-				<text>[+1]: Draw a card. You lose 1 life for each card in your hand.
+		</card>
+		<card>
+			<name>Giovanni</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>BR</color>
+			<manacost>3B{B/R}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Giovanni</type>
+			<loyalty>5</loyalty>
+			<text>[+1]: Draw a card. You lose 1 life for each card in your hand.
 				[0]: Each player sacrifices a Pokémon or Trainer.
 				[-8]: Each player discards their hand. Put all Pokémon cards from all graveyards onto the battlefield under your control.</text>
-			</card>
-			<card>
-				<name>Mr. Fuji</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Mr.%20Fuji.png" rarity="mythic">PTCG</set>
-				<color>W</color>
-				<manacost>2WW</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Fuji</type>
-				<loyalty>3</loyalty>
-				<text>[+1]: Target Pokémon gets +0/+4 until end of turn.
+		</card>
+		<card>
+			<name>Mr. Fuji</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>W</color>
+			<manacost>2WW</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Fuji</type>
+			<loyalty>3</loyalty>
+			<text>[+1]: Target Pokémon gets +0/+4 until end of turn.
 				[-3]: Exile target Pokémon with power greater than its toughness.
 				[-7]: You get an emblem with "Whenever a Pokémon you control dies, return it to your hand at the beginning of your end step."</text>
-			</card>
-			<card>
-				<name>Professor Oak</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Professor%20Oak.png" rarity="mythic">PTCG</set>
-				<color />
-				<manacost>7</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Oak</type>
-				<loyalty>4</loyalty>
-				<text>[+1]: Target player draws a card.
+		</card>
+		<card>
+			<name>Professor Oak</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color></color>
+			<manacost>7</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Oak</type>
+			<loyalty>4</loyalty>
+			<text>[+1]: Target player draws a card.
 				[-3]: Exile target Pokémon. Its controller gains 3 life.
 				[-7]: You get an emblem with "Pokémon you control have indestructible."</text>
-			</card>
-			<card>
-				<name>Lorelei</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Lorelei.png" rarity="mythic">PTCG</set>
-				<color>WU</color>
-				<manacost>1{W/U}{W/U}</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Lorelei</type>
-				<loyalty>2</loyalty>
-				<text>[+1]: Target player gains 3 life.
+		</card>
+		<card>
+			<name>Lorelei</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>WU</color>
+			<manacost>1{W/U}{W/U}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Lorelei</type>
+			<loyalty>2</loyalty>
+			<text>[+1]: Target player gains 3 life.
 				[0]: Water and Ice Pokémon you control get +0/+2 until end of turn.
 				[-5]: Put any number of Water and Ice Pokémon cards from your hand onto the battlefield.</text>
-			</card>
-			<card>
-				<name>Bruno</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Bruno.png" rarity="mythic">PTCG</set>
-				<color>RG</color>
-				<manacost>2{R/G}{R/G}</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Bruno</type>
-				<loyalty>2</loyalty>
-				<text>[+2]: Untap up to three target lands.
+		</card>
+		<card>
+			<name>Bruno</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>RG</color>
+			<manacost>2{R/G}{R/G}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Bruno</type>
+			<loyalty>2</loyalty>
+			<text>[+2]: Untap up to three target lands.
 				[-1]: Put a +1/+1 counter on target Fighting or Rock Pokémon.
 				[-3]: Pokémon you control with +1/+1 counters on them gain trample until end of turn.</text>
-			</card>
-			<card>
-				<name>Agatha</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Agatha.png" rarity="mythic">PTCG</set>
-				<color>BU</color>
-				<manacost>3{B/U}{B/U}</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Agatha</type>
-				<loyalty>3</loyalty>
-				<text>[+1]: Exile the top three cards of target player's library. You may play those cards until end of turn.
+		</card>
+		<card>
+			<name>Agatha</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>BU</color>
+			<manacost>3{B/U}{B/U}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Agatha</type>
+			<loyalty>3</loyalty>
+			<text>[+1]: Exile the top three cards of target player's library. You may play those cards until end of turn.
 				[-2]: Destroy target Pokémon.
 				[-X]: Up to X target Pokémon get -0/-X until end of turn.</text>
-			</card>
-			<card>
-				<name>Lance</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Lance.png" rarity="mythic">PTCG</set>
-				<color>WRG</color>
-				<manacost>4WRG</manacost>
-				<tablerow>1</tablerow>
-				<type>Legendary Trainer - Lance</type>
-				<loyalty>4</loyalty>
-				<text>[+2]: Lance deals 3 damage to target Pokémon. You gain 3 life.
+		</card>
+		<card>
+			<name>Lance</name>
+			<set picURL="https://i.imgur.com/WMmQcyD.jpeg" rarity="mythic">PTCG</set>
+			<color>WRG</color>
+			<manacost>4WRG</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Lance</type>
+			<loyalty>4</loyalty>
+			<text>[+2]: Lance deals 3 damage to target Pokémon. You gain 3 life.
 				[0]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying that's still a Trainer. Prevent all damage that would be dealt to him this turn.
 				[-8]: Gain control of all Pokémon.</text>
-			</card>
-			<!-- sorceries/instants -->
-			<card>
-				<name>Bill</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Bill.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>2U</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Draw two cards.</text>
-			</card>
-			<card>
-				<name>Pokéball</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Pok%C3%A9ball.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost>3</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Search your library for a Pokémon card and put it into your hand. Then shuffle.</text>
-			</card>
-			<card>
-				<name>Switch</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Switch.png" rarity="common">PTCG</set>
-				<color>G</color>
-				<manacost>2G</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Return target Pokémon you control to its owner's hand. If you do, put a Pokémon with equal or lesser mana value from your hand onto the battlefield.</text>
-			</card>
-			<card>
-				<name>Master Ball</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Master%20Ball.png" rarity="rare">PTCG</set>
-				<color />
-				<manacost>5</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Look at the top 7 cards of your library. Put up to one Pokémon card from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
-			</card>
-			<card>
-				<name>Stonefinder Radar</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Stonefinder%20Radar.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>1</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Search your library for a Stone card and put it into your hand. Then shuffle.</text>
-			</card>
-			<card>
-				<name>Pokéflute</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Pok%C3%A9flute.png" rarity="uncommon">PTCG</set>
-				<color>W</color>
-				<manacost>2W</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Untap all Pokémon you control.</text>
-			</card>
-			<card>
-				<name>Bubble Blower</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Bubble%20Blower.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>2U</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Search your library for a Water card and put it into your hand. Then shuffle.</text>
-			</card>
-			<card>
-				<name>Revive</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Revive.png" rarity="common">PTCG</set>
-				<color>B</color>
-				<manacost>2B</manacost>
-				<type>Sorcery - Medicine</type>
-				<tablerow>3</tablerow>
-				<text>Return target Pokémon card from your graveyard to the battlefield tapped. It doesn't untap during your next untap step.</text>
-			</card>
-			<card>
-				<name>Max Revive</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Max%20Revive.png" rarity="rare">PTCG</set>
-				<color>WB</color>
-				<manacost>3{W/B}{W/B}</manacost>
-				<type>Sorcery - Medicine</type>
-				<tablerow>3</tablerow>
-				<text>Return target Pokémon card from your graveyard to the battlefield.</text>
-			</card>
-			<card>
-				<name>Energy Search Mk2</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Energy%20Search%20Mk2.png" rarity="common">PTCG</set>
-				<color>G</color>
-				<manacost>1G</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Search your library for a basic land card and put it on the battlefield tapped. Then shuffle.</text>
-			</card>
-			<card>
-				<name>Gambler</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Gambler.png" rarity="common">PTCG</set>
-				<color>R</color>
-				<manacost>2R</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Shuffle your hand into your library, then draw that many cards.</text>
-			</card>
-			<card>
-				<name>Mysterious Fossil</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Mysterious%20Fossil.png" rarity="common">PTCG</set>
-				<color>URG</color>
-				<manacost>1{U/R}{U/G}</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Search your library for a Pokémon card with fossil and put it into your hand. Then shuffle.</text>
-			</card>
-			<card>
-				<name>Explore</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Explore.png" rarity="common">PTCG</set>
-				<color>G</color>
-				<manacost>1G</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>You may play an additional land this turn.
+		</card>
+		<!-- sorceries/instants -->
+		<card>
+			<name>Bill</name>
+			<set picURL="https://images.pokemontcg.io/base1/91_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Draw two cards.</text>
+		</card>
+		<card>
+			<name>Pokéball</name>
+			<set picURL="https://images.pokemontcg.io/base1/91_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for a Pokémon card and put it into your hand. Then shuffle.</text>
+		</card>
+		<card>
+			<name>Switch</name>
+			<set picURL="https://images.pokemontcg.io/base1/95_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>2G</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Return target Pokémon you control to its owner's hand. If you do, put a Pokémon with equal or lesser mana value from your hand onto the battlefield.</text>
+		</card>
+		<card>
+			<name>Master Ball</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/143_hires.png" rarity="rare">PTCG</set>
+			<color></color>
+			<manacost>5</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Look at the top 7 cards of your library. Put up to one Pokémon card from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+		</card>
+		<card>
+			<name>Stonefinder Radar</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/143_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>1</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for a Stone card and put it into your hand. Then shuffle.</text>
+		</card>
+		<card>
+			<name>Pokéflute</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/143_hires.png" rarity="uncommon">PTCG</set>
+			<color>W</color>
+			<manacost>2W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Untap all Pokémon you control.</text>
+		</card>
+		<card>
+			<name>Bubble Blower</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/143_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for a Water card and put it into your hand. Then shuffle.</text>
+		</card>
+		<card>
+			<name>Revive</name>
+			<set picURL="https://images.pokemontcg.io/bw1/102_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>2B</manacost>
+			<type>Sorcery - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Return target Pokémon card from your graveyard to the battlefield tapped. It doesn't untap during your next untap step.</text>
+		</card>
+		<card>
+			<name>Max Revive</name>
+			<set picURL="https://images.pokemontcg.io/xy1/120_hires.png" rarity="rare">PTCG</set>
+			<color>WB</color>
+			<manacost>3{W/B}{W/B}</manacost>
+			<type>Sorcery - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Return target Pokémon card from your graveyard to the battlefield.</text>
+		</card>
+		<card>
+			<name>Energy Search Mk2</name>
+			<set picURL="https://images.pokemontcg.io/base3/59_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for a basic land card and put it on the battlefield tapped. Then shuffle.</text>
+		</card>
+		<card>
+			<name>Gambler</name>
+			<set picURL="https://images.pokemontcg.io/base3/60_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>2R</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Shuffle your hand into your library, then draw that many cards.</text>
+		</card>
+		<card>
+			<name>Mysterious Fossil</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>URG</color>
+			<manacost>1{U/R}{U/G}</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for a Pokémon card with fossil and put it into your hand. Then shuffle.</text>
+		</card>
+		<card>
+			<name>Explore</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>You may play an additional land this turn.
 				Draw a card.</text>
-			</card>
-			<card>
-				<name>Revitalize</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Revitalize.png" rarity="common">PTCG</set>
-				<color>W</color>
-				<manacost>1W</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>You gain 3 life.
+		</card>
+		<card>
+			<name>Revitalize</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>You gain 3 life.
 				Draw a card.</text>
-			</card>
-			<card>
-				<name>Rummage</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Rummage.png" rarity="common">PTCG</set>
-				<color>R</color>
-				<manacost>1R</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Exile the top two cards of your library. You may play those cards until end of turn.</text>
-			</card>
-			<card>
-				<name>Show of Force</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Show%20of%20Force.png" rarity="common">PTCG</set>
-				<color>R</color>
-				<manacost>1R</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Show of Force deals 1 damage to each Pokémon without flying.
+		</card>
+		<card>
+			<name>Rummage</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Exile the top two cards of your library. You may play those cards until end of turn.</text>
+		</card>
+		<card>
+			<name>Show of Force</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Show of Force deals 1 damage to each Pokémon without flying.
 				Draw a card.</text>
-			</card>
-			<card>
-				<name>Investigate</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Investigate.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>1U</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Scry 2. Draw a card.</text>
-			</card>
-			<card>
-				<name>Potion</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Potion.png" rarity="common">PTCG</set>
-				<color>W</color>
-				<manacost>1W</manacost>
-				<type>Instant - Medicine</type>
-				<tablerow>3</tablerow>
-				<text>Remove all damage from target Pokémon.</text>
-			</card>
-			<card>
-				<name>Super Potion</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Super%20Potion.png" rarity="common">PTCG</set>
-				<color>W</color>
-				<manacost>1WW</manacost>
-				<type>Instant - Medicine</type>
-				<tablerow>3</tablerow>
-				<text>Target Pokémon gains indestructible until end of turn.</text>
-			</card>
-			<card>
-				<name>Lemonade</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Lemonade.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>5</manacost>
-				<type>Instant - Medicine</type>
-				<tablerow>3</tablerow>
-				<text>Untap target Pokémon and remove all damage from it. It gains first strike until end of turn.</text>
-			</card>
-			<card>
-				<name>Weather Control Device</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Weather%20Control%20Device.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>3</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Shuffle target land you control into your library. If you do, search your library for a basic land card and put it into play. Then shuffle.</text>
-			</card>
-			<card>
-				<name>PlusPower</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/PlusPower.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>RR</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Target Pokémon gets +2/+2 and gains haste until end of turn.</text>
-			</card>
-			<card>
-				<name>X-Attack</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/X-Attack.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>{R/G}</manacost>
-				<type>Instant - Medicine</type>
-				<tablerow>3</tablerow>
-				<text>Target Pokémon gets +3/+0 until end of turn.</text>
-			</card>
-			<card>
-				<name>X-Defense</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/X-Defense.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>{W/U}</manacost>
-				<type>Instant - Medicine</type>
-				<tablerow>3</tablerow>
-				<text>Target Pokémon gets +0/+3 until end of turn.</text>
-			</card>
-			<card>
-				<name>Guard Spec.</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Guard%20Spec..png" rarity="common">PTCG</set>
-				<color />
-				<manacost>{U/G}</manacost>
-				<type>Instant - Medicine</type>
-				<tablerow>3</tablerow>
-				<text>Target Pokémon gains hexproof until end of turn.</text>
-			</card>
-			<card>
-				<name>Antidote</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Antidote.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>1W</manacost>
-				<type>Sorcery - Medicine</type>
-				<tablerow>3</tablerow>
-				<text>Remove up to three -1/-1 counters from target Pokémon or up to three poison counters from target player.</text>
-			</card>
-			<card>
-				<name>Ice Heal</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Ice%20Heal.png" rarity="common">PTCG</set>
-				<color>W</color>
-				<manacost>W</manacost>
-				<type>Instant - Medicine</type>
-				<tablerow>3</tablerow>
-				<text>Untap target Pokémon. It gains vigilance until end of turn.</text>
-			</card>
-			<card>
-				<name>Psych Up</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Psych%20Up.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>GG</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Put two +1/+1 counters on target Pokémon.</text>
-			</card>
-			<card>
-				<name>Forced Adaptation</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Forced%20Adaptation.png" rarity="common">PTCG</set>
-				<color>G</color>
-				<manacost>1G</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Evolve target Pokémon, then it fights target Pokémon.</text>
-			</card>
-			<card>
-				<name>Devolution Spray</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Devolution%20Spray.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>B</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Exile target Pokémon, then return it to battlefield under its owner’s control. That Pokémon can’t activate evolve abilities this turn.</text>
-			</card>
-			<card>
-				<name>Item Finder</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Item%20Finder.png" rarity="common">PTCG</set>
-				<color>WG</color>
-				<manacost>2{W/G}</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle.</text>
-			</card>
-			<card>
-				<name>VS Seeker</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/VS%20Seeker.png" rarity="common">PTCG</set>
-				<color>UB</color>
-				<manacost>{U/B}</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Each player searches their library for a card, reveals it, shuffles, and puts that card on top.</text>
-			</card>
-			<card>
-				<name>Body Slam</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Body%20Slam.png" rarity="common">PTCG</set>
-				<color>G</color>
-				<manacost>1G</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Target Pokémon you control deals damage equal to its power to target Pokémon you don't control. If the Pokémon you control has trample, excess damage is dealt to that Pokémon's controller instead.</text>
-			</card>
-			<card>
-				<name>Slash</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Slash.png" rarity="common">PTCG</set>
-				<color>R</color>
-				<manacost>R</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Slash deals 4 damage to target Pokémon.</text>
-			</card>
-			<card>
-				<name>Mist</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Mist.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>U</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Prevent all combat damage that would be dealt this turn.</text>
-			</card>
-			<card>
-				<name>Whirlwind</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Whirlwind.png" rarity="common">PTCG</set>
-				<color>WU</color>
-				<manacost>{W/U}</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Return target Pokémon to its owner's hand. Its controller draws a card.</text>
-			</card>
-			<card>
-				<name>Sing</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Sing.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>2UU</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Tap all Pokémon target player controls. Those Pokémon don't untap during that player's next untap step.</text>
-			</card>
-			<card>
-				<name>Smog</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Smog.png" rarity="common">PTCG</set>
-				<color>B</color>
-				<manacost>1BBB</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Put a -1/-1 counter on each attacking Pokémon. Each player gets a poison counter.</text>
-			</card>
-			<card>
-				<name>String Shot</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/String%20Shot.png" rarity="common">PTCG</set>
-				<color>G</color>
-				<manacost>1G</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>All Pokémon lose haste and hexproof until end of turn.</text>
-			</card>
-			<card>
-				<name>Swift</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Swift.png" rarity="common">PTCG</set>
-				<color>WB</color>
-				<manacost>1{W/B}</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Damage can't be prevented this turn.</text>
-			</card>
-			<card>
-				<name>Disable</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Disable.png" rarity="common">PTCG</set>
-				<color>UB</color>
-				<manacost>1{U/B}</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Split second
+		</card>
+		<card>
+			<name>Investigate</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Scry 2, then draw a card.</text>
+		</card>
+		<card>
+			<name>Potion</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/156_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Remove all damage from target Pokémon.</text>
+		</card>
+		<card>
+			<name>Super Potion</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/156_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>1WW</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gains indestructible until end of turn.</text>
+		</card>
+		<card>
+			<name>Lemonade</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/156_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>5</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Untap target Pokémon and remove all damage from it. It gains first strike until end of turn.</text>
+		</card>
+		<card>
+			<name>Weather Control Device</name>
+			<set picURL="https://images.pokemontcg.io/ecard2/119_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Shuffle target land you control into your library. If you do, search your library for a basic land card and put it into play. Then shuffle.</text>
+		</card>
+		<card>
+			<name>PlusPower</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>RR</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gets +2/+2 and gains haste until end of turn.</text>
+		</card>
+		<card>
+			<name>X-Attack</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>{R/G}</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gets +3/+0 until end of turn.</text>
+		</card>
+		<card>
+			<name>X-Defense</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>{W/U}</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gets +0/+3 until end of turn.</text>
+		</card>
+		<card>
+			<name>Guard Spec.</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>{U/G}</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gains hexproof until end of turn.</text>
+		</card>
+		<card>
+			<name>Antidote</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>1W</manacost>
+			<type>Sorcery - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Remove up to three -1/-1 counters from target Pokémon or up to three poison counters from target player.</text>
+		</card>
+		<card>
+			<name>Ice Heal</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<type>Instant - Medicine</type>
+			<tablerow>3</tablerow>
+			<text>Untap target Pokémon. It gains vigilance until end of turn.</text>
+		</card>
+		<card>
+			<name>Psych Up</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>GG</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Put two +1/+1 counters on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Forced Adaptation</name>
+			<set picURL="https://images.pokemontcg.io/base1/84_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Evolve target Pokémon, then it fights target Pokémon.</text>
+		</card>
+		<card>
+			<name>Devolution Spray</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>B</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Exile target Pokémon, then return it to battlefield under its owner’s control. That Pokémon can’t activate evolve abilities this turn.</text>
+		</card>
+		<card>
+			<name>Item Finder</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>WG</color>
+			<manacost>2{W/G}</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle.</text>
+		</card>
+		<card>
+			<name>VS Seeker</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>UB</color>
+			<manacost>{U/B}</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Each player searches their library for a card, reveals it, shuffles, and puts that card on top.</text>
+		</card>
+		<card>
+			<name>Body Slam</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon you control deals damage equal to its power to target Pokémon you don't control. If the Pokémon you control has trample, excess damage is dealt to that Pokémon's controller instead.</text>
+		</card>
+		<card>
+			<name>Slash</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Slash deals 4 damage to target Pokémon.</text>
+		</card>
+		<card>
+			<name>Mist</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Prevent all combat damage that would be dealt this turn.</text>
+		</card>
+		<card>
+			<name>Whirlwind</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>WU</color>
+			<manacost>{W/U}</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Return target Pokémon to its owner's hand. Its controller draws a card.</text>
+		</card>
+		<card>
+			<name>Sing</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Tap all Pokémon target player controls. Those Pokémon don't untap during that player's next untap step.</text>
+		</card>
+		<card>
+			<name>Smog</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1BBB</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Put a -1/-1 counter on each attacking Pokémon. Each player gets a poison counter.</text>
+		</card>
+		<card>
+			<name>String Shot</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>All Pokémon lose haste and hexproof until end of turn.</text>
+		</card>
+		<card>
+			<name>Swift</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>WB</color>
+			<manacost>1{W/B}</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Damage can't be prevented this turn.</text>
+		</card>
+		<card>
+			<name>Disable</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>UB</color>
+			<manacost>1{U/B}</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Split second
 				Until end of turn, target Pokémon can't attack or block, and its activated abilities can't be activated.</text>
-			</card>
-			<card>
-				<name>Fire Spin</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Fire%20Spin.png" rarity="common">PTCG</set>
-				<color>R</color>
-				<manacost>R</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Fire Spin deals 2 damage to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
-			</card>
-			<card>
-				<name>Gust</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Gust.png" rarity="common">PTCG</set>
-				<color>WG</color>
-				<manacost>{W/G}</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Gust deals 2 damage to target Pokémon with flying. If that Pokémon is attacking, Gust deals 5 damage instead.</text>
-			</card>
-			<card>
-				<name>Slam</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Slam.png" rarity="common">PTCG</set>
-				<color>W</color>
-				<manacost>2W</manacost>
-				<type>Sorcery</type>
-				<tablerow>3</tablerow>
-				<text>Destroy target tapped Pokémon.</text>
-			</card>
-			<card>
-				<name>Poison Sting</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Poison%20Sting.png" rarity="common">PTCG</set>
-				<color>B</color>
-				<manacost>1B</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Put a -1/-1 counter on target Pokémon.
+		</card>
+		<card>
+			<name>Fire Spin</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Fire Spin deals 2 damage to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
+		</card>
+		<card>
+			<name>Gust</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>WG</color>
+			<manacost>{W/G}</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Gust deals 2 damage to target Pokémon with flying. If that Pokémon is attacking, Gust deals 5 damage instead.</text>
+		</card>
+		<card>
+			<name>Slam</name>
+			<set picURL="https://images.pokemontcg.io/base1/72_hires.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>2W</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Destroy target tapped Pokémon.</text>
+		</card>
+		<card>
+			<name>Poison Sting</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Put a -1/-1 counter on target Pokémon.
 				Draw a card.</text>
-			</card>
-			<card>
-				<name>Glare</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Glare.png" rarity="common">PTCG</set>
-				<color>R</color>
-				<manacost>1R</manacost>
-				<type>Instant</type>
-				<tablerow>3</tablerow>
-				<text>Target Pokémon can't block this turn.
+		</card>
+		<card>
+			<name>Glare</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon can't block this turn.
 				Draw a card.</text>
-			</card>
-			<!-- evolution stones -->
-			<card>
-				<name>Thunder Stone</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Thunder%20Stone.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>3</manacost>
-				<type>Artifact - Stone</type>
-				<tablerow>1</tablerow>
-				<text>{T}: Add {R} or {W}. Thunder Stone deals 1 damage to you.</text>
-				<font />
-			</card>
-			<card>
-				<name>Leaf Stone</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Leaf%20Stone.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>3</manacost>
-				<type>Artifact - Stone</type>
-				<tablerow>1</tablerow>
-				<text>{T}: Add {G}.
+		</card>
+		<!-- evolution stones -->
+		<card>
+			<name>Thunder Stone</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Artifact - Stone</type>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {R} or {W}. Thunder Stone deals 1 damage to you.</text>
+			<font></font>
+		</card>
+		<card>
+			<name>Leaf Stone</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Artifact - Stone</type>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {G}.
 				Sacrifice Leaf Stone: Add {G}{G}{G}.</text>
-				<font />
-			</card>
-			<card>
-				<name>Water Stone</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Water%20Stone.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>3</manacost>
-				<type>Artifact - Stone</type>
-				<tablerow>1</tablerow>
-				<text>{T}: Add {U}.
+			<font></font>
+		</card>
+		<card>
+			<name>Water Stone</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Artifact - Stone</type>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {U}.
 				Sacrifice Water Stone: Scry 3.</text>
-				<font />
-			</card>
-			<card>
-				<name>Fire Stone</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Fire%20Stone.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>3</manacost>
-				<type>Artifact - Stone</type>
-				<tablerow>1</tablerow>
-				<text>{T}: Add {R}.
+			<font></font>
+		</card>
+		<card>
+			<name>Fire Stone</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Artifact - Stone</type>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {R}.
 				Sacrifice Fire Stone: Fire Stone deals 2 damage to any target.</text>
-				<font />
-			</card>
-			<card>
-				<name>Moonstone</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Moonstone.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>3</manacost>
-				<type>Artifact - Stone</type>
-				<tablerow>1</tablerow>
-				<text>{T}: Add {B} or {W}. You lose 1 life.</text>
-				<font />
-			</card>
-			<!-- misc artifacts and tools -->
-			<card>
-				<name>Pokédoll</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Pok%C3%A9doll.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost>2</manacost>
-				<type>Artifact</type>
-				<tablerow>1</tablerow>
-				<text>Sacrifice Pokédoll: Prevent all combat damage that would be dealt this turn.</text>
-			</card>
-			<card>
-				<name>Silph Scope</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Silph%20Scope.png" rarity="rare">PTCG</set>
-				<color />
-				<manacost>3</manacost>
-				<type>Artifact - Tool</type>
-				<tablerow>1</tablerow>
-				<text>All Pokémon lose shadow and unblockable. Damage can't be prevented.</text>
-			</card>
-			<card>
-				<name>Old Rod</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Old%20Rod.png" rarity="rare">PTCG</set>
-				<color />
-				<manacost>4</manacost>
-				<type>Artifact - Tool</type>
-				<tablerow>1</tablerow>
-				<text>{T}: Search your library for a Water Pokémon with an evolve ability, then shuffle and put that card third from the top.</text>
-			</card>
-			<card>
-				<name>Ancient Slab</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Ancient%20Slab.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>2</manacost>
-				<type>Artifact</type>
-				<tablerow>1</tablerow>
-				<text>{1}, {T}: Add one mana of any color.</text>
-			</card>
-			<card>
-				<name>Pokémon Storage System</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Pok%C3%A9mon%20Storage%20System.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>4</manacost>
-				<type>Artifact</type>
-				<tablerow>1</tablerow>
-				<text>At the beginning of each opponent's upkeep, exile all cards from your hand face down.
+			<font></font>
+		</card>
+		<card>
+			<name>Moonstone</name>
+			<set picURL="https://images.pokemontcg.io/ecard1/124_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Artifact - Stone</type>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {B} or {W}. You lose 1 life.</text>
+			<font></font>
+		</card>
+		<!-- misc artifacts and tools -->
+		<card>
+			<name>Pokédoll</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>2</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>Sacrifice Pokédoll: Prevent all combat damage that would be dealt this turn.</text>
+		</card>
+		<card>
+			<name>Silph Scope</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="rare">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Artifact - Tool</type>
+			<tablerow>1</tablerow>
+			<text>All Pokémon lose shadow and unblockable. Damage can't be prevented.</text>
+		</card>
+		<card>
+			<name>Old Rod</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="rare">PTCG</set>
+			<color></color>
+			<manacost>4</manacost>
+			<type>Artifact - Tool</type>
+			<tablerow>1</tablerow>
+			<text>{T}: Search your library for a Water Pokémon with an evolve ability, then shuffle and put that card third from the top.</text>
+		</card>
+		<card>
+			<name>Ancient Slab</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add one mana of any color.</text>
+		</card>
+		<card>
+			<name>Pokémon Storage System</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>4</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>At the beginning of each opponent's upkeep, exile all cards from your hand face down.
 At the beginning of your upkeep, return all cards you own exiled with Pokémon Storage System to your hand, then draw a card.</text>
-			</card>
-			<card>
-				<name>Town Map</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Town%20Map.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>1</manacost>
-				<type>Artifact</type>
-				<tablerow>1</tablerow>
-				<text>{2}, {T}, Sacrifice Town Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle.</text>
-			</card>
-			<card>
-				<name>Super Repel</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Super%20Repel.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>3</manacost>
-				<type>Artifact</type>
-				<tablerow>1</tablerow>
-				<text>No more than two Pokémon can attack you each combat.</text>
-			</card>
-			<card>
-				<name>Nugget</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Nugget.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost>1</manacost>
-				<type>Artifact</type>
-				<tablerow>1</tablerow>
-				<text>{1}, {T}, Sacrifice Nugget: Add one mana of any color.
+		</card>
+		<card>
+			<name>Town Map</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>1</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{2}, {T}, Sacrifice Town Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle.</text>
+		</card>
+		<card>
+			<name>Super Repel</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>No more than two Pokémon can attack you each combat.</text>
+		</card>
+		<card>
+			<name>Nugget</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>1</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}, Sacrifice Nugget: Add one mana of any color.
 				When Nugget is put into a graveyard from the battlefield, draw a card.</text>
-			</card>
-			<card>
-				<name>Mysterious Feather</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Mysterious%20Feather.png" rarity="mythic">PTCG</set>
-				<color />
-				<manacost>0</manacost>
-				<type>Artifact</type>
-				<tablerow>1</tablerow>
-				<text>{T}, Sacrifice Mysterious Feather: Add one mana of any color.</text>
-			</card>
-			<!-- attack enchantments -->
-			<card>
-				<name>Thunderbolt</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Thunderbolt.png" rarity="common">PTCG</set>
-				<color>R</color>
-				<manacost>1R</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Mysterious Feather</name>
+			<set picURL="https://images.pokemontcg.io/sm12/197_hires.png" rarity="mythic">PTCG</set>
+			<color></color>
+			<manacost>0</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{T}, Sacrifice Mysterious Feather: Add one mana of any color.</text>
+		</card>
+		<!-- attack enchantments -->
+		<card>
+			<name>Thunderbolt</name>
+			<set picURL="https://i.imgur.com/Vtz1NZU.jpeg" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Enchanted Pokémon gets +2/+0 and has "Whenever this Pokémon deals damage to another Pokémon, that Pokémon doesn't untap during its controller's next untap step."</text>
-			</card>
-			<card>
-				<name>Ice Beam</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Ice%20Beam.png" rarity="common">PTCG</set>
-				<color>U</color>
-				<manacost>1U</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Ice Beam</name>
+			<set picURL="https://images.pokemontcg.io/ecard3/95_hires.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Enchanted Pokémon has "1U: Tap target Pokémon."</text>
-			</card>
-			<card>
-				<name>Hyper Beam</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Hyper%20Beam.png" rarity="mythic">PTCG</set>
-				<color />
-				<manacost>5</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon with no evolve abilities
+		</card>
+		<card>
+			<name>Hyper Beam</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="mythic">PTCG</set>
+			<color></color>
+			<manacost>5</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon with no evolve abilities
 				Enchanted Pokémon has "{T}: Destroy target Pokémon. This Pokémon doesn't untap during its controller's next untap step."</text>
-			</card>
-			<card>
-				<name>Focus Energy</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Focus%20Energy.png" rarity="common">PTCG</set>
-				<color>G</color>
-				<manacost>{G/R}{G/R}</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Focus Energy</name>
+			<set picURL="https://images.pokemontcg.io/ex8/21_hires.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>{G/R}{G/R}</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Enchanted Pokémon has "T: put a +1/+1 counter on this Pokémon."
 				When enchanted Pokémon has three or more +1/+1 counters on it, sacrifice Focus Energy. If you do, draw a card.</text>
-			</card>
-			<card>
-				<name>Quick Attack</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Quick%20Attack.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>{R/W}{R/W}</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Quick Attack</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>{R/W}{R/W}</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Enchanted Pokémon gets +1/+0 and has haste and first strike.</text>
-			</card>
-			<card>
-				<name>Hydro Pump</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Hydro%20Pump.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>2UU</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Water Pokémon
+		</card>
+		<card>
+			<name>Hydro Pump</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2UU</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Water Pokémon
 				Enchanted Pokémon gets +2/+0 and has "{1U}, {T}: Return target Pokémon to its owner's hand."</text>
-			</card>
-			<card>
-				<name>Fire Blast</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Fire%20Blast.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>2RR</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Fire Pokémon
+		</card>
+		<card>
+			<name>Fire Blast</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2RR</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Fire Pokémon
 				Enchanted Pokémon has "{T}: This Pokémon deals damage equal to its power to target Pokémon. If that Pokémon dies this turn, exile it."</text>
-			</card>
-			<card>
-				<name>Solar Beam</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Solar%20Beam.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>2GG</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Grass Pokémon
+		</card>
+		<card>
+			<name>Solar Beam</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2GG</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Grass Pokémon
 				Enchanted Pokémon gets +0/+2 and has “{T}: At the beginning of your next upkeep, if you control this Pokémon, it deals damage equal to its toughness to a Pokémon of your choice.”</text>
-			</card>
-			<card>
-				<name>Guillotine</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Guillotine.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost>3</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Bug Pokémon
+		</card>
+		<card>
+			<name>Guillotine</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>3</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Bug Pokémon
 				Enchanted Pokémon has "{T}: Flip a coin. If heads, destroy target Pokémon."</text>
-			</card>
-			<card>
-				<name>Splash</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Splash.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>U</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon</text>
-			</card>
-			<card>
-				<name>Rock Throw</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Rock%20Throw.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>2R</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Splash</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>U</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon</text>
+		</card>
+		<card>
+			<name>Rock Throw</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>2R</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Sacrifice Rock Throw: Enchanted Pokémon deals 4 damage to target Pokémon.</text>
-			</card>
-			<card>
-				<name>Conversion</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Conversion.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost>2</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Conversion</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>2</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Enchanted Pokémon has "{2}: This Pokémon becomes the types and colors of your choice until end of turn."</text>
-			</card>
-			<card>
-				<name>Barrier</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Barrier.png" rarity="common">PTCG</set>
-				<color />
-				<manacost>W</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Barrier</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="common">PTCG</set>
+			<color></color>
+			<manacost>W</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				{T}: Target Pokémon gets +0/+3 until end of turn.</text>
-			</card>
-			<card>
-				<name>Counter</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Counter.png" rarity="rare">PTCG</set>
-				<color />
-				<manacost>{R/G}{R/G}</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Counter</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="rare">PTCG</set>
+			<color></color>
+			<manacost>{R/G}{R/G}</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Whenever enchanted Pokémon is dealt damage by another Pokémon, it deals twice that much damage to that Pokémon.</text>
-			</card>
-			<card>
-				<name>Flash</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Flash.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost>W</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Flash</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost>W</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Sacrifice Flash: Prevent all combat damage that would be dealt this turn.</text>
-			</card>
-			<card>
-				<name>Mega Drain</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Mega%20Drain.png" rarity="uncommon">PTCG</set>
-				<color>G</color>
-				<manacost>G</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Grass or Bug Pokémon
+		</card>
+		<card>
+			<name>Mega Drain</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Grass or Bug Pokémon
 				Whenever enchanted Pokémon deals combat damage, you gain that much life.</text>
-			</card>
-			<card>
-				<name>Minimize</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Minimize.png" rarity="uncommon">PTCG</set>
-				<color>UB</color>
-				<manacost>2{U/B}</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Minimize</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>UB</color>
+			<manacost>2{U/B}</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Whenever enchanted Pokémon would be dealt combat damage, prevent 2 of that damage.</text>
-			</card>
-			<card>
-				<name>Pay Day</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Pay%20Day.png" rarity="uncommon">PTCG</set>
-				<color>WB</color>
-				<manacost>WB</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Pay Day</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>WB</color>
+			<manacost>WB</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Whenever enchanted Pokémon deals combat damage, create a Treasure token.</text>
-			</card>
-			<card>
-				<name>Sky Attack</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Sky%20Attack.png" rarity="uncommon">PTCG</set>
-				<color>W</color>
-				<manacost>1WW</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Flying Pokémon
+		</card>
+		<card>
+			<name>Sky Attack</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>W</color>
+			<manacost>1WW</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Flying Pokémon
 				Enchanted Pokémon has flying and gets +2/+0.</text>
-			</card>
-			<card>
-				<name>Light Screen</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Light%20Screen.png" rarity="uncommon">PTCG</set>
-				<color>UB</color>
-				<manacost>1{U/B}</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Psychic Pokémon
+		</card>
+		<card>
+			<name>Light Screen</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>UB</color>
+			<manacost>1{U/B}</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Psychic Pokémon
 				Enchanted Pokémon has "{T}: Target Pokémon gains hexproof until end of turn."</text>
-			</card>
-			<card>
-				<name>Teleport</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Teleport.png" rarity="uncommon">PTCG</set>
-				<color>UB</color>
-				<manacost>1{U/B}</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Teleport</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>UB</color>
+			<manacost>1{U/B}</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Enchanted Pokémon has "{T}: Return this Pokémon and all TMs attached to it to their owners' hand."</text>
-			</card>
-			<card>
-				<name>Growth</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Growth.png" rarity="uncommon">PTCG</set>
-				<color>G</color>
-				<manacost>G</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Growth</name>
+			<set picURL="https://images.pokemontcg.io/ex3/90_hires.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Enchanted Pokémon has "{T}: Add one mana of any color."</text>
-			</card>
-			<card>
-				<name>Toxic</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Toxic.png" rarity="common">PTCG</set>
-				<color>B</color>
-				<manacost>B</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Toxic</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Enchanted Pokémon has infect.</text>
-			</card>
-			<card>
-				<name>Dream Eater</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Dream%20Eater.png" rarity="uncommon">PTCG</set>
-				<color>B</color>
-				<manacost>2B</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Dream Eater</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>2B</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Whenever enchanted Pokémon deals combat damage to a player, that player discards a card and you draw a card.</text>
-			</card>
-			<card>
-				<name>Psywave</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Psywave.png" rarity="uncommon">PTCG</set>
-				<color>B</color>
-				<manacost>B</manacost>
-				<type>Enchantment - TM</type>
-				<tablerow>1</tablerow>
-				<text>Enchant Pokémon
+		</card>
+		<card>
+			<name>Psywave</name>
+			<set picURL="https://images.pokemontcg.io/base3/62_hires.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<type>Enchantment - TM</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
 				Whenever enchanted Pokémon attacks or blocks, reveal the top card of your library. Enchanted Pokémon's base power becomes the mana value of the revealed card until end of turn.</text>
-			</card>
-			<!-- Locations -->
-			<card>
-				<name>Pallet Town</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Pallet%20Town.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost />
-				<type>Legendary Land - City</type>
-				<tablerow>0</tablerow>
-				<text>{T}: Add {W}.
+		</card>
+		<!-- Locations -->
+		<card>
+			<name>Pallet Town</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Legendary Land - City</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.
 				{T}: Add {W}{W}. Spend this mana only to cast Pokémon spells with mana value 2 or less.</text>
-			</card>
-			<card>
-				<name>Pewter City</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Pewter%20City.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost />
-				<type>Legendary Land - City</type>
-				<tablerow>0</tablerow>
-				<text>Pewter City enters the battlefield tapped.
+		</card>
+		<card>
+			<name>Pewter City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Legendary Land - City</type>
+			<tablerow>0</tablerow>
+			<text>Pewter City enters the battlefield tapped.
 				{T}: Add {R}, {G}, or {W}.
 				Cycling {3}</text>
-			</card>
-			<card>
-				<name>Cerulean City</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Cerulean%20City.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost />
-				<type>Legendary Land - City</type>
-				<tablerow>0</tablerow>
-				<text>{T}: Add {U}.
+		</card>
+		<card>
+			<name>Cerulean City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Legendary Land - City</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.
 				{T}: Return target Water Pokémon you control to its owner's hand.</text>
-			</card>
-			<card>
-				<name>Viridian City</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Viridian%20City.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost />
-				<type>Legendary Land - City</type>
-				<tablerow>0</tablerow>
-				<text>{T}: Add {G}. If you control a Stone, add {G}{G} instead.</text>
-			</card>
-			<card>
-				<name>Saffron City</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Saffron%20City.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost />
-				<type>Legendary Land - City</type>
-				<tablerow>0</tablerow>
-				<text>Saffron City enters the battlefield tapped.
+		</card>
+		<card>
+			<name>Viridian City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Legendary Land - City</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}. If you control a Stone, add {G}{G} instead.</text>
+		</card>
+		<card>
+			<name>Saffron City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Legendary Land - City</type>
+			<tablerow>0</tablerow>
+			<text>Saffron City enters the battlefield tapped.
 				{T}: Add {U}, {B}, or {R}.
 				Cycling {3}</text>
-			</card>
-			<card>
-				<name>Celadon City</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Celadon%20City.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost />
-				<type>Legendary Land - City</type>
-				<tablerow>0</tablerow>
-				<text>Celadon City enters the battlefield tapped.
+		</card>
+		<card>
+			<name>Celadon City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Legendary Land - City</type>
+			<tablerow>0</tablerow>
+			<text>Celadon City enters the battlefield tapped.
 				{T}: Add {G}, {W}, or {U}.
 				Cycling {3}</text>
-			</card>
-			<card>
-				<name>Vermillion City</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Vermillion%20City.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost />
-				<type>Legendary Land - City</type>
-				<tablerow>0</tablerow>
-				<text>Vermillion City enters the battlefield tapped.
+		</card>
+		<card>
+			<name>Vermillion City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Legendary Land - City</type>
+			<tablerow>0</tablerow>
+			<text>Vermillion City enters the battlefield tapped.
 				{T}: Add {U}, {R}, or {W}.
 				Cycling {3}</text>
-			</card>
-			<card>
-				<name>Fuchsia City</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Fuchsia%20City.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost />
-				<type>Legendary Land - City</type>
-				<tablerow>0</tablerow>
-				<text>{T}: Add {B}.
+		</card>
+		<card>
+			<name>Fuchsia City</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Legendary Land - City</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.
 				{2}{B}, {T}: Fuchsia City deals 2 damage to target player and you gain 2 life.</text>
-			</card>
-			<card>
-				<name>Cinnabar Island</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Cinnabar%20Island.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost />
-				<type>Legendary Land - City</type>
-				<tablerow>0</tablerow>
-				<text>{T}: Add {R}.
+		</card>
+		<card>
+			<name>Cinnabar Island</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Legendary Land - City</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.
 				{T}, Sacrifice Cinnabar Island: Destroy target land.</text>
-			</card>
-			<card>
-				<name>Lavender Town</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Lavender%20Town.png" rarity="uncommon">PTCG</set>
-				<color />
-				<manacost />
-				<type>Legendary Land</type>
-				<tablerow>0</tablerow>
-				<text>Lavender Town enters the battlefield tapped.
+		</card>
+		<card>
+			<name>Lavender Town</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="uncommon">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Legendary Land</type>
+			<tablerow>0</tablerow>
+			<text>Lavender Town enters the battlefield tapped.
 				{T}: Add {W}, {U}, or {B}.
 				Cycling {3}</text>
-			</card>
-			<card>
-				<name>Cinnabar Lab</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Cinnabar%20Lab.png" rarity="rare">PTCG</set>
-				<color />
-				<manacost />
-				<type>Land</type>
-				<tablerow>0</tablerow>
-				<text>{T}: Add {1}
+		</card>
+		<card>
+			<name>Cinnabar Lab</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="rare">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {1}
 				{T}: Add {3}. Spend this mana only to activate fossil abilities.</text>
-			</card>
-			<card>
-				<name>Safari Zone</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Safari%20Zone.png" rarity="common">PTCG</set>
-				<color />
-				<manacost />
-				<type>Land</type>
-				<tablerow>0</tablerow>
-				<text>{T}, Sacrifice Safari Zone: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			</card>
-			<card>
-				<name>Bill's Grassland</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Bill%27s%20Grassland.png" rarity="common">PTCG</set>
-				<color />
-				<manacost />
-				<type>Land</type>
-				<tablerow>0</tablerow>
-				<text>{T}: Add {C}.
+		</card>
+		<card>
+			<name>Safari Zone</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}, Sacrifice Safari Zone: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+		</card>
+		<card>
+			<name>Bill's Grassland</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
 				{T}: Put a storage counter on Bill's Grassland.
 				{1}, Remove any number of storage counters from Bill's Grassland: Add {W} for each storage counter removed this way.</text>
-			</card>
-			<card>
-				<name>Bill's Volcano</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Bill%27s%20Volcano.png" rarity="common">PTCG</set>
-				<color />
-				<manacost />
-				<type>Land</type>
-				<tablerow>0</tablerow>
-				<text>{T}: Add {C}.
+		</card>
+		<card>
+			<name>Bill's Volcano</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
 				{T}: Put a storage counter on Bill's Volcano.
 				{1}, Remove any number of storage counters from Bill's Volcano: Add {R} for each storage counter removed this way.</text>
-			</card>
-			<card>
-				<name>Bill's Rainforest</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Bill%27s%20Rainforest.png" rarity="common">PTCG</set>
-				<color />
-				<manacost />
-				<type>Land</type>
-				<tablerow>0</tablerow>
-				<text>{T}: Add {C}.
+		</card>
+		<card>
+			<name>Bill's Rainforest</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
 				{T}: Put a storage counter on Bill's Rainforest.
 				{1}, Remove any number of storage counters from Bill's Rainforest: Add {G} for each storage counter removed this way.</text>
-			</card>
-			<card>
-				<name>Bill's Marsh</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Bill%27s%20Marsh.png" rarity="common">PTCG</set>
-				<color />
-				<manacost />
-				<type>Land</type>
-				<tablerow>0</tablerow>
-				<text>{T}: Add {C}.
+		</card>
+		<card>
+			<name>Bill's Marsh</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
 				{T}: Put a storage counter on Bill's Marsh.
 				{1}, Remove any number of storage counters from Bill's Marsh: Add {B} for each storage counter removed this way.</text>
-			</card>
-			<card>
-				<name>Bill's Coastline</name>
-				<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/images/cards/Bill%27s%20Coastline.png" rarity="common">PTCG</set>
-				<color />
-				<manacost />
-				<type>Land</type>
-				<tablerow>0</tablerow>
-				<text>{T}: Add {C}.
+		</card>
+		<card>
+			<name>Bill's Coastline</name>
+			<set picURL="https://i.imgur.com/HEb2JN5.jpeg" rarity="common">PTCG</set>
+			<color></color>
+			<manacost></manacost>
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
 				{T}: Put a storage counter on Bill's Coastline.
 				{1}, Remove any number of storage counters from Bill's Coastline: Add {U} for each storage counter removed this way.</text>
-			</card>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
