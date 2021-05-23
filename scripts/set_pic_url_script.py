@@ -5,10 +5,9 @@
 # `pip3 install beautifulsoup4`
 # `pip3 install lxml`
 
-import argparse
-import datetime
-import pickle
+import urllib.request
 import urllib.parse
+import urllib.error
 
 from bs4 import BeautifulSoup
 
@@ -36,8 +35,19 @@ def main():
                 if tag.name == 'name':
                     card_name = tag.string
 
+            card_url = "https://" + urllib.parse.quote(
+                f"raw.githubusercontent.com/brooks42/ptcg/main/images/cards/{card_name}.png")
             cockatrice_card.set[
-                'picURL'] = "https://" + urllib.parse.quote(f"raw.githubusercontent.com/brooks42/ptcg/main/images/cards/{card_name}.png")
+                'picURL'] = card_url
+
+            # actually grab the URL to make sure it's valid
+            try:
+                image_request = urllib.request.urlopen(card_url).read()
+            except urllib.error.HTTPError as httpError:
+                code = httpError.getcode()
+                if code == 404:
+                    print(
+                        f"404'd for image for card name {card_name} at {card_url}")
 
     print("Writing file with updated URLs...")
     with open('../ptcg_cockatrice.xml', 'w') as f:
