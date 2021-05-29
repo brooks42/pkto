@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <cockatrice_carddatabase version="3">
 	<cards>
 		<card>
 			<name>Ivysaur</name>
-			<set picURL="https://images.pokemontcg.io/base6/47_hires.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Ivysaur.png" rarity="token">PTCG</set>
 			<color>G</color>
-			<manacost></manacost>
+			<manacost />
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
@@ -16,9 +16,9 @@
 		</card>
 		<card>
 			<name>Venusaur</name>
-			<set picURL="https://images.pokemontcg.io/base6/18_hires.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Venusaur.png" rarity="token">PTCG</set>
 			<color>G</color>
-			<manacost></manacost>
+			<manacost />
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/6</pt>
 			<tablerow>2</tablerow>
@@ -27,9 +27,9 @@
 		</card>
 		<card>
 			<name>Wartortle</name>
-			<set picURL="https://images.pokemontcg.io/base4/63_hires.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Wartortle.png" rarity="token">PTCG</set>
 			<color>U</color>
-			<manacost></manacost>
+			<manacost />
 			<type>Pokémon - Water</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -40,9 +40,9 @@
 		</card>
 		<card>
 			<name>Blastoise</name>
-			<set picURL="https://images.pokemontcg.io/base1/2_hires.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Blastoise.png" rarity="token">PTCG</set>
 			<color>U</color>
-			<manacost></manacost>
+			<manacost />
 			<type>Pokémon - Water</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
@@ -52,9 +52,9 @@
 		</card>
 		<card>
 			<name>Charmeleon</name>
-			<set picURL="https://images.pokemontcg.io/base6/37_hires.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Charmeleon.png" rarity="token">PTCG</set>
 			<color>R</color>
-			<manacost></manacost>
+			<manacost />
 			<type>Pokémon - Fire</type>
 			<pt>4/2</pt>
 			<tablerow>2</tablerow>
@@ -64,9 +64,9 @@
 		</card>
 		<card>
 			<name>Charizard</name>
-			<set picURL="https://images.pokemontcg.io/base1/4_hires.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Charizard.png" rarity="token">PTCG</set>
 			<color>R</color>
-			<manacost></manacost>
+			<manacost />
 			<type>Pokémon - Fire Flying</type>
 			<pt>6/3</pt>
 			<tablerow>2</tablerow>
@@ -75,9 +75,9 @@
 		</card>
 		<card>
 			<name>Metapod</name>
-			<set picURL="https://images.pokemontcg.io/ex6/39_hires.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Metapod.png" rarity="token">PTCG</set>
 			<color>G</color>
-			<manacost></manacost>
+			<manacost />
 			<type>Pokémon - Bug</type>
 			<pt>0/4</pt>
 			<tablerow>2</tablerow>
@@ -86,9 +86,9 @@
 		</card>
 		<card>
 			<name>Butterfree</name>
-			<set picURL="https://images.pokemontcg.io/dp4/14_hires.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Butterfree.png" rarity="token">PTCG</set>
 			<color>G</color>
-			<manacost></manacost>
+			<manacost />
 			<type>Pokémon - Bug Flying</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -97,9 +97,9 @@
 		</card>
 		<card>
 			<name>Kakuna</name>
-			<set picURL="https://images.pokemontcg.io/pl2/66_hires.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Kakuna.png" rarity="token">PTCG</set>
 			<color>G</color>
-			<manacost></manacost>
+			<manacost />
 			<type>Pokémon - Bug Poison</type>
 			<pt>0/3</pt>
 			<tablerow>2</tablerow>
@@ -108,9 +108,9 @@
 		</card>
 		<card>
 			<name>Beedrill</name>
-			<set picURL="https://images.pokemontcg.io/pl4/53_hires.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Beedrill.png" rarity="token">PTCG</set>
 			<color>G</color>
-			<manacost></manacost>
+			<manacost />
 			<type>Pokémon - Bug Poison</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
@@ -119,9 +119,9 @@
 		</card>
 		<card>
 			<name>Pidgeotto</name>
-			<set picURL="https://images.pokemontcg.io/gym2/27_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Pidgeotto.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Normal Flying</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -130,9 +130,9 @@
 		</card>
 		<card>
 			<name>Pidgeot</name>
-			<set picURL="https://images.pokemontcg.io/base6/33_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Pidgeot.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Normal Flying</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
@@ -142,20 +142,20 @@
 		</card>
 		<card>
 			<name>Raticate</name>
-			<set picURL="https://images.pokemontcg.io/base4/58_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Raticate.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Normal</type>
 			<pt>4/2</pt>
 			<tablerow>2</tablerow>
-			<text></text>
+			<text />
 			<reverse-related attach="attach">Rattata</reverse-related>
 		</card>
 		<card>
 			<name>Fearow</name>
-			<set picURL="https://images.pokemontcg.io/gym1/7_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Fearow.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Normal Flying</type>
 			<pt>4/2</pt>
 			<tablerow>2</tablerow>
@@ -164,9 +164,9 @@
 		</card>
 		<card>
 			<name>Arbok</name>
-			<set picURL="https://images.pokemontcg.io/gym2/25_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Arbok.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -175,9 +175,9 @@
 		</card>
 		<card>
 			<name>Raichu</name>
-			<set picURL="https://images.pokemontcg.io/neo3/21_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Raichu.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Electric</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
@@ -186,9 +186,9 @@
 		</card>
 		<card>
 			<name>Sandslash</name>
-			<set picURL="https://images.pokemontcg.io/ecard3/93_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Sandslash.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Ground</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
@@ -197,9 +197,9 @@
 		</card>
 		<card>
 			<name>Nidorina</name>
-			<set picURL="https://images.pokemontcg.io/ex6/40_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Nidorina.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -208,9 +208,9 @@
 		</card>
 		<card>
 			<name>Nidoqueen</name>
-			<set picURL="https://images.pokemontcg.io/ex6/40_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Nidoqueen.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Poison Ground</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
@@ -220,9 +220,9 @@
 		</card>
 		<card>
 			<name>Nidorino</name>
-			<set picURL="https://images.pokemontcg.io/ex15/35_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Nidorino.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Poison</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
@@ -232,9 +232,9 @@
 		</card>
 		<card>
 			<name>Nidoking</name>
-			<set picURL="https://images.pokemontcg.io/ex15/6_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Nidoking.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Poison Ground</type>
 			<pt>6/5</pt>
 			<tablerow>2</tablerow>
@@ -243,9 +243,9 @@
 		</card>
 		<card>
 			<name>Clefable</name>
-			<set picURL="https://images.pokemontcg.io/dp1/22_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Clefable.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Fairy</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -254,9 +254,9 @@
 		</card>
 		<card>
 			<name>Ninetales</name>
-			<set picURL="https://images.pokemontcg.io/dp2/32_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Ninetales.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Fire</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -265,9 +265,9 @@
 		</card>
 		<card>
 			<name>Wigglytuff</name>
-			<set picURL="https://images.pokemontcg.io/dp4/32_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Wigglytuff.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Normal Fairy</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
@@ -276,9 +276,9 @@
 		</card>
 		<card>
 			<name>Golbat</name>
-			<set picURL="https://images.pokemontcg.io/hgss2/30_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Golbat.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Poison Flying</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -287,9 +287,9 @@
 		</card>
 		<card>
 			<name>Gloom</name>
-			<set picURL="https://images.pokemontcg.io/hgss3/27_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Gloom.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -299,9 +299,9 @@
 		</card>
 		<card>
 			<name>Vileplume</name>
-			<set picURL="https://images.pokemontcg.io/bw7/3_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Vileplume.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
@@ -310,9 +310,9 @@
 		</card>
 		<card>
 			<name>Parasect</name>
-			<set picURL="https://images.pokemontcg.io/g1/7_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Parasect.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Bug Grass</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
@@ -321,9 +321,9 @@
 		</card>
 		<card>
 			<name>Venomoth</name>
-			<set picURL="https://images.pokemontcg.io/g1/7_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Venomoth.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Bug Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -334,20 +334,20 @@
 		</card>
 		<card>
 			<name>Dugtrio</name>
-			<set picURL="https://images.pokemontcg.io/g1/7_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Dugtrio.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Ground</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
-			<text></text>
+			<text />
 			<reverse-related attach="attach">Diglett</reverse-related>
 		</card>
 		<card>
 			<name>Persian</name>
-			<set picURL="https://images.pokemontcg.io/g1/7_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Persian.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Normal</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -356,20 +356,20 @@
 		</card>
 		<card>
 			<name>Golduck</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Golduck.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text></text>
+			<text />
 			<reverse-related attach="attach">Psyduck</reverse-related>
 		</card>
 		<card>
 			<name>Primeape</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Primeape.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Fighting</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -378,9 +378,9 @@
 		</card>
 		<card>
 			<name>Arcanine</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Arcanine.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Fire</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
@@ -389,9 +389,9 @@
 		</card>
 		<card>
 			<name>Poliwhirl</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Poliwhirl.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
@@ -401,9 +401,9 @@
 		</card>
 		<card>
 			<name>Poliwrath</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Poliwrath.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water Fighting</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
@@ -412,9 +412,9 @@
 		</card>
 		<card>
 			<name>Kadabra</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Kadabra.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Psychic</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
@@ -424,9 +424,9 @@
 		</card>
 		<card>
 			<name>Alakazam</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Alakazam.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Psychic</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
@@ -435,9 +435,9 @@
 		</card>
 		<card>
 			<name>Machoke</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Machoke.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Fighting</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
@@ -447,9 +447,9 @@
 		</card>
 		<card>
 			<name>Machamp</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Machamp.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Fighting</type>
 			<pt>8/8</pt>
 			<tablerow>2</tablerow>
@@ -459,9 +459,9 @@
 		</card>
 		<card>
 			<name>Weepinbell</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Weepinbell.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -472,9 +472,9 @@
 		</card>
 		<card>
 			<name>Victreebel</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Victreebel.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -484,9 +484,9 @@
 		</card>
 		<card>
 			<name>Tentacruel</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Tentacruel.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -495,9 +495,9 @@
 		</card>
 		<card>
 			<name>Graveler</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Graveler.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Rock Ground</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
@@ -507,9 +507,9 @@
 		</card>
 		<card>
 			<name>Golem</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Golem.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Rock Ground</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
@@ -518,9 +518,9 @@
 		</card>
 		<card>
 			<name>Rapidash</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Rapidash.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Fire</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -529,9 +529,9 @@
 		</card>
 		<card>
 			<name>Slowbro</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Slowbro.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water Psychic</type>
 			<pt>4/6</pt>
 			<tablerow>2</tablerow>
@@ -541,9 +541,9 @@
 		</card>
 		<card>
 			<name>Magneton</name>
-			<set picURL="https://images.pokemontcg.io/base4/9_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Magneton.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Electric Steel</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -552,9 +552,9 @@
 		</card>
 		<card>
 			<name>Dodrio</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Dodrio.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Normal Flying</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
@@ -563,9 +563,9 @@
 		</card>
 		<card>
 			<name>Dewgong</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Dewgong.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water Ice</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
@@ -574,9 +574,9 @@
 		</card>
 		<card>
 			<name>Muk</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Muk.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Poison</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
@@ -585,9 +585,9 @@
 		</card>
 		<card>
 			<name>Cloyster</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Cloyster.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water Ice</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -596,9 +596,9 @@
 		</card>
 		<card>
 			<name>Haunter</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Haunter.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Ghost Poison</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
@@ -608,9 +608,9 @@
 		</card>
 		<card>
 			<name>Gengar</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Gengar.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Ghost Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -619,9 +619,9 @@
 		</card>
 		<card>
 			<name>Hypno</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Hypno.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Psychic</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
@@ -630,9 +630,9 @@
 		</card>
 		<card>
 			<name>Kingler</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Kingler.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
@@ -641,9 +641,9 @@
 		</card>
 		<card>
 			<name>Electrode</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Electrode.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Electric</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -653,9 +653,9 @@
 		</card>
 		<card>
 			<name>Exeggutor</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Exeggutor.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Grass Psychic</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
@@ -665,9 +665,9 @@
 		</card>
 		<card>
 			<name>Marowak</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Marowak.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Ground</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -676,9 +676,9 @@
 		</card>
 		<card>
 			<name>Weezing</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Weezing.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -687,9 +687,9 @@
 		</card>
 		<card>
 			<name>Rhydon</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Rhydon.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Ground Rock</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
@@ -698,9 +698,9 @@
 		</card>
 		<card>
 			<name>Seadra</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Seadra.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -709,9 +709,9 @@
 		</card>
 		<card>
 			<name>Seaking</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Seaking.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -720,9 +720,9 @@
 		</card>
 		<card>
 			<name>Starmie</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Starmie.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water Psychic</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -731,9 +731,9 @@
 		</card>
 		<card>
 			<name>Gyarados</name>
-			<set picURL="https://images.pokemontcg.io/base6/12_hires.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Gyarados.png" rarity="token">PTCG</set>
 			<color>UR</color>
-			<manacost></manacost>
+			<manacost />
 			<type>Pokémon - Water Flying</type>
 			<pt>10/10</pt>
 			<tablerow>2</tablerow>
@@ -742,9 +742,9 @@
 		</card>
 		<card>
 			<name>Vaporeon</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Vaporeon.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Water</type>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
@@ -753,9 +753,9 @@
 		</card>
 		<card>
 			<name>Jolteon</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Jolteon.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Electric</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
@@ -764,9 +764,9 @@
 		</card>
 		<card>
 			<name>Flareon</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Flareon.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Fire</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -775,9 +775,9 @@
 		</card>
 		<card>
 			<name>Omastar</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Omastar.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Rock Water</type>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
@@ -786,9 +786,9 @@
 		</card>
 		<card>
 			<name>Kabutops</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Kabutops.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Rock Water</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
@@ -797,9 +797,9 @@
 		</card>
 		<card>
 			<name>Dragonair</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Dragonair.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -809,9 +809,9 @@
 		</card>
 		<card>
 			<name>Dragonite</name>
-			<set picURL="https://images.pokemontcg.io/base6/43_hires.png" rarity="token">PTCG</set>
-			<color></color>
-			<manacost></manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/tokens/Dragonite.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
 			<type>Pokémon - Dragon Flying</type>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
