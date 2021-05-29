@@ -17,10 +17,15 @@ def main():
     Usage:
         - python3 set_pic_url_script.py
     """
+    transformCardUrls("../ptcg_cockatrice.xml", "cards")
+    transformCardUrls("../ptcg_tokens-cockatrice.xml", "tokens")
+
+
+def transformCardUrls(filename, cardType):
 
     # open the input file as XML, input is assumed to be a cockatrice card file
     print("Loading file...")
-    with open("../ptcg_cockatrice.xml", "r") as f:
+    with open(filename, "r") as f:
         soup_obj = BeautifulSoup(f, "xml")
 
         # grab the list of cards out of the input cockatrice xml file
@@ -35,8 +40,12 @@ def main():
                 if tag.name == 'name':
                     card_name = tag.string
 
+            card_name = card_name.replace("♀", "F")
+            card_name = card_name.replace("♂", "M")
+            card_name = card_name.replace("'", "")
+
             card_url = "https://" + urllib.parse.quote(
-                f"raw.githubusercontent.com/brooks42/ptcg/main/images/cards/{card_name}.png")
+                f"raw.githubusercontent.com/brooks42/ptcg/main/{cardType}/{card_name}.png")
             cockatrice_card.set[
                 'picURL'] = card_url
 
@@ -50,7 +59,7 @@ def main():
                         f"404'd for image for card name {card_name} at {card_url}")
 
     print("Writing file with updated URLs...")
-    with open('../ptcg_cockatrice.xml', 'w') as f:
+    with open(filename, 'w') as f:
         f.write(str(soup_obj))
 
     print('Done')
