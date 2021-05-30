@@ -1276,7 +1276,7 @@
 			<pt>10/10</pt>
 			<tablerow>2</tablerow>
 			<text>{6}{U}{R}: Evolve from Magikarp
-				Whenever this Pokémon evolves, destroy all other Pokémon.</text>
+				Whenever this Pokémon evolves, discard your hand, then draw three cards. It deals X damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
 		</card>
 		<card>
 			<name>Lapras</name>
@@ -1716,12 +1716,40 @@
 		</card>
 		<card>
 			<name>Poké Ball</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9%20Ball.png" rarity="uncommon">PTCG</set>
-			<color />
-			<manacost>3</manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9%20Ball.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>R</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Pokémon card and put it into your hand. Then shuffle.</text>
+			<text>Exile the top three cards of your library. Until the end of your next turn, you may cast Pokémon cards exiled this way.</text>
+		</card>
+		<card>
+			<name>Great Ball</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Great%20Ball.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Scry 3, then reveal the top card of library. If it’s a Pokémon card, you may put it into your hand.</text>
+		</card>
+		<card>
+			<name>Safari Ball</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Safari%20Ball.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>2G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Look at the top six cards of your library. Put up to one Pokémon card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+		</card>
+		<card>
+			<name>Ultra Ball</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ultra%20Ball.png" rarity="rare">PTCG</set>
+			<color>W</color>
+			<manacost>3W</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for a Pokémon card with toughness 2 or less, reveal it, and put it into your hand. 
+				Return a Pokémon with power 3 or less from your graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>Switch</name>
@@ -1734,12 +1762,12 @@
 		</card>
 		<card>
 			<name>Master Ball</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Master%20Ball.png" rarity="rare">PTCG</set>
-			<color />
-			<manacost>5</manacost>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Master%20Ball.png" rarity="mythic">PTCG</set>
+			<color>B</color>
+			<manacost>4B</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Look at the top 7 cards of your library. Put up to one Pokémon card from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+			<text>Search your library for a Pokémon card and put it into your hand or graveyard. If you put a card into your graveyard this way, put another target Pokémon card from a graveyard onto the battlefield under your control with an additonal +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Stonefinder Radar</name>
@@ -1760,13 +1788,13 @@
 			<text>Untap all Pokémon you control.</text>
 		</card>
 		<card>
-			<name>Bubble Blower</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bubble%20Blower.png" rarity="common">PTCG</set>
+			<name>Old Rod</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Old%20Rod.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Water card and put it into your hand. Then shuffle.</text>
+			<text>Search your library for a Water Pokémon card and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Revive</name>
@@ -1952,8 +1980,8 @@
 			<text>Untap target Pokémon. It gains vigilance until end of turn.</text>
 		</card>
 		<card>
-			<name>Psych Up</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Psych%20Up.png" rarity="common">PTCG</set>
+			<name>Swords Dance</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Swords%20Dance.png" rarity="common">PTCG</set>
 			<color />
 			<manacost>GG</manacost>
 			<type>Sorcery</type>
@@ -2179,7 +2207,7 @@
 			<text>{T}: Add {B} or {W}. You lose 1 life.</text>
 			<font />
 		</card>
-		<!-- misc artifacts and tools -->
+		<!-- misc artifacts -->
 		<card>
 			<name>Poké Doll</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9doll.png" rarity="uncommon">PTCG</set>
@@ -2194,18 +2222,9 @@
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Silph%20Scope.png" rarity="rare">PTCG</set>
 			<color />
 			<manacost>3</manacost>
-			<type>Artifact - Tool</type>
+			<type>Artifact</type>
 			<tablerow>1</tablerow>
-			<text>All Pokémon lose shadow and unblockable. Damage can't be prevented.</text>
-		</card>
-		<card>
-			<name>Old Rod</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Old%20Rod.png" rarity="rare">PTCG</set>
-			<color />
-			<manacost>4</manacost>
-			<type>Artifact - Tool</type>
-			<tablerow>1</tablerow>
-			<text>{T}: Search your library for a Water Pokémon with an evolve ability, then shuffle and put that card third from the top.</text>
+			<text>All Pokémon lose hexproof, shadow, and unblockable. Damage can't be prevented.</text>
 		</card>
 		<card>
 			<name>Ancient Slab</name>
