@@ -1276,7 +1276,7 @@
 			<pt>10/10</pt>
 			<tablerow>2</tablerow>
 			<text>{6}{U}{R}: Evolve from Magikarp
-				Whenever this Pokémon evolves, destroy all other Pokémon.</text>
+				Whenever this Pokémon evolves, discard your hand, then draw three cards. It deals X damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
 		</card>
 		<card>
 			<name>Lapras</name>
@@ -1760,13 +1760,13 @@
 			<text>Untap all Pokémon you control.</text>
 		</card>
 		<card>
-			<name>Bubble Blower</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bubble%20Blower.png" rarity="common">PTCG</set>
+			<name>Old Rod</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Old%20Rod.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Water card and put it into your hand. Then shuffle.</text>
+			<text>Search your library for a Water Pokémon card and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Revive</name>
@@ -1952,8 +1952,8 @@
 			<text>Untap target Pokémon. It gains vigilance until end of turn.</text>
 		</card>
 		<card>
-			<name>Psych Up</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Psych%20Up.png" rarity="common">PTCG</set>
+			<name>Swords Dance</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Swords%20Dance.png" rarity="common">PTCG</set>
 			<color />
 			<manacost>GG</manacost>
 			<type>Sorcery</type>
@@ -2179,7 +2179,7 @@
 			<text>{T}: Add {B} or {W}. You lose 1 life.</text>
 			<font />
 		</card>
-		<!-- misc artifacts and tools -->
+		<!-- misc artifacts -->
 		<card>
 			<name>Poké Doll</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9doll.png" rarity="uncommon">PTCG</set>
@@ -2194,18 +2194,9 @@
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Silph%20Scope.png" rarity="rare">PTCG</set>
 			<color />
 			<manacost>3</manacost>
-			<type>Artifact - Tool</type>
+			<type>Artifact</type>
 			<tablerow>1</tablerow>
-			<text>All Pokémon lose shadow and unblockable. Damage can't be prevented.</text>
-		</card>
-		<card>
-			<name>Old Rod</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Old%20Rod.png" rarity="rare">PTCG</set>
-			<color />
-			<manacost>4</manacost>
-			<type>Artifact - Tool</type>
-			<tablerow>1</tablerow>
-			<text>{T}: Search your library for a Water Pokémon with an evolve ability, then shuffle and put that card third from the top.</text>
+			<text>All Pokémon lose hexproof, shadow, and unblockable. Damage can't be prevented.</text>
 		</card>
 		<card>
 			<name>Ancient Slab</name>
