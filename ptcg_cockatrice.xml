@@ -44,7 +44,7 @@
 		<card>
 			<name>Blastoise</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Blastoise.png" rarity="rare">PTCG</set>
-			<color>U</color>
+			<color>WU</color>
 			<manacost>2WUU</manacost>
 			<type>Pokémon - Water</type>
 			<pt>3/6</pt>
