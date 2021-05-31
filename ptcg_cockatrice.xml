@@ -2323,6 +2323,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
+				Flash
 				Enchanted Pokémon gets +1/+0 and has haste and first strike.</text>
 		</card>
 		<card>
@@ -2545,7 +2546,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Pewter City enters the battlefield tapped.
 				{T}: Add {R}, {G}, or {W}.
 				Cycling {3}</text>
-            <cipt>1</cipt>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Cerulean City</name>
@@ -2576,7 +2577,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Saffron City enters the battlefield tapped.
 				{T}: Add {U}, {B}, or {R}.
 				Cycling {3}</text>
-            <cipt>1</cipt>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Celadon City</name>
@@ -2588,7 +2589,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Celadon City enters the battlefield tapped.
 				{T}: Add {G}, {W}, or {U}.
 				Cycling {3}</text>
-            <cipt>1</cipt>
+            		<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Vermillion City</name>
@@ -2600,7 +2601,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Vermillion City enters the battlefield tapped.
 				{T}: Add {U}, {R}, or {W}.
 				Cycling {3}</text>
-            <cipt>1</cipt>
+            		<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Fuchsia City</name>
@@ -2632,7 +2633,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Lavender Town enters the battlefield tapped.
 				{T}: Add {W}, {U}, or {B}.
 				Cycling {3}</text>
-            <cipt>1</cipt>
+            		<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Cinnabar Lab</name>
@@ -2707,6 +2708,51 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>{T}: Add {C}.
 				{T}: Put a storage counter on Bill's Coastline.
 				{1}, Remove any number of storage counters from Bill's Coastline: Add {U} for each storage counter removed this way.</text>
+		</card>
+		<card>
+			<name>Plains</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Plains.png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.</text>
+		</card>
+		<card>
+			<name>Island</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Island.png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.</text>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Swamp.png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.</text>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mountain.png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.</text>
+		</card>
+		<card>
+			<name>Forest</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Forest.png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.</text>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
