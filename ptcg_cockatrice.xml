@@ -1688,7 +1688,7 @@
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Agatha</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Exile the top three cards of target player's library. You may play those cards until end of turn.
+			<text>[+1]: Exile the top two cards of your library and choose one of them. Until end of turn, you may play that card.
 				[-2]: Destroy target Pokémon.
 				[-X]: Up to X target Pokémon get -0/-X until end of turn.</text>
 		</card>
@@ -1780,7 +1780,7 @@
 		</card>
 		<card>
 			<name>Poké Flute</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9flute.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9%20Flute.png" rarity="uncommon">PTCG</set>
 			<color>W</color>
 			<manacost>2W</manacost>
 			<type>Instant</type>
@@ -1933,15 +1933,6 @@
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Target Pokémon gets +2/+2 and gains haste until end of turn.</text>
-		</card>
-		<card>
-			<name>X-Attack</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/X-Attack.png" rarity="common">PTCG</set>
-			<color />
-			<manacost>{R/G}</manacost>
-			<type>Instant - Medicine</type>
-			<tablerow>3</tablerow>
-			<text>Target Pokémon gets +3/+0 until end of turn.</text>
 		</card>
 		<card>
 			<name>X-Defense</name>
@@ -2554,6 +2545,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Pewter City enters the battlefield tapped.
 				{T}: Add {R}, {G}, or {W}.
 				Cycling {3}</text>
+            <cipt>1</cipt>
 		</card>
 		<card>
 			<name>Cerulean City</name>
@@ -2584,6 +2576,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Saffron City enters the battlefield tapped.
 				{T}: Add {U}, {B}, or {R}.
 				Cycling {3}</text>
+            <cipt>1</cipt>
 		</card>
 		<card>
 			<name>Celadon City</name>
@@ -2595,6 +2588,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Celadon City enters the battlefield tapped.
 				{T}: Add {G}, {W}, or {U}.
 				Cycling {3}</text>
+            <cipt>1</cipt>
 		</card>
 		<card>
 			<name>Vermillion City</name>
@@ -2606,6 +2600,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Vermillion City enters the battlefield tapped.
 				{T}: Add {U}, {R}, or {W}.
 				Cycling {3}</text>
+            <cipt>1</cipt>
 		</card>
 		<card>
 			<name>Fuchsia City</name>
@@ -2637,6 +2632,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Lavender Town enters the battlefield tapped.
 				{T}: Add {W}, {U}, or {B}.
 				Cycling {3}</text>
+            <cipt>1</cipt>
 		</card>
 		<card>
 			<name>Cinnabar Lab</name>
