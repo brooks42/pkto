@@ -14,10 +14,36 @@
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Pokémon - Grass Poison</type>
-			<pt>2/2</pt>
+			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>2G: Evolve to Ivysaur
-				T: Add G.</text>
+			<layout>transform</layout>
+			<side>front</side>
+			<related attach="attach">Ivysaur</related>
+			<text>{2}{G}: Evolve to Ivysaur
+				{T}: Add {G}.</text>
+		</card>
+		<card>
+			<name>Ivysaur </name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ivysaur.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<type>Pokémon - Grass Poison</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>{T}: Add {G}.</text>
+			<side>back</side>
+			<related attach="attach">Bulbasaur</related>
+			<layout>transform</layout>
+		</card>
+		<card>
+			<name>Ivysaur</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ivysaur.png" rarity="uncommon">PTCG</set>
+			<color>BG</color>
+			<manacost>1BG</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{G}: Evolve from Bulbasaur
+			Reach, deathtouch</text>
 		</card>
 		<card>
 			<name>Venusaur</name>
@@ -27,8 +53,9 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>2BG: Evolve from Ivysaur
-				Whenever Venusaur evolves or becomes tapped, put a +1/+1 counter on it.</text>
+			<text>{2}{B}{G}: Evolve from Ivysaur
+			Trample
+			{1}{B}{G}: put a +1/+1 counter on Venusaur.</text>
 		</card>
 		<card>
 			<name>Squirtle</name>
@@ -2589,7 +2616,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Celadon City enters the battlefield tapped.
 				{T}: Add {G}, {W}, or {U}.
 				Cycling {3}</text>
-            		<cipt>1</cipt>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Vermillion City</name>
@@ -2601,7 +2628,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Vermillion City enters the battlefield tapped.
 				{T}: Add {U}, {R}, or {W}.
 				Cycling {3}</text>
-            		<cipt>1</cipt>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Fuchsia City</name>
@@ -2633,7 +2660,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<text>Lavender Town enters the battlefield tapped.
 				{T}: Add {W}, {U}, or {B}.
 				Cycling {3}</text>
-            		<cipt>1</cipt>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Cinnabar Lab</name>
