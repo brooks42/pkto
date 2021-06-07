@@ -16,11 +16,10 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<layout>transform</layout>
 			<side>front</side>
-			<related attach="attach">Ivysaur</related>
+			<related attach="attach">Ivysaur </related>
 			<text>{2}{G}: Evolve to Ivysaur
-				{T}: Add {G}.</text>
+{T}: Add {G}.</text>
 		</card>
 		<card>
 			<name>Ivysaur </name>
@@ -32,7 +31,6 @@
 			<text>{T}: Add {G}.</text>
 			<side>back</side>
 			<related attach="attach">Bulbasaur</related>
-			<layout>transform</layout>
 		</card>
 		<card>
 			<name>Ivysaur</name>
@@ -43,7 +41,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{G}: Evolve from Bulbasaur
-			Reach, deathtouch</text>
+Reach, deathtouch</text>
 		</card>
 		<card>
 			<name>Venusaur</name>
