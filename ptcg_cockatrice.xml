@@ -17,12 +17,12 @@
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<side>front</side>
-			<related attach="attach">Ivysaur </related>
-			<text>{2}{G}: Evolve to Ivysaur
+			<related attach="attach">Ivysaur (Evolved)</related>
+			<text>{1}{G}: Evolve to Ivysaur
 {T}: Add {G}.</text>
 		</card>
 		<card>
-			<name>Ivysaur </name>
+			<name>Ivysaur (Evolved)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ivysaur.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<type>Pokémon - Grass Poison</type>
@@ -40,7 +40,7 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{G}: Evolve from Bulbasaur
+			<text>{1}{G}: Evolve from Bulbasaur
 Reach, deathtouch</text>
 		</card>
 		<card>
@@ -51,9 +51,9 @@ Reach, deathtouch</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{B}{G}: Evolve from Ivysaur
-			Trample
-			{1}{B}{G}: put a +1/+1 counter on Venusaur.</text>
+			<text>{1}{B}{G}: Evolve from Ivysaur
+Trample
+{1}{B}{G}: put a +1/+1 counter on Venusaur.</text>
 		</card>
 		<card>
 			<name>Squirtle</name>
@@ -63,8 +63,32 @@ Reach, deathtouch</text>
 			<type>Pokémon - Water</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>2U: Evolve to Wartotle
-				Whenever Squirtle blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
+			<side>front</side>
+			<related attach="attach">Wartortle (Evolved)</related>
+			<text>{1}{U}: Evolve to Wartotle
+Whenever Squirtle blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
+		</card>
+		<card>
+			<name>Wartortle (Evolved)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Wartortle.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<type>Pokémon - Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<side>back</side>
+			<text>Whenever Wartortle blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
+			<related attach="attach">Squirtle</related>
+		</card>
+		<card>
+			<name>Wartortle</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Wartortle.png" rarity="common">PTCG</set>
+			<color>WU</color>
+			<manacost>1WU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{U}: Evolve from Squirtle
+Hexproof</text>
 		</card>
 		<card>
 			<name>Blastoise</name>
@@ -72,10 +96,10 @@ Reach, deathtouch</text>
 			<color>WU</color>
 			<manacost>2WUU</manacost>
 			<type>Pokémon - Water</type>
-			<pt>3/6</pt>
+			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>2WU: Evolve from Wartotle
-				You may have each Pokémon you control assign combat damage equal to its toughness rather than its power.</text>
+			<text>{1}{W}{U}: Evolve from Wartotle
+You may have each Pokémon you control assign combat damage equal to its toughness rather than its power.</text>
 		</card>
 		<card>
 			<name>Charmander</name>
@@ -85,21 +109,43 @@ Reach, deathtouch</text>
 			<type>Pokémon - Fire</type>
 			<pt>2/1</pt>
 			<tablerow>2</tablerow>
-			<text>2R: Evolve to Charmeleon
-				R: Charmander gets +1/+0 until end of turn.</text>
+			<side>front</side>
+			<related attach="attach">Charmeleon (Evolved)</related>
+			<text>{1}{R}: Evolve to Charmeleon
+{R}: Charmander gets +1/+0 until end of turn.</text>
+		</card>
+		<card>
+			<name>Charmeleon (Evolved)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Charmeleon.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<type>Pokémon - Fire</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>{R}: Charmeleon gets +1/+0 until end of turn.</text>
+			<side>back</side>
+			<related attach="attach">Charmander</related>
+		</card>
+		<card>
+			<name>Charmeleon</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Charmeleon.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>1RR</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{R}: Evolve from Charmander
+Menace</text>
 		</card>
 		<card>
 			<name>Charizard</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Charizard.png" rarity="rare">PTCG</set>
 			<color>R</color>
-			<manacost>1WRR</manacost>
+			<manacost>2WRR</manacost>
 			<type>Pokémon - Fire Flying</type>
-			<pt>6/4</pt>
+			<pt>5/3</pt>
 			<tablerow>2</tablerow>
-			<text>2R: Evolve from Charmeleon
-				Flying
-				Charizard attacks each combat if able.
-				Whenever Charizard becomes blocked, double its power until end of turn.</text>
+			<text>{1}{W}{R}: Evolve from Charmeleon
+Flying</text>
 		</card>
 		<card>
 			<name>Caterpie</name>
