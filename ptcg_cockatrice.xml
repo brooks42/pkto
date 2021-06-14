@@ -17,12 +17,12 @@
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<side>front</side>
-			<related attach="attach">Ivysaur (Evolved)</related>
+			<related attach="attach">Ivysaur (DFC)</related>
 			<text>{1}{G}: Evolve to Ivysaur
 {T}: Add {G}.</text>
 		</card>
 		<card>
-			<name>Ivysaur (Evolved)</name>
+			<name>Ivysaur (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ivysaur.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<type>Pokémon - Grass Poison</type>
@@ -64,12 +64,12 @@ Trample
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<side>front</side>
-			<related attach="attach">Wartortle (Evolved)</related>
+			<related attach="attach">Wartortle (DFC)</related>
 			<text>{1}{U}: Evolve to Wartotle
 Whenever Squirtle blocks a Pokémon, that Pokémon doesn't untap during its controller's next untap step.</text>
 		</card>
 		<card>
-			<name>Wartortle (Evolved)</name>
+			<name>Wartortle (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Wartortle.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<type>Pokémon - Water</type>
@@ -110,12 +110,12 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 			<pt>2/1</pt>
 			<tablerow>2</tablerow>
 			<side>front</side>
-			<related attach="attach">Charmeleon (Evolved)</related>
+			<related attach="attach">Charmeleon (DFC)</related>
 			<text>{1}{R}: Evolve to Charmeleon
 {R}: Charmander gets +1/+0 until end of turn.</text>
 		</card>
 		<card>
-			<name>Charmeleon (Evolved)</name>
+			<name>Charmeleon (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Charmeleon.png" rarity="common">PTCG</set>
 			<color>R</color>
 			<type>Pokémon - Fire</type>
@@ -156,12 +156,12 @@ Flying</text>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
 			<side>front</side>
-			<related attach="attach">Metapod (Evolved)</related>
+			<related attach="attach">Metapod (DFC)</related>
 			<text>{G}: Evolve to Metapod
 {1}{G}, {T}: Tap target Pokémon.</text>
 		</card>
 		<card>
-			<name>Metapod (Evolved)</name>
+			<name>Metapod (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Metapod.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<type>Pokémon - Bug</type>
@@ -205,10 +205,10 @@ Flying, vigilance</text>
 			<text>{B}: Evolve to Kakuna
 Deathtouch</text>
 			<side>front</side>
-			<related attach="attach">Kakuna (Evolved)</related>
+			<related attach="attach">Kakuna (DFC)</related>
 		</card>
 		<card>
-			<name>Kakuna (Evolved)</name>
+			<name>Kakuna (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kakuna.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<type>Pokémon - Bug Poison</type>
@@ -252,10 +252,10 @@ Flying, infect</text>
 			<text>{1}{W}: Evolve to Pidgeotto
 Flying</text>
 			<side>front</side>
-			<related attach="attach">Pidgeotto (Evolved)</related>
+			<related attach="attach">Pidgeotto (DFC)</related>
 		</card>
 		<card>
-			<name>Pidgeotto (Evolved)</name>
+			<name>Pidgeotto (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pidgeotto.png" rarity="common">PTCG</set>
 			<color>W</color>
 			<type>Pokémon - Normal Flying</type>
@@ -404,10 +404,10 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 			<text>{1}{B}: Evolve to Nidorina
 {2}{B}: Search your library for a card named Nidoran♀ or Nidoran♂ and put it onto the battlefield. Then shuffle.</text>
 			<side>front</side>
-			<related attach="attach">Nidorina (Evolved)</related>
+			<related attach="attach">Nidorina (DFC)</related>
 		</card>
 		<card>
-			<name>Nidorina (Evolved)</name>
+			<name>Nidorina (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Nidorina.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<type>Pokémon - Poison</type>
@@ -450,10 +450,10 @@ If a Pokémon you control with no counters on it would be put into a graveyard f
 			<text>{1}{B}: Evolve to Nidorino
 Whenever Nidoran♂ attacks, it gains first strike and deathtouch until end of turn.</text>
 			<side>front</side>
-			<related attach="attach">Nidorino (Evolved)</related>
+			<related attach="attach">Nidorino (DFC)</related>
 		</card>
 		<card>
-			<name>Nidorino (Evolved)</name>
+			<name>Nidorino (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Nidorino.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<type>Pokémon - Poison</type>
@@ -581,10 +581,10 @@ Flying, lifelink</text>
 			<text>{1}{B/G}: Evolve to Gloom
 Lifelink</text>
 			<side>front</side>
-			<related attach="attach">Gloom (Evolved)</related>
+			<related attach="attach">Gloom (DFC)</related>
 		</card>
 		<card>
-			<name>Gloom (Evolved)</name>
+			<name>Gloom (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Gloom.png" rarity="common">PTCG</set>
 			<color>BG</color>
 			<type>Pokémon - Grass Poison</type>
@@ -779,10 +779,10 @@ If Arcanine would deal damage to a Pokémon, it deals double that damage to that
 			<text>{U}: Evolve to Poliwhirl
 Islandwalk</text>
 			<side>front</side>
-			<related attach="attach">Poliwhirl (Evolved)</related>
+			<related attach="attach">Poliwhirl (DFC)</related>
 		</card>
 		<card>
-			<name>Poliwhirl (Evolved)</name>
+			<name>Poliwhirl (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Poliwhirl.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<type>Pokémon - Water</type>
@@ -826,10 +826,10 @@ Pokémon can't fight other Pokémon.</text>
 			<text>{1}{U}: Evolve to Kadabra
 When this Pokémon enters the battlefield or evolves, scry 1.</text>
 			<side>front</side>
-			<related attach="attach">Kadabra (Evolved)</related>
+			<related attach="attach">Kadabra (DFC)</related>
 		</card>
 		<card>
-			<name>Kadabra (Evolved)</name>
+			<name>Kadabra (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kadabra.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<type>Pokémon - Psychic</type>
@@ -873,10 +873,10 @@ Whenever you scry, scry an additional card.</text>
 			<tablerow>2</tablerow>
 			<text>{R/G}{R/G}: Evolve to Machoke</text>
 			<side>front</side>
-			<related attach="attach">Machoke (Evolved)</related>
+			<related attach="attach">Machoke (DFC)</related>
 		</card>
 		<card>
-			<name>Machoke (Evolved)</name>
+			<name>Machoke (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Machoke.png" rarity="common">PTCG</set>
 			<color>RG</color>
 			<type>Pokémon - Fighting</type>
@@ -920,10 +920,10 @@ When this Pokémon evolves, if it had any +1/+1 counters on it, put three +1/+1 
 			<text>{G/B}{G/B}: Evolve to Weepinbell
 {1}{G}: Bellsprout gets +1/+1 until end of turn.</text>
 			<side>front</side>
-			<related attach="attach">Weepinbell (Evolved)</related>
+			<related attach="attach">Weepinbell (DFC)</related>
 		</card>
 		<card>
-			<name>Weepinbell (Evolved)</name>
+			<name>Weepinbell (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Weepinbell.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<type>Pokémon - Grass Poison</type>
@@ -990,10 +990,10 @@ Islandwalk</text>
 			<text>{1}{R}: Evolve to Graveler
 			Protection from electric</text>
 			<side>front</side>
-			<related attach="attach">Graveler (Evolved)</related>
+			<related attach="attach">Graveler (DFC)</related>
 		</card>
 		<card>
-			<name>Graveler (Evolved)</name>
+			<name>Graveler (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Graveler.png" rarity="common">PTCG</set>
 			<color>R</color>
 			<type>Pokémon - Rock Ground</type>
@@ -1199,10 +1199,10 @@ Whenever a Pokémon dies, if it had -1/-1 counters on it, put those counters on 
 			<text>{B}{B}: Evolve to Haunter
 Protection from Ground and Fighting</text>
 			<side>front</side>
-			<related attach="attach">Haunter (Evolved)</related>
+			<related attach="attach">Haunter (DFC)</related>
 		</card>
 		<card>
-			<name>Haunter (Evolved)</name>
+			<name>Haunter (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Haunter.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<type>Pokémon - Ghost Poison</type>
@@ -1794,10 +1794,10 @@ When Moltres enters the battlefield, it deals 2 damage to each other Pokémon an
 			<tablerow>2</tablerow>
 			<text>{W}{R}{G}: Evolve to Dragonair</text>
 			<side>front</side>
-			<related attach="attach">Dragonair (Evolved)</related>
+			<related attach="attach">Dragonair (DFC)</related>
 		</card>
 		<card>
-			<name>Dragonair (Evolved)</name>
+			<name>Dragonair (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dragonair.png" rarity="common">PTCG</set>
 			<color>WRG</color>
 			<type>Pokémon - Dragon</type>
