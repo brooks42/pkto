@@ -23,7 +23,7 @@
 		</card>
 		<card>
 			<name>Ivysaur (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ivysaur.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/IvysaurDFC.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<type>Pokémon - Grass Poison</type>
 			<pt>2/3</pt>
@@ -70,7 +70,7 @@ Whenever Squirtle blocks a Pokémon, that Pokémon doesn't untap during its cont
 		</card>
 		<card>
 			<name>Wartortle (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Wartortle.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/WartortleDFC.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
@@ -116,7 +116,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 		</card>
 		<card>
 			<name>Charmeleon (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Charmeleon.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/CharmeleonDFC.png" rarity="common">PTCG</set>
 			<color>R</color>
 			<type>Pokémon - Fire</type>
 			<pt>3/2</pt>
@@ -162,7 +162,7 @@ Flying</text>
 		</card>
 		<card>
 			<name>Metapod (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Metapod.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/MetapodDFC.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<type>Pokémon - Bug</type>
 			<pt>2/2</pt>
@@ -209,7 +209,7 @@ Deathtouch</text>
 		</card>
 		<card>
 			<name>Kakuna (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kakuna.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/KakunaDFC.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<type>Pokémon - Bug Poison</type>
 			<pt>2/2</pt>
@@ -256,7 +256,7 @@ Flying</text>
 		</card>
 		<card>
 			<name>Pidgeotto (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pidgeotto.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/PidgeottoDFC.png" rarity="common">PTCG</set>
 			<color>W</color>
 			<type>Pokémon - Normal Flying</type>
 			<pt>2/2</pt>
@@ -408,7 +408,7 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 		</card>
 		<card>
 			<name>Nidorina (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Nidorina.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/NidorinaDFC.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<type>Pokémon - Poison</type>
 			<pt>2/3</pt>
@@ -454,7 +454,7 @@ Whenever Nidoran♂ attacks, it gains first strike and deathtouch until end of t
 		</card>
 		<card>
 			<name>Nidorino (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Nidorino.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/NidorinoDFC.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<type>Pokémon - Poison</type>
 			<pt>4/2</pt>
@@ -585,7 +585,7 @@ Lifelink</text>
 		</card>
 		<card>
 			<name>Gloom (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Gloom.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/GloomDFC.png" rarity="common">PTCG</set>
 			<color>BG</color>
 			<type>Pokémon - Grass Poison</type>
 			<pt>2/2</pt>
@@ -777,18 +777,18 @@ If Arcanine would deal damage to a Pokémon, it deals double that damage to that
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>{U}: Evolve to Poliwhirl
-Islandwalk</text>
+Hexproof</text>
 			<side>front</side>
 			<related attach="attach">Poliwhirl (DFC)</related>
 		</card>
 		<card>
 			<name>Poliwhirl (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Poliwhirl.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/PoliwhirlDFC.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Islandwalk</text>
+			<text>Hexproof</text>
 			<side>back</side>
 			<related attach="attach">Poliwag</related>
 		</card>
@@ -830,7 +830,7 @@ When this Pokémon enters the battlefield or evolves, scry 1.</text>
 		</card>
 		<card>
 			<name>Kadabra (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kadabra.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/KadabraDFC.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<type>Pokémon - Psychic</type>
 			<pt>1/3</pt>
@@ -877,7 +877,7 @@ Whenever you scry, scry an additional card.</text>
 		</card>
 		<card>
 			<name>Machoke (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Machoke.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/MachokeDFC.png" rarity="common">PTCG</set>
 			<color>RG</color>
 			<type>Pokémon - Fighting</type>
 			<pt>4/4</pt>
@@ -924,7 +924,7 @@ When this Pokémon evolves, if it had any +1/+1 counters on it, put three +1/+1 
 		</card>
 		<card>
 			<name>Weepinbell (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Weepinbell.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/WeepinbellDFC.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/3</pt>
@@ -994,7 +994,7 @@ Islandwalk</text>
 		</card>
 		<card>
 			<name>Graveler (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Graveler.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/GravelerDFC.png" rarity="common">PTCG</set>
 			<color>R</color>
 			<type>Pokémon - Rock Ground</type>
 			<pt>3/3</pt>
@@ -1066,7 +1066,7 @@ First strike, haste</text>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>{U}{B}: Evolve from Slowpoke
-Whenever you put a card on the bottom of your library, put a +1/+1 counter on Slowbro and untap it.</text>
+Whenever you put a card on the bottom of your library, put a +1/+1 counter on Slowbro.</text>
 		</card>
 		<card>
 			<name>Magnemite</name>
@@ -1203,7 +1203,7 @@ Protection from Ground and Fighting</text>
 		</card>
 		<card>
 			<name>Haunter (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Haunter.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/HaunterDFC.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<type>Pokémon - Ghost Poison</type>
 			<pt>3/3</pt>
@@ -1598,7 +1598,7 @@ Whenever you draw a card, target player mills a card.</text>
 			<type>Pokémon - Water</type>
 			<pt>0/1</pt>
 			<tablerow>2</tablerow>
-			<text>{6}{U}{R}: Evolve to Gyarados</text>
+			<text></text>
 		</card>
 		<card>
 			<name>Gyarados</name>
@@ -1609,7 +1609,7 @@ Whenever you draw a card, target player mills a card.</text>
 			<pt>10/10</pt>
 			<tablerow>2</tablerow>
 			<text>{6}{U}{R}: Evolve from Magikarp
-Whenever this Pokémon evolves, discard your hand, then draw three cards. It deals X damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
+Whenever this Pokémon evolves, discard your hand, then draw three cards. It deals X+3 damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
 		</card>
 		<card>
 			<name>Lapras</name>
@@ -1798,7 +1798,7 @@ When Moltres enters the battlefield, it deals 2 damage to each other Pokémon an
 		</card>
 		<card>
 			<name>Dragonair (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dragonair.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/DragonairDFC.png" rarity="common">PTCG</set>
 			<color>WRG</color>
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
