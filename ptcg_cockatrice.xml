@@ -1715,7 +1715,8 @@ Fossil {3}{U}{R}</text>
 			<type>Pokémon - Rock Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Fossil {3}{U}{G}</text>
+			<text>{1}{G}{G}: Target land becomes an Island until end of turn. Kabuto gains islandwalk until end of turn.
+Fossil {3}{U}{G}</text>
 		</card>
 		<card>
 			<name>Kabutops</name>
@@ -1726,7 +1727,6 @@ Fossil {3}{U}{R}</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{U}{G}: Evolve from Kabuto
-{1}{G}{G}: Target land becomes an Island until end of turn. Kabutops gains islandwalk until end of turn.
 {1}{G}{G}: Kabutops fights target Pokémon. If that Pokémon would die this turn, return it to its owner’s hand instead.
 Fossil {3}{U}{G}</text>
 		</card>
