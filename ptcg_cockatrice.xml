@@ -52,8 +52,8 @@ Reach, deathtouch</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{B}{G}: Evolve from Ivysaur
-Trample
-{1}{B}{G}: put a +1/+1 counter on Venusaur.</text>
+{1}{B}{G}: Put a +1/+1 counter on Venusaur.
+Trample</text>
 		</card>
 		<card>
 			<name>Squirtle</name>
@@ -181,7 +181,7 @@ Flying</text>
 			<tablerow>2</tablerow>
 			<text>{G}: Evolve from Caterpie
 Defender
-When this Pokémon evolves, it loses defender and you draw a card.</text>
+Whenever this Pokémon evolves, it loses defender and you draw a card.</text>
 		</card>
 		<card>
 			<name>Butterfree</name>
@@ -228,7 +228,7 @@ Deathtouch</text>
 			<tablerow>2</tablerow>
 			<text>{B}: Evolve from Weedle
 Defender
-When this Pokémon evolves, it loses defender and target player discards a card.</text>
+Whenever this Pokémon evolves, it loses defender and target player discards a card.</text>
 		</card>
 		<card>
 			<name>Beedrill</name>
@@ -274,8 +274,8 @@ Flying</text>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{W}: Evolve from Pidgey
-Flying
-{1}{W}: Pidgeotto gains lifelink until end of turn.</text>
+{1}{W}: Pidgeotto gains lifelink until end of turn.
+Flying</text>
 		</card>
 		<card>
 			<name>Pidgeot</name>
@@ -328,8 +328,8 @@ When Raticate dies, you gain life equal to its toughness.</text>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
 			<text>{2}{W/B}: Evolve from Spearow
-If Fearow would take damage from a Pokémon with first strike, prevent that damage.
-If Fearow would be dealt damage from a Pokémon with first strike, prevent that damage.</text>
+Prevent all damage that would be dealt to Fearow by Pokémon with first strike.
+Flying</text>
 		</card>
 		<card>
 			<name>Ekans</name>
@@ -426,7 +426,7 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{B}: Evolve from Nidoran♀
-When this Pokémon evolves, return target Pokémon card from your graveyard to your hand.</text>
+Whenever this Pokémon evolves, return target Pokémon card from your graveyard to your hand.</text>
 		</card>
 		<card>
 			<name>Nidoqueen</name>
@@ -437,7 +437,7 @@ When this Pokémon evolves, return target Pokémon card from your graveyard to y
 			<pt>4/7</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{B}{B}: Evolve from Nidorina
-If a Pokémon you control with no counters on it would be put into a graveyard from the battlefield, you may exile it instead. If you do, return it to the battlefield under its owner's control at the beginning of the next end step with a +1/+1 counter on it.</text>
+If a Pokémon you control with no counters on it would be put into a graveyard from the battlefield, you may exile it instead. If you do, return it to the battlefield under its owner's control at the beginning of the next end step with an additional +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Nidoran♂</name>
@@ -472,7 +472,7 @@ Whenever Nidoran♂ attacks, it gains first strike and deathtouch until end of t
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{B}: Evolve from Nidoran♂
-When this Pokémon evolves, if you control no other Pokémon, add {B}{B}{B} and draw a card.</text>
+Whenever this Pokémon evolves, if you control no other Pokémon, add {B}{B}{B} and draw a card.</text>
 		</card>
 		<card>
 			<name>Nidoking</name>
@@ -494,7 +494,7 @@ When this Pokémon evolves, if you control no other Pokémon, add {B}{B}{B} and 
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{T}: Add {W} or {B}.
-{2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon card. Clefairy gains all abilities of the revealed card, except for its evolve abilities, until end of turn. Then shuffle.</text>
+{2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon card. Clefairy gains all non-evolve abilities of that card until end of turn. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Clefable</name>
@@ -515,7 +515,7 @@ Whenever Clefable becomes tapped, you gain life equal to its toughness.</text>
 			<type>Pokémon - Fire</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{R}: Vulpix gets +1/+0 and first strike until end of turn.</text>
+			<text>{R}: Vulpix gets +1/+0 and gains first strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Ninetales</name>
@@ -526,7 +526,7 @@ Whenever Clefable becomes tapped, you gain life equal to its toughness.</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{B/R}{B/R}: Evolve from Vulpix
-{1}{B}{R}, discard a card: Untap target Pokémon and gain control of it until end of turn. It gains haste.</text>
+{1}{B}{R}, Discard a card: Gain control of target Pokémon until end of turn. Untap that Pokémon. It gains haste until end of turn.</text>
 		</card>
 		<card>
 			<name>Jigglypuff</name>
@@ -603,7 +603,7 @@ Lifelink</text>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{B/G}: Evolve from Oddish
-{1}{B}, {T}: Gloom deals 1 damage to up to 2 target Pokémon.</text>
+{1}{B}, {T}: Gloom deals 1 damage to each of up to two target Pokémon.</text>
 		</card>
 		<card>
 			<name>Vileplume</name>
@@ -614,7 +614,7 @@ Lifelink</text>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
 			<text>{B/G}: Evolve from Gloom
-{T}, Discard a card: Add mana equal to the discarded card's mana cost.</text>
+{T}, Discard a card: Add mana equal to mana cost of the discarded card.</text>
 		</card>
 		<card>
 			<name>Paras</name>
@@ -625,7 +625,7 @@ Lifelink</text>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>Protection from Grass and Bug
-Weakness to Fire and Ice (if this Pokémon is dealt damage by a Fire or Ice Pokémon, destroy it.)
+Weakness to Fire and Ice (If this Pokémon is dealt damage by a Fire or Ice Pokémon, destroy it.)
 			</text>
 		</card>
 		<card>
@@ -659,8 +659,8 @@ Lifelink</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{G}{U}: Evolve from Venonat
-Flying
-Whenever this Pokémon evolves, choose a Pokémon card name. Target opponent reveals their hand. Put all cards revealed this way with the chosen name onto the battlefield under your control.</text>
+Whenever this Pokémon evolves, choose a Pokémon card name. Target opponent reveals their hand. Put all cards revealed this way with the chosen name onto the battlefield under your control.
+Flying</text>
 		</card>
 		<card>
 			<name>Diglett</name>
@@ -801,7 +801,7 @@ Hexproof</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{U}: Evolve from Poliwag
-Whenever Poliwhirl evolves or becomes the target of a spell or ability, you may draw a card. If you do, discard a card.</text>
+Whenever this Pokémon evolves or becomes the target of a spell or ability, you may draw a card. If you do, discard a card.</text>
 		</card>
 		<card>
 			<name>Poliwrath</name>
@@ -812,8 +812,8 @@ Whenever Poliwhirl evolves or becomes the target of a spell or ability, you may 
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{U}{U}: Evolve from Poliwhirl
-When this Pokémon evolves, put three +1/+1 counters on it.
-Pokémon can't fight other Pokémon.</text>
+Whenever this Pokémon evolves, put three +1/+1 counters on it.
+If a Pokémon would fight a Pokémon that isn't Poliwrath, it fights Poliwrath instead.</text>
 		</card>
 		<card>
 			<name>Abra</name>
@@ -824,7 +824,7 @@ Pokémon can't fight other Pokémon.</text>
 			<pt>0/2</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{U}: Evolve to Kadabra
-When this Pokémon enters the battlefield or evolves, scry 1.</text>
+Whenever this Pokémon enters the battlefield or evolves, scry 1.</text>
 			<side>front</side>
 			<related attach="attach">Kadabra (DFC)</related>
 		</card>
@@ -835,7 +835,7 @@ When this Pokémon enters the battlefield or evolves, scry 1.</text>
 			<type>Pokémon - Psychic</type>
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
-			<text>When this Pokémon enters the battlefield or evolves, scry 1.</text>
+			<text>Whenever this Pokémon enters the battlefield or evolves, scry 1.</text>
 			<side>back</side>
 			<related attach="attach">Abra</related>
 		</card>
@@ -861,7 +861,7 @@ When this Pokémon enters the battlefield or evolves, scry 1.</text>
 			<text>{1}{U}{B}: Evolve from Kadabra
 {U}{U}: Scry 1.
 {B}{B}: Target Pokémon gets -2/-2 until end of turn for each +1/+1 counter on it.
-Whenever you scry, scry an additional card.</text>
+If you would scry, scry that many cards plus one instead.</text>
 		</card>
 		<card>
 			<name>Machop</name>
@@ -895,7 +895,7 @@ Whenever you scry, scry an additional card.</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{R/G}{R/G}: Evolve from Machop
-At the start of your upkeep, if Machoke isn't the Pokémon on the battlefield with the highest power or toughness, put a +1/+1 counter on Machoke.</text>
+At the beginning of your upkeep, if Machoke doesn't have the greatest power or toughness among Pokémon on the battlefield, put a +1/+1 counter on Machoke.</text>
 		</card>
 		<card>
 			<name>Machamp</name>
@@ -906,7 +906,7 @@ At the start of your upkeep, if Machoke isn't the Pokémon on the battlefield wi
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>{R/G}{R/G}{R/G}: Evolve from Machoke
-When this Pokémon evolves, if it had any +1/+1 counters on it, put three +1/+1 counters on it and it gains trample.
+Whenever this Pokémon evolves, if it has any +1/+1 counters on it, put three +1/+1 counters on it and it gains trample.
 {R/G}{R/G}, {T}: Machamp fights target non-Flying Pokémon you don't control.</text>
 		</card>
 		<card>
@@ -942,8 +942,8 @@ When this Pokémon evolves, if it had any +1/+1 counters on it, put three +1/+1 
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>{G/B}{G/B}: Evolve from Bellsprout
-Reach
-When Weepinbell deals damage to a Pokémon, tap it. That Pokémon doesn't untap during its controller's next untap step.</text>
+Whenever Weepinbell deals damage to a Pokémon, tap that Pokémon. It doesn't untap during its controller's next untap step.
+Reach</text>
 		</card>
 		<card>
 			<name>Victreebel</name>
@@ -954,7 +954,7 @@ When Weepinbell deals damage to a Pokémon, tap it. That Pokémon doesn't untap 
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{G/B}{G/B}: Evolve from Weepinbell
-When this Pokémon evolves, put two +1/+1 counters on it.
+Whenever this Pokémon evolves, put two +1/+1 counters on it.
 {B/G}: Victreebel deals 1 damage to target Flying Pokémon you don't control. You gain 1 life.</text>
 		</card>
 		<card>
@@ -988,7 +988,7 @@ Islandwalk</text>
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{R}: Evolve to Graveler
-			Protection from electric</text>
+			Protection from Electric</text>
 			<side>front</side>
 			<related attach="attach">Graveler (DFC)</related>
 		</card>
@@ -999,7 +999,7 @@ Islandwalk</text>
 			<type>Pokémon - Rock Ground</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Protection from electric</text>
+			<text>Protection from Electric</text>
 			<side>back</side>
 			<related attach="attach">Geodude</related>
 		</card>
@@ -1076,8 +1076,8 @@ Whenever you put a card on the bottom of your library, put a +1/+1 counter on Sl
 			<type>Pokémon - Electric Steel</type>
 			<pt>0/0</pt>
 			<tablerow>2</tablerow>
-			<text>Magnetite gets +1/+1.
-Protection from ground</text>
+			<text>Magnemite gets +1/+1.
+Protection from Ground</text>
 		</card>
 		<card>
 			<name>Magneton</name>
@@ -1089,7 +1089,7 @@ Protection from ground</text>
 			<tablerow>2</tablerow>
 			<text>{3}: Evolve from Magnemite
 Whenever this Pokémon evolves, put two +1/+1 counters on it.
-Protection from poison</text>
+Protection from Poison</text>
 		</card>
 		<card>
 			<name>Farfetch'd</name>
@@ -1164,7 +1164,7 @@ Double strike, haste</text>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{B}{B}: Evolve from Grimer
-Whenever a Pokémon dies, if it had -1/-1 counters on it, put those counters on another target Pokémon with a different owner.</text>
+Whenever a Pokémon dies, if it had any -1/-1 counters on it, put those counters on another target Pokémon with a different owner.</text>
 		</card>
 		<card>
 			<name>Shellder</name>
@@ -1306,7 +1306,7 @@ Haste</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{R/W}: Evolve from Voltorb
-When Electrode enters the battlefield or takes damage, sacrifice it. If you do, it deals damage to each Pokémon equal to its power.</text>
+Whenever Electrode enters the battlefield or takes damage, sacrifice it. If you do, it deals damage equal to its power to each Pokémon.</text>
 		</card>
 		<card>
 			<name>Exeggcute</name>
@@ -1338,7 +1338,7 @@ Reach</text>
 			<type>Pokémon - Ground</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve abilities of Pokémon you control cost {1} less to activate.</text>
+			<text>Prowess</text>
 		</card>
 		<card>
 			<name>Marowak</name>
@@ -1360,7 +1360,7 @@ Reach</text>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
 			<text>First strike
-When Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn.</text>
+Whenever Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn.</text>
 		</card>
 		<card>
 			<name>Hitmonchan</name>
@@ -1609,7 +1609,7 @@ Whenever you draw a card, target player mills a card.</text>
 			<pt>10/10</pt>
 			<tablerow>2</tablerow>
 			<text>{6}{U}{R}: Evolve from Magikarp
-Whenever this Pokémon evolves, discard your hand, then draw three cards. It deals X+3 damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
+Whenever this Pokémon evolves, discard your hand, then draw three cards. It deals X plus 3 damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
 		</card>
 		<card>
 			<name>Lapras</name>
@@ -1649,7 +1649,7 @@ Whenever this Pokémon evolves, discard your hand, then draw three cards. It dea
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{U}: Evolve from Eevee
-Whenever a Pokémon you control evolves, scry 2 and gain 3 life.</text>
+Whenever a Pokémon you control evolves, scry 2 and you gain 3 life.</text>
 		</card>
 		<card>
 			<name>Jolteon</name>
@@ -1660,7 +1660,7 @@ Whenever a Pokémon you control evolves, scry 2 and gain 3 life.</text>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{W}: Evolve from Eevee
-Whenever a Pokémon you control evolves, Jolteon and that Pokémons gain first strike and vigilance until end of turn.</text>
+Whenever a Pokémon you control evolves, Jolteon and that Pokémon gain first strike and vigilance until end of turn.</text>
 		</card>
 		<card>
 			<name>Flareon</name>
@@ -1692,7 +1692,8 @@ Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you c
 			<type>Pokémon - Rock Water</type>
 			<pt>1/4</pt>
 			<tablerow>2</tablerow>
-			<text>Fossil {3}{U}{R}</text>
+			<text>{1}{R}{R}: Omanyte deals 2 damage to target Pokémon with flying and that Pokémon loses flying until end of turn.
+			Fossil {3}{U}{R}</text>
 		</card>
 		<card>
 			<name>Omastar</name>
@@ -1703,8 +1704,7 @@ Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you c
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{U}{R}: Evolve from Omanyte
-{1}{U}{U}: Omastar deals 2 damage to target Pokémon with flying and that Pokémon loses flying until end of turn.
-{1}{R}{R}: Draw 5 cards, then put 3 cards from your hand on the bottom of your library in any order.
+{1}{U}{U}: Draw five cards, then put three cards from your hand on the bottom of your library in any order.
 Fossil {3}{U}{R}</text>
 		</card>
 		<card>
@@ -1727,7 +1727,7 @@ Fossil {3}{U}{R}</text>
 			<tablerow>2</tablerow>
 			<text>{1}{U}{G}: Evolve from Kabuto
 {1}{G}{G}: Target land becomes an Island until end of turn. Kabutops gains islandwalk until end of turn.
-{1}{U}{U}: Kabutops fights target Pokémon. If that Pokémon would die, return it to its owner's hand instead.
+{1}{G}{G}: Kabutops fights target Pokémon. If that Pokémon would die this turn, return it to its owner’s hand instead.
 Fossil {3}{U}{G}</text>
 		</card>
 		<card>
@@ -1739,7 +1739,7 @@ Fossil {3}{U}{G}</text>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>Flying, haste
-{3}{R}{G}: Return Aerodactyl from your graveyard to the battlefield.</text>
+Fossil {3}{R}{G}</text>
 		</card>
 		<card>
 			<name>Snorlax</name>
@@ -1812,7 +1812,7 @@ When Moltres enters the battlefield, it deals 2 damage to each other Pokémon an
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dragonair.png" rarity="common">PTCG</set>
 			<color>WRG</color>
 			<manacost>2{W/R}{R/G}{G/W}</manacost>
-			<type>Pokémon - Fighting</type>
+			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{W/R}{R/G}: Evolve from Dratini
@@ -1849,8 +1849,8 @@ Flying, haste, vigilance, menace, hexproof from trainers</text>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Tap any number of Pokémon you control: Each Pokémon tapped this way gains indestructible until end of turn.
-{3}: Pokémoncycling</text>
+Tap any number of untapped Pokémon you control: Each Pokémon tapped this way gains indestructible until end of turn.
+Pokémoncycling {3}</text>
 		</card>
 		<!-- trainer cards -->
 		<card>
@@ -2793,7 +2793,7 @@ Whenever enchanted Pokémon deals combat damage, you gain that much life.</text>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Whenever enchanted Pokémon would be dealt combat damage, prevent 2 of that damage.</text>
+If enchanted Pokémon would be dealt combat damage, prevent 2 of that damage.</text>
 		</card>
 		<card>
 			<name>Pay Day</name>
