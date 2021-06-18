@@ -1659,7 +1659,7 @@ Whenever a Pokémon you control evolves, scry 2 and you gain 3 life.</text>
 			<type>Pokémon - Electric</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
-			<text>{3}{W}: Evolve from Eevee
+			<text>{3}{R/W}: Evolve from Eevee
 Whenever a Pokémon you control evolves, Jolteon and that Pokémon gain first strike and vigilance until end of turn.</text>
 		</card>
 		<card>
