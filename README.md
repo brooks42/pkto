@@ -10,12 +10,12 @@ Pokémon is a replacement for the Creature supertype. Pokémon act like Creature
 
 ### Trainer
 
-Trainer is a replacement for the Planeswalker supertype. Trainers act like Planeswalkers in all respects.
+Trainer is a replacement for the Planeswalker type. Trainers act like Planeswalkers in all respects.
 
 ### Evolution
 
 ```
-Evolve to X: flip the card over, just like with transform. Dual-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their P/T is different.
+Evolve to X: Flip the card over, just like with transform. Dual-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their P/T is different.
 
 Evolve from X: If you control X, put this card on top of it as though it evolved into this card.
 ```
