@@ -6,7 +6,7 @@ A repo for the MTG Pokemon TCG cockatrice XML and supporting materials.
 
 ### Pokémon
 
-Pokémon is a replacement for the Creature supertype. Pokémon act like Creatures in all respects.
+Pokémon is a replacement for the Creature type. Pokémon act like Creatures in all respects.
 
 ### Trainer
 
