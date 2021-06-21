@@ -46,6 +46,14 @@ def main():
                 if name_tag.name == 'name':
                     card_name = name_tag.string
 
+                    if '(DFC)' in card_name:
+                        continue
+
+                    basic_lands = ["forest", "mountain",
+                                   "island", "swamp", "plains"]
+                    if card_name.lower() in basic_lands:
+                        continue
+
                     cube_list.append(card_name)
 
                     for rarity_tag in cockatrice_card:

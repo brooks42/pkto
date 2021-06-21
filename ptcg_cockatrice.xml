@@ -127,7 +127,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 		</card>
 		<card>
 			<name>Charmeleon</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Charmeleon.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Charmeleon.png" rarity="uncommon">PTCG</set>
 			<color>R</color>
 			<manacost>1RR</manacost>
 			<type>Pokémon - Fire</type>
@@ -173,7 +173,7 @@ Flying</text>
 		</card>
 		<card>
 			<name>Metapod</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Metapod.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Metapod.png" rarity="uncommon">PTCG</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Pokémon - Bug</type>
@@ -220,7 +220,7 @@ Deathtouch</text>
 		</card>
 		<card>
 			<name>Kakuna</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kakuna.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kakuna.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -267,7 +267,7 @@ Flying</text>
 		</card>
 		<card>
 			<name>Pidgeotto</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pidgeotto.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pidgeotto.png" rarity="uncommon">PTCG</set>
 			<color>W</color>
 			<manacost>3W</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -343,7 +343,7 @@ Flying</text>
 		</card>
 		<card>
 			<name>Arbok</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Arbok.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Arbok.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>3B</manacost>
 			<type>Pokémon - Poison</type>
@@ -353,7 +353,7 @@ Flying</text>
 		</card>
 		<card>
 			<name>Pikachu</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pikachu.png" rarity="rare">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pikachu.png" rarity="uncommon">PTCG</set>
 			<color>WR</color>
 			<manacost>1WR</manacost>
 			<type>Pokémon - Electric</type>
@@ -437,7 +437,7 @@ Whenever this Pokémon evolves, return target Pokémon card from your graveyard 
 			<pt>4/7</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{B}{B}: Evolve from Nidorina
-If a Pokémon you control with no counters on it would be put into a graveyard from the battlefield, you may exile it instead. If you do, return it to the battlefield under its owner's control at the beginning of the next end step with an additional +1/+1 counter on it.</text>
+If another Pokémon you control with no counters on it would be put into a graveyard from the battlefield, you may exile it instead. If you do, return it to the battlefield under its owner's control at the beginning of the next end step with an additional +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Nidoran♂</name>
@@ -596,7 +596,7 @@ Lifelink</text>
 		</card>
 		<card>
 			<name>Gloom</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Gloom.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Gloom.png" rarity="uncommon">PTCG</set>
 			<color>BG</color>
 			<manacost>1{B/G}{B/G}</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -794,7 +794,7 @@ Hexproof</text>
 		</card>
 		<card>
 			<name>Poliwhirl</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Poliwhirl.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Poliwhirl.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>2UU</manacost>
 			<type>Pokémon - Water</type>
@@ -841,7 +841,7 @@ Whenever this Pokémon enters the battlefield or evolves, scry 1.</text>
 		</card>
 		<card>
 			<name>Kadabra</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kadabra.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kadabra.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>2UU</manacost>
 			<type>Pokémon - Psychic</type>
@@ -888,7 +888,7 @@ If you would scry, scry that many cards plus one instead.</text>
 		</card>
 		<card>
 			<name>Machoke</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Machoke.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Machoke.png" rarity="uncommon">PTCG</set>
 			<color>RG</color>
 			<manacost>2{R/G}{R/G}</manacost>
 			<type>Pokémon - Fighting</type>
@@ -899,7 +899,7 @@ At the beginning of your upkeep, if Machoke doesn't have the greatest power or t
 		</card>
 		<card>
 			<name>Machamp</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Machamp.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Machamp.png" rarity="rare">PTCG</set>
 			<color>RG</color>
 			<manacost>4{R/G}{R/G}</manacost>
 			<type>Pokémon - Fighting</type>
@@ -935,7 +935,7 @@ Whenever this Pokémon evolves, if it has any +1/+1 counters on it, put three +1
 		</card>
 		<card>
 			<name>Weepinbell</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Weepinbell.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Weepinbell.png" rarity="uncommon">PTCG</set>
 			<color>GB</color>
 			<manacost>3{G/B}{G/B}</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -1005,7 +1005,7 @@ Islandwalk</text>
 		</card>
 		<card>
 			<name>Graveler</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Graveler.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Graveler.png" rarity="uncommon">PTCG</set>
 			<color>GB</color>
 			<manacost>3RR</manacost>
 			<type>Pokémon - Rock Ground</type>
@@ -1059,7 +1059,7 @@ First strike, haste</text>
 		</card>
 		<card>
 			<name>Slowbro</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Slowbro.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Slowbro.png" rarity="rare">PTCG</set>
 			<color>U</color>
 			<manacost>2UUB</manacost>
 			<type>Pokémon - Water Psychic</type>
@@ -1214,7 +1214,7 @@ Protection from Ground and Fighting</text>
 		</card>
 		<card>
 			<name>Haunter</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Haunter.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Haunter.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>2BB</manacost>
 			<type>Pokémon - Ghost Poison</type>
@@ -1299,7 +1299,7 @@ Haste</text>
 		</card>
 		<card>
 			<name>Electrode</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Electrode.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Electrode.png" rarity="uncommon">PTCG</set>
 			<color>RW</color>
 			<manacost>2RW</manacost>
 			<type>Pokémon - Electric</type>
@@ -1310,7 +1310,7 @@ Whenever Electrode enters the battlefield or takes damage, sacrifice it. If you 
 		</card>
 		<card>
 			<name>Exeggcute</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Exeggcute.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Exeggcute.png" rarity="common">PTCG</set>
 			<color>GB</color>
 			<manacost>1GGB</manacost>
 			<type>Pokémon - Grass Psychic</type>
@@ -1522,7 +1522,7 @@ Whenever you draw a card, target player mills a card.</text>
 		</card>
 		<card>
 			<name>Mr. Mime</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mr.%20Mime.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mr.%20Mime.png" rarity="rare">PTCG</set>
 			<color>B</color>
 			<manacost>BBB</manacost>
 			<type>Pokémon - Psychic Fairy</type>
@@ -1623,7 +1623,7 @@ Whenever this Pokémon evolves, discard your hand, then draw three cards. It dea
 		</card>
 		<card>
 			<name>Ditto</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ditto.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ditto.png" rarity="rare">PTCG</set>
 			<manacost>5</manacost>
 			<type>Pokémon - Normal</type>
 			<pt>0/1</pt>
@@ -1760,7 +1760,7 @@ Fossil {3}{R}{G}</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-When Articuno enters the battlefield, tap all Pokémon you don't control. Those Pokémon don't untap during their controller's next untap step.</text>
+When Articuno enters the battlefield, tap all Pokémon you don't control.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
@@ -1798,7 +1798,7 @@ When Moltres enters the battlefield, it deals 2 damage to each other Pokémon an
 		</card>
 		<card>
 			<name>Dragonair (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/DragonairDFC.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/DragonairDFC.png" rarity="rare">PTCG</set>
 			<color>WRG</color>
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
@@ -1809,7 +1809,7 @@ When Moltres enters the battlefield, it deals 2 damage to each other Pokémon an
 		</card>
 		<card>
 			<name>Dragonair</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dragonair.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dragonair.png" rarity="rare">PTCG</set>
 			<color>WRG</color>
 			<manacost>2{W/R}{R/G}{G/W}</manacost>
 			<type>Pokémon - Dragon</type>
@@ -1981,7 +1981,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Giovanni</type>
 			<loyalty>5</loyalty>
-			<text>[+1]: Draw a card. You lose 1 life for each card in your hand.
+			<text>[+1]: Draw a card and you lose 1 life.
 [-1]: Each player sacrifices a Pokémon or Trainer.
 [-8]: Each player discards their hand. Put all Pokémon cards from all graveyards onto the battlefield under your control.</text>
 		</card>
@@ -2339,16 +2339,16 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<manacost>1G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Evolve target Pokémon, then it fights target Pokémon.</text>
+			<text>Evolve target Pokémon. If you do, it fights target Pokémon.</text>
 		</card>
 		<card>
-			<name>Devolution Spray</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Devolution%20Spray.png" rarity="common">PTCG</set>
-			<color />
-			<manacost>B</manacost>
-			<type>Sorcery</type>
+			<name>Turn to Stone</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Forced%20Adaptation.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1BB</manacost>
+			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Exile target Pokémon, then return it to battlefield under its owner’s control. That Pokémon can’t activate evolve abilities this turn.</text>
+			<text>Destroy target Pokémon or Trainer.</text>
 		</card>
 		<card>
 			<name>Item Finder</name>
@@ -2506,6 +2506,15 @@ Draw a card.</text>
 			<tablerow>1</tablerow>
 			<text>Pokémon get -3/-0 until end of turn.
 Draw a card.</text>
+		</card>
+		<card>
+			<name>Toxic</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Toxic.png" rarity="rare">PTCG</set>
+			<color>B</color>
+			<manacost>2BB</manacost>
+			<type>Sorcery</type>
+			<tablerow>1</tablerow>
+			<text>All Pokémon get -4/-4 until end of turn.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
@@ -2727,15 +2736,6 @@ Enchanted Pokémon gets +0/+2 and has “{T}: At the beginning of your next upke
 Enchanted Pokémon has "{T}: Flip a coin. If heads, destroy target Pokémon."</text>
 		</card>
 		<card>
-			<name>Splash</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Splash.png" rarity="common">PTCG</set>
-			<color />
-			<manacost>U</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
-			<text>Enchant Pokémon</text>
-		</card>
-		<card>
 			<name>Rock Throw</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Rock%20Throw.png" rarity="common">PTCG</set>
 			<color />
@@ -2844,16 +2844,6 @@ Enchanted Pokémon has "{T}: Return this Pokémon and all TMs attached to it to 
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Enchanted Pokémon has "{T}: Add one mana of any color."</text>
-		</card>
-		<card>
-			<name>Toxic</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Toxic.png" rarity="common">PTCG</set>
-			<color>B</color>
-			<manacost>B</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
-			<text>Enchant Pokémon
-Enchanted Pokémon has infect.</text>
 		</card>
 		<card>
 			<name>Dream Eater</name>
