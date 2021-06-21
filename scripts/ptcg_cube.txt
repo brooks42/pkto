@@ -260,8 +260,8 @@ Swords Dance
 Swords Dance
 Forced Adaptation
 Forced Adaptation
-Devolution Spray
-Devolution Spray
+Turn to Stone
+Turn to Stone
 Item Finder
 Item Finder
 VS Seeker
@@ -295,6 +295,7 @@ Poison Sting
 Glare
 Glare
 Flash
+Toxic
 Thunder Stone
 Thunder Stone
 Leaf Stone
@@ -333,8 +334,6 @@ Fire Blast
 Solar Beam
 Solar Beam
 Guillotine
-Splash
-Splash
 Rock Throw
 Rock Throw
 Conversion
@@ -348,8 +347,6 @@ Sky Attack
 Light Screen
 Teleport
 Growth
-Toxic
-Toxic
 Dream Eater
 Psywave
 Pallet Town
