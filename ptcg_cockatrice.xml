@@ -81,7 +81,7 @@ Whenever Squirtle blocks a Pokémon, that Pokémon doesn't untap during its cont
 		</card>
 		<card>
 			<name>Wartortle</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Wartortle.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Wartortle.png" rarity="uncommon">PTCG</set>
 			<color>WU</color>
 			<manacost>1WU</manacost>
 			<type>Pokémon - Water</type>
@@ -526,7 +526,7 @@ Whenever Clefable becomes tapped, you gain life equal to its toughness.</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{B/R}{B/R}: Evolve from Vulpix
-{1}{B}{R}, Discard a card: Gain control of target Pokémon until end of turn. Untap that Pokémon. It gains haste until end of turn.</text>
+{1}{B}{R}, Discard a card: Gain control of target Pokémon until end of turn. Untap that Pokémon. It gains haste until end of turn. Activate only as a sorcery.</text>
 		</card>
 		<card>
 			<name>Jigglypuff</name>
@@ -1945,7 +1945,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Koga</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Target Pokémon gains infect until end of turn.
+			<text>[+1]: Up to one target Pokémon gains infect until end of turn.
 [-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
 [−6]: You get an emblem with "Pokémon you control have {B}: this Pokémon gains shadow until end of turn."</text>
 		</card>
@@ -2513,7 +2513,7 @@ Draw a card.</text>
 			<color>B</color>
 			<manacost>2BB</manacost>
 			<type>Sorcery</type>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 			<text>All Pokémon get -4/-4 until end of turn.</text>
 		</card>
 		<!-- evolution stones -->
@@ -2570,7 +2570,7 @@ Sacrifice Moonstone: Create a Treasure token.</text>
 		<!-- misc artifacts -->
 		<card>
 			<name>Poké Doll</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9doll.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9%20Doll.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost>2</manacost>
 			<type>Artifact</type>
