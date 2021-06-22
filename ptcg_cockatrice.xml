@@ -81,7 +81,7 @@ Whenever Squirtle blocks a Pokémon, that Pokémon doesn't untap during its cont
 		</card>
 		<card>
 			<name>Wartortle</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Wartortle.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Wartortle.png" rarity="uncommon">PTCG</set>
 			<color>WU</color>
 			<manacost>1WU</manacost>
 			<type>Pokémon - Water</type>
@@ -2570,7 +2570,7 @@ Sacrifice Moonstone: Create a Treasure token.</text>
 		<!-- misc artifacts -->
 		<card>
 			<name>Poké Doll</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9doll.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9%20Doll.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost>2</manacost>
 			<type>Artifact</type>
