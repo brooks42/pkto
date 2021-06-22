@@ -1,0 +1,374 @@
+Bulbasaur
+Bulbasaur
+Ivysaur
+Venusaur
+Squirtle
+Squirtle
+Wartortle
+Wartortle
+Blastoise
+Charmander
+Charmander
+Charmeleon
+Charizard
+Caterpie
+Caterpie
+Metapod
+Butterfree
+Weedle
+Weedle
+Kakuna
+Beedrill
+Pidgey
+Pidgey
+Pidgeotto
+Pidgeot
+Rattata
+Rattata
+Raticate
+Spearow
+Fearow
+Ekans
+Ekans
+Arbok
+Pikachu
+Raichu
+Sandshrew
+Sandslash
+Nidoran♀
+Nidorina
+Nidoqueen
+Nidoran♂
+Nidorino
+Nidoking
+Clefairy
+Clefable
+Vulpix
+Ninetales
+Jigglypuff
+Wigglytuff
+Zubat
+Zubat
+Golbat
+Oddish
+Oddish
+Gloom
+Vileplume
+Paras
+Paras
+Parasect
+Venonat
+Venonat
+Venomoth
+Diglett
+Diglett
+Dugtrio
+Meowth
+Meowth
+Persian
+Psyduck
+Golduck
+Mankey
+Mankey
+Primeape
+Growlithe
+Arcanine
+Poliwag
+Poliwag
+Poliwhirl
+Poliwrath
+Abra
+Abra
+Kadabra
+Alakazam
+Machop
+Machoke
+Machamp
+Bellsprout
+Bellsprout
+Weepinbell
+Victreebel
+Tentacool
+Tentacool
+Tentacruel
+Geodude
+Geodude
+Graveler
+Golem
+Ponyta
+Rapidash
+Slowpoke
+Slowbro
+Magnemite
+Magnemite
+Magneton
+Farfetch'd
+Doduo
+Doduo
+Dodrio
+Seel
+Seel
+Dewgong
+Grimer
+Grimer
+Muk
+Shellder
+Shellder
+Cloyster
+Gastly
+Gastly
+Haunter
+Gengar
+Onix
+Onix
+Drowzee
+Hypno
+Krabby
+Krabby
+Kingler
+Voltorb
+Voltorb
+Electrode
+Exeggcute
+Exeggcute
+Exeggutor
+Cubone
+Marowak
+Hitmonlee
+Hitmonchan
+Lickitung
+Koffing
+Koffing
+Weezing
+Rhyhorn
+Rhyhorn
+Rhydon
+Chansey
+Tangela
+Kangaskhan
+Horsea
+Horsea
+Seadra
+Goldeen
+Goldeen
+Seaking
+Staryu
+Staryu
+Starmie
+Mr. Mime
+Scyther
+Jynx
+Electabuzz
+Magmar
+Pinsir
+Tauros
+Magikarp
+Magikarp
+Gyarados
+Lapras
+Ditto
+Eevee
+Eevee
+Vaporeon
+Jolteon
+Flareon
+Porygon
+Omanyte
+Omastar
+Kabuto
+Kabutops
+Aerodactyl
+Snorlax
+Articuno
+Zapdos
+Moltres
+Dratini
+Dragonair
+Dragonite
+Mewtwo
+Mew
+Red
+Blue
+Green
+Brock
+Misty
+Lt. Surge
+Erika
+Koga
+Sabrina
+Blaine
+Giovanni
+Mr. Fuji
+Professor Oak
+Lorelei
+Bruno
+Agatha
+Lance
+Bill
+Bill
+Poké Ball
+Poké Ball
+Great Ball
+Safari Ball
+Ultra Ball
+Switch
+Switch
+Master Ball
+Stonefinder Radar
+Stonefinder Radar
+Poké Flute
+Old Rod
+Old Rod
+Revive
+Revive
+Max Revive
+Energy Search Mk2
+Energy Search Mk2
+Gambler
+Gambler
+Mysterious Fossil
+Mysterious Fossil
+Explore
+Explore
+Revitalize
+Revitalize
+Rummage
+Rummage
+Show of Force
+Show of Force
+Investigate
+Investigate
+Potion
+Potion
+Super Potion
+Super Potion
+Lemonade
+Lemonade
+Weather Control Device
+Weather Control Device
+PlusPower
+PlusPower
+X-Defense
+X-Defense
+Guard Spec.
+Guard Spec.
+Antidote
+Antidote
+Ice Heal
+Ice Heal
+Swords Dance
+Swords Dance
+Forced Adaptation
+Forced Adaptation
+Turn to Stone
+Turn to Stone
+Item Finder
+Item Finder
+VS Seeker
+VS Seeker
+Body Slam
+Body Slam
+Slash
+Slash
+Mist
+Mist
+Whirlwind
+Whirlwind
+Sing
+Sing
+Smog
+Smog
+String Shot
+String Shot
+Swift
+Swift
+Disable
+Disable
+Fire Spin
+Fire Spin
+Gust
+Gust
+Slam
+Slam
+Poison Sting
+Poison Sting
+Glare
+Glare
+Flash
+Toxic
+Thunder Stone
+Thunder Stone
+Leaf Stone
+Leaf Stone
+Water Stone
+Water Stone
+Fire Stone
+Fire Stone
+Moonstone
+Moonstone
+Poké Doll
+Silph Scope
+Ancient Slab
+Ancient Slab
+Pokémon Storage System
+Pokémon Storage System
+Town Map
+Town Map
+Super Repel
+Super Repel
+Nugget
+Mysterious Feather
+Thunderbolt
+Thunderbolt
+Ice Beam
+Ice Beam
+Hyper Beam
+Focus Energy
+Focus Energy
+Quick Attack
+Quick Attack
+Hydro Pump
+Hydro Pump
+Fire Blast
+Fire Blast
+Solar Beam
+Solar Beam
+Guillotine
+Rock Throw
+Rock Throw
+Conversion
+Barrier
+Barrier
+Counter
+Mega Drain
+Minimize
+Pay Day
+Sky Attack
+Light Screen
+Teleport
+Growth
+Dream Eater
+Psywave
+Pallet Town
+Pewter City
+Cerulean City
+Viridian City
+Saffron City
+Celadon City
+Vermillion City
+Fuchsia City
+Cinnabar Island
+Lavender Town
+Cinnabar Lab
+Safari Zone
+Safari Zone
+Bill's Grassland
+Bill's Grassland
+Bill's Volcano
+Bill's Volcano
+Bill's Rainforest
+Bill's Rainforest
+Bill's Marsh
+Bill's Marsh
+Bill's Coastline
+Bill's Coastline
