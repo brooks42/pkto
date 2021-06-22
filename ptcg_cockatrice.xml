@@ -1349,7 +1349,7 @@ Reach</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{G/W}{G/W}: Evolve from Cubone
-{X}, {T}: Marowak deals X plus 3 damage to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
+{G/W}{2}{X}, {T}: Marowak deals X plus 3 damage to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
 		</card>
 		<card>
 			<name>Hitmonlee</name>
@@ -1456,7 +1456,7 @@ Protection from Fire</text>
 			<type>Pokémon - Normal</type>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{W}: Return target Pokémon you control to its owner's hand. You gain life equal to its toughness.</text>
+			<text>{1}{W}, {T}: Return target Pokémon you control to its owner's hand. You gain life equal to its toughness.</text>
 		</card>
 		<card>
 			<name>Horsea</name>
@@ -1626,9 +1626,9 @@ Whenever this Pokémon evolves, discard your hand, then draw three cards. It dea
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ditto.png" rarity="rare">PTCG</set>
 			<manacost>5</manacost>
 			<type>Pokémon - Normal</type>
-			<pt>0/1</pt>
+			<pt>0/2</pt>
 			<tablerow>2</tablerow>
-			<text>{3}: Ditto becomes a copy of target Pokémon until end of turn, except it has this ability.</text>
+			<text>{3}: Ditto becomes a copy of target Pokémon, except it has this ability.</text>
 		</card>
 		<card>
 			<name>Eevee</name>
@@ -1921,9 +1921,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Surge</type>
 			<loyalty>5</loyalty>
-			<text>[+1]: Target Pokémon gains vigilance and haste until end of turn.
+			<text>[+1]: Up to 1 target Pokémon gains vigilance and haste until end of turn.
 [−3]: Pokémon you control with first strike gain double strike until end of turn, then Pokémon you control gain first strike until end of turn.
-[−6]: Target Pokémon gains indestructible until end of turn. Lt. Surge deals 12 damage to each Pokémon.</text>
+[−6]: Up to 1 target Pokémon gains indestructible until end of turn. Lt. Surge deals 12 damage to each Pokémon.</text>
 		</card>
 		<card>
 			<name>Erika</name>
@@ -2054,7 +2054,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Lance</type>
 			<loyalty>4</loyalty>
 			<text>[+2]: Lance deals 3 damage to target Pokémon. You gain 3 life.
-[0]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying that's still a Trainer. Prevent all damage that would be dealt to him this turn.
+[-2]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying and vigilance that's still a Trainer. Prevent all damage that would be dealt to him this turn.
 [-8]: Gain control of all Pokémon.</text>
 		</card>
 		<!-- sorceries/instants -->
@@ -2328,7 +2328,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Swords%20Dance.png" rarity="common">PTCG</set>
 			<color />
 			<manacost>GG</manacost>
-			<type>Sorcery</type>
+			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Put two +1/+1 counters on target Pokémon.</text>
 		</card>
@@ -2905,7 +2905,8 @@ Cycling {3}</text>
 			<manacost />
 			<type>Legendary Land - City</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {G}. If you control two or more Forests, add {G}{G}{G} instead.</text>
+			<text>{T}: Add {G}. 
+{2}, {T}: Add {G} for each Forest and each Bug Pokémon you control.</text>
 		</card>
 		<card>
 			<name>Saffron City</name>
@@ -3003,7 +3004,7 @@ Cycling {3}</text>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Grassland.
-{1}, Remove any number of storage counters from Bill's Grassland: Add {W} for each storage counter removed this way.</text>
+{T}, Remove any number of storage counters from Bill's Grassland: Add {W} for each storage counter removed this way.</text>
 		</card>
 		<card>
 			<name>Bill's Volcano</name>
@@ -3014,7 +3015,7 @@ Cycling {3}</text>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Volcano.
-{1}, Remove any number of storage counters from Bill's Volcano: Add {R} for each storage counter removed this way.</text>
+{T}, Remove any number of storage counters from Bill's Volcano: Add {R} for each storage counter removed this way.</text>
 		</card>
 		<card>
 			<name>Bill's Rainforest</name>
@@ -3025,7 +3026,7 @@ Cycling {3}</text>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Rainforest.
-{1}, Remove any number of storage counters from Bill's Rainforest: Add {G} for each storage counter removed this way.</text>
+{T}, Remove any number of storage counters from Bill's Rainforest: Add {G} for each storage counter removed this way.</text>
 		</card>
 		<card>
 			<name>Bill's Marsh</name>
@@ -3036,7 +3037,7 @@ Cycling {3}</text>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Marsh.
-{1}, Remove any number of storage counters from Bill's Marsh: Add {B} for each storage counter removed this way.</text>
+{T}, Remove any number of storage counters from Bill's Marsh: Add {B} for each storage counter removed this way.</text>
 		</card>
 		<card>
 			<name>Bill's Coastline</name>
@@ -3047,7 +3048,7 @@ Cycling {3}</text>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Coastline.
-{1}, Remove any number of storage counters from Bill's Coastline: Add {U} for each storage counter removed this way.</text>
+{T}, Remove any number of storage counters from Bill's Coastline: Add {U} for each storage counter removed this way.</text>
 		</card>
 		<card>
 			<name>Plains</name>
