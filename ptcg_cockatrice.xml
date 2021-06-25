@@ -3060,8 +3060,44 @@ Cycling {3}</text>
 			<text>{T}: Add {W}.</text>
 		</card>
 		<card>
+			<name>Plains(a)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Plains(a).png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.</text>
+		</card>
+		<card>
+			<name>Plains(b)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Plains(b).png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.</text>
+		</card>
+		<card>
 			<name>Island</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Island.png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.</text>
+		</card>
+		<card>
+			<name>Island(a)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Island(a).png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.</text>
+		</card>
+		<card>
+			<name>Island(b)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Island(b).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3078,6 +3114,24 @@ Cycling {3}</text>
 			<text>{T}: Add {B}.</text>
 		</card>
 		<card>
+			<name>Swamp(a)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Swamp(a).png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.</text>
+		</card>
+		<card>
+			<name>Swamp(b)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Swamp(b).png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.</text>
+		</card>
+		<card>
 			<name>Mountain</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mountain.png" rarity="common">PTCG</set>
 			<color />
@@ -3087,8 +3141,44 @@ Cycling {3}</text>
 			<text>{T}: Add {R}.</text>
 		</card>
 		<card>
+			<name>Mountain(a)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mountain(a).png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.</text>
+		</card>
+		<card>
+			<name>Mountain(b)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mountain(b).png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.</text>
+		</card>
+		<card>
 			<name>Forest</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Forest.png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.</text>
+		</card>
+		<card>
+			<name>Forest(a)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Forest(a).png" rarity="common">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.</text>
+		</card>
+		<card>
+			<name>Forest(b)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Forest(b).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
 			<type>Land</type>
