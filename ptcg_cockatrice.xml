@@ -2276,7 +2276,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<manacost>2G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Shuffle target land you control into your library. If you do, search your library for 2 basic land cards and put them into play. Then shuffle.</text>
+			<text>Shuffle target land you control into your library. If you do, search your library for up to two basic land cards and put them onto the battlefield. Then shuffle.</text>
 		</card>
 		<card>
 			<name>PlusPower</name>
