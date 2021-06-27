@@ -2429,7 +2429,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<manacost>1WB</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Destroy target nonland permanent.</text>
+			<text>Destroy target permanent.</text>
 		</card>
 		<card>
 			<name>Disable</name>
