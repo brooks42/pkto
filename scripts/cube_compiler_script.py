@@ -54,6 +54,15 @@ def main():
                     if card_name.lower() in basic_lands:
                         continue
 
+                    # also catch forest(a) etc
+                    basic_lands_a = [sub + "(a)" for sub in basic_lands]
+                    if card_name.lower() in basic_lands_a:
+                        continue
+
+                    basic_lands_b = [sub + "(b)" for sub in basic_lands]
+                    if card_name.lower() in basic_lands_b:
+                        continue
+
                     cube_list.append(card_name)
 
                     for rarity_tag in cockatrice_card:

@@ -305,6 +305,8 @@ Rock Throw
 Rock Throw
 Release
 Release
+Vine Whip
+Vine Whip
 Thunder Stone
 Thunder Stone
 Leaf Stone
@@ -366,23 +368,3 @@ Bill's Marsh
 Bill's Marsh
 Bill's Coastline
 Bill's Coastline
-Plains(a)
-Plains(a)
-Plains(b)
-Plains(b)
-Island(a)
-Island(a)
-Island(b)
-Island(b)
-Swamp(a)
-Swamp(a)
-Swamp(b)
-Swamp(b)
-Mountain(a)
-Mountain(a)
-Mountain(b)
-Mountain(b)
-Forest(a)
-Forest(a)
-Forest(b)
-Forest(b)
