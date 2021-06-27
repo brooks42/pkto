@@ -2528,8 +2528,8 @@ Draw a card.</text>
 		<card>
 			<name>Reflect</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Reflect.png" rarity="common">PTCG</set>
-			<color>B</color>
-			<manacost>1B</manacost>
+			<color>U</color>
+			<manacost>1U</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Counter target instant or sorcery spell.</text>
