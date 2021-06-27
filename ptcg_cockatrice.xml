@@ -1562,13 +1562,13 @@ Whenever you draw a card, target player mills a card.</text>
 		</card>
 		<card>
 			<name>Magmar</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Magmar.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Magmar.png" rarity="rare">PTCG</set>
 			<color>R</color>
 			<manacost>4R</manacost>
 			<type>Pokémon - Fire</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{R}: Magmar deals 1 damage to target Pokémon.</text>
+			<text>{1}{R}: Magmar deals 1 damage to target Pokémon or trainer.</text>
 		</card>
 		<card>
 			<name>Pinsir</name>
@@ -1638,7 +1638,7 @@ Whenever this Pokémon evolves, discard your hand, then draw three cards. It dea
 			<type>Pokémon - Normal</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text></text>
+			<text>Evolve abilities of Pokémon you control cost {1} less to activate.</text>
 		</card>
 		<card>
 			<name>Vaporeon</name>
@@ -1654,8 +1654,8 @@ Whenever a Pokémon you control evolves, scry 2 and you gain 3 life.</text>
 		<card>
 			<name>Jolteon</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Jolteon.png" rarity="uncommon">PTCG</set>
-			<color>W</color>
-			<manacost>2WW</manacost>
+			<color>RW</color>
+			<manacost>2RW</manacost>
 			<type>Pokémon - Electric</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
@@ -1704,7 +1704,7 @@ Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you c
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{U}{R}: Evolve from Omanyte
-{1}{U}{U}: Draw five cards, then put three cards from your hand on the bottom of your library in any order.
+{1}{U}{U}, {T}: Draw five cards, then put three cards from your hand on the bottom of your library in any order.
 Fossil {3}{U}{R}</text>
 		</card>
 		<card>
@@ -1722,12 +1722,12 @@ Fossil {3}{U}{G}</text>
 			<name>Kabutops</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kabutops.png" rarity="uncommon">PTCG</set>
 			<color>UG</color>
-			<manacost>2UGGG</manacost>
+			<manacost>1UGGG</manacost>
 			<type>Pokémon - Rock Water</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{U}{G}: Evolve from Kabuto
-{1}{G}{G}: Kabutops fights target Pokémon. If that Pokémon would die this turn, return it to its owner’s hand instead.
+{1}{G}{G}, {T}: Kabutops fights target Pokémon. If that Pokémon would die this turn, return it to its owner’s hand instead.
 Fossil {3}{U}{G}</text>
 		</card>
 		<card>
@@ -1745,7 +1745,7 @@ Fossil {3}{R}{G}</text>
 			<name>Snorlax</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Snorlax.png" rarity="rare">PTCG</set>
 			<color>W</color>
-			<manacost>2WWW</manacost>
+			<manacost>3WW</manacost>
 			<type>Pokémon - Normal</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
@@ -1816,7 +1816,7 @@ When Moltres enters the battlefield, it deals 2 damage to each other Pokémon an
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{W/R}{R/G}: Evolve from Dratini
-{1}{W}{R}{G}: Remove all counters and all damage from Dragonair. You gain life equal to the number of counters removed this way.</text>
+{1}{W}{R}{G}: Remove all counters from Dragonair. You gain life equal to the number of counters removed this way.</text>
 		</card>
 		<card>
 			<name>Dragonite</name>
@@ -1824,10 +1824,10 @@ When Moltres enters the battlefield, it deals 2 damage to each other Pokémon an
 			<color>WRG</color>
 			<manacost>4WWRRGG</manacost>
 			<type>Pokémon - Dragon Flying</type>
-			<pt>8/8</pt>
+			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>{3}{W/R}{R/G}{G/W}: Evolve from Dragonair
-Flying, haste, vigilance, menace, hexproof from trainers</text>
+Flying, haste, vigilance, hexproof from trainers</text>
 		</card>
 		<card>
 			<name>Mewtwo</name>
@@ -2249,7 +2249,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<manacost>1W</manacost>
 			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
-			<text>Remove all damage from target Pokémon.</text>
+			<text>Tap target Pokémon. It gains indestructible until end of turn.</text>
 		</card>
 		<card>
 			<name>Super Potion</name>
@@ -2258,7 +2258,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<manacost>1WW</manacost>
 			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
-			<text>Target Pokémon gains indestructible until end of turn.</text>
+			<text>Put a +1/+1 counter on target Pokémon. It gains indestructible until end of turn.</text>
 		</card>
 		<card>
 			<name>Lemonade</name>
@@ -2270,13 +2270,13 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<text>Untap target Pokémon and remove all damage from it. It gains first strike until end of turn.</text>
 		</card>
 		<card>
-			<name>Weather Control Device</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Weather%20Control%20Device.png" rarity="common">PTCG</set>
-			<color />
-			<manacost>3</manacost>
-			<type>Instant</type>
+			<name>Growth</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Growth.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>2G</manacost>
+			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Shuffle target land you control into your library. If you do, search your library for a basic land card and put it into play. Then shuffle.</text>
+			<text>Shuffle target land you control into your library. If you do, search your library for 2 basic land cards and put them into play. Then shuffle.</text>
 		</card>
 		<card>
 			<name>PlusPower</name>
@@ -2291,7 +2291,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<name>X-Defense</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/X-Defense.png" rarity="common">PTCG</set>
 			<color />
-			<manacost>{W/U}</manacost>
+			<manacost>U</manacost>
 			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
 			<text>Target Pokémon gets +0/+3 until end of turn.</text>
@@ -2300,7 +2300,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<name>Guard Spec.</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Guard%20Spec..png" rarity="common">PTCG</set>
 			<color />
-			<manacost>{U/G}</manacost>
+			<manacost>U</manacost>
 			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
 			<text>Target Pokémon gains hexproof until end of turn.</text>
@@ -2310,7 +2310,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Antidote.png" rarity="common">PTCG</set>
 			<color />
 			<manacost>1W</manacost>
-			<type>Sorcery - Medicine</type>
+			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
 			<text>Remove up to three -1/-1 counters from target Pokémon or up to three poison counters from target player.</text>
 		</card>
@@ -2358,15 +2358,6 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle.</text>
-		</card>
-		<card>
-			<name>VS Seeker</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/VS%20Seeker.png" rarity="common">PTCG</set>
-			<color>UB</color>
-			<manacost>{U/B}</manacost>
-			<type>Sorcery</type>
-			<tablerow>3</tablerow>
-			<text>Each player searches their library for a card, reveals it, shuffles, and puts that card on top.</text>
 		</card>
 		<card>
 			<name>Body Slam</name>
@@ -2433,12 +2424,12 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 		</card>
 		<card>
 			<name>Swift</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Swift.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Swift.png" rarity="rare">PTCG</set>
 			<color>WB</color>
-			<manacost>1{W/B}</manacost>
+			<manacost>1WB</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Damage can't be prevented this turn.</text>
+			<text>Destroy target nonland permanent.</text>
 		</card>
 		<card>
 			<name>Disable</name>
@@ -2494,16 +2485,16 @@ Draw a card.</text>
 			<manacost>1R</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Target Pokémon can't block this turn.
+			<text>Target Pokémon can't attack or block this turn.
 Draw a card.</text>
 		</card>
 		<card>
 			<name>Flash</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Flash.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Flash.png" rarity="common">PTCG</set>
 			<color />
 			<manacost>W</manacost>
 			<type>Instant</type>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 			<text>Pokémon get -3/-0 until end of turn.
 Draw a card.</text>
 		</card>
@@ -2515,6 +2506,81 @@ Draw a card.</text>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>All Pokémon get -4/-4 until end of turn.</text>
+		</card>
+		<card>
+			<name>Teleport</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Teleport.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Return target Pokémon and all TMs attached to it to to their owners' hands.</text>
+		</card>
+		<card>
+			<name>Conversion</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Conversion.png" rarity="uncommon">PTCG</set>
+			<color />
+			<manacost>1W</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Choose a color. Target Pokémon becomes the color of your choice, and gains protection from that color.</text>
+		</card>
+		<card>
+			<name>Reflect</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Reflect.png" rarity="common">PTCG</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Counter target instant or sorcery spell.</text>
+		</card>
+		<card>
+			<name>Fire Blast</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Fire%20Blast.png" rarity="uncommon">PTCG</set>
+			<color>R</color>
+			<manacost>2RR</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Kicker reveal a red Pokémon card from your hand as you cast this spell.
+Fire Blast deals 5 damage to target Pokémon. If Fire Blast was kicked, exile that Pokémon instead.</text>
+		</card>
+		<card>
+			<name>Solar Beam</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Solar%20Beam.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>2GG</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Kicker reveal a green Pokémon card from your hand as you cast this spell.
+Destroy up to three target artifacts or enchantments. If Solar Beam was kicked, destroy all artifacts and all enchantments instead.</text>
+		</card>
+		<card>
+			<name>Hydro Pump</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Hydro%20Pump.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Kicker reveal a blue Pokémon card from your hand as you cast this spell.
+Return all Pokémon to their owners' hands. If Hydro Pump was kicked, shuffle all Pokémon you don't control into their owners' libraries, instead.</text>
+		</card>
+		<card>
+			<name>Rock Throw</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Rock%20Throw.png" rarity="common">PTCG</set>
+			<color>R</color>
+			<manacost>2R</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Rock Throw deals 6 damage to target Flying Pokémon or target Pokémon with flying.</text>
+		</card>
+		<card>
+			<name>Release</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Release.png" rarity="common">PTCG</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Counter target Pokémon spell.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
@@ -2575,7 +2641,7 @@ Sacrifice Moonstone: Create a Treasure token.</text>
 			<manacost>2</manacost>
 			<type>Artifact</type>
 			<tablerow>1</tablerow>
-			<text>Sacrifice Poké Doll: Prevent all combat damage that would be dealt this turn.</text>
+			<text>Sacrifice Poké Doll: Pokémon can't attack you or trainers you control until end of turn.</text>
 		</card>
 		<card>
 			<name>Silph Scope</name>
@@ -2597,7 +2663,7 @@ Sacrifice Moonstone: Create a Treasure token.</text>
 		</card>
 		<card>
 			<name>Pokémon Storage System</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9mon%20Storage%20System.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9mon%20Storage%20System.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost>4</manacost>
 			<type>Artifact</type>
@@ -2651,7 +2717,7 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Enchanted Pokémon gets +2/+0 and has "Whenever this Pokémon deals damage to another Pokémon, that Pokémon doesn't untap during its controller's next untap step."</text>
+Whenever enchanted Pokémon deals combat damage to a Pokémon, Thunderbolt deals three damage to that Pokémon.</text>
 		</card>
 		<card>
 			<name>Ice Beam</name>
@@ -2661,7 +2727,7 @@ Enchanted Pokémon gets +2/+0 and has "Whenever this Pokémon deals damage to an
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Enchanted Pokémon has "{1}{U}: Tap target Pokémon."</text>
+Whenever enchanted Pokémon deals combat damage to a Pokémon, tap that Pokémon and it doesn't untap during its controller's next untap step.</text>
 		</card>
 		<card>
 			<name>Hyper Beam</name>
@@ -2676,7 +2742,7 @@ Enchanted Pokémon has "{T}: Destroy target Pokémon. This Pokémon doesn't unta
 		<card>
 			<name>Focus Energy</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Focus%20Energy.png" rarity="common">PTCG</set>
-			<color>G</color>
+			<color>GR</color>
 			<manacost>{G/R}{G/R}</manacost>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
@@ -2687,73 +2753,23 @@ When enchanted Pokémon has three or more +1/+1 counters on it, sacrifice Focus 
 		<card>
 			<name>Quick Attack</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Quick%20Attack.png" rarity="common">PTCG</set>
-			<color />
+			<color>RW</color>
 			<manacost>{R/W}{R/W}</manacost>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Flash
-Enchanted Pokémon gets +1/+0 and has haste and first strike.</text>
-		</card>
-		<card>
-			<name>Hydro Pump</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Hydro%20Pump.png" rarity="common">PTCG</set>
-			<color />
-			<manacost>2UU</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
-			<text>Enchant Water Pokémon
-Enchanted Pokémon gets +2/+0 and has "{1}{U}, {T}: Return target Pokémon to its owner's hand."</text>
-		</card>
-		<card>
-			<name>Fire Blast</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Fire%20Blast.png" rarity="common">PTCG</set>
-			<color />
-			<manacost>2RR</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
-			<text>Enchant Fire Pokémon
-Enchanted Pokémon has "{T}: This Pokémon deals damage equal to its power to target Pokémon. If that Pokémon dies this turn, exile it."</text>
-		</card>
-		<card>
-			<name>Solar Beam</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Solar%20Beam.png" rarity="common">PTCG</set>
-			<color />
-			<manacost>2GG</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
-			<text>Enchant Grass Pokémon
-Enchanted Pokémon gets +0/+2 and has “{T}: At the beginning of your next upkeep, if you control this Pokémon, it deals damage equal to its toughness to a Pokémon of your choice.”</text>
+Enchanted Pokémon gets +1/+1 and has haste and first strike.</text>
 		</card>
 		<card>
 			<name>Guillotine</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Guillotine.png" rarity="uncommon">PTCG</set>
 			<color />
-			<manacost>3</manacost>
+			<manacost>G</manacost>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Bug Pokémon
 Enchanted Pokémon has "{T}: Flip a coin. If heads, destroy target Pokémon."</text>
-		</card>
-		<card>
-			<name>Rock Throw</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Rock%20Throw.png" rarity="common">PTCG</set>
-			<color />
-			<manacost>2R</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
-			<text>Enchant Rock or Ground Pokémon
-Enchanted Pokémon has "{T}: This Pokémon deals 4 damage to target flying Pokémon or target Pokémon with flying."</text>
-		</card>
-		<card>
-			<name>Conversion</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Conversion.png" rarity="uncommon">PTCG</set>
-			<color />
-			<manacost>2</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
-			<text>Enchant Pokémon
-Enchanted Pokémon has "{2}: This Pokémon becomes the types and colors of your choice until end of turn."</text>
 		</card>
 		<card>
 			<name>Barrier</name>
@@ -2782,18 +2798,8 @@ Whenever enchanted Pokémon is dealt damage by another Pokémon, it deals twice 
 			<manacost>G</manacost>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
-			<text>Enchant Grass or Bug Pokémon
-Whenever enchanted Pokémon deals combat damage, you gain that much life.</text>
-		</card>
-		<card>
-			<name>Minimize</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Minimize.png" rarity="uncommon">PTCG</set>
-			<color>UB</color>
-			<manacost>2{U/B}</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-If enchanted Pokémon would be dealt combat damage, prevent 2 of that damage.</text>
+Whenever enchanted Pokémon deals combat damage, you gain that much life.</text>
 		</card>
 		<card>
 			<name>Pay Day</name>
@@ -2809,41 +2815,11 @@ Whenever enchanted Pokémon deals combat damage, create a Treasure token.</text>
 			<name>Sky Attack</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Sky%20Attack.png" rarity="uncommon">PTCG</set>
 			<color>W</color>
-			<manacost>1WW</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
-			<text>Enchant Flying Pokémon
-Enchanted Pokémon has flying and gets +2/+0.</text>
-		</card>
-		<card>
-			<name>Light Screen</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Light%20Screen.png" rarity="uncommon">PTCG</set>
-			<color>UB</color>
-			<manacost>1{U/B}</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
-			<text>Enchant Psychic Pokémon
-Enchanted Pokémon has "{T}: Target Pokémon gains hexproof until end of turn."</text>
-		</card>
-		<card>
-			<name>Teleport</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Teleport.png" rarity="uncommon">PTCG</set>
-			<color>UB</color>
-			<manacost>1{U/B}</manacost>
+			<manacost>W</manacost>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Enchanted Pokémon has "{T}: Return this Pokémon and all TMs attached to it to their owners' hand."</text>
-		</card>
-		<card>
-			<name>Growth</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Growth.png" rarity="uncommon">PTCG</set>
-			<color>G</color>
-			<manacost>G</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
-			<text>Enchant Pokémon
-Enchanted Pokémon has "{T}: Add one mana of any color."</text>
+Enchanted Pokémon has flying.</text>
 		</card>
 		<card>
 			<name>Dream Eater</name>
@@ -2854,16 +2830,6 @@ Enchanted Pokémon has "{T}: Add one mana of any color."</text>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Whenever enchanted Pokémon deals combat damage to a player, that player discards a card and you draw a card.</text>
-		</card>
-		<card>
-			<name>Psywave</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Psywave.png" rarity="uncommon">PTCG</set>
-			<color>B</color>
-			<manacost>B</manacost>
-			<type>Enchantment - TM</type>
-			<tablerow>1</tablerow>
-			<text>Enchant Pokémon
-Whenever enchanted Pokémon attacks or blocks, reveal the top card of your library. Enchanted Pokémon's base power becomes the mana value of the revealed card until end of turn.</text>
 		</card>
 		<!-- Locations -->
 		<card>

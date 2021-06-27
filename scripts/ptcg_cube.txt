@@ -5,7 +5,6 @@ Venusaur
 Squirtle
 Squirtle
 Wartortle
-Wartortle
 Blastoise
 Charmander
 Charmander
@@ -244,8 +243,8 @@ Super Potion
 Super Potion
 Lemonade
 Lemonade
-Weather Control Device
-Weather Control Device
+Growth
+Growth
 PlusPower
 PlusPower
 X-Defense
@@ -264,8 +263,6 @@ Turn to Stone
 Turn to Stone
 Item Finder
 Item Finder
-VS Seeker
-VS Seeker
 Body Slam
 Body Slam
 Slash
@@ -280,7 +277,6 @@ Smog
 Smog
 String Shot
 String Shot
-Swift
 Swift
 Disable
 Disable
@@ -295,7 +291,20 @@ Poison Sting
 Glare
 Glare
 Flash
+Flash
 Toxic
+Teleport
+Teleport
+Conversion
+Reflect
+Reflect
+Fire Blast
+Solar Beam
+Hydro Pump
+Rock Throw
+Rock Throw
+Release
+Release
 Thunder Stone
 Thunder Stone
 Leaf Stone
@@ -310,7 +319,6 @@ Poké Doll
 Silph Scope
 Ancient Slab
 Ancient Slab
-Pokémon Storage System
 Pokémon Storage System
 Town Map
 Town Map
@@ -327,28 +335,14 @@ Focus Energy
 Focus Energy
 Quick Attack
 Quick Attack
-Hydro Pump
-Hydro Pump
-Fire Blast
-Fire Blast
-Solar Beam
-Solar Beam
 Guillotine
-Rock Throw
-Rock Throw
-Conversion
 Barrier
 Barrier
 Counter
 Mega Drain
-Minimize
 Pay Day
 Sky Attack
-Light Screen
-Teleport
-Growth
 Dream Eater
-Psywave
 Pallet Town
 Pewter City
 Cerulean City
@@ -372,3 +366,23 @@ Bill's Marsh
 Bill's Marsh
 Bill's Coastline
 Bill's Coastline
+Plains(a)
+Plains(a)
+Plains(b)
+Plains(b)
+Island(a)
+Island(a)
+Island(b)
+Island(b)
+Swamp(a)
+Swamp(a)
+Swamp(b)
+Swamp(b)
+Mountain(a)
+Mountain(a)
+Mountain(b)
+Mountain(b)
+Forest(a)
+Forest(a)
+Forest(b)
+Forest(b)
