@@ -2582,6 +2582,15 @@ Return all Pokémon to their owners' hands. If Hydro Pump was kicked, shuffle al
 			<tablerow>3</tablerow>
 			<text>Counter target Pokémon spell.</text>
 		</card>
+		<card>
+			<name>Vine Whip</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Vine%20Whip.png" rarity="common">PTCG</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Destroy target artifact or enchantment.</text>
+		</card>
 		<!-- evolution stones -->
 		<card>
 			<name>Thunder Stone</name>
