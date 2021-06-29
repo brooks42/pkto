@@ -395,7 +395,7 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 		</card>
 		<card>
 			<name>Nidoran♀</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/NidoranF.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/NidoranF.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>2B</manacost>
 			<type>Pokémon - Poison</type>
@@ -441,7 +441,7 @@ If another Pokémon you control with no counters on it would be put into a grave
 		</card>
 		<card>
 			<name>Nidoran♂</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/NidoranM.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/NidoranM.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>2B</manacost>
 			<type>Pokémon - Poison</type>
@@ -1993,7 +1993,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Fuji</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Target Pokémon gets +0/+4 until end of turn.
+			<text>[+1]: Target Pokémon gains lifelink until end of turn.
 [-3]: Exile target Pokémon with power greater than its toughness.
 [-7]: You get an emblem with "Whenever a Pokémon you control dies, return it to your hand at the beginning of your end step."</text>
 		</card>
@@ -2147,7 +2147,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Water Pokémon card and put it into your hand. Then shuffle.</text>
+			<text>Search your library for a Pokémon card with evolve and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Revive</name>
@@ -2177,15 +2177,6 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<text>Search your library for a basic land card and put it on the battlefield tapped. Then shuffle.</text>
 		</card>
 		<card>
-			<name>Gambler</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Gambler.png" rarity="common">PTCG</set>
-			<color>R</color>
-			<manacost>2R</manacost>
-			<type>Sorcery</type>
-			<tablerow>3</tablerow>
-			<text>Shuffle your hand into your library, then draw that many cards.</text>
-		</card>
-		<card>
 			<name>Mysterious Fossil</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mysterious%20Fossil.png" rarity="common">PTCG</set>
 			<color>URG</color>
@@ -2202,7 +2193,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>You may play an additional land this turn.
-				Draw a card.</text>
+Draw a card.</text>
 		</card>
 		<card>
 			<name>Revitalize</name>
@@ -2212,16 +2203,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>You gain 3 life.
-				Draw a card.</text>
-		</card>
-		<card>
-			<name>Rummage</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Rummage.png" rarity="common">PTCG</set>
-			<color>R</color>
-			<manacost>1R</manacost>
-			<type>Instant</type>
-			<tablerow>3</tablerow>
-			<text>Exile the top two cards of your library. You may play those cards until end of turn.</text>
+Draw a card.</text>
 		</card>
 		<card>
 			<name>Show of Force</name>
@@ -2231,7 +2213,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Show of Force deals 1 damage to each Pokémon without flying.
-				Draw a card.</text>
+Draw a card.</text>
 		</card>
 		<card>
 			<name>Investigate</name>
@@ -2299,7 +2281,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 		<card>
 			<name>Guard Spec.</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Guard%20Spec..png" rarity="common">PTCG</set>
-			<color />
+			<color>U</color>
 			<manacost>U</manacost>
 			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
@@ -2543,7 +2525,7 @@ Draw a card.</text>
 			<tablerow>3</tablerow>
 			<text>Fire Blast deals 5 damage to target Pokémon.
 			Overload—Reveal a red Pokémon card from your hand.
-</text>
+			</text>
 		</card>
 		<card>
 			<name>Solar Beam</name>
@@ -2554,7 +2536,7 @@ Draw a card.</text>
 			<tablerow>3</tablerow>
 			<text>Target Pokémon you control gets +3/+3 until end of turn.
 			Overload—Reveal a green Pokémon card from your hand.
-</text>
+			</text>
 		</card>
 		<card>
 			<name>Hydro Pump</name>
@@ -2565,7 +2547,7 @@ Draw a card.</text>
 			<tablerow>3</tablerow>
 			<text>Put target creature on top of its owner’s library.
 Overload—Reveal a blue Pokémon card from your hand.
-</text>
+			</text>
 		</card>
 		<card>
 			<name>Rock Throw</name>
