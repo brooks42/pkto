@@ -395,7 +395,7 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 		</card>
 		<card>
 			<name>Nidoran♀</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/NidoranF.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/NidoranF.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>2B</manacost>
 			<type>Pokémon - Poison</type>
@@ -441,7 +441,7 @@ If another Pokémon you control with no counters on it would be put into a grave
 		</card>
 		<card>
 			<name>Nidoran♂</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/NidoranM.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/NidoranM.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>2B</manacost>
 			<type>Pokémon - Poison</type>
