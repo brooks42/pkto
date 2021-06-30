@@ -691,7 +691,7 @@ Whenever this Pokémon evolves, it gets +2/+0 and gains intimidate and trample u
 			<type>Pokémon - Normal</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Meowth deals combat damage to a player, create a Treaasure token. If it has first strike, draw a card.</text>
+			<text>Whenever Meowth deals combat damage to a player, create a Treasure token. If it has first strike, draw a card.</text>
 		</card>
 		<card>
 			<name>Persian</name>
@@ -1682,7 +1682,7 @@ Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you c
 			<pt>3/6</pt>
 			<tablerow>2</tablerow>
 			<text>{1}: Porygon becomes the color or colors of your choice until end of turn.
-{W}{U}{B}: Porygon deals 6 damage to target Pokémon.</text>
+{W}{U}{B}, {T}: Porygon deals 3 damage to target Pokémon.</text>
 		</card>
 		<card>
 			<name>Omanyte</name>
@@ -1983,7 +1983,7 @@ Pokémoncycling {3}</text>
 			<loyalty>5</loyalty>
 			<text>[+1]: Draw a card and you lose 1 life.
 [-1]: Each player sacrifices a Pokémon or Trainer.
-[-8]: Each player discards their hand. Put all Pokémon cards from all graveyards onto the battlefield under your control.</text>
+[-5]: Search target opponent's library for a Pokémon card and put that card onto the battlefield under your control. Then that player shuffles.</text>
 		</card>
 		<card>
 			<name>Mr. Fuji</name>
