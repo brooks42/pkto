@@ -869,9 +869,10 @@ If you would scry, scry that many cards plus one instead.</text>
 			<color>RG</color>
 			<manacost>{R/G}{R/G}</manacost>
 			<type>Pokémon - Fighting</type>
-			<pt>3/3</pt>
+			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{R/G}{R/G}: Evolve to Machoke</text>
+			<text>{R/G}{R/G}: Evolve to Machoke
+Whenever this Pokémon evolves, put a +1/+1 counter on it.</text>
 			<side>front</side>
 			<related attach="attach">Machoke (DFC)</related>
 		</card>
@@ -880,9 +881,9 @@ If you would scry, scry that many cards plus one instead.</text>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/MachokeDFC.png" rarity="common">PTCG</set>
 			<color>RG</color>
 			<type>Pokémon - Fighting</type>
-			<pt>4/4</pt>
+			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text></text>
+			<text>Whenever this Pokémon evolves, put a +1/+1 counter on it.</text>
 			<side>back</side>
 			<related attach="attach">Machop</related>
 		</card>
@@ -895,7 +896,7 @@ If you would scry, scry that many cards plus one instead.</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>{R/G}{R/G}: Evolve from Machop
-At the beginning of your upkeep, if Machoke doesn't have the greatest power or toughness among Pokémon on the battlefield, put a +1/+1 counter on Machoke.</text>
+At the beginning of your upkeep, if Machoke doesn’t have the highest combined power and toughness among Pokemon on the battlefield, put a +1/+1 counter it.</text>
 		</card>
 		<card>
 			<name>Machamp</name>
@@ -1792,7 +1793,8 @@ When Moltres enters the battlefield, it deals 2 damage to each other Pokémon an
 			<type>Pokémon - Dragon</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{W}{R}{G}: Evolve to Dragonair</text>
+			<text>{W}{R}{G}: Evolve to Dragonair
+Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text>
 			<side>front</side>
 			<related attach="attach">Dragonair (DFC)</related>
 		</card>
@@ -1803,7 +1805,7 @@ When Moltres enters the battlefield, it deals 2 damage to each other Pokémon an
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text></text>
+			<text>Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text>
 			<side>back</side>
 			<related attach="attach">Dratini</related>
 		</card>
@@ -1837,8 +1839,8 @@ Flying, haste, vigilance, hexproof from trainers</text>
 			<type>Legendary Pokémon - Psychic</type>
 			<pt>7/4</pt>
 			<tablerow>2</tablerow>
-			<text>Flying, first strike, intimidate
-{T}: Destroy target Pokémon or Trainer.</text>
+			<text>Flying
+Annihilator 1</text>
 		</card>
 		<card>
 			<name>Mew</name>
@@ -2101,8 +2103,7 @@ Pokémoncycling {3}</text>
 			<manacost>3W</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Pokémon card with toughness 2 or less, reveal it, and put it into your hand. 
-Return a Pokémon with power 3 or less from your graveyard to the battlefield.</text>
+			<text>Search your library for a Pokémon card with toughness greater than its power, reveal it, and put it into your hand. You gain life equal to the difference between the power and toughness of the revealed card.</text>
 		</card>
 		<card>
 			<name>Switch</name>
@@ -2120,7 +2121,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<manacost>4B</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Pokémon card and put it into your hand or graveyard. If you put a card into your graveyard this way, put another target Pokémon card from a graveyard onto the battlefield under your control with an additonal +1/+1 counter on it.</text>
+			<text>Search your library for up to three Pokemon cards, reveal them, and put them into your hand. You lose life equal to the highest mana value among cards revealed this way.</text>
 		</card>
 		<card>
 			<name>Poké Flute</name>
@@ -2138,7 +2139,7 @@ Return a Pokémon with power 3 or less from your graveyard to the battlefield.</
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Pokémon card with evolve and put it into your hand. Then shuffle.</text>
+			<text>Search your library for a Pokémon card with an evolve activated ability and put it into your hand. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Revive</name>
@@ -2393,7 +2394,7 @@ Draw a card.</text>
 			<manacost>1WB</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Destroy target permanent.</text>
+			<text>Destroy target nonland permanent.</text>
 		</card>
 		<card>
 			<name>Disable</name>
