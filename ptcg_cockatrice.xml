@@ -46,7 +46,7 @@ Reach, deathtouch</text>
 		<card>
 			<name>Venusaur</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Venusaur.png" rarity="rare">PTCG</set>
-			<color>G</color>
+			<color>BG</color>
 			<manacost>2BGG</manacost>
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/4</pt>
@@ -139,7 +139,7 @@ Menace</text>
 		<card>
 			<name>Charizard</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Charizard.png" rarity="rare">PTCG</set>
-			<color>R</color>
+			<color>WR</color>
 			<manacost>2WRR</manacost>
 			<type>Pokémon - Fire Flying</type>
 			<pt>5/3</pt>
@@ -520,7 +520,7 @@ Whenever Clefable becomes tapped, you gain life equal to its toughness.</text>
 		<card>
 			<name>Ninetales</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ninetales.png" rarity="rare">PTCG</set>
-			<color>R</color>
+			<color>BR</color>
 			<manacost>3{B/R}{B/R}</manacost>
 			<type>Pokémon - Fire</type>
 			<pt>3/3</pt>
@@ -949,7 +949,7 @@ Reach</text>
 		<card>
 			<name>Victreebel</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Victreebel.png" rarity="rare">PTCG</set>
-			<color>G</color>
+			<color>GB</color>
 			<manacost>4{G/B}GB</manacost>
 			<type>Pokémon - Grass Poison</type>
 			<pt>5/5</pt>
@@ -1061,7 +1061,7 @@ First strike, haste</text>
 		<card>
 			<name>Slowbro</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Slowbro.png" rarity="rare">PTCG</set>
-			<color>U</color>
+			<color>UB</color>
 			<manacost>2UUB</manacost>
 			<type>Pokémon - Water Psychic</type>
 			<pt>3/4</pt>
@@ -1181,7 +1181,7 @@ Whenever a Pokémon dies, if it had any -1/-1 counters on it, put those counters
 		<card>
 			<name>Cloyster</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cloyster.png" rarity="uncommon">PTCG</set>
-			<color>U</color>
+			<color>UR</color>
 			<manacost>2UR</manacost>
 			<type>Pokémon - Water Ice</type>
 			<pt>2/4</pt>
@@ -1269,7 +1269,7 @@ Tapped Pokémon get -1/-1.</text>
 		<card>
 			<name>Krabby</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Krabby.png" rarity="common">PTCG</set>
-			<color>U</color>
+			<color>UR</color>
 			<manacost>1UR</manacost>
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
@@ -1279,7 +1279,7 @@ Tapped Pokémon get -1/-1.</text>
 		<card>
 			<name>Kingler</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kingler.png" rarity="uncommon">PTCG</set>
-			<color>U</color>
+			<color>UR</color>
 			<manacost>3UR</manacost>
 			<type>Pokémon - Water</type>
 			<pt>5/3</pt>
@@ -1625,6 +1625,7 @@ Whenever this Pokémon evolves, discard your hand, then draw three cards. It dea
 		<card>
 			<name>Ditto</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ditto.png" rarity="rare">PTCG</set>
+			<color />
 			<manacost>5</manacost>
 			<type>Pokémon - Normal</type>
 			<pt>0/2</pt>
