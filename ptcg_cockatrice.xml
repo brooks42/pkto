@@ -2811,114 +2811,99 @@ Whenever enchanted Pokémon deals combat damage to a player, that player discard
 		</card>
 		<!-- Locations -->
 		<card>
-			<name>Pallet Town</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pallet%20Town.png" rarity="uncommon">PTCG</set>
+			<name>Bill's Grassland</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bills%20Grassland.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost />
-			<type>Legendary Land - City</type>
+			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {W}.
-{T}: Add one mana of any color. Spend this mana only to cast Pokémon spells with mana value 2 or less.</text>
+			<text>{T}: Add {C}.
+{T}: Put a storage counter on Bill's Grassland.
+{T}, Remove any number of storage counters from Bill's Grassland: Add {W} for each storage counter removed this way.</text>
 		</card>
 		<card>
-			<name>Pewter City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pewter%20City.png" rarity="uncommon">PTCG</set>
+			<name>Bill's Volcano</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bills%20Volcano.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost />
-			<type>Legendary Land - City</type>
+			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Pewter City enters the battlefield tapped.
-{T}: Add {R}, {G}, or {W}.
-Cycling {3}</text>
-			<cipt>1</cipt>
+			<text>{T}: Add {C}.
+{T}: Put a storage counter on Bill's Volcano.
+{T}, Remove any number of storage counters from Bill's Volcano: Add {R} for each storage counter removed this way.</text>
 		</card>
 		<card>
-			<name>Cerulean City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cerulean%20City.png" rarity="uncommon">PTCG</set>
+			<name>Bill's Rainforest</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bills%20Rainforest.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost />
-			<type>Legendary Land - City</type>
+			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {U}.
-{T}: Return target Water Pokémon you control to its owner's hand.</text>
+			<text>{T}: Add {C}.
+{T}: Put a storage counter on Bill's Rainforest.
+{T}, Remove any number of storage counters from Bill's Rainforest: Add {G} for each storage counter removed this way.</text>
 		</card>
 		<card>
-			<name>Viridian City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Viridian%20City.png" rarity="uncommon">PTCG</set>
+			<name>Bill's Marsh</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bills%20Marsh.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost />
-			<type>Legendary Land - City</type>
+			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {G}. 
-{2}, {T}: Add {G} for each Forest and each Bug Pokémon you control.</text>
+			<text>{T}: Add {C}.
+{T}: Put a storage counter on Bill's Marsh.
+{T}, Remove any number of storage counters from Bill's Marsh: Add {B} for each storage counter removed this way.</text>
 		</card>
 		<card>
-			<name>Saffron City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Saffron%20City.png" rarity="uncommon">PTCG</set>
+			<name>Bill's Coastline</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bills%20Coastline.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost />
-			<type>Legendary Land - City</type>
+			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Saffron City enters the battlefield tapped.
-{T}: Add {U}, {B}, or {R}.
-Cycling {3}</text>
-			<cipt>1</cipt>
+			<text>{T}: Add {C}.
+{T}: Put a storage counter on Bill's Coastline.
+{T}, Remove any number of storage counters from Bill's Coastline: Add {U} for each storage counter removed this way.</text>
 		</card>
 		<card>
 			<name>Celadon City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Celadon%20City.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Celadon%20City.png" rarity="rare">PTCG</set>
 			<color />
 			<manacost />
-			<type>Legendary Land - City</type>
+			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Celadon City enters the battlefield tapped.
-{T}: Add {G}, {W}, or {U}.
-Cycling {3}</text>
-			<cipt>1</cipt>
+			<text>Celadon City enters the battlefield tapped unless you pay 2 life.
+{T}: Add {G} or {W}.</text>
 		</card>
 		<card>
-			<name>Vermillion City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Vermillion%20City.png" rarity="uncommon">PTCG</set>
+			<name>Cerulean Cave</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cerulean%20Cave.png" rarity="rare">PTCG</set>
 			<color />
 			<manacost />
-			<type>Legendary Land - City</type>
+			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Vermillion City enters the battlefield tapped.
-{T}: Add {U}, {R}, or {W}.
-Cycling {3}</text>
-			<cipt>1</cipt>
+			<text>Cerulean Cave enters the battlefield tapped unless you pay 2 life.
+{T}: Add {U} or {B}.</text>
 		</card>
 		<card>
-			<name>Fuchsia City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Fuchsia%20City.png" rarity="uncommon">PTCG</set>
+			<name>Cerulean City</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cerulean%20City.png" rarity="rare">PTCG</set>
 			<color />
 			<manacost />
-			<type>Legendary Land - City</type>
+			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {B}.
-{4}{B}, {T}: Fuchsia City deals 2 damage to target player and you gain 2 life.</text>
+			<text>Cerulean City enters the battlefield tapped unless you pay 2 life.
+{T}: Add {W} or {U}.</text>
 		</card>
 		<card>
 			<name>Cinnabar Island</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cinnabar%20Island.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cinnabar%20Island.png" rarity="rare">PTCG</set>
 			<color />
 			<manacost />
-			<type>Legendary Land - City</type>
+			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {R}.
-{T}, Sacrifice Cinnabar Island: Destroy target land.</text>
-		</card>
-		<card>
-			<name>Lavender Town</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Lavender%20Town.png" rarity="uncommon">PTCG</set>
-			<color />
-			<manacost />
-			<type>Legendary Land</type>
-			<tablerow>0</tablerow>
-			<text>Lavender Town enters the battlefield tapped.
-{T}: Add {W}, {U}, or {B}.
-Cycling {3}</text>
-			<cipt>1</cipt>
+			<text>Cinnabar Island enters the battlefield tapped unless you pay 2 life.
+{T}: Add {U} or {R}.</text>
 		</card>
 		<card>
 			<name>Cinnabar Lab</name>
@@ -2927,8 +2912,143 @@ Cycling {3}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {1}
-{T}: Add {3}. Spend this mana only to activate fossil abilities.</text>
+			<text>Cinnabar Lab enters the battlefield tapped unless you pay 2 life.
+{T}: Add {G} or {U}.</text>
+		</card>
+		<card>
+			<name>Cycling Road</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cycling%20Road.png" rarity="rare">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Cycling Road enters the battlefield tapped.
+{T}: Add {R}, {W}, or {B}.
+Cycling {3}</text>
+		</card>
+		<card>
+			<name>Diglett’s Cave</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Diglett%27s%20Cave.png" rarity="uncommon">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.
+{2}{R}, {T}, Sacrifice Diglett’s Cave: Destroy target nonbasic land.</text>
+		</card>
+		<card>
+			<name>Fuchsia City</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Fuchsia%20City.png" rarity="rare">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Fuchsia City enters the battlefield tapped unless you pay 2 life.
+{T}: Add {B} or {G}.</text>
+		</card>
+		<card>
+			<name>Game Corner</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Game%20Corner.png" rarity="rare">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Game Corner enters the battlefield tapped unless you pay 2 life.
+{T}: Add {B} or {R}.</text>
+		</card>
+		<card>
+			<name>Indigo Plateau</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Indigo%20Plateau.png" rarity="rare">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Indigo Plateau enters the battlefield tapped.
+{T}: Add {U}, {B}, or {R}.
+Cycling {3}</text>
+		</card>
+		<card>
+			<name>Lavender Town</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Lavender%20Town.png" rarity="rare">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Lavender Town enters the battlefield tapped.
+{T}: Add {W}, {U}, or {B}.
+Cycling {3}</text>
+		</card>
+		<card>
+			<name>Mt. Moon</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mt.%20Moon.png" rarity="rare">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Mt. Moon enters the battlefield tapped unless you pay 2 life.
+{T}: Add {W} or {B}.</text>
+		</card>
+		<card>
+			<name>Pallet Town</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pallet%20Town.png" rarity="uncommon">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.
+{T}: Add one mana of any color. Spend this mana only to cast Pokémon spells.</text>
+		</card>
+		<card>
+			<name>Pewter City</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pewter%20City.png" rarity="rare">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Pewter City enters the battlefield tapped unless you pay 2 life.
+{T}: Add {G} or {R}.</text>
+		</card>
+		<card>
+			<name>Pewter Museum</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pewter%20Museum.png" rarity="rare">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Pewter Museum enters the battlefield tapped.
+{T}: Add {G}, {U}, or {R}.
+Cycling {3}</text>
+		</card>
+		<card>
+			<name>Pokémon Mansion</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pok%C3%A9mon%20Mansion.png" rarity="uncommon">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.
+{4}{B}, {T}: Target player loses 2 life and you gain 2 life.</text>
+		</card>
+		<card>
+			<name>Power Plant</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Power%20Plant.png" rarity="rare">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Power Plant enters the battlefield tapped unless you pay 2 life.
+{T}: Add {R} or {W}.</text>
+		</card>
+		<card>
+			<name>Rock Tunnel</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Rock%20Tunnel.png" rarity="rare">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Rock Tunnel enters the battlefield tapped.
+{T}: Add {B}, {R}, or {G}.
+Cycling {3}</text>
 		</card>
 		<card>
 			<name>Safari Zone</name>
@@ -2940,60 +3060,81 @@ Cycling {3}</text>
 			<text>{T}, Sacrifice Safari Zone: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
 		</card>
 		<card>
-			<name>Bill's Grassland</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bills%20Grassland.png" rarity="common">PTCG</set>
+			<name>Saffron City</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Saffron%20City.png" rarity="rare">PTCG</set>
 			<color />
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {C}.
-{T}: Put a storage counter on Bill's Grassland.
-{T}, Remove any number of storage counters from Bill's Grassland: Add {W} for each storage counter removed this way.</text>
+			<text>Saffron City enters the battlefield tapped.
+{T}: Add {B}, {G}, or {U}.
+Cycling {3}</text>
 		</card>
 		<card>
-			<name>Bill's Volcano</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bills%20Volcano.png" rarity="common">PTCG</set>
+			<name>Seafoam Islands</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Seafoam%20Islands.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {C}.
-{T}: Put a storage counter on Bill's Volcano.
-{T}, Remove any number of storage counters from Bill's Volcano: Add {R} for each storage counter removed this way.</text>
+			<text>{T}: Add {U}.
+{T}: Return target Water Pokémon to its owner's hand.</text>
 		</card>
 		<card>
-			<name>Bill's Rainforest</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bills%20Rainforest.png" rarity="common">PTCG</set>
+			<name>Silph Co.</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Silph%20Co.png" rarity="rare">PTCG</set>
 			<color />
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {C}.
-{T}: Put a storage counter on Bill's Rainforest.
-{T}, Remove any number of storage counters from Bill's Rainforest: Add {G} for each storage counter removed this way.</text>
+			<text>Silph Co. enters the battlefield tapped.
+{T}: Add {G}, {W}, or {U}.
+Cycling {3}</text>
 		</card>
 		<card>
-			<name>Bill's Marsh</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bills%20Marsh.png" rarity="common">PTCG</set>
+			<name>Vermillion City</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Vermillion%20City.png" rarity="rare">PTCG</set>
 			<color />
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {C}.
-{T}: Put a storage counter on Bill's Marsh.
-{T}, Remove any number of storage counters from Bill's Marsh: Add {B} for each storage counter removed this way.</text>
+			<text>Vermillion City enters the battlefield tapped.
+{T}: Add {U}, {R}, or {W}.
+Cycling {3}</text>
 		</card>
 		<card>
-			<name>Bill's Coastline</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bills%20Coastline.png" rarity="common">PTCG</set>
+			<name>Victory Road</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Victory%20Road.png" rarity="rare">PTCG</set>
 			<color />
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {C}.
-{T}: Put a storage counter on Bill's Coastline.
-{T}, Remove any number of storage counters from Bill's Coastline: Add {U} for each storage counter removed this way.</text>
+			<text>Victory Road enters the battlefield tapped.
+{T}: Add {R}, {G}, or {W}.
+Cycling {3}</text>
 		</card>
+		<card>
+			<name>Viridian City</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Viridian%20City.png" rarity="rare">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Viridian City enters the battlefield tapped.
+{T}: Add {W}, {B}, or {G}.
+Cycling {3}</text>
+		</card>
+		<card>
+			<name>Viridian Forest</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Viridian%20Forest.png" rarity="uncommon">PTCG</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.
+{2}, {T}: Add {G} for each Forest and each Bug Pokémon you control.</text>
+		</card>
+		<!-- Basics -->
 		<card>
 			<name>Plains</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Plains.png" rarity="common">PTCG</set>
@@ -3004,7 +3145,7 @@ Cycling {3}</text>
 			<text>{T}: Add {W}.</text>
 		</card>
 		<card>
-			<name>Plains(a)</name>
+			<name>Plains (a)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Plains(a).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
@@ -3013,7 +3154,7 @@ Cycling {3}</text>
 			<text>{T}: Add {W}.</text>
 		</card>
 		<card>
-			<name>Plains(b)</name>
+			<name>Plains (b)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Plains(b).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
@@ -3031,7 +3172,7 @@ Cycling {3}</text>
 			<text>{T}: Add {U}.</text>
 		</card>
 		<card>
-			<name>Island(a)</name>
+			<name>Island (a)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Island(a).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
@@ -3040,7 +3181,7 @@ Cycling {3}</text>
 			<text>{T}: Add {U}.</text>
 		</card>
 		<card>
-			<name>Island(b)</name>
+			<name>Island (b)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Island(b).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
@@ -3058,7 +3199,7 @@ Cycling {3}</text>
 			<text>{T}: Add {B}.</text>
 		</card>
 		<card>
-			<name>Swamp(a)</name>
+			<name>Swamp (a)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Swamp(a).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
@@ -3067,7 +3208,7 @@ Cycling {3}</text>
 			<text>{T}: Add {B}.</text>
 		</card>
 		<card>
-			<name>Swamp(b)</name>
+			<name>Swamp (b)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Swamp(b).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
@@ -3085,7 +3226,7 @@ Cycling {3}</text>
 			<text>{T}: Add {R}.</text>
 		</card>
 		<card>
-			<name>Mountain(a)</name>
+			<name>Mountain (a)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mountain(a).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
@@ -3094,7 +3235,7 @@ Cycling {3}</text>
 			<text>{T}: Add {R}.</text>
 		</card>
 		<card>
-			<name>Mountain(b)</name>
+			<name>Mountain (b)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mountain(b).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
@@ -3112,7 +3253,7 @@ Cycling {3}</text>
 			<text>{T}: Add {G}.</text>
 		</card>
 		<card>
-			<name>Forest(a)</name>
+			<name>Forest (a)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Forest(a).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
@@ -3121,7 +3262,7 @@ Cycling {3}</text>
 			<text>{T}: Add {G}.</text>
 		</card>
 		<card>
-			<name>Forest(b)</name>
+			<name>Forest (b)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Forest(b).png" rarity="common">PTCG</set>
 			<color />
 			<manacost />
