@@ -3131,7 +3131,7 @@ Cycling {3}</text>
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {G}.
-[2], {T}: Add {G} for each Forest and each Bug Pokémon you control.</text>
+{2}, {T}: Add {G} for each Forest and each Bug Pokémon you control.</text>
 		</card>
 		<!-- Basics -->
 		<card>
