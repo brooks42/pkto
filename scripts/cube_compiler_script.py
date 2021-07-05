@@ -55,11 +55,11 @@ def main():
                         continue
 
                     # also catch forest(a) etc
-                    basic_lands_a = [sub + "(a)" for sub in basic_lands]
+                    basic_lands_a = [sub + " (a)" for sub in basic_lands]
                     if card_name.lower() in basic_lands_a:
                         continue
 
-                    basic_lands_b = [sub + "(b)" for sub in basic_lands]
+                    basic_lands_b = [sub + " (b)" for sub in basic_lands]
                     if card_name.lower() in basic_lands_b:
                         continue
 

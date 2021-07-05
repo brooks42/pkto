@@ -35,8 +35,10 @@ Raichu
 Sandshrew
 Sandslash
 Nidoran♀
+Nidoran♀
 Nidorina
 Nidoqueen
+Nidoran♂
 Nidoran♂
 Nidorino
 Nidoking
@@ -213,8 +215,6 @@ Ultra Ball
 Switch
 Switch
 Master Ball
-Stonefinder Radar
-Stonefinder Radar
 Poké Flute
 Old Rod
 Old Rod
@@ -223,24 +223,18 @@ Revive
 Max Revive
 Energy Search Mk2
 Energy Search Mk2
-Gambler
-Gambler
 Mysterious Fossil
 Mysterious Fossil
 Explore
 Explore
 Revitalize
 Revitalize
-Rummage
-Rummage
 Show of Force
 Show of Force
 Investigate
 Investigate
 Potion
 Potion
-Super Potion
-Super Potion
 Lemonade
 Lemonade
 Growth
@@ -261,8 +255,8 @@ Forced Adaptation
 Forced Adaptation
 Turn to Stone
 Turn to Stone
-Item Finder
-Item Finder
+Itemfinder
+Itemfinder
 Body Slam
 Body Slam
 Slash
@@ -325,7 +319,6 @@ Pokémon Storage System
 Town Map
 Town Map
 Super Repel
-Super Repel
 Nugget
 Mysterious Feather
 Thunderbolt
@@ -345,26 +338,35 @@ Mega Drain
 Pay Day
 Sky Attack
 Dream Eater
+Bill's Grassland
+Bill's Volcano
+Bill's Rainforest
+Bill's Marsh
+Bill's Coastline
+Celadon City
+Cerulean Cave
+Cerulean City
+Cinnabar Island
+Cinnabar Lab
+Cycling Road
+Diglett’s Cave
+Fuchsia City
+Game Corner
+Indigo Plateau
+Lavender Town
+Mt. Moon
 Pallet Town
 Pewter City
-Cerulean City
-Viridian City
+Pewter Museum
+Pokémon Mansion
+Power Plant
+Rock Tunnel
+Safari Zone
+Safari Zone
 Saffron City
-Celadon City
+Seafoam Islands
+Silph Co.
 Vermillion City
-Fuchsia City
-Cinnabar Island
-Lavender Town
-Cinnabar Lab
-Safari Zone
-Safari Zone
-Bill's Grassland
-Bill's Grassland
-Bill's Volcano
-Bill's Volcano
-Bill's Rainforest
-Bill's Rainforest
-Bill's Marsh
-Bill's Marsh
-Bill's Coastline
-Bill's Coastline
+Victory Road
+Viridian City
+Viridian Forest
