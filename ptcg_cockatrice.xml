@@ -1325,8 +1325,8 @@ Whenever Electrode enters the battlefield or takes damage, you may sacrifice it.
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {1}{G}{G}{B}
-Whenever Exeggutor blocks a Pokémon with flying, it deals 3 damage to that Pokémon and you draw a card.
-Reach</text>
+Reach
+Whenever Exeggutor blocks a Pokémon with flying, it deals 3 damage to that Pokémon and you draw a card.</text>
 		</card>
 		<card>
 			<name>Cubone</name>
@@ -1411,8 +1411,8 @@ At the beginning of your end step, destroy each Pokémon with mana value equal t
 			<type>Pokémon - Ground Rock</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{R}: Rhyhorn gets +1/+0 until end of turn.
-Trample</text>
+			<text>Trample
+{1}{R}: Rhyhorn gets +1/+0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Rhydon</name>
@@ -1423,8 +1423,8 @@ Trample</text>
 			<pt>7/7</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {3}{R/G}{R/G}
-{R}: Each Pokémon you control gets +1/+0 until end of turn.
-Protection from Fire</text>
+Protection from Fire
+{R}: Each Pokémon you control gets +1/+0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Chansey</name>
