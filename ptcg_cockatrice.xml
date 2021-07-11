@@ -2849,7 +2849,7 @@ Whenever enchanted Pokémon deals combat damage to a player, that player discard
 			<manacost>2{R/G}{R/G}</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Pokémon you control enter the battlefield with your choice of an additional +1/+1 counter or +2/+2 until end of turn.</text>
+			<text>Pokémon you control enter the battlefield with your choice of an additional +1/+1 counter on them or +2/+2 until end of turn.</text>
 		</card>
 		<card>
 			<name>Cerulean City Gym</name>
@@ -2867,7 +2867,7 @@ Whenever enchanted Pokémon deals combat damage to a player, that player discard
 			<manacost>1{R/W}{R/W}</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Pokémon you control enter the battlefield with your choice of a first strike counter or a haste counter.</text>
+			<text>Pokémon you control enter the battlefield with your choice of a first strike counter or a haste counter on them.</text>
 		</card>
 		<card>
 			<name>Celadon City Gym</name>
@@ -2876,8 +2876,8 @@ Whenever enchanted Pokémon deals combat damage to a player, that player discard
 			<manacost>3{B/G}{B/G}</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>If -1/-1 counters would be put on a Pokémon, put twice that many -1/-1 counters instead.
-When a Pokémon dies, if it had any -1/-1 counters on it, exile it instead of you gain 3 life.</text>
+			<text>If -1/-1 counters would be put on a Pokémon, put twice that many -1/-1 counters on it instead.
+Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it instead and you gain 3 life.</text>
 		</card>
 		<card>
 			<name>Saffron City Gym</name>
@@ -2895,7 +2895,7 @@ When a Pokémon dies, if it had any -1/-1 counters on it, exile it instead of yo
 			<manacost>2BB</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Whenever a player loses life for the first time in a turn, that player discards a card.</text>
+			<text>Whenever a player loses life for the first time each turn, that player discards a card.</text>
 		</card>
 		<card>
 			<name>Cinnabar City Gym</name>
@@ -2904,7 +2904,7 @@ When a Pokémon dies, if it had any -1/-1 counters on it, exile it instead of yo
 			<manacost>1RR</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Players can cast sorceries as though they had flash.</text>
+			<text>Players may cast sorcery spells as though they had flash.</text>
 		</card>
 		<card>
 			<name>Viridian City Gym</name>
@@ -2913,7 +2913,7 @@ When a Pokémon dies, if it had any -1/-1 counters on it, exile it instead of yo
 			<manacost>1GG</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>At the beginning of each player's upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.</text>
+			<text>At the beginning of each player's upkeep, that player chooses a color. Until end of turn, all lands gain {T}: Add one mana of the chosen color.</text>
 		</card>
 		<card>
 			<name>S.S. Anne</name>
@@ -2922,7 +2922,7 @@ When a Pokémon dies, if it had any -1/-1 counters on it, exile it instead of yo
 			<manacost>1{W/U}{W/U}</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>Whenever Pokémon fight eachother, they each gain indestructible and lifelink until end of turn.</text>
+			<text>Whenever a Pokémon fights, it gains indestructible and lifelink until end of turn.</text>
 		</card>
 		<card>
 			<name>Pokémon Tower</name>
