@@ -1994,13 +1994,13 @@ Pokémoncycling {3}</text>
 		<card>
 			<name>Professor Oak</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Professor%20Oak.png" rarity="mythic">PTCG</set>
-			<color />
-			<manacost>7</manacost>
+			<color >W</color>
+			<manacost>3WW</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Oak</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Target player draws a card.
-[-3]: Exile target Pokémon. Its controller gains 3 life.
+			<text>[+1]: Until end of turn, Pokémon enter the battlefield with your choice of a lifelink counter or a double strike counter.
+[-3]: Exile target Pokémon with power greater than its toughness.
 [-7]: You get an emblem with "Pokémon you control have indestructible."</text>
 		</card>
 		<card>
@@ -2552,6 +2552,69 @@ Overload—Reveal a blue Pokémon card from your hand.
 			<text>This spell can't be countered.
 Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text>
 		</card>
+		<card>
+			<name>Softboiled</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Softboiled.png" rarity="uncommon">PTCG</set>
+			<color>W</color>
+			<manacost>3WW</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>You gain 7 life. Shuffle Softboiled into its owner’s library and draw a card.</text>
+		</card>
+		<card>
+			<name>Pilfer</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pilfer.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>3BB</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Exile target Pokémon. If you do, create a treasure token.</text>
+		</card>
+		<card>
+			<name>Mimic</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mimic.png" rarity="uncommon">PTCG</set>
+			<color>R</color>
+			<manacost>2R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Copy target non-Pokémon spell. You can choose new targets for the copy.</text>
+		</card>
+		<card>
+			<name>Double-edge</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Double-edge.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>3G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Put a +1/+1 counter on target Pokémon. If you do, it fights another target Pokémon.</text>
+		</card>
+		<card>
+			<name>Prepare for Trouble</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Prepare%20for%20Trouble.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>BB</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Target player draws two cards and loses 2 life.</text>
+		</card>
+		<card>
+			<name>Razor Leaf</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Razor%20Leaf.png" rarity="uncommon">PTCG</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Razor Leaf deals X damage to each flying Pokémon and each Pokémon with flying, where X is the number of +1/+1 counters on all Pokémon.</text>
+		</card>
+		<card>
+			<name>Water Gun</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Water%20Gun.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Return target spell to its owner's hand.</text>
+		</card>
 		<!-- evolution stones -->
 		<card>
 			<name>Thunder Stone</name>
@@ -2792,6 +2855,99 @@ Enchanted Pokémon has flying.</text>
 Whenever enchanted Pokémon deals combat damage to a player, that player discards a card and you draw a card.</text>
 		</card>
 		<!-- Locations -->
+		<card>
+			<name>Pewter City Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pewter%20City%20Gym.png" rarity="rare">PTCG</set>
+			<color>RG</color>
+			<manacost>2{R/G}{R/G}</manacost>
+			<type>Enchantment - Gym</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon you control enter the battlefield with your choice of an additional +1/+1 counter or +2/+2 until end of turn.</text>
+		</card>
+		<card>
+			<name>Cerulean City Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cerulean%20City%20Gym.png" rarity="rare">PTCG</set>
+			<color>U</color>
+			<manacost>UU</manacost>
+			<type>Enchantment - Gym</type>
+			<tablerow>1</tablerow>
+			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card.</text>
+		</card>
+		<card>
+			<name>Vermillion City Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Vermillion%20City%20Gym.png" rarity="rare">PTCG</set>
+			<color>RW</color>
+			<manacost>1{R/W}{R/W}</manacost>
+			<type>Enchantment - Gym</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon you control enter the battlefield with your choice of a first strike counter or a haste counter.</text>
+		</card>
+		<card>
+			<name>Celadon City Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Celadon%20City%20Gym.png" rarity="rare">PTCG</set>
+			<color>BG</color>
+			<manacost>3{B/G}{B/G}</manacost>
+			<type>Enchantment - Gym</type>
+			<tablerow>1</tablerow>
+			<text>If -1/-1 counters would be put on a Pokémon, put twice that many -1/-1 counters instead.
+When a Pokémon dies, if it had any -1/-1 counters on it, exile it instead of you gain 3 life.</text>
+		</card>
+		<card>
+			<name>Saffron City Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Saffron%20City%20Gym.png" rarity="rare">PTCG</set>
+			<color>UB</color>
+			<manacost>1{U/B}{U/B}</manacost>
+			<type>Enchantment - Gym</type>
+			<tablerow>1</tablerow>
+			<text>Whenever you put cards on the top or bottom of your library, look at the top card of target opponent's library.</text>
+		</card>
+		<card>
+			<name>Fuschia City Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Fuschia%20City%20Gym.png" rarity="rare">PTCG</set>
+			<color>B</color>
+			<manacost>2BB</manacost>
+			<type>Enchantment - Gym</type>
+			<tablerow>1</tablerow>
+			<text>Whenever a player loses life for the first time in a turn, that player discards a card.</text>
+		</card>
+		<card>
+			<name>Cinnabar City Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cinnabar%20City%20Gym.png" rarity="rare">PTCG</set>
+			<color>R</color>
+			<manacost>1RR</manacost>
+			<type>Enchantment - Gym</type>
+			<tablerow>1</tablerow>
+			<text>Players can cast sorceries as though they had flash.</text>
+		</card>
+		<card>
+			<name>Viridian City Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Viridian%20City%20Gym.png" rarity="rare">PTCG</set>
+			<color>G</color>
+			<manacost>1GG</manacost>
+			<type>Enchantment - Gym</type>
+			<tablerow>1</tablerow>
+			<text>At the beginning of each player's upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.</text>
+		</card>
+		<card>
+			<name>S.S. Anne</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/S.S.%20Anne.png" rarity="rare">PTCG</set>
+			<color>WU</color>
+			<manacost>1{W/U}{W/U}</manacost>
+			<type>Enchantment</type>
+			<tablerow>1</tablerow>
+			<text>Whenever Pokémon fight eachother, they each gain indestructible and lifelink until end of turn.</text>
+		</card>
+		<card>
+			<name>Pokémon Tower</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/S.S.%20Anne.png" rarity="rare">PTCG</set>
+			<color>W</color>
+			<manacost>2WW</manacost>
+			<type>Enchantment</type>
+			<tablerow>1</tablerow>
+			<text>If you would draw a card, reveal the top card of your library instead. If it's a Pokémon card, put it on the bottom of your library. Otherwise, draw a card.
+Whenever a Pokémon is put into your graveyard from the battlefield, return it to your hand.</text>
+		</card>
+		<!-- lands -->
 		<card>
 			<name>Bill's Grassland</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Bills%20Grassland.png" rarity="uncommon">PTCG</set>
