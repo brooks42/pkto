@@ -2335,15 +2335,6 @@ Draw a card.</text>
 			<text>Slash deals 4 damage to target Pokémon.</text>
 		</card>
 		<card>
-			<name>Mist</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mist.png" rarity="common">PTCG</set>
-			<color>U</color>
-			<manacost>U</manacost>
-			<type>Instant</type>
-			<tablerow>3</tablerow>
-			<text>Prevent all combat damage that would be dealt this turn.</text>
-		</card>
-		<card>
 			<name>Whirlwind</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Whirlwind.png" rarity="common">PTCG</set>
 			<color>WU</color>
@@ -2463,15 +2454,6 @@ Draw a card.</text>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>All Pokémon get -4/-4 until end of turn.</text>
-		</card>
-		<card>
-			<name>Teleport</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Teleport.png" rarity="common">PTCG</set>
-			<color>U</color>
-			<manacost>1U</manacost>
-			<type>Instant</type>
-			<tablerow>3</tablerow>
-			<text>Return target Pokémon and all TMs attached to it to to their owners' hands.</text>
 		</card>
 		<card>
 			<name>Reflect</name>
@@ -2614,6 +2596,15 @@ Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Return target spell to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Petal Dance</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Petal%20Dance.png" rarity="rare">PTCG</set>
+			<color>G</color>
+			<manacost>5GG</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Untap all lands you control. Until end of turn, whenever you tap a land for mana, add two extra mana of any color that land could produce.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
