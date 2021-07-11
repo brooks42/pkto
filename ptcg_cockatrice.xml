@@ -351,7 +351,7 @@ Flying</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {B}
-Whenever a +1/+1 counter is put on a Pokémon, put that many -1/-1 counters on it instead.</text>
+Whenever a +1/+1 counter would be put on a Pokémon, that many -1/-1 counters are put on it instead.</text>
 		</card>
 		<card>
 			<name>Pikachu</name>
@@ -485,7 +485,7 @@ Whenever this Pokémon evolves, if you control no other Pokémon, add {B}{B}{B} 
 			<pt>8/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {B}{B}{B}
-{B}, Sacrifice a Pokémon: Nidoking gains indestructible and +2/+2 until end of turn.</text>
+{B}, Sacrifice a Pokémon: Nidoking gains indestructible and gets +2/+2 until end of turn.</text>
 		</card>
 		<card>
 			<name>Clefairy</name>
@@ -605,7 +605,7 @@ Lifelink</text>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {B/G}
-{2}{B}, {T}: Distribute two -1/-1 counters among one or two target creatures.</text>
+{2}{B}, {T}: Distribute two -1/-1 counters among one or two target Pokémon.</text>
 		</card>
 		<card>
 			<name>Vileplume</name>
@@ -616,8 +616,7 @@ Lifelink</text>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {B/G}
-{T}, Exile a card from a graveyard: Distribute two +1/+1 counters among one or two target creatures.
-{T}, Discard a card: Add mana equal to the mana cost of the discarded card.</text>
+{1}{G/B}{G/B}{G/B}, {T}, Exile a card from a graveyard: Distribute two +1/+1 counters among one or two target creatures.</text>
 		</card>
 		<card>
 			<name>Paras</name>
@@ -767,7 +766,7 @@ Whenever Growlithe deals damage to a Pokémon, if that Pokémon would die this t
 			<pt>7/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {1}{R/W}{R/W}
-Arcanine enters the battlefield with your choice of a menace counter, a haste counter or an intimidate counter.
+Arcanine enters the battlefield with your choice of a menace counter, a haste counter, or an intimidate counter on it.
 If Arcanine would deal damage to a Pokémon, it deals double that damage to that Pokémon instead.</text>
 		</card>
 		<card>
@@ -979,7 +978,7 @@ Reach</text>
 			<tablerow>2</tablerow>
 			<text>Evolve {1}{U}{B}			
 All lands are Islands and Swamps in addition to their other types.
-Whenever you put a card or cards on top of your library, you can draw a card. If you do, put a card from your hand on the bottom of your library.</text>
+Whenever you put one or more cards on top of your library, you may draw a card. If you do, put a card from your hand on the bottom of your library.</text>
 		</card>
 		<card>
 			<name>Geodude</name>
@@ -1165,8 +1164,7 @@ Whenever you gain life for the first time each turn, Dewgong gains indestructibl
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {3}{B}{B}
-Whenever one or more counters are put on a Pokémon, its controller loses 1 life and you gain 1 life.
-Whenever a Pokémon dies, if it had any -1/-1 counters on it, put those counters on another target Pokémon.</text>
+Whenever a Pokémon dies, if it had any -1/-1 counters on it, put those counters on another target Pokémon. Its controller loses 1 life and you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Shellder</name>
@@ -1187,7 +1185,7 @@ Whenever a Pokémon dies, if it had any -1/-1 counters on it, put those counters
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {U}{R}
-{U/R}{U/R}: Cloyster deals 1 damage to each of up to three target Pokémon or trainers.</text>
+{U/R}{U/R}: Cloyster deals 1 damage to each of up to three target Pokémon and/or trainers.</text>
 		</card>
 		<card>
 			<name>Gastly</name>
@@ -1307,7 +1305,7 @@ Haste</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {1}{R/W}
-Whenever Electrode enters the battlefield or takes damage, you can sacrifice it. If you do, it deals damage equal to its power to each Pokémon.</text>
+Whenever Electrode enters the battlefield or takes damage, you may sacrifice it. If you do, it deals damage equal to its power to each Pokémon.</text>
 		</card>
 		<card>
 			<name>Exeggcute</name>
@@ -1350,7 +1348,7 @@ Reach</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {1}{G/W}{G/W}
-{2}{G/W}{X}, {T}: Marowak deals X plus 3 damage to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
+{X}{2}{G/W}, {T}: Marowak deals X plus 3 damage to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
 		</card>
 		<card>
 			<name>Hitmonlee</name>
@@ -1402,8 +1400,8 @@ Prevent all noncombat damage that would be dealt to Hitmonchan.</text>
 			<type>Pokémon - Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{B}{B}
-At the beginning of your upkeep, put a +1/+1 counter on Weezing.
+			<text>Evolve {X}{B}{B}
+When you cast Weezing for its evolve cost, distribute X -1/-1 counters on up to X target Pokémon.
 At the beginning of your end step, destroy each Pokémon with mana value equal to the number of +1/+1 counters on Weezing.</text>
 		</card>
 		<card>
@@ -1437,8 +1435,7 @@ Protection from Fire</text>
 			<type>Pokémon - Normal</type>
 			<pt>1/12</pt>
 			<tablerow>2</tablerow>
-			<text>At the start of your upkeep, if you have 40 or more life, you win the game.
-{T}: Gain 3 life.</text>
+			<text>At the beginning of your upkeep, if you have 40 or more life, you win the game.</text>
 		</card>
 		<card>
 			<name>Tangela</name>
@@ -1501,7 +1498,7 @@ Whenever you draw a card, target player mills a card.</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {1}{U}{U}
-You can cast Seaking for its Evolve cost as though it had flash. If you do, you can counter target spell.</text>
+You may cast Seaking for its Evolve cost as though it had flash. If you do, you may counter target spell.</text>
 		</card>
 		<card>
 			<name>Staryu</name>
@@ -1623,7 +1620,7 @@ Whenever this Pokémon evolves, discard your hand, then draw three cards. It dea
 			<type>Pokémon - Water Ice</type>
 			<pt>3/6</pt>
 			<tablerow>2</tablerow>
-			<text>Sacrifice Lapras: Each other player sacrifices a Pokémon.</text>
+			<text>Sacrifice Lapras: Each opponent sacrifices a Pokémon.</text>
 		</card>
 		<card>
 			<name>Ditto</name>
@@ -1880,7 +1877,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Blue</type>
 			<loyalty>4</loyalty>
 			<text>[+2]: Up to one target Pokémon gets +2/-2 until end of turn.
-[-2]: Evolve up to one target Pokémon.
+[-2]: Search your library for a Pokémon card. You may cast that card for its evolve cost without paying its mana cost. Then shuffle.
 [−7]: Pokémon you control get +3/+3 and gain lifelink, indestructible, haste, vigilance, and hexproof until end of turn.</text>
 		</card>
 		<card>
@@ -1891,7 +1888,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Green</type>
 			<loyalty>5</loyalty>
-			<text>[+1]: Remove any number of counters from target Pokémon and put those same counters onto another target Pokémon.
+			<text>[+1]: Move all counters from up to one target Pokémon onto up to one other target Pokémon.
 [-2]: Return an artifact card from your graveyard to your hand.
 [−5]: Until end of turn, you can cast Pokémon for their Evolve cost without paying their mana costs.</text>
 		</card>
@@ -1904,7 +1901,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Brock</type>
 			<loyalty>2</loyalty>
 			<text>[+1]: Target Pokémon gets +2/+2 until end of turn.
-[−2]: Until end of turn, Pokémon you control enter the battlefield with an additional +1/+1 counter.
+[−2]: Until end of turn, Pokémon you control enter the battlefield with an additional +1/+1 counter on them.
 [−4]: You get an emblem with "Whenever a Pokémon you control evolves, put two +1/+1 counters on it."</text>
 		</card>
 		<card>
@@ -1915,9 +1912,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Misty</type>
 			<loyalty>4</loyalty>
-			<text>Whenever you counter a spell, you can draw a card.
-[-1]: Tap or untap up to 1 target Pokémon.
-[−1]: Draw 2 cards, then put a card from your hand on the bottom of your library.</text>
+			<text>Whenever you counter a spell, you may draw a card.
+[-1]: Tap or untap up to one target Pokémon.
+[−1]: Draw two cards, then put a card from your hand on the bottom of your library.</text>
 		</card>
 		<card>
 			<name>Lt. Surge</name>
@@ -1940,7 +1937,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Erika</type>
 			<loyalty>1</loyalty>
 			<text>[+1]: Add {G}, {U}, or {W}.
-[-2]: Create two 1/1 green and black Grass Poison tokens named Oddish. Those tokens have lifelink.
+[-2]: Create two 1/1 green and black Grass Poison tokens with lifelink named Oddish.
 [−X]: Pokémon you control get +X/+X until end of turn.</text>
 		</card>
 		<card>
@@ -1999,7 +1996,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Oak</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Until end of turn, Pokémon enter the battlefield with your choice of a lifelink counter or a double strike counter.
+			<text>[+1]: Until end of turn, Pokémon enter the battlefield with your choice of a lifelink counter or a double strike counter on them.
 [-3]: Exile target Pokémon with power greater than its toughness.
 [-7]: You get an emblem with "Pokémon you control have indestructible."</text>
 		</card>
@@ -2550,7 +2547,7 @@ Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text
 			<manacost>3BB</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Exile target Pokémon. If you do, create a treasure token.</text>
+			<text>Exile target Pokémon. If you do, create a Treasure token.</text>
 		</card>
 		<card>
 			<name>Mimic</name>
@@ -2559,10 +2556,10 @@ Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text
 			<manacost>2R</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Copy target non-Pokémon spell. You can choose new targets for the copy.</text>
+			<text>Copy target non-Pokémon spell. You may choose new targets for the copy.</text>
 		</card>
 		<card>
-			<name>Double-edge</name>
+			<name>Double-Edge</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Double-edge.png" rarity="uncommon">PTCG</set>
 			<color>G</color>
 			<manacost>3G</manacost>
@@ -2604,7 +2601,7 @@ Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text
 			<manacost>5GG</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Untap all lands you control. Until end of turn, whenever you tap a land for mana, add two extra mana of any color that land could produce.</text>
+			<text>Untap all lands you control. Until end of turn, whenever you tap a land for mana, add two additional mana of any color that land could produce.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
