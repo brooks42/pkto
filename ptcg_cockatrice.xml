@@ -616,7 +616,7 @@ Lifelink</text>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {B/G}
-{1}{G/B}{G/B}{G/B}, {T}, Exile a card from a graveyard: Distribute two +1/+1 counters among one or two target creatures.</text>
+{1}{G/B}{G/B}{G/B}, {T}, Exile a card from a graveyard: Distribute two +1/+1 counters among one or two target Pokémon.</text>
 		</card>
 		<card>
 			<name>Paras</name>
@@ -1445,7 +1445,7 @@ Protection from Fire
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Reach
-{G}, {T}: Tap target creature. Put a +1/+1 counter on Tangela.</text>
+{G}, {T}: Tap target Pokémon. Put a +1/+1 counter on Tangela.</text>
 		</card>
 		<card>
 			<name>Kangaskhan</name>
@@ -2489,7 +2489,7 @@ Overload—Reveal a green Pokémon card from your hand.
 			<manacost>2UU</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Put target creature on top of its owner’s library.
+			<text>Put target Pokémon on top of its owner’s library.
 Overload—Reveal a blue Pokémon card from your hand.
 			</text>
 		</card>
