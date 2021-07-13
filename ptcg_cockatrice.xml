@@ -1864,7 +1864,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Red</type>
 			<loyalty>4</loyalty>
 			<text>[+1]: Reveal the top five cards of your library. Put a Pokémon card revealed this way into your hand and the rest on the bottom of your library in any order.
-[−3]: Create Red's Pikachu, a legendary 5/5 white and red electric Pokémon with lifelink, haste, and first strike.
+[−3]: Create Red's Pikachu, a legendary 5/5 white and red Electric Pokémon with first strike, lifelink, and haste.
 [−7]: You may put any number of Pokémon cards from your hand onto the battlefield.</text>
 		</card>
 		<card>
@@ -1877,7 +1877,7 @@ Pokémoncycling {3}</text>
 			<loyalty>4</loyalty>
 			<text>[+2]: Up to one target Pokémon gets +2/-2 until end of turn.
 [-2]: Search your library for a Pokémon card. You may cast that card for its evolve cost without paying its mana cost. Then shuffle.
-[−7]: Pokémon you control get +3/+3 and gain lifelink, indestructible, haste, vigilance, and hexproof until end of turn.</text>
+[−7]: Pokémon you control get +3/+3 and gain haste, hexproof, indestructible, lifelink, and vigilance until end of turn.</text>
 		</card>
 		<card>
 			<name>Green</name>
@@ -2602,6 +2602,15 @@ Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text
 			<tablerow>3</tablerow>
 			<text>Untap all lands you control. Until end of turn, whenever you tap a land for mana, add two additional mana of any color that land could produce.</text>
 		</card>
+		<card>
+			<name>Dig</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dig.png" rarity="uncommon">PTCG</set>
+			<color>R</color>
+			<manacost>3R</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Create two 2/1 red Ground Pokémon tokens named Diglett.</text>
+		</card>
 		<!-- evolution stones -->
 		<card>
 			<name>Thunder Stone</name>
@@ -2843,17 +2852,17 @@ Whenever enchanted Pokémon deals combat damage to a player, that player discard
 		</card>
 		<!-- Locations -->
 		<card>
-			<name>Pewter City Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pewter%20City%20Gym.png" rarity="rare">PTCG</set>
+			<name>Pewter Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pewter%20Gym.png" rarity="rare">PTCG</set>
 			<color>RG</color>
-			<manacost>2{R/G}{R/G}</manacost>
+			<manacost>RG</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Pokémon you control enter the battlefield with your choice of an additional +1/+1 counter on them or +2/+2 until end of turn.</text>
+			<text>Pokémon you control enter the battlefield with an additional +1/+1 counter on them.</text>
 		</card>
 		<card>
-			<name>Cerulean City Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cerulean%20City%20Gym.png" rarity="rare">PTCG</set>
+			<name>Cerulean Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cerulean%20Gym.png" rarity="rare">PTCG</set>
 			<color>U</color>
 			<manacost>UU</manacost>
 			<type>Enchantment - Gym</type>
@@ -2861,45 +2870,45 @@ Whenever enchanted Pokémon deals combat damage to a player, that player discard
 			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card.</text>
 		</card>
 		<card>
-			<name>Vermillion City Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Vermillion%20City%20Gym.png" rarity="rare">PTCG</set>
+			<name>Vermillion Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Vermillion%20Gym.png" rarity="rare">PTCG</set>
 			<color>RW</color>
-			<manacost>1{R/W}{R/W}</manacost>
+			<manacost>1RW</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon you control enter the battlefield with your choice of a first strike counter or a haste counter on them.</text>
 		</card>
 		<card>
-			<name>Celadon City Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Celadon%20City%20Gym.png" rarity="rare">PTCG</set>
-			<color>BG</color>
-			<manacost>3{B/G}{B/G}</manacost>
+			<name>Celadon Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Celadon%20Gym.png" rarity="rare">PTCG</set>
+			<color>G</color>
+			<manacost>1GG</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>If -1/-1 counters would be put on a Pokémon, put twice that many -1/-1 counters on it instead.
+			<text>At the beginning of each player’s upkeep, that player chooses a color. Until end of turn, all lands gain “{T}: Add one mana of the chosen color.”</text>
+		</card>
+		<card>
+			<name>Saffron Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Saffron%20Gym.png" rarity="rare">PTCG</set>
+			<color>UB</color>
+			<manacost>1UB</manacost>
+			<type>Enchantment - Gym</type>
+			<tablerow>1</tablerow>
+			<text>Whenever you scry, look at the top card of target opponent’s library. You may pay 2 life. If you do, put that card on the bottom of their library.</text>
+		</card>
+		<card>
+			<name>Fuschia Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Fuschia%20Gym.png" rarity="rare">PTCG</set>
+			<color>GB</color>
+			<manacost>3GB</manacost>
+			<type>Enchantment - Gym</type>
+			<tablerow>1</tablerow>
+			<text>If an effect would put one or more -1/-1 counters on a Pokémon, it puts twice that many -1/-1 counters on that Pokémon instead.
 Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it instead and you gain 3 life.</text>
 		</card>
 		<card>
-			<name>Saffron City Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Saffron%20City%20Gym.png" rarity="rare">PTCG</set>
-			<color>UB</color>
-			<manacost>1{U/B}{U/B}</manacost>
-			<type>Enchantment - Gym</type>
-			<tablerow>1</tablerow>
-			<text>Whenever you put cards on the top or bottom of your library, look at the top card of target opponent's library.</text>
-		</card>
-		<card>
-			<name>Fuschia City Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Fuschia%20City%20Gym.png" rarity="rare">PTCG</set>
-			<color>B</color>
-			<manacost>2BB</manacost>
-			<type>Enchantment - Gym</type>
-			<tablerow>1</tablerow>
-			<text>Whenever a player loses life for the first time each turn, that player discards a card.</text>
-		</card>
-		<card>
-			<name>Cinnabar City Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cinnabar%20City%20Gym.png" rarity="rare">PTCG</set>
+			<name>Cinnabar Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cinnabar%20Gym.png" rarity="rare">PTCG</set>
 			<color>R</color>
 			<manacost>1RR</manacost>
 			<type>Enchantment - Gym</type>
@@ -2907,26 +2916,26 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<text>Players may cast sorcery spells as though they had flash.</text>
 		</card>
 		<card>
-			<name>Viridian City Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Viridian%20City%20Gym.png" rarity="rare">PTCG</set>
-			<color>G</color>
-			<manacost>1GG</manacost>
+			<name>Viridian Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Viridian%20Gym.png" rarity="rare">PTCG</set>
+			<color>B</color>
+			<manacost>1BB</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>At the beginning of each player's upkeep, that player chooses a color. Until end of turn, all lands gain {T}: Add one mana of the chosen color.</text>
+			<text>Whenever a player loses life for the first time each turn, that player discards a card.</text>
 		</card>
 		<card>
 			<name>S.S. Anne</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/S.S.%20Anne.png" rarity="rare">PTCG</set>
 			<color>WU</color>
-			<manacost>1{W/U}{W/U}</manacost>
+			<manacost>1WU</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>Whenever a Pokémon fights, it gains indestructible and lifelink until end of turn.</text>
+			<text>Whenever you gain life, target Pokémon phases out.</text>
 		</card>
 		<card>
 			<name>Pokémon Tower</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/S.S.%20Anne.png" rarity="rare">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Pokémon%20Tower.png" rarity="rare">PTCG</set>
 			<color>W</color>
 			<manacost>2WW</manacost>
 			<type>Enchantment</type>
@@ -3394,6 +3403,53 @@ Cycling {3}</text>
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {G}.</text>
+		</card>
+		<!-- Tokens -->
+		<card>
+			<name>Diglett (Token)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/DiglettToken.png" rarity="token">PTCG</set>
+			<color>R</color>
+			<manacost />
+			<type>Token Pokémon - Ground</type>
+			<pt>2/1</pt>
+			<tablerow>2</tablerow>
+			<text />
+			<reverse-related count="2">Dig</reverse-related>
+		</card>
+		<card>
+			<name>Oddish (Token)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/OddishToken.png" rarity="token">PTCG</set>
+			<color>BG</color>
+			<manacost />
+			<type>Token Pokémon - Grass Poison</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>Lifelink</text>
+			<reverse-related count="2">Erika</reverse-related>
+		</card>
+		<card>
+			<name>Red's Pikachu</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/RedsPikachu.png" rarity="token">PTCG</set>
+			<color>RW</color>
+			<manacost />
+			<type>Token Legendary Pokémon - Electric</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>First strike, haste, lifelink</text>
+			<reverse-related>Red</reverse-related>
+		</card>
+		<card>
+			<name>Treasure</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Treasure.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
+			<type>Token Artifact - Treasure</type>
+			<tablerow>1</tablerow>
+			<text>{T}, Sacrifice this artifact: Add one many of any color.</text>
+			<reverse-related>Meowth</reverse-related>
+			<reverse-related>Pilfer</reverse-related>
+			<reverse-related>Moonstone</reverse-related>
+			<reverse-related>Payday</reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
