@@ -1158,7 +1158,7 @@ Whenever you gain life for the first time each turn, Dewgong gains indestructibl
 			<name>Muk</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Muk.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
-			<manacost>1BBB</manacost>
+			<manacost>3BBB</manacost>
 			<type>Pokémon - Poison</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
@@ -2582,7 +2582,7 @@ Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text
 			<manacost>G</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Razor Leaf deals X damage to each flying Pokémon and each Pokémon with flying, where X is the number of +1/+1 counters on all Pokémon.</text>
+			<text>Razor Leaf deals X damage to each Flying Pokémon and each Pokémon with flying, where X is the total number of +1/+1 counters on all Pokémon.</text>
 		</card>
 		<card>
 			<name>Water Gun</name>
