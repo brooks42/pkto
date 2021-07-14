@@ -1877,7 +1877,7 @@ Pokémoncycling {3}</text>
 			<loyalty>4</loyalty>
 			<text>[+2]: Up to one target Pokémon gets +2/-2 until end of turn.
 [-2]: Search your library for a Pokémon card. You may cast that card for its evolve cost without paying its mana cost. Then shuffle.
-[−7]: Pokémon you control get +3/+3 and gain haste, hexproof, indestructible, lifelink, and vigilance until end of turn.</text>
+[−7]: Pokémon you control get +3/+3 and gain hexproof, vigilance, lifelink, indestructible, and haste until end of turn.</text>
 		</card>
 		<card>
 			<name>Green</name>
@@ -3435,7 +3435,7 @@ Cycling {3}</text>
 			<type>Token Legendary Pokémon - Electric</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>First strike, haste, lifelink</text>
+			<text>First strike, lifelink, haste</text>
 			<reverse-related>Red</reverse-related>
 		</card>
 		<card>
