@@ -3062,7 +3062,7 @@ Cycling {3}</text>
 		</card>
 		<card>
 			<name>Diglett’s Cave</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Diglett%27s%20Cave.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Digletts%20Cave.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3429,7 +3429,7 @@ Cycling {3}</text>
 		</card>
 		<card>
 			<name>Red's Pikachu</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/RedsPikachu.png" rarity="token">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Reds%20Pikachu.png" rarity="token">PTCG</set>
 			<color>RW</color>
 			<manacost />
 			<type>Token Legendary Pokémon - Electric</type>
