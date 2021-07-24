@@ -199,7 +199,6 @@ Koga
 Sabrina
 Blaine
 Giovanni
-Mr. Fuji
 Professor Oak
 Lorelei
 Bruno
@@ -212,9 +211,9 @@ Poké Ball
 Great Ball
 Safari Ball
 Ultra Ball
-Switch
-Switch
 Master Ball
+Switch
+Switch
 Poké Flute
 Old Rod
 Old Rod
@@ -261,8 +260,6 @@ Body Slam
 Body Slam
 Slash
 Slash
-Mist
-Mist
 Whirlwind
 Whirlwind
 Sing
@@ -287,9 +284,6 @@ Glare
 Flash
 Flash
 Toxic
-Teleport
-Teleport
-Conversion
 Reflect
 Reflect
 Fire Blast
@@ -301,6 +295,16 @@ Release
 Release
 Vine Whip
 Vine Whip
+Guillotine
+Softboiled
+Pilfer
+Mimic
+Double-Edge
+Prepare for Trouble
+Razor Leaf
+Water Gun
+Petal Dance
+Dig
 Thunder Stone
 Thunder Stone
 Leaf Stone
@@ -330,7 +334,6 @@ Focus Energy
 Focus Energy
 Quick Attack
 Quick Attack
-Guillotine
 Barrier
 Barrier
 Counter
@@ -338,6 +341,16 @@ Mega Drain
 Pay Day
 Sky Attack
 Dream Eater
+Pewter Gym
+Cerulean Gym
+Vermillion Gym
+Celadon Gym
+Saffron Gym
+Fuschia Gym
+Cinnabar Gym
+Viridian Gym
+S.S. Anne
+Pokémon Tower
 Bill's Grassland
 Bill's Volcano
 Bill's Rainforest
@@ -370,3 +383,7 @@ Vermillion City
 Victory Road
 Viridian City
 Viridian Forest
+Diglett (Token)
+Oddish (Token)
+Red's Pikachu
+Treasure
