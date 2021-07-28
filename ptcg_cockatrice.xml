@@ -1559,7 +1559,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 			<type>Pokémon - Electric</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text />
+			<text>Menace</text>
 		</card>
 		<card>
 			<name>Magmar</name>
