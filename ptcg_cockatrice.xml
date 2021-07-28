@@ -2632,7 +2632,7 @@ Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text
 		</card>
 		<card>
 			<name>Submission</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Flamethrower.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Submission.png" rarity="common">PTCG</set>
 			<color>RG</color>
 			<manacost>2RG</manacost>
 			<type>Instant</type>
