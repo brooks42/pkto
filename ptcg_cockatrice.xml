@@ -1761,7 +1761,7 @@ Fossil {3}{R}{G}</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-When Articuno enters the battlefield, tap all Pokémon you don't control.</text>
+Pokémon lose vigilance and haste, can't have or gain vigilance or haste, and enter the battlefield tapped.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
@@ -1772,7 +1772,7 @@ When Articuno enters the battlefield, tap all Pokémon you don't control.</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-When Zapdos enters the battlefield, Pokémon you control gain haste and first strike until end of turn.</text>
+Players can cast spells as though they had flash. If a player does, Zapdos deals 3 damage to that player.</text>
 		</card>
 		<card>
 			<name>Moltres</name>
@@ -1783,7 +1783,7 @@ When Zapdos enters the battlefield, Pokémon you control gain haste and first st
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-When Moltres enters the battlefield, it deals 2 damage to each other Pokémon and each player.</text>
+Whenever a Pokémon attacks, it deals 2 damage to itself or its controller.</text>
 		</card>
 		<card>
 			<name>Dratini</name>
@@ -1813,11 +1813,11 @@ Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text
 			<name>Dragonair</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dragonair.png" rarity="rare">PTCG</set>
 			<color>WRG</color>
-			<manacost>2{W/R}{R/G}{G/W}</manacost>
+			<manacost>2WRG</manacost>
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {W/R}{R/G}
+			<text>Evolve {W}{R}{G}
 {1}{W}{R}{G}: Remove all counters from Dragonair. You gain life equal to the number of counters removed this way.</text>
 		</card>
 		<card>
@@ -1828,7 +1828,7 @@ Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text
 			<type>Pokémon - Dragon Flying</type>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {3}{W/R}{R/G}{G/W}
+			<text>Evolve {3}{W}{R}{G}
 Flying, haste, vigilance, hexproof from trainers</text>
 		</card>
 		<card>
@@ -1911,9 +1911,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Misty</type>
 			<loyalty>4</loyalty>
-			<text>Whenever you counter a spell, you may draw a card.
-[-1]: Tap or untap up to one target Pokémon.
-[−1]: Draw two cards, then put a card from your hand on the bottom of your library.</text>
+			<text>Whenever you counter a spell, put 2 loyalty counters on Misty.
+[-2]: Draw a card.
+[−3]: Each player chooses and gains control of a Pokémon they don't control.</text>
 		</card>
 		<card>
 			<name>Lt. Surge</name>
@@ -2007,9 +2007,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Lorelei</type>
 			<loyalty>2</loyalty>
-			<text>[+1]: Target player gains 3 life.
-[0]: Pokémon you control get +0/+2 until end of turn.
-[-5]: Put any number of Water and Ice Pokémon cards from your hand onto the battlefield.</text>
+			<text>The first time you gain life each turn, put a loyalty counter on Lorelei.
+[-2]: Tap or untap target Pokemon.
+[-X]: Put a Water and/or Ice Pokémon card with mana value X from your hand onto the battlefield.</text>
 		</card>
 		<card>
 			<name>Bruno</name>
@@ -2018,9 +2018,9 @@ Pokémoncycling {3}</text>
 			<manacost>2{R/G}{R/G}</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Bruno</type>
-			<loyalty>2</loyalty>
-			<text>[+2]: Untap up to two target lands.
-[-1]: Put a +1/+1 counter on target Fighting or Rock Pokémon.
+			<loyalty>3</loyalty>
+			<text>At the beginning of combat on your turn, put a loyalty counter on Bruno. 
+[-1]: Put a +1/+1 counter on target Pokémon.
 [-3]: Pokémon you control with +1/+1 counters on them gain trample until end of turn.</text>
 		</card>
 		<card>
@@ -2559,7 +2559,7 @@ Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text
 		</card>
 		<card>
 			<name>Double-Edge</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Double-edge.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Double-Edge.png" rarity="uncommon">PTCG</set>
 			<color>G</color>
 			<manacost>3G</manacost>
 			<type>Sorcery</type>
@@ -3129,8 +3129,9 @@ Cycling {3}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {W}.
-{T}: Add one mana of any color. Spend this mana only to cast Pokémon spells.</text>
+			<text>As Pallet Town enters the battlefield, choose a color. 
+{T}: Add {W}.
+{T}: Add one mana of the chosen color. Spend this mana only to cast Pokémon spells.</text>
 		</card>
 		<card>
 			<name>Pewter City</name>
