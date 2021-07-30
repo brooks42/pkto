@@ -767,7 +767,7 @@ Whenever Growlithe deals damage to a Pokémon, if that Pokémon would die this t
 			<pt>7/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {1}{R/W}{R/W}
-Arcanine enters the battlefield with your choice of a menace counter, a haste counter, or an intimidate counter on it. If it evolved, it gets one of each instead.</text>
+Arcanine enters the battlefield with your choice of a menace counter, a haste counter, or an intimidate counter on it. If it evolved, put one of each on it instead.</text>
 		</card>
 		<card>
 			<name>Poliwag</name>
