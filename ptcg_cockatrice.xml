@@ -538,7 +538,7 @@ Whenever Clefable becomes tapped, you gain life equal to its toughness.</text>
 			<type>Pokémon - Normal Fairy</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Jigglypuff takes damage, put a +1/+1 counter on it.</text>
+			<text>Whenever Jigglypuff is dealt damage, put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Wigglytuff</name>
@@ -1476,8 +1476,8 @@ Protection from Fire
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {1}{U}
-Whenever you draw a card, target player mills a card.
-If a Pokemon card would be added to an opponent's hand from the battlefield, exile it instead.</text>
+If a Pokémon would return to an opponent’s hand from the battlefield, exile it instead.
+Whenever you draw a card, target player mills a card.</text>
 		</card>
 		<card>
 			<name>Goldeen</name>
@@ -1487,7 +1487,7 @@ If a Pokemon card would be added to an opponent's hand from the battlefield, exi
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever you counter a spell, put a +1/+1 counter on Goldeen.</text>
+			<text>Whenever a spell or ability you control counters a spell, put a +1/+1 counter on Goldeen.</text>
 		</card>
 		<card>
 			<name>Seaking</name>
@@ -1762,7 +1762,7 @@ Fossil {3}{R}{G}</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Pokémon lose vigilance and haste, can't have or gain vigilance or haste, and enter the battlefield tapped.</text>
+Whenever another permanent you control becomes tapped, it doesn’t untap during its controller’s next untap step.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
@@ -1773,7 +1773,7 @@ Pokémon lose vigilance and haste, can't have or gain vigilance or haste, and en
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Players can cast spells as though they had flash. If a player does, Zapdos deals 3 damage to that player.</text>
+Whenever you cast a spell, Zapdos deals 3 damage to you.</text>
 		</card>
 		<card>
 			<name>Moltres</name>
@@ -1784,7 +1784,7 @@ Players can cast spells as though they had flash. If a player does, Zapdos deals
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Whenever a Pokémon attacks, it deals 2 damage to itself or its controller.</text>
+At the beginning of your end step, sacrifice a land.</text>
 		</card>
 		<card>
 			<name>Dratini</name>
@@ -1830,7 +1830,7 @@ Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {3}{W}{R}{G}
-Flying, haste, vigilance, hexproof from trainers</text>
+Flying, vigilance, haste, hexproof from trainers</text>
 		</card>
 		<card>
 			<name>Mewtwo</name>
@@ -1864,7 +1864,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Red</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Exile the top 2 cards of your library. Until end of turn, you can cast Pokémon cards exiled this way.
+			<text>[+1]: Exile the top two cards of your library. Until end of turn, you may cast Pokémon cards exiled this way.
 [−3]: Create Red's Pikachu, a legendary 4/4 white and red Electric Pokémon with first strike, lifelink, and haste.
 [−7]: You may put any number of Pokémon cards from your hand onto the battlefield.</text>
 		</card>
@@ -1912,9 +1912,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Misty</type>
 			<loyalty>4</loyalty>
-			<text>Whenever you counter a spell, put 2 loyalty counters on Misty.
+			<text>Whenever a spell or ability you control counters a spell, put two loyalty counters on Misty.
 [-2]: Draw a card.
-[−3]: Each player chooses and gains control of a Pokémon they don't control.</text>
+[−3]: Each player chooses a Pokémon they don’t control and gains control of it.</text>
 		</card>
 		<card>
 			<name>Lt. Surge</name>
@@ -2965,7 +2965,7 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<name>S.S. Anne</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/S.S.%20Anne.png" rarity="rare">PTCG</set>
 			<color>WU</color>
-			<manacost>3WU</manacost>
+			<manacost>1WU</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Untap all nonland permanents you control during each other player's untap step.</text>
@@ -3464,7 +3464,6 @@ Cycling {3}</text>
 			<tablerow>2</tablerow>
 			<text>Lifelink</text>
 			<reverse-related count="2">Erika</reverse-related>
-			<reverse-related count="2">Spore</reverse-related>
 		</card>
 		<card>
 			<name>Red's Pikachu</name>
