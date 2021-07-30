@@ -2612,42 +2612,6 @@ Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text
 			<tablerow>3</tablerow>
 			<text>Create two 2/1 red Ground Pokémon tokens named Diglett.</text>
 		</card>
-		<card>
-			<name>Flamethrower</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Flamethrower.png" rarity="uncommon">PTCG</set>
-			<color>RB</color>
-			<manacost>1RB</manacost>
-			<type>Sorcery</type>
-			<tablerow>3</tablerow>
-			<text>Exile target Pokémon.</text>
-		</card>
-		<card>
-			<name>Spore</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Spore.png" rarity="uncommon">PTCG</set>
-			<color>GB</color>
-			<manacost>3GB</manacost>
-			<type>Sorcery</type>
-			<tablerow>3</tablerow>
-			<text>Destroy target Pokémon or artifact. Create two 1/1 green and black Grass Poison tokens with lifelink named Oddish.</text>
-		</card>
-		<card>
-			<name>Submission</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Submission.png" rarity="common">PTCG</set>
-			<color>RG</color>
-			<manacost>2RG</manacost>
-			<type>Instant</type>
-			<tablerow>3</tablerow>
-			<text>Submission deals 6 damage to target Pokémon or trainer, and 3 damage to you.</text>
-		</card>
-		<card>
-			<name>Mirror Move</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mirror%20Move.png" rarity="rare">PTCG</set>
-			<color>UR</color>
-			<manacost>1{U/R}</manacost>
-			<type>Instant</type>
-			<tablerow>3</tablerow>
-			<text>Copy target instant or sorcery spell. You may choose new targets for the copy.</text>
-		</card>
 		<!-- evolution stones -->
 		<card>
 			<name>Thunder Stone</name>
