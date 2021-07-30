@@ -570,8 +570,8 @@ Whenever Wigglytuff deals combat damage to a Pokémon, that Pokémon's base powe
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {X}{B}
-When you cast Golbat for its evolve cost, target player loses X life and you gain X life.
-Flying</text>
+Flying
+When you cast Golbat for its evolve cost, target player loses X life and you gain X life.</text>
 		</card>
 		<card>
 			<name>Oddish</name>
