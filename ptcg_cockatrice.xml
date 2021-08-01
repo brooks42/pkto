@@ -1346,7 +1346,7 @@ Whenever Exeggutor blocks a Pokémon with flying, it deals 3 damage to that Pok�
 			<type>Pokémon - Ground</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{W}{G}
+			<text>Evolve {1}{G}{W}
 {X}{2}{G/W}, {T}: Marowak deals X plus 3 damage to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
 		</card>
 		<card>
@@ -1814,11 +1814,11 @@ Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text
 			<name>Dragonair</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dragonair.png" rarity="rare">PTCG</set>
 			<color>WRG</color>
-			<manacost>2WRG</manacost>
+			<manacost>2RGW</manacost>
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {W}{R}{G}
+			<text>Evolve {R}{G}{W}
 {1}{W}{R}{G}: Remove all counters from Dragonair. You gain life equal to the number of counters removed this way.</text>
 		</card>
 		<card>
@@ -1829,7 +1829,7 @@ Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text
 			<type>Pokémon - Dragon Flying</type>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {3}{W}{R}{G}
+			<text>Evolve {3}{R}{G}{W}
 Flying, vigilance, haste, hexproof from trainers</text>
 		</card>
 		<card>
@@ -2008,7 +2008,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Lorelei</type>
 			<loyalty>2</loyalty>
-			<text>The first time you gain life each turn, put a loyalty counter on Lorelei.
+			<text>Whenever you gain life for the first time each turn, put a loyalty counter on Lorelei.
 [-2]: Tap or untap target Pokemon.
 [-X]: Put a Water and/or Ice Pokémon card with mana value X from your hand onto the battlefield.</text>
 		</card>
