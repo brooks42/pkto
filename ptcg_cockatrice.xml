@@ -1585,7 +1585,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 			<name>Tauros</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Tauros.png" rarity="uncommon">PTCG</set>
 			<color>RG</color>
-			<manacost>2{R/G}G</manacost>
+			<manacost>3{R/G}{R/G}</manacost>
 			<type>Pokémon - Normal</type>
 			<pt>6/4</pt>
 			<tablerow>2</tablerow>
