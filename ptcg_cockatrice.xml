@@ -1411,20 +1411,18 @@ At the beginning of your end step, destroy each Pokémon with mana value equal t
 			<type>Pokémon - Ground Rock</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Trample
-{1}{R}: Rhyhorn gets +1/+0 until end of turn.</text>
+			<text>{1}{R}: Rhyhorn gets +1/+0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Rhydon</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Rhydon.png" rarity="uncommon">PTCG</set>
 			<color>RG</color>
-			<manacost>7RG</manacost>
+			<manacost>6RG</manacost>
 			<type>Pokémon - Ground Rock</type>
 			<pt>7/7</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {3}{R/G}{R/G}
-Protection from Fire
-{R}: Each Pokémon you control gets +1/+0 until end of turn.</text>
+			<text>Evolve {2}{R}{G}
+{R}{R}{R}: Pokémon without flying can’t block this turn.</text>
 		</card>
 		<card>
 			<name>Chansey</name>
