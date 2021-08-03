@@ -1789,12 +1789,12 @@ At the beginning of your end step, sacrifice a land.</text>
 		<card>
 			<name>Dratini</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dratini.png" rarity="rare">PTCG</set>
-			<color>WRG</color>
-			<manacost>WRG</manacost>
+			<color>RGW</color>
+			<manacost>RGW</manacost>
 			<type>Pokémon - Dragon</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{W}{R}{G}: Evolve to Dragonair
+			<text>{R}{G}{W}: Evolve to Dragonair
 Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text>
 			<side>front</side>
 			<related attach="attach">Dragonair (DFC)</related>
@@ -1802,7 +1802,7 @@ Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text
 		<card>
 			<name>Dragonair (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/DragonairDFC.png" rarity="rare">PTCG</set>
-			<color>WRG</color>
+			<color>RGW</color>
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -1825,8 +1825,8 @@ Whenever you gain life, put a +1/+1 counter on Dragonair.</text>
 		<card>
 			<name>Dragonite</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dragonite.png" rarity="mythic">PTCG</set>
-			<color>WRG</color>
-			<manacost>4WWRRGG</manacost>
+			<color>RGW</color>
+			<manacost>4RRGGWW</manacost>
 			<type>Pokémon - Dragon Flying</type>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
@@ -2933,7 +2933,8 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<manacost>1WU</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>Untap all nonland permanents you control during each other player's untap step.</text>
+			<text>Whenever a creature is exiled from the battlefield, you gain 1 life.
+At the beginning of your end step, you may exile another target creature you control, then return that card to the battlefield under its owner’s control.</text>
 		</card>
 		<card>
 			<name>Pokémon Tower</name>
