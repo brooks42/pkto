@@ -1813,13 +1813,14 @@ Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text
 		<card>
 			<name>Dragonair</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dragonair.png" rarity="rare">PTCG</set>
-			<color>WRG</color>
+			<color>RGW</color>
 			<manacost>2RGW</manacost>
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {R}{G}{W}
-{1}{W}{R}{G}: Remove all counters from Dragonair. You gain life equal to the number of counters removed this way.</text>
+{1}{R}{G}{W}: Regenerate Dragonair.
+Whenever you gain life, put a +1/+1 counter on Dragonair.</text>
 		</card>
 		<card>
 			<name>Dragonite</name>
