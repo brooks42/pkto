@@ -40,7 +40,7 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{G}
+			<text>Evolve From Bulbasaur {1}{G}
 Reach, deathtouch</text>
 		</card>
 		<card>
@@ -51,7 +51,7 @@ Reach, deathtouch</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{G}{G}
+			<text>Evolve From Ivysaur {1}{G}{G}
 If one or more counters would be put on a Pokémon you control, that many plus one of each of those kinds of counters are put on that Pokémon instead.
 Trample</text>
 		</card>
@@ -87,7 +87,7 @@ Whenever Squirtle blocks a Pokémon, that Pokémon doesn't untap during its cont
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{U}
+			<text>Evolve From Squirtle {1}{U}
 Hexproof</text>
 		</card>
 		<card>
@@ -98,7 +98,7 @@ Hexproof</text>
 			<type>Pokémon - Water</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{U}{U}
+			<text>Evolve From Wartortle {1}{U}{U}
 You may have each Pokémon you control assign combat damage equal to its toughness rather than its power.</text>
 		</card>
 		<card>
@@ -133,7 +133,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 			<type>Pokémon - Fire</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{R}
+			<text>Evolve From Charmander {1}{R}
 Menace</text>
 		</card>
 		<card>
@@ -144,7 +144,7 @@ Menace</text>
 			<type>Pokémon - Fire Flying</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{R}{R}
+			<text>Evolve From Charmeleon {1}{R}{R}
 Flying
 Pokémon you control enter the battlefield with your choice of a menace counter or a haste counter on them.</text>
 		</card>
@@ -180,7 +180,7 @@ Pokémon you control enter the battlefield with your choice of a menace counter 
 			<type>Pokémon - Bug</type>
 			<pt>1/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {G}
+			<text>Evolve From Caterpie {G}
 Defender
 Whenever this Pokémon evolves, it loses defender and you draw a card.</text>
 		</card>
@@ -192,7 +192,7 @@ Whenever this Pokémon evolves, it loses defender and you draw a card.</text>
 			<type>Pokémon - Bug Flying</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{G}{G}
+			<text>Evolve From Metapod {1}{G}{G}
 Flying, vigilance</text>
 		</card>
 		<card>
@@ -227,7 +227,7 @@ Deathtouch</text>
 			<type>Pokémon - Bug Poison</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {B}
+			<text>Evolve From Weedle {B}
 Defender
 Whenever this Pokémon evolves, it loses defender and target player discards a card.</text>
 		</card>
@@ -239,7 +239,7 @@ Whenever this Pokémon evolves, it loses defender and target player discards a c
 			<type>Pokémon - Bug Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {2}{B}
+			<text>Evolve From Kakuna {2}{B}
 Flying, infect</text>
 		</card>
 		<card>
@@ -274,7 +274,7 @@ Flying</text>
 			<type>Pokémon - Normal Flying</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {W}
+			<text>Evolve From Pidgey {W}
 {1}{W}: Pidgeotto gains lifelink until end of turn.
 Flying</text>
 		</card>
@@ -286,7 +286,7 @@ Flying</text>
 			<type>Pokémon - Normal Flying</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{W}{W}
+			<text>Evolve From Pidgeotto{1}{W}{W}
 Flying, vigilance</text>
 		</card>
 		<card>
@@ -307,7 +307,7 @@ Flying, vigilance</text>
 			<type>Pokémon - Normal</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{W/R}
+			<text>Evolve From Rattata {1}{W/R}
 When Raticate dies, you gain life equal to its toughness.</text>
 		</card>
 		<card>
@@ -328,7 +328,7 @@ When Raticate dies, you gain life equal to its toughness.</text>
 			<type>Pokémon - Normal Flying</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {2}{W/B}
+			<text>Evolve From Spearow {2}{W/B}
 Prevent all damage that would be dealt to Fearow by Pokémon with first strike.
 Flying</text>
 		</card>
@@ -350,7 +350,7 @@ Flying</text>
 			<type>Pokémon - Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {B}
+			<text>Evolve From Ekans {B}
 Whenever a +1/+1 counter would be put on a Pokémon, that many -1/-1 counters are put on it instead.</text>
 		</card>
 		<card>
@@ -371,7 +371,7 @@ Whenever a +1/+1 counter would be put on a Pokémon, that many -1/-1 counters ar
 			<type>Pokémon - Electric</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {W}{R}
+			<text>Evolve From Pikachu {W}{R}
 Whenever Raichu attacks, if it has first strike, it gains double strike until end of turn.</text>
 		</card>
 		<card>
@@ -392,7 +392,7 @@ Whenever Raichu attacks, if it has first strike, it gains double strike until en
 			<type>Pokémon - Ground</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {2}{G}
+			<text>Evolve From Sandshrew {2}{G}
 If an even amount of damage would be dealt to Sandslash, prevent that damage.</text>
 		</card>
 		<card>
@@ -427,7 +427,7 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 			<type>Pokémon - Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{B}
+			<text>Evolve From Nidoran♀ {1}{B}
 Whenever this Pokémon evolves, return target Pokémon card from your graveyard to your hand.</text>
 		</card>
 		<card>
@@ -438,7 +438,7 @@ Whenever this Pokémon evolves, return target Pokémon card from your graveyard 
 			<type>Pokémon - Poison Ground</type>
 			<pt>4/7</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {3}{B}{B}
+			<text>Evolve From Nidorina {3}{B}{B}
 If another Pokémon you control with no counters on it would be put into a graveyard from the battlefield, you may exile it instead. If you do, return it to the battlefield under its owner's control at the beginning of the next end step with an additional +1/+1 counter on it.</text>
 		</card>
 		<card>
@@ -473,7 +473,7 @@ Whenever Nidoran♂ attacks, it gains first strike and deathtouch until end of t
 			<type>Pokémon - Poison</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{B}
+			<text>Evolve From Nidoran♂ {1}{B}
 Whenever this Pokémon evolves, if you control no other Pokémon, add {B}{B}{B} and draw a card.</text>
 		</card>
 		<card>
@@ -484,7 +484,7 @@ Whenever this Pokémon evolves, if you control no other Pokémon, add {B}{B}{B} 
 			<type>Pokémon - Poison Ground</type>
 			<pt>8/6</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {B}{B}{B}
+			<text>Evolve From Nidorino {B}{B}{B}
 {B}, Sacrifice a Pokémon: Nidoking gains indestructible and gets +2/+2 until end of turn.</text>
 		</card>
 		<card>
@@ -506,7 +506,7 @@ Whenever this Pokémon evolves, if you control no other Pokémon, add {B}{B}{B} 
 			<type>Pokémon - Fairy</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{W/B}
+			<text>Evolve From Clefairy {1}{W/B}
 Whenever Clefable becomes tapped, you gain life equal to its toughness.</text>
 		</card>
 		<card>
@@ -527,7 +527,7 @@ Whenever Clefable becomes tapped, you gain life equal to its toughness.</text>
 			<type>Pokémon - Fire</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {B/R}{B/R}
+			<text>Evolve From Vulpix {B/R}{B/R}
 {1}{B}{R}, Discard a card: Gain control of target Pokémon until end of turn. Untap that Pokémon. It gains haste until end of turn. Activate only as a sorcery.</text>
 		</card>
 		<card>
@@ -548,7 +548,7 @@ Whenever Clefable becomes tapped, you gain life equal to its toughness.</text>
 			<type>Pokémon - Normal Fairy</type>
 			<pt>1/6</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{W}
+			<text>Evolve From Jigglypuff {1}{W}
 Whenever Wigglytuff deals combat damage to a Pokémon, that Pokémon's base power becomes 0 until Wigglytuff leaves the battlefield.</text>
 		</card>
 		<card>
@@ -569,7 +569,7 @@ Whenever Wigglytuff deals combat damage to a Pokémon, that Pokémon's base powe
 			<type>Pokémon - Poison Flying</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {X}{B}
+			<text>Evolve From Zubat {X}{B}
 Flying
 When you cast Golbat for its evolve cost, target player loses X life and you gain X life.</text>
 		</card>
@@ -605,7 +605,7 @@ Lifelink</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {B/G}
+			<text>Evolve From Oddish {B/G}
 {2}{B}, {T}: Distribute two -1/-1 counters among one or two target Pokémon.</text>
 		</card>
 		<card>
@@ -616,7 +616,7 @@ Lifelink</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {B/G}
+			<text>Evolve From Gloom {B/G}
 {1}{G/B}{G/B}{G/B}, {T}, Exile a card from a graveyard: Distribute two +1/+1 counters among one or two target Pokémon.</text>
 		</card>
 		<card>
@@ -637,7 +637,7 @@ Lifelink</text>
 			<type>Pokémon - Bug Grass</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {G}
+			<text>Evolve From Paras {G}
 Lifelink
 If Parasect would be dealt damage by a Water Pokémon, prevent that damage. You gain that much life.</text>
 		</card>
@@ -659,7 +659,7 @@ If Parasect would be dealt damage by a Water Pokémon, prevent that damage. You 
 			<type>Pokémon - Bug Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {G}{U}
+			<text>Evolve From Venonat {G}{U}
 Whenever this Pokémon evolves, choose a Pokémon card name. Target opponent reveals their hand. Put all cards revealed this way with the chosen name onto the battlefield under your control.
 Flying</text>
 		</card>
@@ -681,7 +681,7 @@ Flying</text>
 			<type>Pokémon - Ground</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{R}
+			<text>Evolve From Diglett {1}{R}
 Whenever this Pokémon evolves, it gets +2/+0 and gains intimidate and trample until end of turn.</text>
 		</card>
 		<card>
@@ -702,7 +702,7 @@ Whenever this Pokémon evolves, it gets +2/+0 and gains intimidate and trample u
 			<type>Pokémon - Normal</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {W/B}
+			<text>Evolve From Meowth {W/B}
 Discard a card: Persian gets +1/+0 and gains first strike and trample until end of turn.</text>
 		</card>
 		<card>
@@ -723,7 +723,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<type>Pokémon - Water</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{U}
+			<text>Evolve Psyduck {1}{U}
 You may cast TM and artifact spells as though they had flash.</text>
 		</card>
 		<card>
@@ -744,7 +744,7 @@ You may cast TM and artifact spells as though they had flash.</text>
 			<type>Pokémon - Fighting</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {2}{R}
+			<text>Evolve From Mankey {2}{R}
 Menace</text>
 		</card>
 		<card>
@@ -766,7 +766,7 @@ Whenever Growlithe deals damage to a Pokémon, if that Pokémon would die this t
 			<type>Pokémon - Fire</type>
 			<pt>7/6</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{R/W}{R/W}
+			<text>Evolve From Growlithe {1}{R/W}{R/W}
 Arcanine enters the battlefield with your choice of a menace counter, a haste counter, or an intimidate counter on it. If it evolved, put one of each on it instead.</text>
 		</card>
 		<card>
@@ -801,7 +801,7 @@ Hexproof</text>
 			<type>Pokémon - Water</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {U}
+			<text>Evolve From Poliwag {U}
 Whenever this Pokémon evolves or becomes the target of a spell or ability, you may draw a card. If you do, discard a card.</text>
 		</card>
 		<card>
@@ -812,7 +812,7 @@ Whenever this Pokémon evolves or becomes the target of a spell or ability, you 
 			<type>Pokémon - Water Fighting</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {U}{U}
+			<text>Evolve From Poliwhirl {U}{U}
 Whenever this Pokémon evolves or fights, put a +1/+1 counter on it.
 If a Pokémon would fight a Pokémon that isn't Poliwrath, it fights Poliwrath instead.</text>
 		</card>
@@ -848,7 +848,7 @@ Whenever this Pokémon enters the battlefield or evolves, scry 1.</text>
 			<type>Pokémon - Psychic</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {U}
+			<text>Evolve From Abra {U}
 {T}: Draw a card, then discard a card.</text>
 		</card>
 		<card>
@@ -859,7 +859,7 @@ Whenever this Pokémon enters the battlefield or evolves, scry 1.</text>
 			<type>Pokémon - Psychic</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{U}{B}
+			<text>Evolve From Kadabra {1}{U}{B}
 {U}{U}: Scry 1.
 If you would scry, scry that many cards plus one instead.</text>
 		</card>
@@ -895,7 +895,7 @@ Whenever this Pokémon evolves, put a +1/+1 counter on it.</text>
 			<type>Pokémon - Fighting</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {R/G}{R/G}
+			<text>Evolve From Machop {R/G}{R/G}
 At the beginning of your upkeep, if Machoke doesn’t have the highest combined power and toughness among Pokemon on the battlefield, put a +1/+1 counter on it.</text>
 		</card>
 		<card>
@@ -906,7 +906,7 @@ At the beginning of your upkeep, if Machoke doesn’t have the highest combined 
 			<type>Pokémon - Fighting</type>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {R/G}{R/G}{R/G}
+			<text>Evolve From Machoke {R/G}{R/G}{R/G}
 Whenever this Pokémon evolves, if it has any +1/+1 counters on it, put three +1/+1 counters on it and it gains trample.
 {R/G}{R/G}, {T}: Machamp fights target non-Flying Pokémon you don't control.</text>
 		</card>
@@ -942,7 +942,7 @@ Whenever this Pokémon evolves, if it has any +1/+1 counters on it, put three +1
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {B/G}{B/G}
+			<text>Evolve From Bellsprout {B/G}{B/G}
 Reach
 Whenever Weepinbell deals damage to a Pokémon, put a -1/-1 counter on it.</text>
 		</card>
@@ -954,7 +954,7 @@ Whenever Weepinbell deals damage to a Pokémon, put a -1/-1 counter on it.</text
 			<type>Pokémon - Grass Poison</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{B/G}{B/G}
+			<text>Evolve From Weepinbell {1}{B/G}{B/G}
 {X}{X}{B/G}: Put X -1/-1 counters on target Pokémon.</text>
 		</card>
 		<card>
@@ -975,7 +975,7 @@ Whenever Weepinbell deals damage to a Pokémon, put a -1/-1 counter on it.</text
 			<type>Pokémon - Water Poison</type>
 			<pt>4/6</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{U}{B}			
+			<text>Evolve From Tentacool {1}{U}{B}			
 All lands are Islands and Swamps in addition to their other types.
 Whenever you put one or more cards on top of your library, you may draw a card. If you do, put a card from your hand on the bottom of your library.</text>
 		</card>
@@ -1011,7 +1011,7 @@ Protection from Electric and Poison</text>
 			<type>Pokémon - Rock Ground</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {R}{R}
+			<text>Evolve From Geodude {R}{R}
 Reach, trample</text>
 		</card>
 		<card>
@@ -1022,7 +1022,7 @@ Reach, trample</text>
 			<type>Pokémon - Rock Ground</type>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{R}{R}
+			<text>Evolve From Graveler {1}{R}{R}
 {T}: Golem deals 4 damage to target flying Pokémon or target Pokémon with flying.
 Sacrifice Golem: Golem deals 6 damage to each Pokémon and each player.</text>
 		</card>
@@ -1044,7 +1044,7 @@ Sacrifice Golem: Golem deals 6 damage to each Pokémon and each player.</text>
 			<type>Pokémon - Fire</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{R}
+			<text>Evolve From Ponyta {1}{R}
 First strike, haste</text>
 		</card>
 		<card>
@@ -1065,7 +1065,7 @@ First strike, haste</text>
 			<type>Pokémon - Water Psychic</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {U}{B}
+			<text>Evolve From Slowpoke {U}{B}
 Whenever you put a card on the bottom of your library, put a +1/+1 counter on Slowbro.</text>
 		</card>
 		<card>
@@ -1087,7 +1087,7 @@ Protection from Ground</text>
 			<type>Pokémon - Electric Steel</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {3}
+			<text>Evolve From Magnemite {3}
 Whenever this Pokémon evolves, put two +1/+1 counters on it.
 Protection from Poison</text>
 		</card>
@@ -1119,7 +1119,7 @@ Protection from Poison</text>
 			<type>Pokémon - Normal Flying</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{R/B}{R/B}
+			<text>Evolve From Doduo {1}{R/B}{R/B}
 Whenever this Pokémon evolves, reveal your hand. Put a +1/+1 counter on it for each red or black card revealed this way.
 Double strike, haste</text>
 		</card>
@@ -1141,7 +1141,7 @@ Double strike, haste</text>
 			<type>Pokémon - Water Ice</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{W}{U}
+			<text>Evolve From Seel {1}{W}{U}
 Whenever you gain life for the first time each turn, Dewgong gains indestructible until end of turn and you gain 3 life.</text>
 		</card>
 		<card>
@@ -1162,7 +1162,7 @@ Whenever you gain life for the first time each turn, Dewgong gains indestructibl
 			<type>Pokémon - Poison</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{B}
+			<text>Evolve From Grimer {1}{B}
 Whenever a Pokémon dies, if it had any -1/-1 counters on it, put those counters on another target Pokémon. Its controller loses 1 life and you gain 1 life.</text>
 		</card>
 		<card>
@@ -1183,7 +1183,7 @@ Whenever a Pokémon dies, if it had any -1/-1 counters on it, put those counters
 			<type>Pokémon - Water Ice</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {U}{R}
+			<text>Evolve From Shellder {U}{R}
 {U/R}{U/R}: Cloyster deals 1 damage to each of up to three target Pokémon and/or trainers. If Cloyster has indestructible, it deals 3 damage to each target instead.</text>
 		</card>
 		<card>
@@ -1218,7 +1218,7 @@ Protection from Ground and Fighting</text>
 			<type>Pokémon - Ghost Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {B}{B}
+			<text>Evolve From Gastly {B}{B}
 Whenever Haunter deals combat damage to a player, that player discards a card.</text>
 		</card>
 		<card>
@@ -1229,7 +1229,7 @@ Whenever Haunter deals combat damage to a player, that player discards a card.</
 			<type>Pokémon - Ghost Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {2}{B}{B}
+			<text>Evolve From Haunter {2}{B}{B}
 {B}{B}{B}{B}{B}, {T}: Target player loses 5 life and you gain 5 life.</text>
 		</card>
 		<card>
@@ -1260,7 +1260,7 @@ Whenever Haunter deals combat damage to a player, that player discards a card.</
 			<type>Pokémon - Psychic</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{U}{B}
+			<text>Evolve From Drowzee {1}{U}{B}
 Tapped Pokémon get -1/-1.</text>
 		</card>
 		<card>
@@ -1281,7 +1281,7 @@ Tapped Pokémon get -1/-1.</text>
 			<type>Pokémon - Water</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {2}{U}{R}
+			<text>Evolve From Krabby {2}{U}{R}
 Kingler has double strike as long as it has first strike.</text>
 		</card>
 		<card>
@@ -1303,7 +1303,7 @@ Haste</text>
 			<type>Pokémon - Electric</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {R/W}
+			<text>Evolve From Voltorb {R/W}
 Whenever Electrode enters the battlefield or takes damage, you may sacrifice it. If you do, it deals damage equal to its power to each Pokémon.</text>
 		</card>
 		<card>
@@ -1324,7 +1324,7 @@ Whenever Electrode enters the battlefield or takes damage, you may sacrifice it.
 			<type>Pokémon - Grass Psychic</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{G}{G}{B}
+			<text>Evolve From Exeggcute {1}{G}{G}{B}
 Reach
 Whenever Exeggutor blocks a Pokémon with flying, it deals 3 damage to that Pokémon and you draw a card.</text>
 		</card>
@@ -1346,7 +1346,7 @@ Whenever Exeggutor blocks a Pokémon with flying, it deals 3 damage to that Pok�
 			<type>Pokémon - Ground</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{G}{W}
+			<text>Evolve From Cubone {1}{G}{W}
 {X}{2}{G/W}, {T}: Marowak deals X plus 3 damage to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
 		</card>
 		<card>
@@ -1399,7 +1399,7 @@ Prevent all noncombat damage that would be dealt to Hitmonchan.</text>
 			<type>Pokémon - Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {X}{B}{B}
+			<text>Evolve From Koffing {X}{B}{B}
 When you cast Weezing for its evolve cost, distribute X -1/-1 counters on up to X target Pokémon.
 At the beginning of your end step, destroy each Pokémon with mana value equal to the number of +1/+1 counters on Weezing.</text>
 		</card>
@@ -1417,12 +1417,12 @@ At the beginning of your end step, destroy each Pokémon with mana value equal t
 			<name>Rhydon</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Rhydon.png" rarity="uncommon">PTCG</set>
 			<color>RG</color>
-			<manacost>6RG</manacost>
+			<manacost>4RG</manacost>
 			<type>Pokémon - Ground Rock</type>
-			<pt>7/7</pt>
+			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {2}{R}{G}
-{R}{R}{R}: Pokémon without flying can’t block this turn.</text>
+			<text>Evolve From Rhyhorn {R}{G}
+As an additional cost to cast Pokémon spells, you may pay any amount of mana. If you do, that Pokémon enters the battlefield with that many additional +1/+1 counters on it.</text>
 		</card>
 		<card>
 			<name>Chansey</name>
@@ -1473,7 +1473,7 @@ At the beginning of your end step, destroy each Pokémon with mana value equal t
 			<type>Pokémon - Water</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{U}
+			<text>Evolve From Horsea {1}{U}
 If a Pokémon would return to an opponent’s hand from the battlefield, exile it instead.
 Whenever you draw a card, target player mills a card.</text>
 		</card>
@@ -1495,7 +1495,7 @@ Whenever you draw a card, target player mills a card.</text>
 			<type>Pokémon - Water</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{U}
+			<text>Evolve From Goldeen {1}{U}
 You may cast Seaking for its Evolve cost as though it had flash. If you do, you may counter target spell.</text>
 		</card>
 		<card>
@@ -1516,7 +1516,7 @@ You may cast Seaking for its Evolve cost as though it had flash. If you do, you 
 			<type>Pokémon - Water Psychic</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {2}{U}
+			<text>Evolve From Staryu {2}{U}
 Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
@@ -1607,7 +1607,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 			<type>Pokémon - Water Flying</type>
 			<pt>10/10</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {6}{U}{R}
+			<text>Evolve From Magikarp {6}{U}{R}
 Whenever this Pokémon evolves, discard your hand, then draw three cards. It deals X plus 3 damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
 		</card>
 		<card>
@@ -1648,7 +1648,7 @@ Whenever this Pokémon evolves, discard your hand, then draw three cards. It dea
 			<type>Pokémon - Water</type>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {3}{U}
+			<text>Evolve From Eevee {3}{U}
 Whenever a Pokémon you control evolves, scry 2 and you gain 3 life.</text>
 		</card>
 		<card>
@@ -1659,7 +1659,7 @@ Whenever a Pokémon you control evolves, scry 2 and you gain 3 life.</text>
 			<type>Pokémon - Electric</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {3}{R/W}
+			<text>Evolve From Eevee {3}{R/W}
 Whenever a Pokémon you control evolves, Jolteon and that Pokémon gain first strike and vigilance until end of turn.</text>
 		</card>
 		<card>
@@ -1670,7 +1670,7 @@ Whenever a Pokémon you control evolves, Jolteon and that Pokémon gain first st
 			<type>Pokémon - Fire</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {3}{R}
+			<text>Evolve From Eevee {3}{R}
 Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you choose among up to three target Pokémon.</text>
 		</card>
 		<card>
@@ -1703,7 +1703,7 @@ Fossil {3}{U}{R}</text>
 			<type>Pokémon - Rock Water</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{U}{R}
+			<text>Evolve From Omanyte {1}{U}{R}
 {1}{U}{U}, {T}: Draw five cards, then put three cards from your hand on the bottom of your library in any order.
 Fossil {3}{U}{R}</text>
 		</card>
@@ -1726,7 +1726,7 @@ Fossil {3}{U}{G}</text>
 			<type>Pokémon - Rock Water</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{U}{G}
+			<text>Evolve From Kabuto {1}{U}{G}
 {1}{G}{G}, {T}: Kabutops fights target Pokémon.
 Fossil {3}{U}{G}</text>
 		</card>
@@ -1816,7 +1816,7 @@ Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {R}{G}{W}
+			<text>Evolve From Dratini {R}{G}{W}
 {1}{R}{G}{W}: Regenerate Dragonair.
 Whenever you gain life, put a +1/+1 counter on Dragonair.</text>
 		</card>
@@ -1828,7 +1828,7 @@ Whenever you gain life, put a +1/+1 counter on Dragonair.</text>
 			<type>Pokémon - Dragon Flying</type>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {3}{R}{G}{W}
+			<text>Evolve From Dragonair {3}{R}{G}{W}
 Flying, vigilance, haste, hexproof from trainers</text>
 		</card>
 		<card>
