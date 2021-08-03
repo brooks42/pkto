@@ -1879,7 +1879,7 @@ Pokémoncycling {3}</text>
 			<loyalty>4</loyalty>
 			<text>Whenever a player casts a Trainer spell, put a loyalty counter on Blue.
 [-1]: Until end of turn, Pokémon spells you cast cost {1} less to cast.
-[-3]: Search your library for a Pokémon card. You may cast that card for its evolve cost without paying its mana cost. Then shuffle.</text>
+[-3]: Search your library for a Pokémon card with Evolve From. You may evolve it without paying its evolve cost. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Green</name>
@@ -1891,7 +1891,7 @@ Pokémoncycling {3}</text>
 			<loyalty>5</loyalty>
 			<text>[+1]: Move all counters from up to one target Pokémon onto up to one other target Pokémon.
 [-2]: Return an artifact card from your graveyard to your hand.
-[−5]: Until end of turn, you can cast Pokémon for their Evolve cost without paying their mana costs.</text>
+[−5]: Gain control of target Pokémon.</text>
 		</card>
 		<card>
 			<name>Brock</name>
