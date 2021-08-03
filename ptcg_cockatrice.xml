@@ -2150,7 +2150,7 @@ Pokémoncycling {3}</text>
 			<text>Return target Pokémon card from your graveyard to the battlefield.</text>
 		</card>
 		<card>
-			<name>Energy Search Mk2</name>
+			<name>Energy Search</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Energy%20Search%20Mk2.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<manacost>1G</manacost>
