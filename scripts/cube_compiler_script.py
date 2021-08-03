@@ -63,10 +63,17 @@ def main():
                     if card_name.lower() in basic_lands_b:
                         continue
 
-                    cube_list.append(card_name)
+                    # append set code for draft sites
+                    card_name = name_tag.string + ' (PTCG)'
 
                     for rarity_tag in cockatrice_card:
                         if rarity_tag.name == 'set':
+
+                            if rarity_tag['rarity'] == 'token':
+                                continue
+
+                            cube_list.append(card_name)
+
                             if rarity_tag['rarity'] == 'common':
                                 cube_list.append(card_name)
 

@@ -538,7 +538,7 @@ Whenever Clefable becomes tapped, you gain life equal to its toughness.</text>
 			<type>Pokémon - Normal Fairy</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>{W}: Jigglypuff gets +0/+1 until end of turn.</text>
+			<text>Whenever Jigglypuff is dealt damage, put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Wigglytuff</name>
@@ -555,11 +555,11 @@ Whenever Wigglytuff deals combat damage to a Pokémon, that Pokémon's base powe
 			<name>Zubat</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Zubat.png" rarity="common">PTCG</set>
 			<color>B</color>
-			<manacost>B</manacost>
+			<manacost>1B</manacost>
 			<type>Pokémon - Poison Flying</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>Flying, deathtouch</text>
+			<text>Flying, deathtouch, lifelink</text>
 		</card>
 		<card>
 			<name>Golbat</name>
@@ -569,8 +569,9 @@ Whenever Wigglytuff deals combat damage to a Pokémon, that Pokémon's base powe
 			<type>Pokémon - Poison Flying</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{B}
-Flying, deathtouch, lifelink</text>
+			<text>Evolve {X}{B}
+Flying
+When you cast Golbat for its evolve cost, target player loses X life and you gain X life.</text>
 		</card>
 		<card>
 			<name>Oddish</name>
@@ -766,8 +767,7 @@ Whenever Growlithe deals damage to a Pokémon, if that Pokémon would die this t
 			<pt>7/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {1}{R/W}{R/W}
-Arcanine enters the battlefield with your choice of a menace counter, a haste counter, or an intimidate counter on it.
-If Arcanine would deal damage to a Pokémon, it deals double that damage to that Pokémon instead.</text>
+Arcanine enters the battlefield with your choice of a menace counter, a haste counter, or an intimidate counter on it. If it evolved, put one of each on it instead.</text>
 		</card>
 		<card>
 			<name>Poliwag</name>
@@ -1131,7 +1131,7 @@ Double strike, haste</text>
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text></text>
+			<text>{T}: You gain 1 life.</text>
 		</card>
 		<card>
 			<name>Dewgong</name>
@@ -1158,11 +1158,11 @@ Whenever you gain life for the first time each turn, Dewgong gains indestructibl
 			<name>Muk</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Muk.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
-			<manacost>3BBB</manacost>
+			<manacost>2BB</manacost>
 			<type>Pokémon - Poison</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {3}{B}{B}
+			<text>Evolve {1}{B}
 Whenever a Pokémon dies, if it had any -1/-1 counters on it, put those counters on another target Pokémon. Its controller loses 1 life and you gain 1 life.</text>
 		</card>
 		<card>
@@ -1184,7 +1184,7 @@ Whenever a Pokémon dies, if it had any -1/-1 counters on it, put those counters
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {U}{R}
-{U/R}{U/R}: Cloyster deals 1 damage to each of up to three target Pokémon and/or trainers.</text>
+{U/R}{U/R}: Cloyster deals 1 damage to each of up to three target Pokémon and/or trainers. If Cloyster has indestructible, it deals 3 damage to each target instead.</text>
 		</card>
 		<card>
 			<name>Gastly</name>
@@ -1240,7 +1240,7 @@ Whenever Haunter deals combat damage to a player, that player discards a card.</
 			<type>Pokémon - Rock Ground</type>
 			<pt>5/2</pt>
 			<tablerow>2</tablerow>
-			<text />
+			<text>Trample</text>
 		</card>
 		<card>
 			<name>Drowzee</name>
@@ -1303,7 +1303,7 @@ Haste</text>
 			<type>Pokémon - Electric</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{R/W}
+			<text>Evolve {R/W}
 Whenever Electrode enters the battlefield or takes damage, you may sacrifice it. If you do, it deals damage equal to its power to each Pokémon.</text>
 		</card>
 		<card>
@@ -1332,7 +1332,7 @@ Whenever Exeggutor blocks a Pokémon with flying, it deals 3 damage to that Pok�
 			<name>Cubone</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cubone.png" rarity="uncommon">PTCG</set>
 			<color>WG</color>
-			<manacost>1W{G/W}</manacost>
+			<manacost>1WG</manacost>
 			<type>Pokémon - Ground</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
@@ -1346,7 +1346,7 @@ Whenever Exeggutor blocks a Pokémon with flying, it deals 3 damage to that Pok�
 			<type>Pokémon - Ground</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{G/W}{G/W}
+			<text>Evolve {1}{G}{W}
 {X}{2}{G/W}, {T}: Marowak deals X plus 3 damage to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
 		</card>
 		<card>
@@ -1475,7 +1475,8 @@ Protection from Fire
 			<type>Pokémon - Water</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {2}{U}
+			<text>Evolve {1}{U}
+If a Pokémon would return to an opponent’s hand from the battlefield, exile it instead.
 Whenever you draw a card, target player mills a card.</text>
 		</card>
 		<card>
@@ -1486,7 +1487,7 @@ Whenever you draw a card, target player mills a card.</text>
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text></text>
+			<text>Whenever a spell or ability you control counters a spell, put a +1/+1 counter on Goldeen.</text>
 		</card>
 		<card>
 			<name>Seaking</name>
@@ -1496,7 +1497,7 @@ Whenever you draw a card, target player mills a card.</text>
 			<type>Pokémon - Water</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {1}{U}{U}
+			<text>Evolve {1}{U}
 You may cast Seaking for its Evolve cost as though it had flash. If you do, you may counter target spell.</text>
 		</card>
 		<card>
@@ -1507,7 +1508,7 @@ You may cast Seaking for its Evolve cost as though it had flash. If you do, you 
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Staryu deals combat damage, scry 1.</text>
+			<text>Whenever Staryu attacks or blocks, scry 1.</text>
 		</card>
 		<card>
 			<name>Starmie</name>
@@ -1518,7 +1519,7 @@ You may cast Seaking for its Evolve cost as though it had flash. If you do, you 
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve {2}{U}
-{T}: Target Pokémon gets -X/-0, where X is the number of cards in your hand.</text>
+Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Mr. Mime</name>
@@ -1558,7 +1559,7 @@ You may cast Seaking for its Evolve cost as though it had flash. If you do, you 
 			<type>Pokémon - Electric</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text />
+			<text>Menace</text>
 		</card>
 		<card>
 			<name>Magmar</name>
@@ -1761,7 +1762,7 @@ Fossil {3}{R}{G}</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-When Articuno enters the battlefield, tap all Pokémon you don't control.</text>
+Whenever another permanent you control becomes tapped, it doesn’t untap during its controller’s next untap step.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
@@ -1772,7 +1773,7 @@ When Articuno enters the battlefield, tap all Pokémon you don't control.</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-When Zapdos enters the battlefield, Pokémon you control gain haste and first strike until end of turn.</text>
+Whenever you cast a spell, Zapdos deals 3 damage to you.</text>
 		</card>
 		<card>
 			<name>Moltres</name>
@@ -1783,7 +1784,7 @@ When Zapdos enters the battlefield, Pokémon you control gain haste and first st
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-When Moltres enters the battlefield, it deals 2 damage to each other Pokémon and each player.</text>
+At the beginning of your end step, sacrifice a land.</text>
 		</card>
 		<card>
 			<name>Dratini</name>
@@ -1812,13 +1813,14 @@ Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text
 		<card>
 			<name>Dragonair</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dragonair.png" rarity="rare">PTCG</set>
-			<color>WRG</color>
-			<manacost>2{W/R}{R/G}{G/W}</manacost>
+			<color>RGW</color>
+			<manacost>2RGW</manacost>
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {W/R}{R/G}
-{1}{W}{R}{G}: Remove all counters from Dragonair. You gain life equal to the number of counters removed this way.</text>
+			<text>Evolve {R}{G}{W}
+{1}{R}{G}{W}: Regenerate Dragonair.
+Whenever you gain life, put a +1/+1 counter on Dragonair.</text>
 		</card>
 		<card>
 			<name>Dragonite</name>
@@ -1828,8 +1830,8 @@ Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text
 			<type>Pokémon - Dragon Flying</type>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve {3}{W/R}{R/G}{G/W}
-Flying, haste, vigilance, hexproof from trainers</text>
+			<text>Evolve {3}{R}{G}{W}
+Flying, vigilance, haste, hexproof from trainers</text>
 		</card>
 		<card>
 			<name>Mewtwo</name>
@@ -1863,8 +1865,8 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Red</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Reveal the top five cards of your library. Put a Pokémon card revealed this way into your hand and the rest on the bottom of your library in any order.
-[−3]: Create Red's Pikachu, a legendary 5/5 white and red Electric Pokémon with first strike, lifelink, and haste.
+			<text>[+1]: Exile the top two cards of your library. Until end of turn, you may cast Pokémon cards exiled this way.
+[−3]: Create Red's Pikachu, a legendary 4/4 white and red Electric Pokémon with first strike, lifelink, and haste.
 [−7]: You may put any number of Pokémon cards from your hand onto the battlefield.</text>
 		</card>
 		<card>
@@ -1875,9 +1877,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Blue</type>
 			<loyalty>4</loyalty>
-			<text>[+2]: Up to one target Pokémon gets +2/-2 until end of turn.
-[-2]: Search your library for a Pokémon card. You may cast that card for its evolve cost without paying its mana cost. Then shuffle.
-[−7]: Pokémon you control get +3/+3 and gain hexproof, vigilance, lifelink, indestructible, and haste until end of turn.</text>
+			<text>Whenever a player casts a Trainer spell, put a loyalty counter on Blue.
+[-1]: Until end of turn, Pokémon spells you cast cost {1} less to cast.
+[-3]: Search your library for a Pokémon card. You may cast that card for its evolve cost without paying its mana cost. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Green</name>
@@ -1911,9 +1913,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Misty</type>
 			<loyalty>4</loyalty>
-			<text>Whenever you counter a spell, you may draw a card.
-[-1]: Tap or untap up to one target Pokémon.
-[−1]: Draw two cards, then put a card from your hand on the bottom of your library.</text>
+			<text>Whenever a spell or ability you control counters a spell, put two loyalty counters on Misty.
+[-2]: Draw a card.
+[−3]: Each player chooses a Pokémon they don’t control and gains control of it.</text>
 		</card>
 		<card>
 			<name>Lt. Surge</name>
@@ -1961,7 +1963,7 @@ Pokémoncycling {3}</text>
 			<loyalty>6</loyalty>
 			<text>[+1]: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
 [-2]: Search your library for a card, then shuffle and put that card third from the top.
-[-4]: Target player discards a card, then each player draws cards equal to the number of cards in their hand.</text>
+[-8]: Take an extra turn after this one.</text>
 		</card>
 		<card>
 			<name>Blaine</name>
@@ -1995,7 +1997,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Oak</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Until end of turn, Pokémon enter the battlefield with your choice of a lifelink counter or a double strike counter on them.
+			<text>[+1]: Until end of turn, Pokémon enter the battlefield with your choice of a lifelink counter or a first strike counter on them.
 [-3]: Exile target Pokémon with power greater than its toughness.
 [-7]: You get an emblem with "Pokémon you control have indestructible."</text>
 		</card>
@@ -2007,9 +2009,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Lorelei</type>
 			<loyalty>2</loyalty>
-			<text>[+1]: Target player gains 3 life.
-[0]: Pokémon you control get +0/+2 until end of turn.
-[-5]: Put any number of Water and Ice Pokémon cards from your hand onto the battlefield.</text>
+			<text>Whenever you gain life for the first time each turn, put a loyalty counter on Lorelei.
+[-2]: Tap or untap target Pokemon.
+[-X]: Put a Water and/or Ice Pokémon card with mana value X from your hand onto the battlefield.</text>
 		</card>
 		<card>
 			<name>Bruno</name>
@@ -2018,9 +2020,9 @@ Pokémoncycling {3}</text>
 			<manacost>2{R/G}{R/G}</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Bruno</type>
-			<loyalty>2</loyalty>
-			<text>[+2]: Untap up to two target lands.
-[-1]: Put a +1/+1 counter on target Fighting or Rock Pokémon.
+			<loyalty>3</loyalty>
+			<text>At the beginning of combat on your turn, put a loyalty counter on Bruno. 
+[-1]: Put a +1/+1 counter on target Pokémon.
 [-3]: Pokémon you control with +1/+1 counters on them gain trample until end of turn.</text>
 		</card>
 		<card>
@@ -2236,7 +2238,7 @@ Draw a card.</text>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/PlusPower.png" rarity="common">PTCG</set>
 			<color>R</color>
 			<manacost>RR</manacost>
-			<type>Instant</type>
+			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
 			<text>Target Pokémon gets +2/+2 and gains haste until end of turn.</text>
 		</card>
@@ -2352,7 +2354,7 @@ Draw a card.</text>
 			<name>Smog</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Smog.png" rarity="common">PTCG</set>
 			<color>B</color>
-			<manacost>1BBB</manacost>
+			<manacost>1B</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Put a -1/-1 counter on each attacking Pokémon. Each player gets a poison counter.</text>
@@ -2559,7 +2561,7 @@ Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text
 		</card>
 		<card>
 			<name>Double-Edge</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Double-edge.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Double-Edge.png" rarity="uncommon">PTCG</set>
 			<color>G</color>
 			<manacost>3G</manacost>
 			<type>Sorcery</type>
@@ -2630,7 +2632,7 @@ Sacrifice Thunder Stone: Destroy target artifact or TM.</text>
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {G}.
-Sacrifice Leaf Stone: Add {G}{G}{G}.</text>
+Sacrifice Leaf Stone: Add {G}{G}.</text>
 		</card>
 		<card>
 			<name>Water Stone</name>
@@ -2838,7 +2840,7 @@ Whenever enchanted Pokémon deals combat damage, create a Treasure token.</text>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Enchanted Pokémon has flying.</text>
+Enchanted Pokémon gets +2/+0 and has flying and vigilance.</text>
 		</card>
 		<card>
 			<name>Dream Eater</name>
@@ -2931,7 +2933,7 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<manacost>1WU</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>Whenever you gain life, target Pokémon phases out.</text>
+			<text>Untap all nonland permanents you control during each other player's untap step.</text>
 		</card>
 		<card>
 			<name>Pokémon Tower</name>
@@ -3129,8 +3131,9 @@ Cycling {3}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {W}.
-{T}: Add one mana of any color. Spend this mana only to cast Pokémon spells.</text>
+			<text>As Pallet Town enters the battlefield, choose a color. 
+{T}: Add {W}.
+{T}: Add one mana of the chosen color. Spend this mana only to cast Pokémon spells.</text>
 		</card>
 		<card>
 			<name>Pewter City</name>
@@ -3433,7 +3436,7 @@ Cycling {3}</text>
 			<color>RW</color>
 			<manacost />
 			<type>Token Legendary Pokémon - Electric</type>
-			<pt>5/5</pt>
+			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>First strike, lifelink, haste</text>
 			<reverse-related>Red</reverse-related>
