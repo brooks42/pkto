@@ -1962,7 +1962,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Sabrina</type>
 			<loyalty>6</loyalty>
 			<text>[+1]: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
-[-2]: Search your library for a card, then shuffle and put that card third from the top.
+[-2]: Search your library for a card, then shuffle and put that card second from the top.
 [-8]: Take an extra turn after this one.</text>
 		</card>
 		<card>
