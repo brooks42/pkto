@@ -2149,7 +2149,7 @@ Pokémoncycling {3}</text>
 		</card>
 		<card>
 			<name>Energy Search</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Energy%20Search%20Mk2.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Energy%20Search.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Sorcery</type>
