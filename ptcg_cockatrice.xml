@@ -2044,7 +2044,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Lance</type>
 			<loyalty>4</loyalty>
 			<text>[+1]: Lance deals 3 damage to target Pokémon. You gain 3 life.
-[-3]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying and vigilance that's still a Trainer. Prevent all damage that would be dealt to him this turn.
+[-3]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying, vigilance, and indestructible.
 [-8]: Gain control of all Pokémon.</text>
 		</card>
 		<!-- sorceries/instants -->
