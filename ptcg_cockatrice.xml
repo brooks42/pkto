@@ -1935,8 +1935,8 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Erika</type>
 			<loyalty>1</loyalty>
-			<text>[+1]: Add {G}, {U}, or {W}.
-[-2]: Create two 1/1 green and black Grass Poison tokens with lifelink named Oddish.
+			<text>[+1]: Create two 1/1 green and black Grass Poison Pokémon tokens with lifelink named Oddish.
+[-2]: Reveal your hand. You gain 1 life for each Pokémon card revealed this way.
 [−X]: Pokémon you control get +X/+X until end of turn.</text>
 		</card>
 		<card>
@@ -2043,8 +2043,8 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Lance</type>
 			<loyalty>4</loyalty>
-			<text>[+2]: Lance deals 3 damage to target Pokémon. You gain 3 life.
-[-2]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying and vigilance that's still a Trainer. Prevent all damage that would be dealt to him this turn.
+			<text>[+1]: Lance deals 3 damage to target Pokémon. You gain 3 life.
+[-3]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying, vigilance, and indestructible.
 [-8]: Gain control of all Pokémon.</text>
 		</card>
 		<!-- sorceries/instants -->
@@ -2552,10 +2552,10 @@ Target Pokémon loses indestructible. Destroy it. It can't be regenerated.</text
 			<name>Mimic</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mimic.png" rarity="uncommon">PTCG</set>
 			<color>R</color>
-			<manacost>2R</manacost>
+			<manacost>RR</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Copy target non-Pokémon spell. You may choose new targets for the copy.</text>
+			<text>Copy target instant or sorcery spell. You may choose new targets for the copy.</text>
 		</card>
 		<card>
 			<name>Double-Edge</name>
