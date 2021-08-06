@@ -627,7 +627,7 @@ Lifelink</text>
 			<type>Pokémon - Bug Grass</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>When Paras enters the battlefield or evolves, you may destroy target artifact or enchantment.</text>
+			<text>Whenever this Pokémon enters the battlefield or evolves, you may destroy target artifact or enchantment.</text>
 		</card>
 		<card>
 			<name>Parasect</name>
@@ -942,7 +942,8 @@ At the beginning of your upkeep, if Machoke doesn’t have the highest combined 
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Bellsprout {B/G}{B/G}
-Reach, Wither</text>
+Reach
+Wither</text>
 		</card>
 		<card>
 			<name>Victreebel</name>
@@ -953,7 +954,7 @@ Reach, Wither</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Weepinbell {1}{B/G}{B/G}
-{X}{X}{B/G}: Put X -1/-1 counters on target Pokémon, or remove X loyalty counters from target Trainer.</text>
+{X}{X}{B/G}: Choose target Pokémon or trainer. Put X -1/-1 counters on that Pokémon or remove X loyalty counters from that trainer.</text>
 		</card>
 		<card>
 			<name>Tentacool</name>
@@ -1324,7 +1325,7 @@ Whenever Electrode enters the battlefield or takes damage, you may sacrifice it.
 			<tablerow>2</tablerow>
 			<text>Evolve From Exeggcute {G}{B}
 Reach
-Whenever Exeggutor blocks a Pokémon with flying, put 2 -1/-1 counters on that Pokémon and you draw a card.</text>
+Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that Pokémon and you draw a card.</text>
 		</card>
 		<card>
 			<name>Cubone</name>
@@ -2381,8 +2382,7 @@ Draw a card.</text>
 			<manacost>1{U/B}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.
-Draw a card.</text>
+			<text>Counter target spell. If that spell is countered this way, put it into its owner’s hand instead of into that player’s graveyard. Spells with the same name as that spell can’t be cast until your next turn.</text>
 		</card>
 		<card>
 			<name>Fire Spin</name>
@@ -2754,7 +2754,7 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Whenever enchanted Pokémon attacks, you may have it deal 3 damage to target Pokémon.</text>
+Whenever enchanted Pokémon attacks, it deals 3 damage to up to one target Pokémon.</text>
 		</card>
 		<card>
 			<name>Ice Beam</name>
