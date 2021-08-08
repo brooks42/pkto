@@ -1398,7 +1398,7 @@ Prevent all noncombat damage that would be dealt to Hitmonchan.</text>
 			<tablerow>2</tablerow>
 			<text>Evolve From Koffing {X}{B}{B}
 When you cast Weezing for its evolve cost, distribute X -1/-1 counters on up to X target Pokémon.
-At the beginning of your end step, destroy each Pokémon with mana value equal to the number of +1/+1 counters on Weezing.</text>
+When Weezing attacks, defending player loses 1 life for each of their Pokémon with a -1/-1 counter on it.</text>
 		</card>
 		<card>
 			<name>Rhyhorn</name>
