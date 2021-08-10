@@ -1384,7 +1384,7 @@ Prevent all noncombat damage that would be dealt to Hitmonchan.</text>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Pokémon - Poison</type>
-			<pt>1/1</pt>
+			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>Koffing gets +1/+1 for each -1/-1 counter on all Pokémon.</text>
 		</card>
@@ -1392,13 +1392,12 @@ Prevent all noncombat damage that would be dealt to Hitmonchan.</text>
 			<name>Weezing</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Weezing.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
-			<manacost>3BB</manacost>
+			<manacost>XXBB</manacost>
 			<type>Pokémon - Poison</type>
-			<pt>3/3</pt>
+			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Koffing {X}{B}{B}
-When you cast Weezing for its evolve cost, distribute X -1/-1 counters on up to X target Pokémon.
-When Weezing attacks, defending player loses 1 life for each of their Pokémon with a -1/-1 counter on it.</text>
+When you cast Weezing, distribute X -1/-1 counters among up to X target Pokémon.</text>
 		</card>
 		<card>
 			<name>Rhyhorn</name>
