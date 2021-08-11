@@ -1395,7 +1395,7 @@ Prevent all noncombat damage that would be dealt to Hitmonchan.</text>
 			<color>B</color>
 			<manacost>XXBB</manacost>
 			<type>Pokémon - Poison</type>
-			<pt>3/3</pt>
+			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Koffing {X}{B}{B}
 When you cast Weezing, distribute X -1/-1 counters among up to X target Pokémon.</text>
