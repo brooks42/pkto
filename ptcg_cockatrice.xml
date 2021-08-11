@@ -439,7 +439,7 @@ Whenever this Pokémon evolves, return target Pokémon card from your graveyard 
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidorina {1}{B}{B}
-If another Pokémon you control with no counters on it would be put into a graveyard from the battlefield, you may exile it instead. If you do, return it to the battlefield under its owner's control at the beginning of the next end step with an additional -1/-1 counter on it.</text>
+Pokémon you control with lesser toughness than Nidoqueen have persist.</text>
 		</card>
 		<card>
 			<name>Nidoran♂</name>
@@ -713,7 +713,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Psyduck’s power or toughness become 5 or greater, if it is unevolved, it deals 4 damage to each player and each Pokémon.</text>
+			<text>Whenever Psyduck is dealt 5 or more damage, it deals 4 damage to each player and each Pokémon.</text>
 		</card>
 		<card>
 			<name>Golduck</name>
