@@ -861,7 +861,7 @@ Whenever this Pokémon enters the battlefield or evolves, scry 1.</text>
 			<tablerow>2</tablerow>
 			<text>Evolve From Kadabra {1}{U}{B}
 {U}{U}: Scry 1.
-If you would scry, scry that many cards plus one instead.</text>
+If you would scry a number of cards, scry that many cards plus one instead.</text>
 		</card>
 		<card>
 			<name>Machop</name>
