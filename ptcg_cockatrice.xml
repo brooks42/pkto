@@ -660,8 +660,8 @@ If Parasect would be dealt damage by a Water Pokémon, prevent that damage. You 
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Venonat {G}{U}
-Whenever this Pokémon evolves, choose a Pokémon card name. Target opponent reveals their hand. Put all cards revealed this way with the chosen name onto the battlefield under your control.
-Flying</text>
+Flying
+Whenever this Pokémon evolves or enters the battlefield, choose a card name. Spells with the chosen name can’t be cast.</text>
 		</card>
 		<card>
 			<name>Diglett</name>
@@ -713,7 +713,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Psyduck is dealt 5 or more damage, it deals 4 damage to each player and each Pokémon.</text>
+			<text>Whenever Psyduck is dealt 5 or more damage, if it hasn't evolved, it deals 4 damage to each player and each Pokémon.</text>
 		</card>
 		<card>
 			<name>Golduck</name>
