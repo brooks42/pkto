@@ -240,7 +240,8 @@ Whenever this Pokémon evolves, it loses defender and target player discards a c
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Kakuna {2}{B}
-Flying, infect</text>
+Flying, wither
+Whenever this Pokémon evolves, create two copies of it except they are 1/1 with no mana cost.</text>
 		</card>
 		<card>
 			<name>Pidgey</name>
@@ -340,7 +341,7 @@ Flying</text>
 			<type>Pokémon - Poison</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>Infect</text>
+			<text>Wither</text>
 		</card>
 		<card>
 			<name>Arbok</name>
@@ -1946,7 +1947,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Koga</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Up to one target Pokémon gains infect until end of turn.
+			<text>[+1]: Up to one target Pokémon gets +1/+0 and gains wither until end of turn.
 [-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
 [−6]: You get an emblem with "Pokémon you control have {B}: this Pokémon gains shadow until end of turn."</text>
 		</card>
@@ -3413,6 +3414,17 @@ Cycling {3}</text>
 			<text>{T}: Add {G}.</text>
 		</card>
 		<!-- Tokens -->
+		<card>
+			<name>Beedrill (Token)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/BeedrillToken.png" rarity="token">PTCG</set>
+			<color>B</color>
+			<manacost />
+			<type>Token Pokémon - Bug Poison</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>Flying, wither</text>
+			<reverse-related count="2">Beedrill</reverse-related>
+		</card>
 		<card>
 			<name>Diglett (Token)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/DiglettToken.png" rarity="token">PTCG</set>
