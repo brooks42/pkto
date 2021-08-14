@@ -186,7 +186,7 @@ Whenever this Pokémon evolves, it loses defender and you draw a card.</text>
 		</card>
 		<card>
 			<name>Butterfree</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Butterfree.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Butterfree.png" rarity="rare">PTCG</set>
 			<color>G</color>
 			<manacost>3GG</manacost>
 			<type>Pokémon - Bug Flying</type>
@@ -240,7 +240,8 @@ Whenever this Pokémon evolves, it loses defender and target player discards a c
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Kakuna {2}{B}
-Flying, infect</text>
+Flying, wither
+Whenever this Pokémon evolves, create two copies of it except they are 1/1 with no mana cost.</text>
 		</card>
 		<card>
 			<name>Pidgey</name>
@@ -340,7 +341,7 @@ Flying</text>
 			<type>Pokémon - Poison</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>Infect</text>
+			<text>Wither</text>
 		</card>
 		<card>
 			<name>Arbok</name>
@@ -439,7 +440,7 @@ Whenever this Pokémon evolves, return target Pokémon card from your graveyard 
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidorina {1}{B}{B}
-If another Pokémon you control with no counters on it would be put into a graveyard from the battlefield, you may exile it instead. If you do, return it to the battlefield under its owner's control at the beginning of the next end step with an additional -1/-1 counter on it.</text>
+Pokémon you control with lesser toughness than Nidoqueen have persist.</text>
 		</card>
 		<card>
 			<name>Nidoran♂</name>
@@ -660,8 +661,8 @@ If Parasect would be dealt damage by a Water Pokémon, prevent that damage. You 
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Venonat {G}{U}
-Whenever this Pokémon evolves, choose a Pokémon card name. Target opponent reveals their hand. Put all cards revealed this way with the chosen name onto the battlefield under your control.
-Flying</text>
+Flying
+Whenever this Pokémon evolves or enters the battlefield, choose a card name. Spells with the chosen name can’t be cast.</text>
 		</card>
 		<card>
 			<name>Diglett</name>
@@ -713,7 +714,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Psyduck’s power or toughness become 5 or greater, if it is unevolved, it deals 4 damage to each player and each Pokémon.</text>
+			<text>Whenever Psyduck is dealt 5 or more damage, if it hasn't evolved, it deals 4 damage to each player and each Pokémon.</text>
 		</card>
 		<card>
 			<name>Golduck</name>
@@ -1946,7 +1947,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Koga</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Up to one target Pokémon gains infect until end of turn.
+			<text>[+1]: Up to one target Pokémon gets +1/+0 and gains wither until end of turn.
 [-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
 [−6]: You get an emblem with "Pokémon you control have {B}: this Pokémon gains shadow until end of turn."</text>
 		</card>
@@ -3413,6 +3414,17 @@ Cycling {3}</text>
 			<text>{T}: Add {G}.</text>
 		</card>
 		<!-- Tokens -->
+		<card>
+			<name>Beedrill (Token)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/BeedrillToken.png" rarity="token">PTCG</set>
+			<color>B</color>
+			<manacost />
+			<type>Token Pokémon - Bug Poison</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>Flying, wither</text>
+			<reverse-related count="2">Beedrill</reverse-related>
+		</card>
 		<card>
 			<name>Diglett (Token)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/DiglettToken.png" rarity="token">PTCG</set>
