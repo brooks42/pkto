@@ -2736,7 +2736,7 @@ When enchanted Pokémon has three or more +1/+1 counters on it, sacrifice Swords
 		</card>
 		<card>
 			<name>Mega Kick</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Quick%20Attack.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mega%20Kick.png" rarity="uncommon">PTCG</set>
 			<color>W</color>
 			<manacost>WW</manacost>
 			<type>Enchantment - TM</type>
