@@ -1968,7 +1968,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Blaine</type>
 			<loyalty>3</loyalty>
-			<text>Medicine cards in your hand have flash.
+			<text>[+1]: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
 [-1]: Create a token that's a copy of target artifact with mana value 2 or less. 
 [-2]: Discard two cards. If you do, draw two cards.</text>
 		</card>
@@ -2262,7 +2262,7 @@ Draw a card.</text>
 			<manacost>W</manacost>
 			<type>Sorcery - Medicine</type>
 			<tablerow>3</tablerow>
-			<text>Remove all -1/-1 counters from target Pokémon. It gains vigilance until end of turn.</text>
+			<text>Remove all counters from target Pokémon or player. You gain life equal to the number of counters removed this way.</text>
 		</card>
 		<card>
 			<name>Ice Heal</name>
