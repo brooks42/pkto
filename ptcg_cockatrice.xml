@@ -768,8 +768,7 @@ Whenever Growlithe deals damage to a Pokémon, if that Pokémon would die this t
 			<pt>7/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Growlithe {1}{R/W}{R/W}
-Arcanine enters the battlefield with your choice of a haste counter or a menace counter on it.
-Arcanine evolves with both.</text>
+Arcanine enters the battlefield with your choice of a haste counter or a menace counter on it. Arcanine evolves with both.</text>
 		</card>
 		<card>
 			<name>Poliwag</name>
@@ -1301,7 +1300,7 @@ Haste</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Voltorb {R/W}
-Whenever Electrode enters the battlefield or takes damage, you may sacrifice it. If you do, it deals damage equal to its power to each Pokémon and each trainer.</text>
+Whenever Electrode enters the battlefield or is dealt damage, you may sacrifice it. If you do, it deals damage equal to its power to each Pokémon and each trainer.</text>
 		</card>
 		<card>
 			<name>Exeggcute</name>
@@ -1543,7 +1542,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 			<type>Pokémon - Ice Psychic</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
-			<text>{U}{B}, {T}: Target player draws two cards and loses 2 life.</text>
+			<text>{2}{U}{B}, {T}: Target player draws two cards and loses 2 life.</text>
 		</card>
 		<card>
 			<name>Electabuzz</name>
