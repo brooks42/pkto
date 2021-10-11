@@ -41,7 +41,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Bulbasaur {1}{G}
-Reach, deathtouch</text>
+Reach, trample</text>
 		</card>
 		<card>
 			<name>Venusaur</name>
@@ -51,9 +51,8 @@ Reach, deathtouch</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Ivysaur {1}{G}{G}
-If one or more counters would be put on a Pokémon you control, that many plus one of each of those kinds of counters are put on that Pokémon instead.
-Trample</text>
+			<text>Evolve From Ivysaur {G}{G}
+If one or more counters would be put on a Pokémon you control, that many plus one of each of those kinds of counters are put on that Pokémon instead.</text>
 		</card>
 		<card>
 			<name>Squirtle</name>
@@ -540,7 +539,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<type>Pokémon - Normal Fairy</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Jigglypuff is dealt damage, put a +1/+1 counter on it.</text>
+			<text>Whenever Jigglypuff is dealt damage, tap target Pokémon. That Pokémon doesn’t untap during its controller’s next untap step.</text>
 		</card>
 		<card>
 			<name>Wigglytuff</name>
@@ -940,13 +939,12 @@ At the beginning of your upkeep, if Machoke doesn’t have the highest combined 
 			<name>Weepinbell</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Weepinbell.png" rarity="uncommon">PTCG</set>
 			<color>G</color>
-			<manacost>3GG</manacost>
+			<manacost>2GG</manacost>
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Bellsprout {G}{G}
-Reach
-Wither</text>
+Reach, wither</text>
 		</card>
 		<card>
 			<name>Victreebel</name>
@@ -1056,7 +1054,7 @@ First strike, haste</text>
 			<type>Pokémon - Water Psychic</type>
 			<pt>1/4</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{U}, {T}: Scry 1. If you put a card on the bottom of your library this way, draw a card.</text>
+			<text>{2}{U}, {T}: Scry 1. If you put a card on the bottom of your library this way, draw a card.</text>
 		</card>
 		<card>
 			<name>Slowbro</name>
@@ -1743,13 +1741,13 @@ Fossil {3}{R}{G}</text>
 			<name>Snorlax</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Snorlax.png" rarity="rare">PTCG</set>
 			<color>W</color>
-			<manacost>3WW</manacost>
+			<manacost>1WW</manacost>
 			<type>Pokémon - Normal</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>Snorlax doesn't untap during your untap step.
-Whenever you gain life, untap Snorlax.
-As long as Snorlax is tapped, it can block as though it weren't tapped, and can block any number of Pokémon.</text>
+			<text>Snorlax enters the battlefield tapped.
+Snorlax doesn't untap during your untap step.
+Whenever you gain life, untap Snorlax.</text>
 		</card>
 		<card>
 			<name>Articuno</name>
