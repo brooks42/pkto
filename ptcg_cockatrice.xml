@@ -298,7 +298,8 @@ Flying, vigilance</text>
 			<type>Pokémon - Normal</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>First strike</text>
+			<text>First strike
+			Sacrifice Rattata: Destroy target enchantment.</text>
 		</card>
 		<card>
 			<name>Raticate</name>
@@ -360,7 +361,7 @@ Whenever a +1/+1 counter would be put on a Pokémon, that many -1/-1 counters ar
 			<color>WR</color>
 			<manacost>1WR</manacost>
 			<type>Pokémon - Electric</type>
-			<pt>2/2</pt>
+			<pt>3/2</pt>
 			<tablerow>2</tablerow>
 			<text>First strike, haste</text>
 		</card>
@@ -373,7 +374,7 @@ Whenever a +1/+1 counter would be put on a Pokémon, that many -1/-1 counters ar
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Pikachu {W}{R}
-Whenever Raichu attacks, if it has first strike, you may destroy target enchantment.</text>
+Whenever Raichu attacks, if it has first strike, you may destroy target artifact or enchantment.</text>
 		</card>
 		<card>
 			<name>Sandshrew</name>
@@ -607,7 +608,7 @@ Lifelink</text>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Oddish {B/G}
-{2}{B}, {T}: Distribute two -1/-1 counters among one or two target Pokémon.</text>
+{4}{B}, {T}: Put a -1/-/1 counter on target Pokémon. </text>
 		</card>
 		<card>
 			<name>Vileplume</name>
@@ -618,7 +619,7 @@ Lifelink</text>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Gloom {B/G}
-{1}{G/B}{G/B}, {T}, Exile a card from a graveyard: Distribute two -1/-1 counters among one or two target Pokémon.</text>
+Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Paras</name>
@@ -1456,7 +1457,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
 			<name>Horsea</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Horsea.png" rarity="common">PTCG</set>
 			<color>U</color>
-			<manacost>1U</manacost>
+			<manacost>1UU</manacost>
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
@@ -1621,11 +1622,11 @@ Whenever this Pokémon evolves, discard your hand, then draw three cards. It dea
 			<name>Ditto</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ditto.png" rarity="rare">PTCG</set>
 			<color />
-			<manacost>3</manacost>
+			<manacost>2</manacost>
 			<type>Pokémon - Normal</type>
 			<pt>0/2</pt>
 			<tablerow>2</tablerow>
-			<text>{2}: Ditto becomes a copy of target Pokémon, except it has this ability.</text>
+			<text>{3}:Ditto becomes a copy of target permanent.</text>
 		</card>
 		<card>
 			<name>Eevee</name>
@@ -1850,7 +1851,7 @@ Annihilator 1</text>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Tap an untapped Pokémon you control: It gains indestructible until end of turn.
+Tap Mew and another untapped Pokémon you control: That Pokémon gains indestructible until end of turn.
 Pokémoncycling {3}</text>
 		</card>
 		<!-- trainer cards -->
@@ -2429,7 +2430,7 @@ Draw a card.</text>
 			<manacost>1U</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Counter target instant or sorcery spell.</text>
+			<text>Counter target non-Pokémon spell.</text>
 		</card>
 		<card>
 			<name>Fire Blast</name>
@@ -2468,7 +2469,7 @@ Overload—Reveal a blue Pokémon card from your hand.
 			<name>Release</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Release.png" rarity="common">PTCG</set>
 			<color>U</color>
-			<manacost>2U</manacost>
+			<manacost>1U</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Counter target Pokémon spell.</text>
@@ -2753,7 +2754,7 @@ Enchanted Pokémon gets +1/+1 and first strike.</text>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Whenever enchanted Pokémon deals combat damage to a player, that player discards a card and you draw a card.</text>
+Whenever enchanted Pokémon deals combat damage to a player, that player discards a card.</text>
 		</card>
 		<!-- Locations -->
 		<card>
@@ -2790,7 +2791,8 @@ Whenever enchanted Pokémon deals combat damage to a player, that player discard
 			<manacost>1GG</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>At the beginning of each player’s upkeep, that player chooses a color. Until end of turn, all lands gain “{T}: Add one mana of the chosen color.”</text>
+			<text>Whenever a Pokémon you control attacks, put a bloom counter on Celadon Gym.
+Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 		</card>
 		<card>
 			<name>Saffron Gym</name>
@@ -2818,7 +2820,8 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<manacost>1RR</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Players may cast sorcery spells as though they had flash.</text>
+			<text>At the beginning of each player’s upkeep, Cinnabar Gym deals 2 damage to that player.
+Players can’t gain life.</text>
 		</card>
 		<card>
 			<name>Viridian Gym</name>
