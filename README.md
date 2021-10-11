@@ -2,15 +2,23 @@
 
 A repo for the MTG Pokemon TCG cockatrice XML and supporting materials.
 
-## New Mechanics and FAQ
+## New Mechanics
 
 ### Pokémon
 
-Pokémon is a replacement for the creature type. Pokémon act like creatures in all respects.
+Pokémon is a replacement for the creature type. Pokémon behave like creatures in all respects.
 
 ### Trainer
 
-Trainer is a replacement for the planeswalker type. Trainers act like planeswalkers in all respects.
+Trainer is a replacement for the planeswalker type. Trainers behave like planeswalkers in all respects.
+
+### TM
+
+TM is a replacement for the aura subtype. TMs behave like auras in all respects.
+
+### Fossil
+
+Fossil is a replacement for the escape mechanic. Fossil behaves like escape in all respects.
 
 ### Evolution
 
