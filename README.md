@@ -26,7 +26,7 @@ Both the activated ability "Evolve" and the alternate casting cost "Evolve from 
 
 **Q: My Bulbasaur evolved into Ivysaur (flipped over) and then [game event] happened, how do I handle it?**
 
-**A**: Pokémon with Evolve abilities act just like any other double-faced cards. [see this link for more info](https://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-29#:~:text=Double-Faced%20Card%20Rules%201%20Double-Faced%20Cards%20in%20General.,...%204%20Double-Faced%20Cards%20and%20Copy%20Effects.%20).
+**A**: Pokémon with Evolve abilities act just like any other double-faced cards. [See this link for more info](https://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-29#:~:text=Double-Faced%20Card%20Rules%201%20Double-Faced%20Cards%20in%20General.,...%204%20Double-Faced%20Cards%20and%20Copy%20Effects.%20).
 
 **Q: Machop gets a +1/+1 counter when it evolves, and the Machoke on the back gets the same. When I activate its evolve ability, how many counters does it get?**
 
