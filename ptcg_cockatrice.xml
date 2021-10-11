@@ -1685,22 +1685,22 @@ Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you c
 			<color>UR</color>
 			<manacost>1UR</manacost>
 			<type>Pokémon - Rock Water</type>
-			<pt>1/4</pt>
+			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{R}{R}: Omanyte deals 2 damage to target Pokémon with flying and that Pokémon loses flying until end of turn.
-Fossil {3}{U}{R}</text>
+			<text>{1}{U}{U}: Omanyte can't be blocked this turn.
+Fossil-{2}{U}{R}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Omastar</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Omastar.png" rarity="uncommon">PTCG</set>
 			<color>UR</color>
-			<manacost>2UUR</manacost>
+			<manacost>2URR</manacost>
 			<type>Pokémon - Rock Water</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Omanyte {1}{U}{R}
-{1}{U}{U}, {T}: Draw five cards, then put three cards from your hand on the bottom of your library in any order.
-Fossil {3}{U}{R}</text>
+{1}{R}{R}, {T}: Omastar deals 2 damage to target Pokémon.
+Fossil-{4}{U}{R}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Kabuto</name>
@@ -1710,8 +1710,8 @@ Fossil {3}{U}{R}</text>
 			<type>Pokémon - Rock Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{U}{U}: Target land becomes an Island until end of turn. Kabuto gains islandwalk until end of turn.
-Fossil {3}{U}{G}</text>
+			<text>{1}{U}{U}: Scry 2.
+Fossil-{2}{U}{G}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Kabutops</name>
@@ -1719,11 +1719,11 @@ Fossil {3}{U}{G}</text>
 			<color>UG</color>
 			<manacost>2UGG</manacost>
 			<type>Pokémon - Rock Water</type>
-			<pt>5/5</pt>
+			<pt>4/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Kabuto {1}{U}{G}
 {1}{G}{G}, {T}: Kabutops fights target Pokémon.
-Fossil {3}{U}{G}</text>
+Fossil-{4}{U}{G}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Aerodactyl</name>
@@ -1734,7 +1734,7 @@ Fossil {3}{U}{G}</text>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>Flying, haste
-Fossil {3}{R}{G}</text>
+Fossil-{2}{R}{G}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Snorlax</name>
@@ -2119,7 +2119,7 @@ Pokémoncycling {3}</text>
 		</card>
 		<card>
 			<name>Old Rod</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Old%20Rod.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Old%20Rod.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
@@ -2539,7 +2539,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 		</card>
 		<card>
 			<name>Prepare for Trouble</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Prepare%20for%20Trouble.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Prepare%20for%20Trouble.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>BB</manacost>
 			<type>Sorcery</type>
