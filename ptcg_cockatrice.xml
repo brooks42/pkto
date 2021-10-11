@@ -2729,8 +2729,7 @@ Enchanted Pokémon has "{T}: Destroy target nonland permanent. This Pokémon doe
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Enchanted Pokémon has "{T}: put a +1/+1 counter on this Pokémon."
-When enchanted Pokémon has three or more +1/+1 counters on it, sacrifice Swords Dance. If you do, draw a card.</text>
+Enchanted Pokémon has "{T}: Put a +1/+1 counter on this Pokémon. Then if it has three or more +1/+1 counters on it, sacrifice Swords Dance.”</text>
 		</card>
 		<card>
 			<name>Mega Kick</name>
