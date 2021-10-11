@@ -181,7 +181,7 @@ Other Pokémon you control enter the battlefield with your choice of a menace co
 			<tablerow>2</tablerow>
 			<text>Evolve From Caterpie {G}
 Defender
-Whenever this Pokémon evolves, it loses defender and you draw a card.</text>
+Whenever Metapod evolves, it loses defender and you draw a card.</text>
 		</card>
 		<card>
 			<name>Butterfree</name>
@@ -228,7 +228,7 @@ Deathtouch</text>
 			<tablerow>2</tablerow>
 			<text>Evolve From Weedle {B}
 Defender
-Whenever this Pokémon evolves, it loses defender and target player discards a card.</text>
+Whenever Kakuna evolves, it loses defender and target player discards a card.</text>
 		</card>
 		<card>
 			<name>Beedrill</name>
@@ -240,7 +240,7 @@ Whenever this Pokémon evolves, it loses defender and target player discards a c
 			<tablerow>2</tablerow>
 			<text>Evolve From Kakuna {2}{B}
 Flying, wither
-Whenever this Pokémon evolves, create two copies of it except they are 1/1 with no mana cost.</text>
+Whenever Beedrill evolves, create two copies of it except they are 1/1 with no mana cost.</text>
 		</card>
 		<card>
 			<name>Pidgey</name>
@@ -429,7 +429,7 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidoran♀ {1}{G}
-Whenever this Pokémon evolves, return target Pokémon card from your graveyard to your hand.</text>
+Whenever Nidorina evolves, return target Pokémon card from your graveyard to your hand.</text>
 		</card>
 		<card>
 			<name>Nidoqueen</name>
@@ -475,7 +475,7 @@ Whenever Nidoran♂ attacks, it gains first strike and deathtouch until end of t
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidoran♂ {1}{B}
-Whenever this Pokémon evolves, if you control no other Pokémon, add {B}{B}{B} and draw a card.</text>
+Whenever Nidorino evolves, if you control no other Pokémon, add {B}{B}{B} and draw a card.</text>
 		</card>
 		<card>
 			<name>Nidoking</name>
@@ -628,7 +628,7 @@ Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text
 			<type>Pokémon - Bug Grass</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever this Pokémon enters the battlefield or evolves, you may destroy target artifact or enchantment.</text>
+			<text>Whenever Paras enters the battlefield or evolves, you may destroy target artifact or enchantment.</text>
 		</card>
 		<card>
 			<name>Parasect</name>
@@ -662,7 +662,7 @@ If Parasect would be dealt damage by a Water Pokémon, prevent that damage. You 
 			<tablerow>2</tablerow>
 			<text>Evolve From Venonat {G}{U}
 Flying
-Whenever this Pokémon evolves or enters the battlefield, choose a card name. Spells with the chosen name can’t be cast.</text>
+Whenever Venomoth evolves or enters the battlefield, choose a card name. Spells with the chosen name can’t be cast.</text>
 		</card>
 		<card>
 			<name>Diglett</name>
@@ -683,7 +683,7 @@ Whenever this Pokémon evolves or enters the battlefield, choose a card name. Sp
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Diglett {1}{R}
-Whenever this Pokémon evolves, it gets +2/+0 and gains intimidate and trample until end of turn.</text>
+Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do, create a 2/1 red Ground Pokémon token named Diglett.</text>
 		</card>
 		<card>
 			<name>Meowth</name>
@@ -803,7 +803,7 @@ Hexproof</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Poliwag {U}
-Whenever this Pokémon evolves or becomes the target of a spell or ability, you may draw a card. If you do, discard a card.</text>
+Whenever Poliwhirl evolves or becomes the target of a spell or ability, you may draw a card. If you do, discard a card.</text>
 		</card>
 		<card>
 			<name>Poliwrath</name>
@@ -814,7 +814,7 @@ Whenever this Pokémon evolves or becomes the target of a spell or ability, you 
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Poliwhirl {U}{U}
-Whenever this Pokémon evolves or fights, put a +1/+1 counter on it.
+Whenever Poliwrath evolves or fights, put a +1/+1 counter on it.
 If a Pokémon would fight a Pokémon that isn't Poliwrath, it fights Poliwrath instead.</text>
 		</card>
 		<card>
@@ -826,7 +826,7 @@ If a Pokémon would fight a Pokémon that isn't Poliwrath, it fights Poliwrath i
 			<pt>0/2</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{U}: Evolve to Kadabra
-Whenever this Pokémon enters the battlefield or evolves, scry 1.</text>
+Whenever Abra enters the battlefield or evolves, scry 1.</text>
 			<side>front</side>
 			<related attach="attach">Kadabra (DFC)</related>
 		</card>
@@ -837,7 +837,7 @@ Whenever this Pokémon enters the battlefield or evolves, scry 1.</text>
 			<type>Pokémon - Psychic</type>
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever this Pokémon enters the battlefield or evolves, scry 1.</text>
+			<text>Whenever Kadabra enters the battlefield or evolves, scry 1.</text>
 			<side>back</side>
 			<related attach="attach">Abra</related>
 		</card>
@@ -873,7 +873,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{R/G}{R/G}: Evolve to Machoke
-Whenever this Pokémon evolves, put a +1/+1 counter on it.</text>
+Whenever Machop evolves, put a +1/+1 counter on it.</text>
 			<side>front</side>
 			<related attach="attach">Machoke (DFC)</related>
 		</card>
@@ -884,7 +884,7 @@ Whenever this Pokémon evolves, put a +1/+1 counter on it.</text>
 			<type>Pokémon - Fighting</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever this Pokémon evolves, put a +1/+1 counter on it.</text>
+			<text>Whenever Machoke evolves, put a +1/+1 counter on it.</text>
 			<side>back</side>
 			<related attach="attach">Machop</related>
 		</card>
@@ -1085,7 +1085,7 @@ Whenever you put a card on the bottom of your library, put a +1/+1 counter on Sl
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Magnemite {3}
-Whenever this Pokémon evolves, put three +1/+1 counters on it.</text>
+Whenever Magneton evolves, put three +1/+1 counters on it.</text>
 		</card>
 		<card>
 			<name>Farfetch'd</name>
@@ -1116,7 +1116,7 @@ Whenever this Pokémon evolves, put three +1/+1 counters on it.</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Doduo {1}{R/B}{R/B}
-Whenever this Pokémon evolves, reveal your hand. Put a +1/+1 counter on it for each red or black card revealed this way.
+Whenever Dodrio evolves, reveal your hand. Put a +1/+1 counter on it for each red or black card revealed this way.
 Double strike, haste</text>
 		</card>
 		<card>
@@ -1363,8 +1363,8 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<type>Pokémon - Fighting</type>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
-			<text>Defender, reach
-Prevent all noncombat damage that would be dealt to Hitmonchan.</text>
+			<text>Flash
+When Hitmonchan enters the battlefield, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. Hitmonchan deals that much damage to any target.</text>
 		</card>
 		<card>
 			<name>Lickitung</name>
@@ -1374,7 +1374,7 @@ Prevent all noncombat damage that would be dealt to Hitmonchan.</text>
 			<type>Pokémon - Normal</type>
 			<pt>3/7</pt>
 			<tablerow>2</tablerow>
-			<text>Reach</text>
+			<text>When Lickitung enters the battlefield, target Pokémon phases out until Lickitung leaves the battlefield.</text>
 		</card>
 		<card>
 			<name>Koffing</name>
@@ -1603,7 +1603,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 			<pt>10/10</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Magikarp {6}{U}{R}
-Whenever this Pokémon evolves, discard your hand, then draw three cards. It deals X plus 3 damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
+Whenever Gyarados evolves, discard your hand, then draw three cards. It deals X plus 3 damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
 		</card>
 		<card>
 			<name>Lapras</name>
@@ -1644,7 +1644,7 @@ Whenever this Pokémon evolves, discard your hand, then draw three cards. It dea
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Eevee {3}{U}
-Whenever a Pokémon you control evolves, scry 2 and you gain 3 life.</text>
+Whenever a Pokémon you control evolves, scry 1 and draw a card.</text>
 		</card>
 		<card>
 			<name>Jolteon</name>
@@ -1790,7 +1790,7 @@ At the beginning of your end step, sacrifice a land.</text>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{R}{G}{W}: Evolve to Dragonair
-Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text>
+Whenever Dratini enters the battlefield or evolves, you gain 2 life.</text>
 			<side>front</side>
 			<related attach="attach">Dragonair (DFC)</related>
 		</card>
@@ -1801,7 +1801,7 @@ Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever this Pokémon enters the battlefield or evolves, you gain 2 life.</text>
+			<text>Whenever Dragonair enters the battlefield or evolves, you gain 2 life.</text>
 			<side>back</side>
 			<related attach="attach">Dratini</related>
 		</card>
@@ -2124,7 +2124,7 @@ Pokémoncycling {3}</text>
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Pokémon card that doesn't have Evolve From and put it into your hand. Then shuffle.</text>
+			<text>Search target opponent’s library for a Pokémon card with mana value X or less and put that card onto the battlefield under your control. Then that player shuffles. X can’t be greater than 3.</text>
 		</card>
 		<card>
 			<name>Revive</name>
