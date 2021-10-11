@@ -14,13 +14,13 @@ Trainer is a replacement for the planeswalker type. Trainers act like planeswalk
 
 ### Evolution
 
-```
 Evolve: Flip the card over, just like with transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their P/T is different.
 
 Evolve From X: An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all abilities from under it.
 
 Both the activated ability "Evolve" and the alternate casting cost "Evolve from X" count as evolution. Any triggered abilities that care about a Pokémon evolving will trigger from both types of evolution.
-```
+
+A Pokémon is considered evolved if it is the back side of a card with an evolve ability or it was cast using its Evolve From cost. A Pokémon is considered unevolved if it is the front side of a card with an evolve ability or it is a card with an Evolve From cost that was cast using its standard mana cost.
 
 ## FAQs
 
@@ -35,6 +35,10 @@ Both the activated ability "Evolve" and the alternate casting cost "Evolve from 
 **Q: Many Pokémon have abilities that reference them by name, such as "1G: Bellsprout gets +1/+1 until end of turn." Evolve Pokémon get all abilities from cards underneath them, do abilities like this still work?**
 
 **A**: Yes, a Weepinbell that uses that ability will still get +1/+1. In MTG, stating a creature's name is the same as saying "this creature." We chose to use Pokémon names more frequently for flavor points.
+
+**Q: The DFC Kadabra has an ability that triggers when it enters the battlefield. That can't happen, so why is it there?**
+
+**A**: We want to be consistent with the DFC cards having the same abilities on the front and back sides. This also opens up potential design space for future generations if we want to have an effect that has cards enter already evolved.
 
 **Q: Eevee says "Evolve abilities of Pokémon you control cost 1 less to activate." Does that reduce Evolve From costs?**
 
