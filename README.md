@@ -16,9 +16,9 @@ Trainer is a replacement for the planeswalker type. Trainers act like planeswalk
 
 Evolve: Flip the card over, just like with transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their P/T is different.
 
-Evolve From X: An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all abilities from under it.
+Evolve From: An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all abilities from under it.
 
-Both the activated ability "Evolve" and the alternate casting cost "Evolve from X" count as evolution. Any triggered abilities that care about a Pokémon evolving will trigger from both types of evolution.
+Both the activated ability "Evolve" and the alternate casting cost "Evolve From" count as evolution. Any triggered abilities that care about a Pokémon evolving will trigger from both types of evolution.
 
 A Pokémon is considered evolved if it is the back side of a card with an evolve ability or it was cast using its Evolve From cost. A Pokémon is considered unevolved if it is the front side of a card with an evolve ability or it is a card with an Evolve From cost that was cast using its standard mana cost.
 
