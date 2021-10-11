@@ -40,7 +40,7 @@ Both the activated ability "Evolve" and the alternate casting cost "Evolve from 
 
 **A**: No, Evolve From is an alternate casting cost, not an ability.
 
-**Q: Why isn't [insert favorite Pokémon here]] the color I think it should be? Your colors are bad and you should feel bad.**
+**Q: Why isn't [insert favorite Pokémon here] the color I think it should be? Your colors are bad and you should feel bad.**
 
 **A**: To make a balanced cube, we need to have roughly equal representation for each color. Gen 1 has a high concentration of poison and water types. Fire, rock, ground, and electric could all be red. Designing the cube requires us to take some poetic license regarding what color a Pokémon ends up being, and the end result may be different than what any Pokémon would have been in a vaccuum. 
 
