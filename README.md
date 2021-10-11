@@ -28,9 +28,9 @@ Both the activated ability "Evolve" and the alternate casting cost "Evolve from 
 
 **A**: Pokémon with Evolve abilities act just like any other double-faced cards. [see this link for more info](https://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-29#:~:text=Double-Faced%20Card%20Rules%201%20Double-Faced%20Cards%20in%20General.,...%204%20Double-Faced%20Cards%20and%20Copy%20Effects.%20).
 
-**Q: Machop gets a +1/+1 counter when it evolves, and the Machoke on the back gets the same. When I activate its evolve ability, does how many counters does it get?**
+**Q: Machop gets a +1/+1 counter when it evolves, and the Machoke on the back gets the same. When I activate its evolve ability, how many counters does it get?**
 
-**A**: The Pokémon will get one counter. The "when it evolves" ability isn't triggered until it has completed the evolution, at which point there is only one such ability. The ability on the Machop side triggers when casting a Machoke card for its Evolve From cost.
+**A**: Machoke will get one counter. The "when it evolves" ability isn't triggered until it has completed the evolution, at which point there is only one such ability. The ability on the Machop side triggers when casting a Machoke card for its Evolve From cost.
 
 **Q: Many Pokémon have abilities that reference them by name, such as "1G: Bellsprout gets +1/+1 until end of turn." Evolve Pokémon get all abilities from cards underneath them, do abilities like this still work?**
 
