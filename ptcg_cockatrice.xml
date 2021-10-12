@@ -1623,7 +1623,7 @@ Whenever Gyarados evolves, discard your hand, then draw three cards. It deals X 
 			<type>Pokémon - Normal</type>
 			<pt>0/2</pt>
 			<tablerow>2</tablerow>
-			<text>{3}:Ditto becomes a copy of target permanent.</text>
+			<text>{3}: Ditto becomes a copy of target permanent.</text>
 		</card>
 		<card>
 			<name>Eevee</name>
