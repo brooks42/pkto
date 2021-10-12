@@ -539,7 +539,8 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<type>Pokémon - Normal Fairy</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Jigglypuff is dealt damage, tap target Pokémon. That Pokémon doesn’t untap during its controller’s next untap step.</text>
+			<text>Jigglypuff gets +1/+1 for each tapped Pokémon your opponents control.
+Whenever you cast a Pokémon spell, tap target Pokémon you don’t control.</text>
 		</card>
 		<card>
 			<name>Wigglytuff</name>
@@ -547,10 +548,10 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<color>W</color>
 			<manacost>2WW</manacost>
 			<type>Pokémon - Normal Fairy</type>
-			<pt>1/6</pt>
+			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Jigglypuff {1}{W}
-Whenever Wigglytuff deals combat damage to a Pokémon, that Pokémon's base power becomes 0 until Wigglytuff leaves the battlefield.</text>
+Whenever Wigglytuff deals combat damage to a player, you gain life equal to its power. Then if you’ve gained 5 or more life this turn, draw a card.</text>
 		</card>
 		<card>
 			<name>Zubat</name>
