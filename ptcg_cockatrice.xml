@@ -1138,7 +1138,7 @@ Double strike, haste</text>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Seel {W}
-Whenever you gain life, tap target Pokémon. If Dewgong is unevolved, this ability triggers only once each turn.</text>
+Whenever you gain life, tap target Pokémon. While Dewgong is unevolved, this ability triggers only once each turn.</text>
 		</card>
 		<card>
 			<name>Grimer</name>
@@ -1516,7 +1516,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Mr. Mime</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mr.%20Mime.png" rarity="rare">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mr.%20Mime.png" rarity="uncommon">PTCG</set>
 			<color>W</color>
 			<manacost>2WW</manacost>
 			<type>Pokémon - Psychic Fairy</type>
@@ -1692,7 +1692,7 @@ Fossil-{2}{U}{R}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Omastar</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Omastar.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Omastar.png" rarity="rare">PTCG</set>
 			<color>UR</color>
 			<manacost>2URR</manacost>
 			<type>Pokémon - Rock Water</type>
@@ -1715,9 +1715,9 @@ Fossil-{2}{U}{G}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Kabutops</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kabutops.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kabutops.png" rarity="rare">PTCG</set>
 			<color>UG</color>
-			<manacost>2UGG</manacost>
+			<manacost>2GGU</manacost>
 			<type>Pokémon - Rock Water</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
@@ -1922,7 +1922,7 @@ Pokémoncycling {3}</text>
 			<loyalty>4</loyalty>
 			<text>[+1]: Up to 1 target Pokémon gains haste until end of turn.
 [−2]: Pokémon you control with first strike gain double strike until end of turn, then Pokémon you control gain first strike until end of turn.
-[−7]: Up to 1 target Pokémon gains indestructible until end of turn. Lt. Surge deals 12 damage to each Pokémon.</text>
+[−7]: Up to one target Pokémon gains indestructible until end of turn. Lt. Surge deals 12 damage to each Pokémon.</text>
 		</card>
 		<card>
 			<name>Erika</name>
@@ -2260,7 +2260,7 @@ Draw a card.</text>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Antidote.png" rarity="common">PTCG</set>
 			<color>W</color>
 			<manacost>W</manacost>
-			<type>Sorcery - Medicine</type>
+			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
 			<text>Remove all counters from target Pokémon or player. You gain life equal to the number of counters removed this way.</text>
 		</card>
@@ -2271,7 +2271,8 @@ Draw a card.</text>
 			<manacost>W</manacost>
 			<type>Sorcery - Medicine</type>
 			<tablerow>3</tablerow>
-			<text>Untap target Pokémon. It gains vigilance until end of turn. You gain 1 life.</text>
+			<text>Untap target Pokémon. It gains vigilance until end of turn.
+			You gain 1 life.</text>
 		</card>
 		<card>
 			<name>Turn to Stone</name>
@@ -2624,14 +2625,14 @@ Sacrifice Water Stone: Scry 3.</text>
 Sacrifice Fire Stone: Fire Stone deals 2 damage to target Pokémon or trainer.</text>
 		</card>
 		<card>
-			<name>Moonstone</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Moonstone.png" rarity="uncommon">PTCG</set>
+			<name>Moon Stone</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Moon%20Stone.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost>3</manacost>
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {B}.
-Sacrifice Moonstone: Create a Treasure token.</text>
+Sacrifice Moon Stone: Create a Treasure token.</text>
 		</card>
 		<!-- misc artifacts -->
 		<card>
