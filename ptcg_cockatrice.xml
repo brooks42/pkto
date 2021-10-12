@@ -1625,7 +1625,7 @@ Whenever this Pokémon evolves, discard your hand, then draw three cards. It dea
 			<type>Pokémon - Normal</type>
 			<pt>0/2</pt>
 			<tablerow>2</tablerow>
-			<text>{2}: Ditto becomes a copy of target Pokémon, except it has this ability.</text>
+			<text>{2}{U}: Ditto becomes a copy of target Pokémon until your next turn, except its name is Ditto and it has this ability.</text>
 		</card>
 		<card>
 			<name>Eevee</name>
@@ -2733,7 +2733,7 @@ Enchanted Pokémon has "{T}: Destroy target nonland permanent. This Pokémon doe
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Enchanted Pokémon has "{T}: put a +1/+1 counter on this Pokémon."
-When enchanted Pokémon has three or more +1/+1 counters on it, sacrifice Swords Dance. If you do, draw a card.</text>
+When enchanted Pokémon has three or more +1/+1 counters on it, sacrifice Swords Dance.</text>
 		</card>
 		<card>
 			<name>Mega Kick</name>
