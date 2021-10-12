@@ -22,7 +22,7 @@ Fossil is a replacement for the escape mechanic. Fossil behaves like escape in a
 
 ### Evolution
 
-Evolve: Flip the card over, just like with transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their P/T is different.
+Evolve: Flip the card over, just like with transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their power, toughness, and name are different.
 
 Evolve From: An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all abilities from under it.
 
