@@ -59,3 +59,11 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: Why doesn't Spearow have flying?**
 
 **A**: We know it's weird that there are Flying Pokémon, that not all Flying Pokémon have flying, and that you can have flying even if you're not a Flying Pokémon. We didn't want to be constrained to all Flying Pokémon having flying, mostly for balance.
+
+**Q: The Metapod card has Defender, which makes sense. The Metapod DFC doesn't. What gives?**
+
+**A**: Our DFC's don't add or remove abilities when they flip. Also when Caterpie evolves into Metapod, it retains its moveset, such as tackle.
+
+**Q: Hyper Beam says "Enchant target Pokémon without an Evolve ability." Does that mean I can't use it on Dragonite, which has Evolve From?**
+
+**A**: Evolve is an activated ability, while Evolve From is an alternate casting cost. Any Pokémon with Evolve From can be enchanted by Hyper Beam.
