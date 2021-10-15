@@ -2249,7 +2249,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Guard Spec.</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Guard%20Spec..png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Guard%20Spec.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<type>Instant - Medicine</type>
