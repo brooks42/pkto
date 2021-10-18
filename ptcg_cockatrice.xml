@@ -52,7 +52,7 @@ Reach, trample</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Ivysaur {G}{G}
-If one or more counters would be put on a Pokémon you control, that many plus one of each of those kinds of counters are put on that Pokémon instead.</text>
+If one or more counters would be put on a Pokémon you control, you may put that many plus one of each of those kinds of counters on that Pokémon instead.</text>
 		</card>
 		<card>
 			<name>Squirtle</name>
@@ -1563,7 +1563,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 			<type>Pokémon - Fire</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{R}, {T}: Magmar deals 3 damage to target Pokémon.</text>
+			<text>{1}{R}, {T}: Magmar deals 2 damage to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
 		</card>
 		<card>
 			<name>Pinsir</name>
@@ -1634,7 +1634,7 @@ Whenever Gyarados evolves, discard your hand, then draw three cards. It deals X 
 			<type>Pokémon - Normal</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve abilities of Pokémon you control cost {1} less to activate.</text>
+			<text>You may pay {1} less to evolve Pokémon.</text>
 		</card>
 		<card>
 			<name>Vaporeon</name>
@@ -1873,9 +1873,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Blue</type>
 			<loyalty>4</loyalty>
-			<text>Whenever a player casts a Pokémon spell, put a loyalty counter on Blue.
+			<text>Whenever an opponent casts a Pokémon spell, put a loyalty counter on Blue.
 [-1]: Until end of turn, Pokémon spells you cast cost {1} less to cast.
-[-3]: Search your library for a Pokémon card with Evolve From. You may evolve it without paying its evolve cost. Then shuffle.</text>
+[-3]: Search your library for a Pokémon card with Evolve From. You may evolve it without paying its cost. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Green</name>
@@ -1885,9 +1885,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Green</type>
 			<loyalty>5</loyalty>
-			<text>[+1]: Move all counters from up to one target Pokémon onto up to one other target Pokémon.
-[-2]: Return an artifact card from your graveyard to your hand.
-[−5]: Gain control of target Pokémon.</text>
+			<text>You may spend mana as though it were mana of any color to evolve Pokémon.
+[+1]: Until end of turn, whenever an artifact enters the battlefield, create a token copy of that artifact under your control.
+[−6]: Gain control of target Pokémon.</text>
 		</card>
 		<card>
 			<name>Brock</name>
