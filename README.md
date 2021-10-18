@@ -26,7 +26,7 @@ Evolve - An activated ability that turns the card over, just like transform. Dou
 
 Evolve From - An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all abilities from under it.
 
-Both "Evolve" and "Evolve From" count as evolution. Any triggered abilities that care about Pokémon evolving will trigger from both types of evolution.
+Both "Evolve" and "Evolve From" count as evolution/evolving. Any triggered abilities that care about Pokémon evolving will trigger from both types of evolution. If a card affects what you can pay "to evolve Pokémon" it applies to both types of evolution.
 
 A Pokémon is considered evolved if it is the back side of a card with an evolve ability or it was cast using its Evolve From cost. A Pokémon is considered unevolved if it is the front side of a card with an evolve ability, it is a card with an Evolve From cost that was cast using its standard mana cost, or it is a card without Evolve or Evolve From.
 
@@ -47,10 +47,6 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: The DFC Kadabra has an ability that triggers when it enters the battlefield. That can't happen, so why is it there?**
 
 **A**: We want to be consistent with the DFC cards having the same abilities on the front and back sides. This also opens up potential design space for future generations if we want to have an effect that has cards enter already evolved.
-
-**Q: Eevee says "Evolve abilities of Pokémon you control cost 1 less to activate." Does that reduce Evolve From costs?**
-
-**A**: No, Evolve From is an alternate casting cost, not an ability.
 
 **Q: Why isn't [insert favorite Pokémon here] the color I think it should be? Your colors are bad and you should feel bad.**
 
