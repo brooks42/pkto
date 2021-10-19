@@ -22,13 +22,13 @@ Fossil is a replacement for the escape mechanic. Fossil behaves like escape in a
 
 ### Evolution
 
-Evolve: Flip the card over, just like with transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their power, toughness, and name are different.
+Evolve - An activated ability that turns the card over, just like transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their power, toughness, and name are different.
 
-Evolve From: An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all abilities from under it.
+Evolve From - An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all abilities from under it.
 
-Both the activated ability "Evolve" and the alternate casting cost "Evolve From" count as evolution. Any triggered abilities that care about a Pokémon evolving will trigger from both types of evolution.
+Both "Evolve" and "Evolve From" count as evolution/evolving. Any triggered abilities that care about Pokémon evolving will trigger from both types of evolution. If a card affects what you can pay "to evolve Pokémon" it applies to both types of evolution.
 
-A Pokémon is considered evolved if it is the back side of a card with an evolve ability or it was cast using its Evolve From cost. A Pokémon is considered unevolved if it is the front side of a card with an evolve ability or it is a card with an Evolve From cost that was cast using its standard mana cost.
+A Pokémon is considered evolved if it is the back side of a card with an evolve ability or it was cast using its Evolve From cost. A Pokémon is considered unevolved if it is the front side of a card with an evolve ability, it is a card with an Evolve From cost that was cast using its standard mana cost, or it is a card without Evolve or Evolve From.
 
 ## FAQs
 
@@ -48,10 +48,6 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **A**: We want to be consistent with the DFC cards having the same abilities on the front and back sides. This also opens up potential design space for future generations if we want to have an effect that has cards enter already evolved.
 
-**Q: Eevee says "Evolve abilities of Pokémon you control cost 1 less to activate." Does that reduce Evolve From costs?**
-
-**A**: No, Evolve From is an alternate casting cost, not an ability.
-
 **Q: Why isn't [insert favorite Pokémon here] the color I think it should be? Your colors are bad and you should feel bad.**
 
 **A**: To make a balanced cube, we need to have roughly equal representation for each color. Gen 1 has a high concentration of poison and water types. Fire, rock, ground, and electric could all be red. Designing the cube requires us to take some poetic license regarding what color a Pokémon ends up being, and the end result may be different than what any Pokémon would have been in a vaccuum. 
@@ -59,3 +55,11 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: Why doesn't Spearow have flying?**
 
 **A**: We know it's weird that there are Flying Pokémon, that not all Flying Pokémon have flying, and that you can have flying even if you're not a Flying Pokémon. We didn't want to be constrained to all Flying Pokémon having flying, mostly for balance.
+
+**Q: The Metapod card has Defender, which makes sense. The Metapod DFC doesn't. What gives?**
+
+**A**: Our DFC's don't add or remove abilities when they flip. Also when Caterpie evolves into Metapod, it retains its moveset, such as tackle.
+
+**Q: Hyper Beam says "Enchant target Pokémon without an Evolve ability." Does that mean I can't use it on Dragonite, which has Evolve From?**
+
+**A**: Evolve is an activated ability, while Evolve From is an alternate casting cost. Any Pokémon with Evolve From can be enchanted by Hyper Beam.

@@ -52,7 +52,7 @@ Reach, trample</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Ivysaur {G}{G}
-If one or more counters would be put on a Pokémon you control, that many plus one of each of those kinds of counters are put on that Pokémon instead.</text>
+If one or more counters would be put on a Pokémon you control, you may put that many plus one of each of those kinds of counters on that Pokémon instead.</text>
 		</card>
 		<card>
 			<name>Squirtle</name>
@@ -540,7 +540,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>Jigglypuff gets +1/+1 for each tapped Pokémon your opponents control.
-Whenever you cast a Pokémon spell, tap target Pokémon you don’t control.</text>
+Whenever you cast a Pokémon spell, tap target Pokémon you don't control.</text>
 		</card>
 		<card>
 			<name>Wigglytuff</name>
@@ -551,7 +551,7 @@ Whenever you cast a Pokémon spell, tap target Pokémon you don’t control.</te
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Jigglypuff {1}{W}
-Whenever Wigglytuff deals combat damage to a player, you gain life equal to its power. Then if you’ve gained 5 or more life this turn, draw a card.</text>
+Whenever Wigglytuff deals combat damage to a player, you gain life equal to its power. Then if you've gained 5 or more life this turn, draw a card.</text>
 		</card>
 		<card>
 			<name>Zubat</name>
@@ -600,7 +600,7 @@ Lifelink</text>
 			<related attach="attach">Oddish</related>
 		</card>
 		<card>
-			<name>Gloom</name>
+			<name>Gloom </name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Gloom.png" rarity="uncommon">PTCG</set>
 			<color>BG</color>
 			<manacost>1{B/G}{B/G}</manacost>
@@ -608,7 +608,7 @@ Lifelink</text>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Oddish {B/G}
-{4}{B}, {T}: Put a -1/-/1 counter on target Pokémon. </text>
+{2}{B}, {T}: Remove X counters from target permanent, where X is the number of -1/-1 counters on all Pokémon.</text>
 		</card>
 		<card>
 			<name>Vileplume</name>
@@ -663,7 +663,7 @@ If Parasect would be dealt damage by a Water Pokémon, prevent that damage. You 
 			<tablerow>2</tablerow>
 			<text>Evolve From Venonat {G}{U}
 Flying
-Whenever Venomoth evolves or enters the battlefield, choose a card name. Spells with the chosen name can’t be cast.</text>
+Whenever Venomoth evolves or enters the battlefield, choose a card name. Spells with the chosen name can't be cast.</text>
 		</card>
 		<card>
 			<name>Diglett</name>
@@ -898,7 +898,7 @@ Whenever Machop evolves, put a +1/+1 counter on it.</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Machop {R/G}{R/G}
-At the beginning of your upkeep, if Machoke doesn’t have the highest combined power and toughness among Pokemon on the battlefield, put a +1/+1 counter on it.</text>
+At the beginning of your upkeep, if Machoke doesn't have the highest combined power and toughness among Pokemon on the battlefield, put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Machamp</name>
@@ -1149,7 +1149,7 @@ Whenever you gain life, tap target Pokémon. While Dewgong is unevolved, this ab
 			<type>Pokémon - Poison</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>{B}{B}, {T}: Put a -1/-1 counter on target Pokémon.</text>
+			<text>{2}{B}, {T}: Put a -1/-1 counter on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Muk</name>
@@ -1470,7 +1470,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Horsea {1}{U}
-If a Pokémon would return to an opponent’s hand from the battlefield, exile it instead.
+If a Pokémon would return to an opponent's hand from the battlefield, exile it instead.
 Whenever you draw a card, target player mills a card.</text>
 		</card>
 		<card>
@@ -1563,7 +1563,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 			<type>Pokémon - Fire</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>{X}{R}: Magmar deals X damage to target Pokémon or trainer.</text>
+			<text>{1}{R}, {T}: Magmar deals 2 damage to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
 		</card>
 		<card>
 			<name>Pinsir</name>
@@ -1624,7 +1624,7 @@ Whenever Gyarados evolves, discard your hand, then draw three cards. It deals X 
 			<type>Pokémon - Normal</type>
 			<pt>0/2</pt>
 			<tablerow>2</tablerow>
-			<text>{3}: Ditto becomes a copy of target permanent.</text>
+			<text>{3}: Ditto becomes a copy of target permanent, except its name is Ditto.</text>
 		</card>
 		<card>
 			<name>Eevee</name>
@@ -1634,7 +1634,7 @@ Whenever Gyarados evolves, discard your hand, then draw three cards. It deals X 
 			<type>Pokémon - Normal</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve abilities of Pokémon you control cost {1} less to activate.</text>
+			<text>You may pay {1} less to evolve Pokémon.</text>
 		</card>
 		<card>
 			<name>Vaporeon</name>
@@ -1758,7 +1758,7 @@ Whenever you gain life, untap Snorlax.</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Whenever another permanent you control becomes tapped, it doesn’t untap during its controller’s next untap step.</text>
+Whenever another permanent you control becomes tapped, it doesn't untap during its controller's next untap step.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
@@ -1873,9 +1873,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Blue</type>
 			<loyalty>4</loyalty>
-			<text>Whenever a player casts a Pokémon spell, put a loyalty counter on Blue.
+			<text>Whenever an opponent casts a Pokémon spell, put a loyalty counter on Blue.
 [-1]: Until end of turn, Pokémon spells you cast cost {1} less to cast.
-[-3]: Search your library for a Pokémon card with Evolve From. You may evolve it without paying its evolve cost. Then shuffle.</text>
+[-3]: Search your library for a Pokémon card with Evolve From. You may evolve it without paying its cost. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Green</name>
@@ -1885,9 +1885,9 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Green</type>
 			<loyalty>5</loyalty>
-			<text>[+1]: Move all counters from up to one target Pokémon onto up to one other target Pokémon.
-[-2]: Return an artifact card from your graveyard to your hand.
-[−5]: Gain control of target Pokémon.</text>
+			<text>You may spend mana as though it were mana of any color to evolve Pokémon.
+[+1]: Until end of turn, whenever an artifact enters the battlefield, create a token copy of that artifact under your control.
+[−6]: Gain control of target Pokémon.</text>
 		</card>
 		<card>
 			<name>Brock</name>
@@ -1911,7 +1911,7 @@ Pokémoncycling {3}</text>
 			<loyalty>4</loyalty>
 			<text>Whenever a spell or ability you control counters a spell, put two loyalty counters on Misty.
 [-2]: Draw a card.
-[−3]: Each player chooses a Pokémon they don’t control and gains control of it.</text>
+[−3]: Each player chooses a Pokémon they don't control and gains control of it.</text>
 		</card>
 		<card>
 			<name>Lt. Surge</name>
@@ -1952,8 +1952,8 @@ Pokémoncycling {3}</text>
 		<card>
 			<name>Sabrina</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Sabrina.png" rarity="mythic">PTCG</set>
-			<color>BU</color>
-			<manacost>2B{U/B}</manacost>
+			<color>UB</color>
+			<manacost>2{U/B}U</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Sabrina</type>
 			<loyalty>6</loyalty>
@@ -2025,13 +2025,13 @@ Pokémoncycling {3}</text>
 			<name>Agatha</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Agatha.png" rarity="mythic">PTCG</set>
 			<color>BU</color>
-			<manacost>3{B/U}{B/U}</manacost>
+			<manacost>2{U/B}B</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Agatha</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Exile the top two cards of your library and choose one of them. Until end of turn, you may play that card.
-[-3]: Destroy target Pokémon.
-[-X]: Up to X target Pokémon get -0/-X until end of turn.</text>
+			<text>Whenever a Pokémon with a soulbind counter on it dies, exile it. Create a token copy of it, except it's a Ghost.      
+[+1]: You may sacrifice a nontoken Pokémon. If you do, draw two cards.
+[-2]: Put a soulbind counter on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Lance</name>
@@ -2071,7 +2071,7 @@ Pokémoncycling {3}</text>
 			<manacost>1U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Scry 3, then reveal the top card of library. If it’s a Pokémon card, you may put it into your hand.</text>
+			<text>Scry 3, then reveal the top card of library. If it's a Pokémon card, you may put it into your hand.</text>
 		</card>
 		<card>
 			<name>Safari Ball</name>
@@ -2125,7 +2125,7 @@ Pokémoncycling {3}</text>
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search target opponent’s library for a Pokémon card with mana value X or less and put that card onto the battlefield under your control. Then that player shuffles. X can’t be greater than 3.</text>
+			<text>Search target opponent's library for a Pokémon card with mana value X or less and put that card onto the battlefield under your control. Then that player shuffles. X can't be greater than 3.</text>
 		</card>
 		<card>
 			<name>Revive</name>
@@ -2245,11 +2245,11 @@ Draw a card.</text>
 			<manacost>U</manacost>
 			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
-			<text>Target Pokémon gets +0/+4 until end of turn. Untap it. At this turn’s next end of combat, tap each Pokémon that was blocked by that Pokémon this turn and they don’t untap during their controller’s next untap step.</text>
+			<text>Target Pokémon gets +0/+4 until end of turn. Untap it. At this turn's next end of combat, tap each Pokémon that was blocked by that Pokémon this turn and they don't untap during their controller's next untap step.</text>
 		</card>
 		<card>
 			<name>Guard Spec.</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Guard%20Spec..png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Guard%20Spec.png" rarity="common">PTCG</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<type>Instant - Medicine</type>
@@ -2300,7 +2300,7 @@ Draw a card.</text>
 			<manacost>1G</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Target Pokémon you control deals damage equal to its power to target Pokémon you don't control. If the Pokémon you control has trample, excess damage is dealt to that Pokémon's controller instead.</text>
+			<text>Target Pokémon you control fights target Pokémon you don't control. If the Pokémon you control has trample, excess damage is dealt to that creature's controller instead.</text>
 		</card>
 		<card>
 			<name>Slash</name>
@@ -2354,7 +2354,7 @@ Draw a card.</text>
 			<manacost>1{U/B}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Counter target spell. If that spell is countered this way, put it into its owner’s hand instead of into that player’s graveyard. Spells with the same name as that spell can’t be cast until your next turn.</text>
+			<text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard. Spells with the same name as that spell can't be cast until your next turn.</text>
 		</card>
 		<card>
 			<name>Fire Spin</name>
@@ -2449,7 +2449,7 @@ Overload—Reveal a red Pokémon card from your hand.
 			<manacost>2GG</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Target Pokémon you control gets +3/+3 until end of turn.
+			<text>Destroy target artifact, enchantment, trainer, or token.
 Overload—Reveal a green Pokémon card from your hand.
 			</text>
 		</card>
@@ -2460,7 +2460,7 @@ Overload—Reveal a green Pokémon card from your hand.
 			<manacost>2UU</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Put target Pokémon on top of its owner’s library.
+			<text>Put target Pokémon on top of its owner's library.
 Overload—Reveal a blue Pokémon card from your hand.
 			</text>
 		</card>
@@ -2499,7 +2499,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 			<manacost>3WW</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>You gain 7 life. Shuffle Softboiled into its owner’s library and draw a card.</text>
+			<text>You gain 7 life. Shuffle Softboiled into its owner's library and draw a card.</text>
 		</card>
 		<card>
 			<name>Substitute</name>
@@ -2671,7 +2671,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<manacost>3</manacost>
 			<type>Artifact</type>
 			<tablerow>1</tablerow>
-			<text>No more than two Pokémon can attack you each combat.</text>
+			<text>Pokémon can't attack you unless their controller pays {2} for each Pokémon they control that's attacking you.</text>
 		</card>
 		<card>
 			<name>Nugget</name>
@@ -2720,7 +2720,7 @@ Whenever enchanted Pokémon deals combat damage to a Pokémon, tap that Pokémon
 			<manacost>5</manacost>
 			<type>Enchantment - TM</type>
 			<tablerow>1</tablerow>
-			<text>Enchant Pokémon with no evolve abilities
+			<text>Enchant Pokémon without an Evolve ability
 Enchanted Pokémon has "{T}: Destroy target nonland permanent. This Pokémon doesn't untap during its controller's next untap step."</text>
 		</card>
 		<card>
@@ -2796,10 +2796,10 @@ Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 			<name>Saffron Gym</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Saffron%20Gym.png" rarity="rare">PTCG</set>
 			<color>UB</color>
-			<manacost>1UB</manacost>
+			<manacost>UB</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Whenever you scry, look at the top card of target opponent’s library. You may pay 2 life. If you do, put that card on the bottom of their library.</text>
+			<text>Whenever you scry, look at the top card of target opponent's library. You may put that card on the bottom of that library. If you do, you lose 1 life. Otherwise, you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Fuschia Gym</name>
@@ -2818,8 +2818,8 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<manacost>1RR</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>At the beginning of each player’s upkeep, Cinnabar Gym deals 2 damage to that player.
-Players can’t gain life.</text>
+			<text>At the beginning of each player's upkeep, Cinnabar Gym deals 2 damage to that player.
+Players can't gain life.</text>
 		</card>
 		<card>
 			<name>Viridian Gym</name>
@@ -2953,14 +2953,14 @@ Cycling {3}</text>
 			<cipt>1</cipt>
 		</card>
 		<card>
-			<name>Diglett’s Cave</name>
+			<name>Diglett's Cave</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Digletts%20Cave.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {R}.
-{2}{R}, {T}, Sacrifice Diglett’s Cave: Destroy target nonbasic land.</text>
+{2}{R}, {T}, Sacrifice Diglett's Cave: Destroy target nonbasic land.</text>
 		</card>
 		<card>
 			<name>Fuchsia City</name>
@@ -3332,6 +3332,7 @@ Cycling {3}</text>
 			<pt>2/1</pt>
 			<tablerow>2</tablerow>
 			<text />
+			<reverse-related>Dugtrio</reverse-related>
 			<reverse-related count="2">Dig</reverse-related>
 		</card>
 		<card>
