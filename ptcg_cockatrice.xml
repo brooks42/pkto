@@ -1015,7 +1015,7 @@ Protection from Electric and Poison</text>
 Reach, trample</text>
 		</card>
 		<card>
-			<name>Golem</name>
+			<name>Golem </name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Golem.png" rarity="rare">PTCG</set>
 			<color>G</color>
 			<manacost>4GG</manacost>
