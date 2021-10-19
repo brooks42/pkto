@@ -2671,7 +2671,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 			<manacost>3</manacost>
 			<type>Artifact</type>
 			<tablerow>1</tablerow>
-			<text>No more than two Pokémon can attack you each combat.</text>
+			<text>Pokémon can't attack you unless their controller pays {2} for each Pokémon they control that's attacking you.</text>
 		</card>
 		<card>
 			<name>Nugget</name>
