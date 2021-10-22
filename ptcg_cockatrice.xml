@@ -955,7 +955,7 @@ Reach, wither</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Weepinbell {1}{G}{G}
-{X}{X}{B/G}: Choose target Pokémon or trainer. Put X -1/-1 counters on that Pokémon or remove X loyalty counters from that trainer.</text>
+{X}{X}{B/G}, {T}: Choose target Pokémon or trainer. Put X -1/-1 counters on that Pokémon or remove X loyalty counters from that trainer.</text>
 		</card>
 		<card>
 			<name>Tentacool</name>
@@ -1181,7 +1181,7 @@ Whenever a Pokémon dies, if it had any -1/-1 counters on it, put those counters
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Shellder {U}{R}
-{U/R}{U/R}: Cloyster deals 1 damage to each of up to three target Pokémon and/or trainers. If Cloyster has indestructible, it deals 3 damage to each target instead.</text>
+Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three target Pokémon and/or trainers.</text>
 		</card>
 		<card>
 			<name>Gastly</name>
@@ -1247,7 +1247,7 @@ Whenever Haunter deals combat damage to a player, that player discards a card.</
 			<type>Pokémon - Psychic</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>{T}: Tap or untap target Pokémon.</text>
+			<text>{T}: Tap target Pokémon.</text>
 		</card>
 		<card>
 			<name>Hypno</name>
@@ -1258,7 +1258,7 @@ Whenever Haunter deals combat damage to a player, that player discards a card.</
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Drowzee {1}{U}{B}
-Tapped Pokémon get -1/-1.</text>
+Whenever you scry, untap Hypno.</text>
 		</card>
 		<card>
 			<name>Krabby</name>
@@ -1956,9 +1956,9 @@ Pokémoncycling {3}</text>
 			<manacost>2{U/B}U</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Sabrina</type>
-			<loyalty>6</loyalty>
-			<text>[+1]: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
-[-2]: Search your library for a card, then shuffle and put that card second from the top.
+			<loyalty>5</loyalty>
+			<text>[+1]: Look at the top card of each opponent's library. Then scry 1.
+[-3]: Search your library for a card, then shuffle and put that card second from the top.
 [-8]: Take an extra turn after this one.</text>
 		</card>
 		<card>
