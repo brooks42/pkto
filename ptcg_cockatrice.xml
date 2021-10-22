@@ -1599,12 +1599,12 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 			<name>Gyarados</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Gyarados.png" rarity="mythic">PTCG</set>
 			<color>UR</color>
-			<manacost>UUUURRRR</manacost>
+			<manacost>5URR</manacost>
 			<type>Pokémon - Water Flying</type>
 			<pt>10/10</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Magikarp {6}{U}{R}
-Whenever Gyarados evolves, discard your hand, then draw three cards. It deals X plus 3 damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
+			<text>Evolve From Magikarp {4}{U}{R}
+Whenever Gyarados evolves, discard your hand. It deals X plus 3 damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
 		</card>
 		<card>
 			<name>Lapras</name>
