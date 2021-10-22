@@ -1969,7 +1969,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Blaine</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+			<text>[+1]: TODO change this to the correct one
 [-1]: Create a token that's a copy of target artifact with mana value 2 or less. 
 [-2]: Discard two cards. If you do, draw two cards.</text>
 		</card>
