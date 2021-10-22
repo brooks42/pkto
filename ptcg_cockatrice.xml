@@ -1253,11 +1253,11 @@ Whenever Haunter deals combat damage to a player, that player discards a card.</
 			<name>Hypno</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Hypno.png" rarity="uncommon">PTCG</set>
 			<color>UB</color>
-			<manacost>3UB</manacost>
+			<manacost>2UB</manacost>
 			<type>Pokémon - Psychic</type>
-			<pt>4/4</pt>
+			<pt>3/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Drowzee {1}{U}{B}
+			<text>Evolve From Drowzee {U}{B}
 Whenever you scry, untap Hypno.</text>
 		</card>
 		<card>
