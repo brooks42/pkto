@@ -2270,16 +2270,6 @@ Draw a card.</text>
 			<text>Remove all counters from target Pokémon or player. You gain life equal to the number of counters removed this way.</text>
 		</card>
 		<card>
-			<name>Ice Heal</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Ice%20Heal.png" rarity="common">PTCG</set>
-			<color>W</color>
-			<manacost>W</manacost>
-			<type>Sorcery - Medicine</type>
-			<tablerow>3</tablerow>
-			<text>Untap target Pokémon. It gains vigilance until end of turn.
-			You gain 1 life.</text>
-		</card>
-		<card>
 			<name>Turn to Stone</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Turn%20to%20Stone.png" rarity="common">PTCG</set>
 			<color>B</color>
