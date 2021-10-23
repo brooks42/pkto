@@ -145,7 +145,7 @@ Menace</text>
 			<tablerow>2</tablerow>
 			<text>Evolve From Charmeleon {1}{R}{R}
 Flying
-Other Pokémon you control enter the battlefield with your choice of a menace counter or a haste counter on them.</text>
+Whenever a Pokémon you control attacks, it deals 1 damage to defending player or trainer.</text>
 		</card>
 		<card>
 			<name>Caterpie</name>
@@ -275,8 +275,8 @@ Flying</text>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Pidgey {W}
-{1}{W}: Pidgeotto gains lifelink until end of turn.
-Flying</text>
+Flying
+Whenever Pidgeotto attacks, another target Pokémon you control gains flying until end of turn.</text>
 		</card>
 		<card>
 			<name>Pidgeot</name>
@@ -310,7 +310,7 @@ Pokémon you control have vigilance.</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Rattata {1}{W}
-When Raticate dies, you gain life equal to its toughness.</text>
+When Raticate dies, you may return target Pokémon card with mana value 2 or less from your graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>Spearow</name>
@@ -519,7 +519,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<type>Pokémon - Fire</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{R}: Vulpix gets +1/+0 and gains first strike until end of turn.</text>
+			<text>Whenever Vulpix attacks, it gets +1/+0 for each other attacking Pokémon you control.</text>
 		</card>
 		<card>
 			<name>Ninetales</name>
@@ -716,7 +716,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>While you're searching your library, you may cast Psyduck from your library.</text>
+			<text>You may cast Psyduck if you see it while scrying. </text>
 		</card>
 		<card>
 			<name>Golduck</name>
@@ -1133,8 +1133,8 @@ Double strike, haste</text>
 		<card>
 			<name>Dewgong</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dewgong.png" rarity="uncommon">PTCG</set>
-			<color>W</color>
-			<manacost>3WW</manacost>
+			<color>WU</color>
+			<manacost>3WU</manacost>
 			<type>Pokémon - Water Ice</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
@@ -1237,7 +1237,8 @@ Whenever Haunter deals combat damage to a player, that player discards a card.</
 			<type>Pokémon - Rock Ground</type>
 			<pt>5/2</pt>
 			<tablerow>2</tablerow>
-			<text>Trample</text>
+			<text>Trample
+Whenever Onix attacks, you may discard a card. If you do, draw a card.</text>
 		</card>
 		<card>
 			<name>Drowzee</name>
@@ -1480,7 +1481,7 @@ If a Pokémon would return to a player's hand from the battlefield, exile it ins
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever a spell or ability you control counters a spell, put a +1/+1 counter on Goldeen.</text>
+			<text>Whenever a spell or ability you control counters a spell, you gain 2 life.</text>
 		</card>
 		<card>
 			<name>Seaking</name>
@@ -1609,11 +1610,12 @@ Whenever Gyarados evolves, discard your hand. It deals X plus 3 damage divided a
 			<name>Lapras</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Lapras.png" rarity="rare">PTCG</set>
 			<color>WU</color>
-			<manacost>2{W/U}W</manacost>
+			<manacost>2WU</manacost>
 			<type>Pokémon - Water Ice</type>
 			<pt>3/6</pt>
 			<tablerow>2</tablerow>
-			<text>Sacrifice Lapras: Each opponent sacrifices a Pokémon.</text>
+			<text>Sacrifice Lapras: Each opponent sacrifices a Pokémon.
+When Lapras dies, you gain 3 life.</text>
 		</card>
 		<card>
 			<name>Ditto</name>
@@ -1888,7 +1890,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Green</type>
 			<loyalty>5</loyalty>
 			<text>You may spend mana as though it were mana of any color to evolve Pokémon.
-[+1]: Until end of turn, whenever an artifact enters the battlefield, create a token copy of that artifact under your control.
+[+1]: Reveal the top card of your library. If it’s an artifact card, put it onto the battlefield. Otherwise, put it into your hand.
 [−6]: Gain control of target Pokémon.</text>
 		</card>
 		<card>
@@ -1971,7 +1973,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Blaine</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Create a token copy of up to one target artifact with mana value 2 or less. 
+			<text>[+1]: You may discard a card. If you do, draw a card.
 [-1]: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
 [-2]: Discard two cards. If you do, draw two cards.</text>
 		</card>
@@ -2332,15 +2334,6 @@ Draw a card.</text>
 			<text>Tap all Pokémon target player controls. Those Pokémon don't untap during that player's next untap step.</text>
 		</card>
 		<card>
-			<name>Smog</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Smog.png" rarity="common">PTCG</set>
-			<color>B</color>
-			<manacost>B</manacost>
-			<type>Instant</type>
-			<tablerow>3</tablerow>
-			<text>Put a -1/-1 counter on each attacking Pokémon.</text>
-		</card>
-		<card>
 			<name>Swift</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Swift.png" rarity="rare">PTCG</set>
 			<color>WB</color>
@@ -2493,15 +2486,6 @@ Overload—Reveal a blue Pokémon card from your hand.
 			<tablerow>3</tablerow>
 			<text>This spell can't be countered.
 Target Pokémon or trainer loses indestructible. Destroy it. It can't be regenerated.</text>
-		</card>
-		<card>
-			<name>Softboiled</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Softboiled.png" rarity="common">PTCG</set>
-			<color>W</color>
-			<manacost>3WW</manacost>
-			<type>Sorcery</type>
-			<tablerow>3</tablerow>
-			<text>You gain 7 life. Shuffle Softboiled into its owner's library and draw a card.</text>
 		</card>
 		<card>
 			<name>Substitute</name>
