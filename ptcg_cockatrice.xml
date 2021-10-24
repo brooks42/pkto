@@ -1974,8 +1974,8 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Blaine</type>
 			<loyalty>3</loyalty>
 			<text>[+1]: You may discard a card. If you do, draw a card.
-[-1]: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
-[-2]: Discard two cards. If you do, draw two cards.</text>
+[-2]: Blaine deals damage to target Pokémon equal to the number of Mountains you control.
+[-3]: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.</text>
 		</card>
 		<card>
 			<name>Giovanni</name>
@@ -2399,6 +2399,33 @@ Draw a card.</text>
 Draw a card.</text>
 		</card>
 		<card>
+			<name>Night Shade</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Night%20Shade.png" rarity="uncommon">PTCG</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Destroy target nonblack Pokémon.</text>
+		</card>
+		<card>
+			<name>Aurora Beam</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Aurora%20Beam.png" rarity="rare">PTCG</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Exile target Pokémon. Its controller gains life equal to its power.</text>
+		</card>
+		<card>
+			<name>Tackle</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Tackle.png" rarity="common">PTCG</set>
+			<color>W</color>
+			<manacost>3W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Destroy target attacking or blocking Pokémon.</text>
+		</card>
+		<card>
 			<name>Toxic</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Toxic.png" rarity="rare">PTCG</set>
 			<color>B</color>
@@ -2406,6 +2433,16 @@ Draw a card.</text>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>All Pokémon get -4/-4 until end of turn.</text>
+		</card>
+		<card>
+			<name>Blizzard</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Blizzard.png" rarity="rare">PTCG</set>
+			<color>WU</color>
+			<manacost>1WWU</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>This spell can't be countered.
+Destroy all Pokémon.</text>
 		</card>
 		<card>
 			<name>Reflect</name>
@@ -2729,6 +2766,17 @@ Enchanted Pokémon gets +1/+1 and first strike.</text>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Whenever enchanted Pokémon deals combat damage to a player, that player discards a card.</text>
+		</card>
+		<card>
+			<name>Frozen</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Frozen.png" rarity="uncommon">PTCG</set>
+			<color>U</color>
+			<manacost>1UU</manacost>
+			<type>Enchantment - Status</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+When Frozen enters the battlefield, tap enchanted Pokémon.
+Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 		</card>
 		<!-- Locations -->
 		<card>
