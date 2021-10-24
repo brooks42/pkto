@@ -1771,7 +1771,7 @@ Tap 10 untapped permanents you control: Articuno becomes obedient.</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Zapdos can’t attack or block unless it is obedient.
+Zapdos can't attack or block unless it is obedient.
 Whenever you attack with three or more Pokémon, Zapdos becomes obedient.</text>
 		</card>
 		<card>
@@ -1783,7 +1783,7 @@ Whenever you attack with three or more Pokémon, Zapdos becomes obedient.</text>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Moltres can’t attack or block unless it is obedient.
+Moltres can't attack or block unless it is obedient.
 As long as you have no cards in hand, Moltres is obedient.</text>
 		</card>
 		<card>
@@ -1890,7 +1890,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Green</type>
 			<loyalty>5</loyalty>
 			<text>You may spend mana as though it were mana of any color to evolve Pokémon.
-[+1]: Reveal the top card of your library. If it’s an artifact card, put it onto the battlefield. Otherwise, put it into your hand.
+[+1]: Reveal the top card of your library. If it's an artifact card, put it onto the battlefield. Otherwise, put it into your hand.
 [−6]: Gain control of target Pokémon.</text>
 		</card>
 		<card>
