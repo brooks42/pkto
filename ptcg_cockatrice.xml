@@ -145,7 +145,7 @@ Menace</text>
 			<tablerow>2</tablerow>
 			<text>Evolve From Charmeleon {1}{R}{R}
 Flying
-Whenever a Pokémon you control attacks, it deals 1 damage to defending player or trainer.</text>
+Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player or trainer it's attacking.</text>
 		</card>
 		<card>
 			<name>Caterpie</name>
@@ -1936,7 +1936,7 @@ Pokémoncycling {3}</text>
 			<manacost>2GG</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Erika</type>
-			<loyalty>1</loyalty>
+			<loyalty>3</loyalty>
 			<text>[+1]: Create two 1/1 green Grass Poison Pokémon tokens with lifelink named Oddish.
 [-2]: Destroy target artifact or enchantment.
 [−X]: Pokémon you control get +X/+X until end of turn.</text>
