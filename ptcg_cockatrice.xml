@@ -2353,8 +2353,8 @@ Draw a card.</text>
 		<card>
 			<name>Gust</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Gust.png" rarity="common">PTCG</set>
-			<color>W</color>
-			<manacost>W</manacost>
+			<color>WG</color>
+			<manacost>{G/W}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Gust deals 2 damage to target Pokémon with flying. If that Pokémon is attacking, Gust deals 5 damage to that Pokémon instead.</text>
