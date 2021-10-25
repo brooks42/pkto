@@ -1308,9 +1308,9 @@ Whenever Electrode is dealt damage or becomes the target of a spell or ability, 
 			<name>Exeggcute</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Exeggcute.png" rarity="common">PTCG</set>
 			<color>GB</color>
-			<manacost>1GGB</manacost>
+			<manacost>GB</manacost>
 			<type>Pokémon - Grass Psychic</type>
-			<pt>2/4</pt>
+			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{B/G}: Regenerate Exeggcute.</text>
 		</card>
