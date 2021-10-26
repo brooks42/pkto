@@ -18,7 +18,7 @@
 			<tablerow>2</tablerow>
 			<side>front</side>
 			<related attach="attach">Ivysaur (DFC)</related>
-			<text>{1}{G}: Evolve to Ivysaur
+			<text>{1}{G}: Evolve
 {T}: Add {G}.</text>
 		</card>
 		<card>
@@ -64,7 +64,7 @@ If one or more counters would be put on a Pokémon you control, you may put that
 			<tablerow>2</tablerow>
 			<side>front</side>
 			<related attach="attach">Wartortle (DFC)</related>
-			<text>{1}{U}: Evolve to Wartotle
+			<text>{1}{U}: Evolve
 Whenever Squirtle blocks a Pokémon, that Pokémon doesn't untap during its controller's next untap step.</text>
 		</card>
 		<card>
@@ -110,7 +110,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 			<tablerow>2</tablerow>
 			<side>front</side>
 			<related attach="attach">Charmeleon (DFC)</related>
-			<text>{1}{R}: Evolve to Charmeleon
+			<text>{1}{R}: Evolve
 {R}: Charmander gets +1/+0 until end of turn.</text>
 		</card>
 		<card>
@@ -157,7 +157,7 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
 			<tablerow>2</tablerow>
 			<side>front</side>
 			<related attach="attach">Metapod (DFC)</related>
-			<text>{G}: Evolve to Metapod
+			<text>{G}: Evolve
 {1}{G}, {T}: Tap target Pokémon.</text>
 		</card>
 		<card>
@@ -202,7 +202,7 @@ Flying, vigilance</text>
 			<type>Pokémon - Bug Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{B}: Evolve to Kakuna
+			<text>{B}: Evolve
 Deathtouch</text>
 			<side>front</side>
 			<related attach="attach">Kakuna (DFC)</related>
@@ -250,7 +250,7 @@ Whenever Beedrill evolves, create two copies of it except they are 1/1 with no m
 			<type>Pokémon - Normal Flying</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{W}: Evolve to Pidgeotto
+			<text>{1}{W}: Evolve
 Flying</text>
 			<side>front</side>
 			<related attach="attach">Pidgeotto (DFC)</related>
@@ -405,8 +405,8 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 			<type>Pokémon - Poison</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{G}: Evolve to Nidorina
-{2}{G}: Search your library for a card named Nidoran♀ or Nidoran♂ and put it onto the battlefield. Then shuffle.</text>
+			<text>{1}{G}: Evolve
+{2}{G}: Search your library for a Pokémon card with an Evolve ability and put it into your hand. Then shuffle.</text>
 			<side>front</side>
 			<related attach="attach">Nidorina (DFC)</related>
 		</card>
@@ -417,7 +417,7 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 			<type>Pokémon - Poison</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{G}: Search your library for a card named Nidoran♀ or Nidoran♂ and put it onto the battlefield. Then shuffle.</text>
+			<text>{2}{G}: Search your library for a Pokémon card with an Evolve ability and put it into your hand. Then shuffle.</text>
 			<side>back</side>
 			<related attach="attach">Nidoran♀</related>
 		</card>
@@ -425,9 +425,9 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 			<name>Nidorina</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Nidorina.png" rarity="uncommon">PTCG</set>
 			<color>G</color>
-			<manacost>3G</manacost>
+			<manacost>2G</manacost>
 			<type>Pokémon - Poison</type>
-			<pt>3/3</pt>
+			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidoran♀ {1}{G}
 Whenever Nidorina evolves, return target Pokémon card from your graveyard to your hand.</text>
@@ -451,7 +451,7 @@ Pokémon you control with lesser toughness than Nidoqueen have persist.</text>
 			<type>Pokémon - Poison</type>
 			<pt>3/1</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{B}: Evolve to Nidorino
+			<text>{1}{B}: Evolve
 Whenever Nidoran♂ attacks, it gains first strike and deathtouch until end of turn.</text>
 			<side>front</side>
 			<related attach="attach">Nidorino (DFC)</related>
@@ -584,7 +584,7 @@ When you cast Golbat for its evolve cost, target player loses X life and you gai
 			<type>Pokémon - Grass Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{B/G}: Evolve to Gloom
+			<text>{B/G}: Evolve
 Lifelink</text>
 			<side>front</side>
 			<related attach="attach">Gloom (DFC)</related>
@@ -601,7 +601,7 @@ Lifelink</text>
 			<related attach="attach">Oddish</related>
 		</card>
 		<card>
-			<name>Gloom </name>
+			<name>Gloom (PTCG)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Gloom.png" rarity="uncommon">PTCG</set>
 			<color>BG</color>
 			<manacost>1{B/G}{B/G}</manacost>
@@ -780,7 +780,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
 			<type>Pokémon - Water</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>{U}: Evolve to Poliwhirl
+			<text>{U}: Evolve
 Hexproof</text>
 			<side>front</side>
 			<related attach="attach">Poliwhirl (DFC)</related>
@@ -827,7 +827,7 @@ If a Pokémon would fight a Pokémon that isn't Poliwrath, it fights Poliwrath i
 			<type>Pokémon - Psychic</type>
 			<pt>0/2</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{U}: Evolve to Kadabra
+			<text>{1}{U}: Evolve
 Whenever Abra enters the battlefield or evolves, scry 1.</text>
 			<side>front</side>
 			<related attach="attach">Kadabra (DFC)</related>
@@ -874,7 +874,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 			<type>Pokémon - Fighting</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{R/G}{R/G}: Evolve to Machoke
+			<text>{R/G}{R/G}: Evolve
 Whenever Machop evolves, put a +1/+1 counter on it.</text>
 			<side>front</side>
 			<related attach="attach">Machoke (DFC)</related>
@@ -920,7 +920,7 @@ At the beginning of your upkeep, if Machoke doesn't have the highest combined po
 			<type>Pokémon - Grass Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{G}{G}: Evolve to Weepinbell
+			<text>{G}{G}: Evolve
 {1}{G}: Bellsprout gets +1/+1 until end of turn.</text>
 			<side>front</side>
 			<related attach="attach">Weepinbell (DFC)</related>
@@ -988,7 +988,7 @@ Whenever you scry, you may draw a card. If you do, discard a card.</text>
 			<type>Pokémon - Rock Ground</type>
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{G}: Evolve to Graveler
+			<text>{1}{G}: Evolve
 Protection from Electric and Poison</text>
 			<side>front</side>
 			<related attach="attach">Graveler (DFC)</related>
@@ -1191,7 +1191,7 @@ Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three targe
 			<type>Pokémon - Ghost Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{B}{B}: Evolve to Haunter
+			<text>{B}{B}: Evolve
 Protection from Ground and Fighting</text>
 			<side>front</side>
 			<related attach="attach">Haunter (DFC)</related>
@@ -1794,7 +1794,7 @@ As long as you have no cards in hand, Moltres is obedient.</text>
 			<type>Pokémon - Dragon</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{R}{G}{W}: Evolve to Dragonair
+			<text>{R}{G}{W}: Evolve
 Whenever Dratini enters the battlefield or evolves, you gain 2 life.</text>
 			<side>front</side>
 			<related attach="attach">Dragonair (DFC)</related>
@@ -2111,7 +2111,7 @@ Pokémoncycling {3}</text>
 			<manacost>G</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Choose target Pokémon you control. Reveal a Pokémon card with equal or lesser mana value from your hand. Return the chosen Pokémon to your hand. If you do, put the revealed card onto the battlefield.</text>
+			<text>Choose target Pokémon you control. Reveal a Pokémon card with equal or lesser mana value from your hand. If you do, return the chosen Pokémon to your hand and put the revealed card onto the battlefield.</text>
 		</card>
 		<card>
 			<name>Poké Flute</name>
@@ -2550,7 +2550,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 			<manacost>3G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Put a +1/+1 counter on target Pokémon. If you do, it fights another target Pokémon.</text>
+			<text>Put a +1/+1 counter on target Pokémon you control. If you do, it fights another target Pokémon.</text>
 		</card>
 		<card>
 			<name>Prepare for Trouble</name>
@@ -2758,7 +2758,7 @@ Flash
 Enchanted Pokémon gets +1/+1 and first strike.</text>
 		</card>
 		<card>
-			<name>Dream Eater</name>
+			<name>Dream Eater (PTCG)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dream%20Eater.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
 			<manacost>BB</manacost>
@@ -2840,11 +2840,10 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<name>Cinnabar Gym</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cinnabar%20Gym.png" rarity="rare">PTCG</set>
 			<color>R</color>
-			<manacost>1RR</manacost>
+			<manacost>1R</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>At the beginning of each player's upkeep, Cinnabar Gym deals 2 damage to that player.
-Players can't gain life.</text>
+			<text>Whenever you attack with one or more Pokemon, choose a number. Then exile the top card of your library. If its mana value is equal to chosen number, you may cast it for as long as it remains exiled.</text>
 		</card>
 		<card>
 			<name>Viridian Gym</name>
@@ -3086,7 +3085,7 @@ Cycling {3}</text>
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {B}.
-{4}{B}, {T}: Target player loses 2 life and you gain 2 life.</text>
+{4}{B}, {T}: Target player loses 1 life and you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Power Plant</name>
