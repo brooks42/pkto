@@ -1657,7 +1657,7 @@ Whenever you evolve a Pokémon, scry 1 and draw a card.</text>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Eevee {3}{R/W}
-Whenever you evolve a Pokémon, put a +1/+1 counter on each Pokémon that attacked this turn.</text>
+Whenever you evolve a Pokémon, Pokémon you control get +1/+1 until end of turn.</text>
 		</card>
 		<card>
 			<name>Flareon</name>
