@@ -407,7 +407,7 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{G}: Evolve
-{2}{G}: Search your library for a Pokémon card with an Evolve ability and put it into your hand. Then shuffle.</text>
+{2}{G}, {T}: Reveal cards from the top of your library until you reveal a Pokémon card with an Evolve ability. Put that card into your hand and the rest on the bottom of your library in any order.</text>
 			<side>front</side>
 			<related attach="attach">Nidorina (DFC)</related>
 		</card>
@@ -418,7 +418,7 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 			<type>Pokémon - Poison</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{G}: Search your library for a Pokémon card with an Evolve ability and put it into your hand. Then shuffle.</text>
+			<text>{2}{G}, {T}: Reveal cards from the top of your library until you reveal a Pokémon card with an Evolve ability. Put that card into your hand and the rest on the bottom of your library in any order.</text>
 			<side>back</side>
 			<related attach="attach">Nidoran♀</related>
 		</card>
