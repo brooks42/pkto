@@ -402,7 +402,7 @@ If an even amount of damage would be dealt to Sandslash, prevent that damage.</t
 			<name>Nidoran♀</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/NidoranF.png" rarity="common">PTCG</set>
 			<color>G</color>
-			<manacost>2G</manacost>
+			<manacost>1G</manacost>
 			<type>Pokémon - Poison</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
