@@ -1875,25 +1875,25 @@ Pokémoncycling {3}</text>
 			<name>Blue</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Blue.png" rarity="mythic">PTCG</set>
 			<color>UR</color>
-			<manacost>3R{R/U}U</manacost>
+			<manacost>2UR</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Blue</type>
 			<loyalty>4</loyalty>
-			<text>Whenever an opponent casts a Pokémon spell, put a loyalty counter on Blue.
-[-1]: Until end of turn, Pokémon spells you cast cost {1} less to cast.
-[-3]: Search your library for a Pokémon card with Evolve From. You may evolve it without paying its cost. Then shuffle.</text>
+			<text>At the beginning of your upkeep, if a player attacked you last turn, draw a card.
+[+1]: The next Pokémon spell you cast this turn costs {1} less to cast for each Pokémon your opponents control.
+[-3]: Create a token copy of target Pokémon you don’t control, except it has haste. Exile it at the beginning of the next end step.</text>
 		</card>
 		<card>
 			<name>Green</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Green.png" rarity="mythic">PTCG</set>
-			<color>GUB</color>
-			<manacost>3{B/U}G</manacost>
+			<color>GU</color>
+			<manacost>2GU</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Green</type>
-			<loyalty>5</loyalty>
+			<loyalty>4</loyalty>
 			<text>You may spend mana as though it were mana of any color to evolve Pokémon.
 [+1]: Reveal the top card of your library. If it's an artifact card, put it onto the battlefield. Otherwise, put it into your hand.
-[−6]: Gain control of target Pokémon.</text>
+[−3]: Search your library for a Pokémon card with Evolve From. You may evolve it without paying its cost. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Brock</name>
