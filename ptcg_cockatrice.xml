@@ -1898,8 +1898,8 @@ Pokémoncycling {3}</text>
 		<card>
 			<name>Brock</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Brock.png" rarity="mythic">PTCG</set>
-			<color>G</color>
-			<manacost>1GG</manacost>
+			<color>RG</color>
+			<manacost>1RG</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Brock</type>
 			<loyalty>3</loyalty>
