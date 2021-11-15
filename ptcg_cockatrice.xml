@@ -41,7 +41,8 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Bulbasaur {1}{G}
-Reach, trample</text>
+Reach
+Ivysaur must be blocked if able.</text>
 		</card>
 		<card>
 			<name>Venusaur</name>
@@ -1013,10 +1014,11 @@ Protection from Electric and Poison</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Geodude {G}{G}
-Reach, trample</text>
+This spell can't be countered.
+Trample</text>
 		</card>
 		<card>
-			<name>Golem​ </name>
+			<name>Golem (PTCG) </name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Golem.png" rarity="rare">PTCG</set>
 			<color>G</color>
 			<manacost>4GG</manacost>
@@ -1024,7 +1026,7 @@ Reach, trample</text>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Graveler {G}{G}
-{T}: Golem deals 5 damage to target flying Pokémon or target Pokémon with flying.</text>
+{T}: Golem deals 5 damage to target Pokémon with flying.</text>
 		</card>
 		<card>
 			<name>Ponyta</name>
@@ -2084,7 +2086,7 @@ Pokémoncycling {3}</text>
 			<manacost>2G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Look at the top six cards of your library. Put up to one Pokémon card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+			<text>Look at the top six cards of your library. Put up to one Pokémon card with mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
 		</card>
 		<card>
 			<name>Ultra Ball</name>
@@ -2357,7 +2359,7 @@ Draw a card.</text>
 			<manacost>{G/W}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Gust deals 2 damage to target Pokémon with flying. If that Pokémon is attacking, Gust deals 5 damage to that Pokémon instead.</text>
+			<text>Gust deals 2 damage to target attacking Pokémon. If that Pokémon has flying, Gust deals 5 damage to it instead.</text>
 		</card>
 		<card>
 			<name>Slam</name>
@@ -2864,7 +2866,7 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<tablerow>0</tablerow>
 			<text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Grassland.
-{T}, Remove any number of storage counters from Bill's Grassland: Add {W} for each storage counter removed this way.</text>
+{T}, Remove all storage counters from Bill's Grassland: Add {W} for each storage counter removed this way.</text>
 		</card>
 		<card>
 			<name>Bill's Volcano</name>
@@ -2875,7 +2877,7 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<tablerow>0</tablerow>
 			<text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Volcano.
-{T}, Remove any number of storage counters from Bill's Volcano: Add {R} for each storage counter removed this way.</text>
+{T}, Remove all storage counters from Bill's Volcano: Add {R} for each storage counter removed this way.</text>
 		</card>
 		<card>
 			<name>Bill's Rainforest</name>
@@ -2886,7 +2888,7 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<tablerow>0</tablerow>
 			<text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Rainforest.
-{T}, Remove any number of storage counters from Bill's Rainforest: Add {G} for each storage counter removed this way.</text>
+{T}, Remove all storage counters from Bill's Rainforest: Add {G} for each storage counter removed this way.</text>
 		</card>
 		<card>
 			<name>Bill's Marsh</name>
@@ -2897,7 +2899,7 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<tablerow>0</tablerow>
 			<text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Marsh.
-{T}, Remove any number of storage counters from Bill's Marsh: Add {B} for each storage counter removed this way.</text>
+{T}, Remove all storage counters from Bill's Marsh: Add {B} for each storage counter removed this way.</text>
 		</card>
 		<card>
 			<name>Bill's Coastline</name>
@@ -2908,7 +2910,7 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<tablerow>0</tablerow>
 			<text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Coastline.
-{T}, Remove any number of storage counters from Bill's Coastline: Add {U} for each storage counter removed this way.</text>
+{T}, Remove all storage counters from Bill's Coastline: Add {U} for each storage counter removed this way.</text>
 		</card>
 		<card>
 			<name>Celadon City</name>
@@ -3393,6 +3395,7 @@ Cycling {3}</text>
 			<reverse-related>Pilfer</reverse-related>
 			<reverse-related>Moonstone</reverse-related>
 			<reverse-related>Payday</reverse-related>
+			<reverse-related>Clefable</reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
