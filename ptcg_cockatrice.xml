@@ -2829,8 +2829,8 @@ Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 			<text>Whenever you scry, look at the top card of target opponent's library. You may put that card on the bottom of that library. If you do, you lose 1 life. Otherwise, you gain 1 life.</text>
 		</card>
 		<card>
-			<name>Fuschia Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Fuschia%20Gym.png" rarity="rare">PTCG</set>
+			<name>Fuchsia Gym</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Fuchsia%20Gym.png" rarity="rare">PTCG</set>
 			<color>GB</color>
 			<manacost>3GB</manacost>
 			<type>Enchantment - Gym</type>
@@ -2919,8 +2919,8 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Celadon City enters the battlefield tapped unless you pay 2 life.
-{T}: Add {G} or {W}.</text>
+			<text>{T}: Add {C}.
+{T}: Add {G} or {W}. You lose 1 life.</text>
 		</card>
 		<card>
 			<name>Cerulean Cave</name>
@@ -2951,9 +2951,8 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Cinnabar Island enters the battlefield tapped unless you pay 2 life.
-{T}: Add {U} or {R}.</text>
-			<cipt>1</cipt>
+			<text>{T}: Add {C}.
+{T}: Add {U} or {R}. You lose 1 life.</text>
 		</card>
 		<card>
 			<name>Cinnabar Lab</name>
@@ -2962,9 +2961,8 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Cinnabar Lab enters the battlefield tapped unless you pay 2 life.
-{T}: Add {G} or {U}.</text>
-			<cipt>1</cipt>
+			<text>{T}: Add {C}.
+{T}: Add {G} or {U}. You lose 1 life.</text>
 		</card>
 		<card>
 			<name>Cycling Road</name>
@@ -2974,8 +2972,8 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>Cycling Road enters the battlefield tapped.
-{T}: Add {R}, {W}, or {B}.
-Cycling {3}</text>
+{T}: Add {G} or {W}.
+Cycling {2}</text>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -3006,9 +3004,8 @@ Cycling {3}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Game Corner enters the battlefield tapped unless you pay 2 life.
-{T}: Add {B} or {R}.</text>
-			<cipt>1</cipt>
+			<text>{T}: Add {C}.
+{T}: Add {B} or {R}. You lose 1 life.</text>
 		</card>
 		<card>
 			<name>Indigo Plateau</name>
@@ -3018,8 +3015,8 @@ Cycling {3}</text>
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>Indigo Plateau enters the battlefield tapped.
-{T}: Add {U}, {B}, or {R}.
-Cycling {3}</text>
+{T}: Add {U} or {R}.
+Cycling {2}</text>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -3030,8 +3027,8 @@ Cycling {3}</text>
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>Lavender Town enters the battlefield tapped.
-{T}: Add {W}, {U}, or {B}.
-Cycling {3}</text>
+{T}: Add {W} or {B}.
+Cycling {2}</text>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -3041,9 +3038,8 @@ Cycling {3}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Mt. Moon enters the battlefield tapped unless you pay 2 life.
-{T}: Add {W} or {B}.</text>
-			<cipt>1</cipt>
+			<text>{T}: Add {C}.
+{T}: Add {W} or {B}. You lose 1 life.</text>
 		</card>
 		<card>
 			<name>Pallet Town</name>
@@ -3064,7 +3060,7 @@ Cycling {3}</text>
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>Pewter City enters the battlefield tapped unless you pay 2 life.
-{T}: Add {G} or {R}.</text>
+{T}: Add {R} or {G}.</text>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -3074,10 +3070,8 @@ Cycling {3}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Pewter Museum enters the battlefield tapped.
-{T}: Add {G}, {U}, or {R}.
-Cycling {3}</text>
-			<cipt>1</cipt>
+			<text>{T}: Add {R} or {G}. You lose 1 life.
+{1}, {T}, Sacrifice Pewter Museum: Draw a card.</text>
 		</card>
 		<card>
 			<name>Pokémon Mansion</name>
@@ -3108,8 +3102,8 @@ Cycling {3}</text>
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>Rock Tunnel enters the battlefield tapped.
-{T}: Add {B}, {R}, or {G}.
-Cycling {3}</text>
+{T}: Add {B} or {R}.
+Cycling {2}</text>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -3128,20 +3122,18 @@ Cycling {3}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Saffron City enters the battlefield tapped.
-{T}: Add {B}, {G}, or {U}.
-Cycling {3}</text>
-			<cipt>1</cipt>
+			<text>{T}: Add {B} or {U}. You lose 1 life.
+{1}, {T}, Sacfirice Saffron City: Draw a card.</text>
 		</card>
 		<card>
-			<name>Seafoam Islands</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Seafoam%20Islands.png" rarity="uncommon">PTCG</set>
+			<name>S.S. Anne</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/S.S.%20Anne.png" rarity="uncommon">PTCG</set>
 			<color />
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {U}.
-{T}: Return target Water Pokémon to its owner's hand.</text>
+{1}{U}, {T}, Sacrifice S.S. Anne: Return target Pokémon to its owner's hand.</text>
 		</card>
 		<card>
 			<name>Silph Co.</name>
@@ -3151,8 +3143,8 @@ Cycling {3}</text>
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>Silph Co. enters the battlefield tapped.
-{T}: Add {G}, {W}, or {U}.
-Cycling {3}</text>
+{T}: Add {G} or {U}.
+Cycling {2}</text>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -3162,21 +3154,18 @@ Cycling {3}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Vermillion City enters the battlefield tapped.
-{T}: Add {U}, {R}, or {W}.
-Cycling {3}</text>
-			<cipt>1</cipt>
+			<text>{T}: Add {R} or {W}.
+{1}, {T}, Sacrifice Vermillion City: Draw a card.</text>
 		</card>
 		<card>
-			<name>Victory Road</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Victory%20Road.png" rarity="rare">PTCG</set>
+			<name>Seafoam Islands</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Seafoam%20Islands.png" rarity="rare">PTCG</set>
 			<color />
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Victory Road enters the battlefield tapped.
-{T}: Add {R}, {G}, or {W}.
-Cycling {3}</text>
+			<text>{T}: Add {W} or {U}. You lose 1 life.
+{1}, {T}, Sacrifice Seafoam Islands: Draw a card.</text>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -3186,10 +3175,8 @@ Cycling {3}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Viridian City enters the battlefield tapped.
-{T}: Add {W}, {B}, or {G}.
-Cycling {3}</text>
-			<cipt>1</cipt>
+			<text>{T}: Add {B}, or {G}.
+{1}, {T}, Sacrifice Viridian City: Draw a card.</text>
 		</card>
 		<card>
 			<name>Viridian Forest</name>
