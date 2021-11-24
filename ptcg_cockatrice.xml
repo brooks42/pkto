@@ -1018,7 +1018,7 @@ This spell can't be countered.
 Trample</text>
 		</card>
 		<card>
-			<name>Golem (PTCG) </name>
+			<name>Golem (PTCG)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Golem.png" rarity="rare">PTCG</set>
 			<color>G</color>
 			<manacost>4GG</manacost>
