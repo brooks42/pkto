@@ -74,7 +74,8 @@ def main():
                             if rarity_tag['rarity'] == 'common':
                                 cube_list.append(card_name)
 
-    print("Writing to cube file...")
+    cube_list.sort()
+    print(f'Writing {len(cube_list)} cards to cube file...')
     with open('ptcg_cube.txt', 'w') as f:
         f.write('\n'.join(str(item) for item in cube_list))
 

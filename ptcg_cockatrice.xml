@@ -869,7 +869,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 		</card>
 		<card>
 			<name>Machop</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Machop.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Machop.png" rarity="common">PTCG</set>
 			<color>RG</color>
 			<manacost>{R/G}{R/G}</manacost>
 			<type>Pokémon - Fighting</type>
@@ -2134,7 +2134,7 @@ Pokémoncycling {3}</text>
 			<text>Search target opponent's library for a Pokémon card with mana value X or less and put that card onto the battlefield under your control. Then that player shuffles. X can't be greater than 3.</text>
 		</card>
 		<card>
-			<name>Revive</name>
+			<name>Revive (PTCG)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Revive.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<manacost>2B</manacost>
@@ -2770,14 +2770,14 @@ Enchanted Pokémon gets +1/+1 and first strike.</text>
 Whenever enchanted Pokémon deals combat damage to a player, that player discards a card.</text>
 		</card>
 		<card>
-			<name>Frozen</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Frozen.png" rarity="uncommon">PTCG</set>
+			<name>Freeze</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Freeze.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
 			<manacost>1UU</manacost>
-			<type>Enchantment - Status</type>
+			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-When Frozen enters the battlefield, tap enchanted Pokémon.
+When Freeze enters the battlefield, tap enchanted Pokémon.
 Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 		</card>
 		<!-- Locations -->
