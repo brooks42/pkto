@@ -22,7 +22,7 @@ Bill's Rainforest
 Bill's Volcano
 Blaine
 Blastoise
-Blizzard (PTCG)
+Blizzard [PTCG]
 Blue
 Body Slam
 Body Slam
@@ -65,7 +65,7 @@ Double-Edge
 Dragonair
 Dragonite
 Dratini
-Dream Eater (PTCG)
+Dream Eater [PTCG]
 Drowzee
 Dugtrio
 Eevee
@@ -89,8 +89,8 @@ Fire Spin
 Fire Spin
 Fire Stone
 Flareon
-Flash (PTCG)
-Flash (PTCG)
+Flash [PTCG]
+Flash [PTCG]
 Freeze
 Fuchsia City
 Fuchsia Gym
@@ -103,12 +103,12 @@ Geodude
 Giovanni
 Glare
 Glare
-Gloom (PTCG)
+Gloom [PTCG]
 Golbat
 Goldeen
 Goldeen
 Golduck
-Golem (PTCG)
+Golem [PTCG]
 Graveler
 Great Ball
 Green
@@ -153,7 +153,7 @@ Koffing
 Koga
 Krabby
 Krabby
-Lance (PTCG)
+Lance [PTCG]
 Lapras
 Lavender Town
 Leaf Stone
@@ -262,8 +262,8 @@ Release
 Release
 Revitalize
 Revitalize
-Revive (PTCG)
-Revive (PTCG)
+Revive [PTCG]
+Revive [PTCG]
 Rhydon
 Rhyhorn
 Rock Tunnel
@@ -348,8 +348,8 @@ Weedle
 Weedle
 Weepinbell
 Weezing
-Whirlwind (PTCG)
-Whirlwind (PTCG)
+Whirlwind [PTCG]
+Whirlwind [PTCG]
 Wigglytuff
 X Attack
 X Attack
