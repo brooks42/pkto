@@ -63,9 +63,6 @@ def main():
                     if card_name.lower() in basic_lands_b:
                         continue
 
-                    # append set code for draft sites
-                    card_name = name_tag.string + ' (PTCG)'
-
                     for rarity_tag in cockatrice_card:
                         if rarity_tag.name == 'set':
 
