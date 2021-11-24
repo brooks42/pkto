@@ -1103,17 +1103,17 @@ Whenever Magneton evolves, put three +1/+1 counters on it.</text>
 		</card>
 		<card>
 			<name>Doduo</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Doduo.png" rarity="common">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Doduo.png" rarity="uncommon">PTCG</set>
 			<color>RB</color>
-			<manacost>2RB</manacost>
+			<manacost>RB</manacost>
 			<type>Pokémon - Normal Flying</type>
-			<pt>3/2</pt>
+			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>Menace</text>
 		</card>
 		<card>
 			<name>Dodrio</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dodrio.png" rarity="uncommon">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Dodrio.png" rarity="rare">PTCG</set>
 			<color>RB</color>
 			<manacost>3RB</manacost>
 			<type>Pokémon - Normal Flying</type>

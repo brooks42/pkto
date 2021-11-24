@@ -107,7 +107,6 @@ Magnemite
 Magneton
 Farfetch'd
 Doduo
-Doduo
 Dodrio
 Seel
 Seel
