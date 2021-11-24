@@ -1,360 +1,360 @@
-Bulbasaur (PTCG)
-Bulbasaur (PTCG)
-Ivysaur (PTCG)
-Venusaur (PTCG)
-Squirtle (PTCG)
-Squirtle (PTCG)
-Wartortle (PTCG)
-Blastoise (PTCG)
-Charmander (PTCG)
-Charmander (PTCG)
-Charmeleon (PTCG)
-Charizard (PTCG)
-Caterpie (PTCG)
-Caterpie (PTCG)
-Metapod (PTCG)
-Butterfree (PTCG)
-Weedle (PTCG)
-Weedle (PTCG)
-Kakuna (PTCG)
-Beedrill (PTCG)
-Pidgey (PTCG)
-Pidgey (PTCG)
-Pidgeotto (PTCG)
-Pidgeot (PTCG)
-Rattata (PTCG)
-Rattata (PTCG)
-Raticate (PTCG)
-Spearow (PTCG)
-Spearow (PTCG)
-Fearow (PTCG)
-Ekans (PTCG)
-Ekans (PTCG)
-Arbok (PTCG)
-Pikachu (PTCG)
-Raichu (PTCG)
-Sandshrew (PTCG)
-Sandslash (PTCG)
-Nidoran♀ (PTCG)
-Nidoran♀ (PTCG)
-Nidorina (PTCG)
-Nidoqueen (PTCG)
-Nidoran♂ (PTCG)
-Nidoran♂ (PTCG)
-Nidorino (PTCG)
-Nidoking (PTCG)
-Clefairy (PTCG)
-Clefable (PTCG)
-Vulpix (PTCG)
-Ninetales (PTCG)
-Jigglypuff (PTCG)
-Jigglypuff (PTCG)
-Wigglytuff (PTCG)
-Zubat (PTCG)
-Zubat (PTCG)
-Golbat (PTCG)
-Oddish (PTCG)
-Oddish (PTCG)
-Gloom  (PTCG)
-Vileplume (PTCG)
-Paras (PTCG)
-Paras (PTCG)
-Parasect (PTCG)
-Venonat (PTCG)
-Venonat (PTCG)
-Venomoth (PTCG)
-Diglett (PTCG)
-Diglett (PTCG)
-Dugtrio (PTCG)
-Meowth (PTCG)
-Persian (PTCG)
-Psyduck (PTCG)
-Psyduck (PTCG)
-Golduck (PTCG)
-Mankey (PTCG)
-Mankey (PTCG)
-Primeape (PTCG)
-Growlithe (PTCG)
-Arcanine (PTCG)
-Poliwag (PTCG)
-Poliwag (PTCG)
-Poliwhirl (PTCG)
-Poliwrath (PTCG)
-Abra (PTCG)
-Abra (PTCG)
-Kadabra (PTCG)
-Alakazam (PTCG)
-Machop (PTCG)
-Machoke (PTCG)
-Machamp (PTCG)
-Bellsprout (PTCG)
-Bellsprout (PTCG)
-Weepinbell (PTCG)
-Victreebel (PTCG)
-Tentacool (PTCG)
-Tentacool (PTCG)
-Tentacruel (PTCG)
-Geodude (PTCG)
-Geodude (PTCG)
-Graveler (PTCG)
-Golem​  (PTCG)
-Ponyta (PTCG)
-Rapidash (PTCG)
-Slowpoke (PTCG)
-Slowbro (PTCG)
-Magnemite (PTCG)
-Magnemite (PTCG)
-Magneton (PTCG)
-Farfetch'd (PTCG)
-Doduo (PTCG)
-Doduo (PTCG)
-Dodrio (PTCG)
-Seel (PTCG)
-Seel (PTCG)
-Dewgong (PTCG)
-Grimer (PTCG)
-Grimer (PTCG)
-Muk (PTCG)
-Shellder (PTCG)
-Shellder (PTCG)
-Cloyster (PTCG)
-Gastly (PTCG)
-Gastly (PTCG)
-Haunter (PTCG)
-Gengar (PTCG)
-Onix (PTCG)
-Onix (PTCG)
-Drowzee (PTCG)
-Hypno (PTCG)
-Krabby (PTCG)
-Krabby (PTCG)
-Kingler (PTCG)
-Voltorb (PTCG)
-Voltorb (PTCG)
-Electrode (PTCG)
-Exeggcute (PTCG)
-Exeggcute (PTCG)
-Exeggutor (PTCG)
-Cubone (PTCG)
-Marowak (PTCG)
-Hitmonlee (PTCG)
-Hitmonchan (PTCG)
-Lickitung (PTCG)
-Koffing (PTCG)
-Koffing (PTCG)
-Weezing (PTCG)
-Rhyhorn (PTCG)
-Rhydon (PTCG)
-Chansey (PTCG)
-Tangela (PTCG)
-Kangaskhan (PTCG)
-Horsea (PTCG)
-Horsea (PTCG)
-Seadra (PTCG)
-Goldeen (PTCG)
-Goldeen (PTCG)
-Seaking (PTCG)
-Staryu (PTCG)
-Staryu (PTCG)
-Starmie (PTCG)
-Mr. Mime (PTCG)
-Scyther (PTCG)
-Jynx (PTCG)
-Electabuzz (PTCG)
-Magmar (PTCG)
-Pinsir (PTCG)
-Tauros (PTCG)
-Magikarp (PTCG)
-Magikarp (PTCG)
-Gyarados (PTCG)
-Lapras (PTCG)
-Ditto (PTCG)
-Eevee (PTCG)
-Eevee (PTCG)
-Vaporeon (PTCG)
-Jolteon (PTCG)
-Flareon (PTCG)
-Porygon (PTCG)
-Omanyte (PTCG)
-Omastar (PTCG)
-Kabuto (PTCG)
-Kabutops (PTCG)
-Aerodactyl (PTCG)
-Snorlax (PTCG)
-Articuno (PTCG)
-Zapdos (PTCG)
-Moltres (PTCG)
-Dratini (PTCG)
-Dragonair (PTCG)
-Dragonite (PTCG)
-Mewtwo (PTCG)
-Mew (PTCG)
-Red (PTCG)
-Blue (PTCG)
-Green (PTCG)
-Brock (PTCG)
-Misty (PTCG)
-Lt. Surge (PTCG)
-Erika (PTCG)
-Koga (PTCG)
-Sabrina (PTCG)
-Blaine (PTCG)
-Giovanni (PTCG)
-Professor Oak (PTCG)
-Lorelei (PTCG)
-Bruno (PTCG)
-Agatha (PTCG)
+Bulbasaur
+Bulbasaur
+Ivysaur
+Venusaur
+Squirtle
+Squirtle
+Wartortle
+Blastoise
+Charmander
+Charmander
+Charmeleon
+Charizard
+Caterpie
+Caterpie
+Metapod
+Butterfree
+Weedle
+Weedle
+Kakuna
+Beedrill
+Pidgey
+Pidgey
+Pidgeotto
+Pidgeot
+Rattata
+Rattata
+Raticate
+Spearow
+Spearow
+Fearow
+Ekans
+Ekans
+Arbok
+Pikachu
+Raichu
+Sandshrew
+Sandslash
+Nidoran♀
+Nidoran♀
+Nidorina
+Nidoqueen
+Nidoran♂
+Nidoran♂
+Nidorino
+Nidoking
+Clefairy
+Clefable
+Vulpix
+Ninetales
+Jigglypuff
+Jigglypuff
+Wigglytuff
+Zubat
+Zubat
+Golbat
+Oddish
+Oddish
+Gloom (PTCG)
+Vileplume
+Paras
+Paras
+Parasect
+Venonat
+Venonat
+Venomoth
+Diglett
+Diglett
+Dugtrio
+Meowth
+Persian
+Psyduck
+Psyduck
+Golduck
+Mankey
+Mankey
+Primeape
+Growlithe
+Arcanine
+Poliwag
+Poliwag
+Poliwhirl
+Poliwrath
+Abra
+Abra
+Kadabra
+Alakazam
+Machop
+Machoke
+Machamp
+Bellsprout
+Bellsprout
+Weepinbell
+Victreebel
+Tentacool
+Tentacool
+Tentacruel
+Geodude
+Geodude
+Graveler
+Golem (PTCG) 
+Ponyta
+Rapidash
+Slowpoke
+Slowbro
+Magnemite
+Magnemite
+Magneton
+Farfetch'd
+Doduo
+Doduo
+Dodrio
+Seel
+Seel
+Dewgong
+Grimer
+Grimer
+Muk
+Shellder
+Shellder
+Cloyster
+Gastly
+Gastly
+Haunter
+Gengar
+Onix
+Onix
+Drowzee
+Hypno
+Krabby
+Krabby
+Kingler
+Voltorb
+Voltorb
+Electrode
+Exeggcute
+Exeggcute
+Exeggutor
+Cubone
+Marowak
+Hitmonlee
+Hitmonchan
+Lickitung
+Koffing
+Koffing
+Weezing
+Rhyhorn
+Rhydon
+Chansey
+Tangela
+Kangaskhan
+Horsea
+Horsea
+Seadra
+Goldeen
+Goldeen
+Seaking
+Staryu
+Staryu
+Starmie
+Mr. Mime
+Scyther
+Jynx
+Electabuzz
+Magmar
+Pinsir
+Tauros
+Magikarp
+Magikarp
+Gyarados
+Lapras
+Ditto
+Eevee
+Eevee
+Vaporeon
+Jolteon
+Flareon
+Porygon
+Omanyte
+Omastar
+Kabuto
+Kabutops
+Aerodactyl
+Snorlax
+Articuno
+Zapdos
+Moltres
+Dratini
+Dragonair
+Dragonite
+Mewtwo
+Mew
+Red
+Blue
+Green
+Brock
+Misty
+Lt. Surge
+Erika
+Koga
+Sabrina
+Blaine
+Giovanni
+Professor Oak
+Lorelei
+Bruno
+Agatha
 Lance (PTCG)
-Bill (PTCG)
-Bill (PTCG)
-Poké Ball (PTCG)
-Poké Ball (PTCG)
-Great Ball (PTCG)
-Safari Ball (PTCG)
-Ultra Ball (PTCG)
-Master Ball (PTCG)
-Switch (PTCG)
-Switch (PTCG)
-Poké Flute (PTCG)
-Old Rod (PTCG)
-Revive (PTCG)
-Revive (PTCG)
-Max Revive (PTCG)
-Energy Search (PTCG)
-Energy Search (PTCG)
-Mysterious Fossil (PTCG)
-Mysterious Fossil (PTCG)
-Explore (PTCG)
-Explore (PTCG)
-Revitalize (PTCG)
-Revitalize (PTCG)
-Show of Force (PTCG)
-Show of Force (PTCG)
-Investigate (PTCG)
-Investigate (PTCG)
-Potion (PTCG)
-Potion (PTCG)
-Lemonade (PTCG)
-Lemonade (PTCG)
-Growth (PTCG)
-Growth (PTCG)
-X Attack (PTCG)
-X Attack (PTCG)
-X Defense (PTCG)
-X Defense (PTCG)
-Guard Spec. (PTCG)
-Guard Spec. (PTCG)
-Antidote (PTCG)
-Antidote (PTCG)
-Turn to Stone (PTCG)
-Turn to Stone (PTCG)
-Itemfinder (PTCG)
-Itemfinder (PTCG)
-Body Slam (PTCG)
-Body Slam (PTCG)
-Slash (PTCG)
-Slash (PTCG)
+Bill
+Bill
+Poké Ball
+Poké Ball
+Great Ball
+Safari Ball
+Ultra Ball
+Master Ball
+Switch
+Switch
+Poké Flute
+Old Rod
+Revive
+Revive
+Max Revive
+Energy Search
+Energy Search
+Mysterious Fossil
+Mysterious Fossil
+Explore
+Explore
+Revitalize
+Revitalize
+Show of Force
+Show of Force
+Investigate
+Investigate
+Potion
+Potion
+Lemonade
+Lemonade
+Growth
+Growth
+X Attack
+X Attack
+X Defense
+X Defense
+Guard Spec.
+Guard Spec.
+Antidote
+Antidote
+Turn to Stone
+Turn to Stone
+Itemfinder
+Itemfinder
+Body Slam
+Body Slam
+Slash
+Slash
 Whirlwind (PTCG)
 Whirlwind (PTCG)
-Sing (PTCG)
-Sing (PTCG)
-Swift (PTCG)
-Disable (PTCG)
-Disable (PTCG)
-Fire Spin (PTCG)
-Fire Spin (PTCG)
-Gust (PTCG)
-Gust (PTCG)
-Slam (PTCG)
-Slam (PTCG)
-Poison Sting (PTCG)
-Poison Sting (PTCG)
-Glare (PTCG)
-Glare (PTCG)
+Sing
+Sing
+Swift
+Disable
+Disable
+Fire Spin
+Fire Spin
+Gust
+Gust
+Slam
+Slam
+Poison Sting
+Poison Sting
+Glare
+Glare
 Flash (PTCG)
 Flash (PTCG)
-Night Shade (PTCG)
-Aurora Beam (PTCG)
-Tackle (PTCG)
-Tackle (PTCG)
-Toxic (PTCG)
+Night Shade
+Aurora Beam
+Tackle
+Tackle
+Toxic
 Blizzard (PTCG)
-Reflect (PTCG)
-Reflect (PTCG)
-Fire Blast (PTCG)
-Solar Beam (PTCG)
-Hydro Pump (PTCG)
-Release (PTCG)
-Release (PTCG)
-Vine Whip (PTCG)
-Vine Whip (PTCG)
-Guillotine (PTCG)
-Substitute (PTCG)
-Pilfer (PTCG)
-Mirror Move (PTCG)
-Double-Edge (PTCG)
-Prepare for Trouble (PTCG)
-Prepare for Trouble (PTCG)
-Razor Leaf (PTCG)
-Water Gun (PTCG)
-Petal Dance (PTCG)
-Dig (PTCG)
-Thunder Stone (PTCG)
-Leaf Stone (PTCG)
-Water Stone (PTCG)
-Fire Stone (PTCG)
-Moon Stone (PTCG)
-Ancient Slab (PTCG)
-Pokémon Storage System (PTCG)
-Town Map (PTCG)
-Town Map (PTCG)
-Super Repel (PTCG)
-Nugget (PTCG)
-Mysterious Feather (PTCG)
-Rage (PTCG)
-Ice Beam (PTCG)
-Hyper Beam (PTCG)
-Swords Dance (PTCG)
-Mega Kick (PTCG)
+Reflect
+Reflect
+Fire Blast
+Solar Beam
+Hydro Pump
+Release
+Release
+Vine Whip
+Vine Whip
+Guillotine
+Substitute
+Pilfer
+Mirror Move
+Double-Edge
+Prepare for Trouble
+Prepare for Trouble
+Razor Leaf
+Water Gun
+Petal Dance
+Dig
+Thunder Stone
+Leaf Stone
+Water Stone
+Fire Stone
+Moon Stone
+Ancient Slab
+Pokémon Storage System
+Town Map
+Town Map
+Super Repel
+Nugget
+Mysterious Feather
+Rage
+Ice Beam
+Hyper Beam
+Swords Dance
+Mega Kick
 Dream Eater (PTCG)
-Frozen (PTCG)
-Pewter Gym (PTCG)
-Cerulean Gym (PTCG)
-Vermillion Gym (PTCG)
-Celadon Gym (PTCG)
-Saffron Gym (PTCG)
-Fuschia Gym (PTCG)
-Cinnabar Gym (PTCG)
-Viridian Gym (PTCG)
-Bill's Grassland (PTCG)
-Bill's Volcano (PTCG)
-Bill's Rainforest (PTCG)
-Bill's Marsh (PTCG)
-Bill's Coastline (PTCG)
-Celadon City (PTCG)
-Cerulean Cave (PTCG)
-Cerulean City (PTCG)
-Cinnabar Island (PTCG)
-Cinnabar Lab (PTCG)
-Cycling Road (PTCG)
-Diglett's Cave (PTCG)
-Fuchsia City (PTCG)
-Game Corner (PTCG)
-Indigo Plateau (PTCG)
-Lavender Town (PTCG)
-Mt. Moon (PTCG)
-Pallet Town (PTCG)
-Pewter City (PTCG)
-Pewter Museum (PTCG)
-Pokémon Mansion (PTCG)
-Power Plant (PTCG)
-Rock Tunnel (PTCG)
-Safari Zone (PTCG)
-Safari Zone (PTCG)
-Saffron City (PTCG)
-Seafoam Islands (PTCG)
-Silph Co. (PTCG)
-Vermillion City (PTCG)
-Victory Road (PTCG)
-Viridian City (PTCG)
-Viridian Forest (PTCG)
+Frozen
+Pewter Gym
+Cerulean Gym
+Vermillion Gym
+Celadon Gym
+Saffron Gym
+Fuchsia Gym
+Cinnabar Gym
+Viridian Gym
+Bill's Grassland
+Bill's Volcano
+Bill's Rainforest
+Bill's Marsh
+Bill's Coastline
+Celadon City
+Cerulean Cave
+Cerulean City
+Cinnabar Island
+Cinnabar Lab
+Cycling Road
+Diglett's Cave
+Fuchsia City
+Game Corner
+Indigo Plateau
+Lavender Town
+Mt. Moon
+Pallet Town
+Pewter City
+Pewter Museum
+Pokémon Mansion
+Power Plant
+Rock Tunnel
+Safari Zone
+Safari Zone
+Saffron City
+S.S. Anne
+Silph Co.
+Vermillion City
+Seafoam Islands
+Viridian City
+Viridian Forest
