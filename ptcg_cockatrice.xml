@@ -241,7 +241,7 @@ Whenever Kakuna evolves, it loses defender and target player discards a card.</t
 			<tablerow>2</tablerow>
 			<text>Evolve From Kakuna {2}{B}
 Flying, wither
-Whenever Beedrill evolves, create two copies of it except they are 1/1 with no mana cost.</text>
+Whenever Beedrill evolves, create two token copies of it except they are 1/1 with no mana cost.</text>
 		</card>
 		<card>
 			<name>Pidgey</name>
@@ -1868,7 +1868,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Red</type>
 			<loyalty>4</loyalty>
 			<text>[+1]: Exile the top two cards of your library. Until end of turn, you may cast Pokémon cards exiled this way.
-[−3]: Create Red's Pikachu, a legendary 4/4 white and red Electric Pokémon with first strike, lifelink, and haste.
+[−3]: Create Red's Pikachu, a legendary 4/4 red and white Electric Pokémon token with first strike, lifelink, and haste.
 [−7]: You may put any number of Pokémon cards from your hand onto the battlefield.</text>
 		</card>
 		<card>
@@ -3357,7 +3357,7 @@ Cycling {2}</text>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
 			<text>Lifelink</text>
-			<reverse-related count="2">Erika</reverse-related>
+			<reverse-related>Erika</reverse-related>
 		</card>
 		<card>
 			<name>Red's Pikachu</name>
@@ -3380,8 +3380,7 @@ Cycling {2}</text>
 			<text>{T}, Sacrifice this artifact: Add one many of any color.</text>
 			<reverse-related>Meowth</reverse-related>
 			<reverse-related>Pilfer</reverse-related>
-			<reverse-related>Moonstone</reverse-related>
-			<reverse-related>Payday</reverse-related>
+			<reverse-related>Moon Stone</reverse-related>
 			<reverse-related>Clefable</reverse-related>
 		</card>
 	</cards>
