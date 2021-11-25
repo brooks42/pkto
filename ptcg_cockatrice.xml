@@ -782,7 +782,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>{U}: Evolve
-Hexproof</text>
+Whenever this Pokémon evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.</text>
 			<side>front</side>
 			<related attach="attach">Poliwhirl (DFC)</related>
 		</card>
@@ -793,7 +793,7 @@ Hexproof</text>
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Hexproof</text>
+			<text>Whenever this Pokémon evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.</text>
 			<side>back</side>
 			<related attach="attach">Poliwag</related>
 		</card>
@@ -806,7 +806,7 @@ Hexproof</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Poliwag {U}
-Whenever Poliwhirl evolves or becomes the target of a spell or ability, you may draw a card. If you do, discard a card.</text>
+Whenever Poliwhirl becomes the target of a spell or ability an opponent controls, you may draw a card.</text>
 		</card>
 		<card>
 			<name>Poliwrath</name>
@@ -817,8 +817,7 @@ Whenever Poliwhirl evolves or becomes the target of a spell or ability, you may 
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Poliwhirl {U}{U}
-Whenever Poliwrath evolves or fights, put a +1/+1 counter on it.
-If a Pokémon would fight a Pokémon that isn't Poliwrath, it fights Poliwrath instead.</text>
+Whenever a Pokémon becomes the target of a spell or ability, you may change a target of that spell to Poliwrath.</text>
 		</card>
 		<card>
 			<name>Abra</name>
@@ -911,8 +910,8 @@ Whenever Machoke fights, put a +1/+1 counter on it.</text>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Machoke {R/G}{R/G}{R/G}
-Machamp must be blocked if able.
-As long as Machamp has three or more +1/+1 counters on it, it has menace.</text>
+Menace
+As long as Machamp is evolved, it must be blocked if able.</text>
 		</card>
 		<card>
 			<name>Bellsprout</name>
@@ -2485,7 +2484,7 @@ Overload—Reveal a green Pokémon card from your hand.
 			<manacost>2UU</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Target permanent's owner puts it on the top or bottom of their library.
+			<text>The owner of target nonland permanent puts it on the top or bottom of their library.
 Overload—Reveal a blue Pokémon card from your hand.
 			</text>
 		</card>
