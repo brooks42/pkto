@@ -2462,7 +2462,8 @@ Destroy all Pokémon.</text>
 			<manacost>2RR</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Fire Blast deals 5 damage to target Pokémon.
+			<text>This spell can't be countered as long as you control a Fire Pokémon.
+Fire Blast deals 5 damage to target Pokémon.
 Overload—Reveal a red Pokémon card from your hand.
 			</text>
 		</card>
@@ -2473,7 +2474,8 @@ Overload—Reveal a red Pokémon card from your hand.
 			<manacost>2GG</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Destroy target artifact, enchantment, trainer, or token.
+			<text>This spell has convoke as long as you control a Grass Pokémon.
+Destroy target artifact, enchantment, trainer, or token.
 Overload—Reveal a green Pokémon card from your hand.
 			</text>
 		</card>
@@ -2484,7 +2486,8 @@ Overload—Reveal a green Pokémon card from your hand.
 			<manacost>2UU</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>The owner of target nonland permanent puts it on the top or bottom of their library.
+			<text>This spell has flash as long as you control a Water Pokémon.
+The owner of target spell and/or Pokémon puts it on the top or bottom of their library.
 Overload—Reveal a blue Pokémon card from your hand.
 			</text>
 		</card>
