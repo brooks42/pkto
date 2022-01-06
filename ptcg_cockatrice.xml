@@ -241,7 +241,7 @@ Whenever Kakuna evolves, it loses defender and target player discards a card.</t
 			<tablerow>2</tablerow>
 			<text>Evolve From Kakuna {2}{B}
 Flying, wither
-Whenever Beedrill evolves, create two copies of it except they are 1/1 with no mana cost.</text>
+Whenever Beedrill evolves, create two token copies of it except they are 1/1 with no mana cost.</text>
 		</card>
 		<card>
 			<name>Pidgey</name>
@@ -782,7 +782,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>{U}: Evolve
-Hexproof</text>
+Whenever this Pokémon evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.</text>
 			<side>front</side>
 			<related attach="attach">Poliwhirl (DFC)</related>
 		</card>
@@ -793,7 +793,7 @@ Hexproof</text>
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Hexproof</text>
+			<text>Whenever this Pokémon evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.</text>
 			<side>back</side>
 			<related attach="attach">Poliwag</related>
 		</card>
@@ -806,7 +806,7 @@ Hexproof</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Poliwag {U}
-Whenever Poliwhirl evolves or becomes the target of a spell or ability, you may draw a card. If you do, discard a card.</text>
+Whenever Poliwhirl becomes the target of a spell or ability an opponent controls, you may draw a card.</text>
 		</card>
 		<card>
 			<name>Poliwrath</name>
@@ -817,8 +817,7 @@ Whenever Poliwhirl evolves or becomes the target of a spell or ability, you may 
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Poliwhirl {U}{U}
-Whenever Poliwrath evolves or fights, put a +1/+1 counter on it.
-If a Pokémon would fight a Pokémon that isn't Poliwrath, it fights Poliwrath instead.</text>
+Whenever a Pokémon becomes the target of a spell or ability, you may change a target of that spell to Poliwrath.</text>
 		</card>
 		<card>
 			<name>Abra</name>
@@ -876,7 +875,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{R/G}{R/G}: Evolve
-Whenever Machop evolves, put a +1/+1 counter on it.</text>
+{3}{R/G}{R/G}, {T}, Exert Machop: It fights target Pokémon you don't control.</text>
 			<side>front</side>
 			<related attach="attach">Machoke (DFC)</related>
 		</card>
@@ -887,7 +886,7 @@ Whenever Machop evolves, put a +1/+1 counter on it.</text>
 			<type>Pokémon - Fighting</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Machoke evolves, put a +1/+1 counter on it.</text>
+			<text>{3}{R/G}{R/G}, {T}, Exert Machoke: It fights target Pokémon you don't control.</text>
 			<side>back</side>
 			<related attach="attach">Machop</related>
 		</card>
@@ -900,7 +899,7 @@ Whenever Machop evolves, put a +1/+1 counter on it.</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Machop {R/G}{R/G}
-At the beginning of your upkeep, if Machoke doesn't have the highest combined power and toughness among Pokemon on the battlefield, put a +1/+1 counter on it.</text>
+Whenever Machoke fights, put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Machamp</name>
@@ -911,7 +910,8 @@ At the beginning of your upkeep, if Machoke doesn't have the highest combined po
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Machoke {R/G}{R/G}{R/G}
-{R/G}{R/G}, {T}: Machamp fights target non-Flying Pokémon you don't control.</text>
+Menace
+As long as Machamp is evolved, it must be blocked if able.</text>
 		</card>
 		<card>
 			<name>Bellsprout</name>
@@ -1868,7 +1868,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Red</type>
 			<loyalty>4</loyalty>
 			<text>[+1]: Exile the top two cards of your library. Until end of turn, you may cast Pokémon cards exiled this way.
-[−3]: Create Red's Pikachu, a legendary 4/4 white and red Electric Pokémon with first strike, lifelink, and haste.
+[−3]: Create Red's Pikachu, a legendary 4/4 red and white Electric Pokémon token with first strike, lifelink, and haste.
 [−7]: You may put any number of Pokémon cards from your hand onto the battlefield.</text>
 		</card>
 		<card>
@@ -1939,7 +1939,7 @@ Pokémoncycling {3}</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Erika</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Create two 1/1 green Grass Poison Pokémon tokens with lifelink named Oddish.
+			<text>[+1]: Create a 1/1 green Grass Poison Pokémon token with lifelink named Oddish.
 [-2]: Destroy target artifact or enchantment.
 [−X]: Pokémon you control get +X/+X until end of turn.</text>
 		</card>
@@ -2104,7 +2104,7 @@ Pokémoncycling {3}</text>
 			<manacost>4B</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Pokémon card, put that card into your hand, then shuffle.</text>
+			<text>Search your library for a Pokémon card, reveal it, put it into your hand, then shuffle.</text>
 		</card>
 		<card>
 			<name>Switch</name>
@@ -2462,7 +2462,8 @@ Destroy all Pokémon.</text>
 			<manacost>2RR</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Fire Blast deals 5 damage to target Pokémon.
+			<text>This spell can't be countered as long as you control a Fire Pokémon.
+Fire Blast deals 5 damage to target Pokémon.
 Overload—Reveal a red Pokémon card from your hand.
 			</text>
 		</card>
@@ -2473,7 +2474,8 @@ Overload—Reveal a red Pokémon card from your hand.
 			<manacost>2GG</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Destroy target artifact, enchantment, trainer, or token.
+			<text>This spell has convoke as long as you control a Grass Pokémon.
+Destroy target artifact, enchantment, trainer, or token.
 Overload—Reveal a green Pokémon card from your hand.
 			</text>
 		</card>
@@ -2484,7 +2486,8 @@ Overload—Reveal a green Pokémon card from your hand.
 			<manacost>2UU</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Put target Pokémon on top of its owner's library.
+			<text>This spell has flash as long as you control a Water Pokémon.
+The owner of target spell and/or Pokémon puts it on the top or bottom of their library.
 Overload—Reveal a blue Pokémon card from your hand.
 			</text>
 		</card>
@@ -3357,7 +3360,7 @@ Cycling {2}</text>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
 			<text>Lifelink</text>
-			<reverse-related count="2">Erika</reverse-related>
+			<reverse-related>Erika</reverse-related>
 		</card>
 		<card>
 			<name>Red's Pikachu</name>
@@ -3380,8 +3383,7 @@ Cycling {2}</text>
 			<text>{T}, Sacrifice this artifact: Add one many of any color.</text>
 			<reverse-related>Meowth</reverse-related>
 			<reverse-related>Pilfer</reverse-related>
-			<reverse-related>Moonstone</reverse-related>
-			<reverse-related>Payday</reverse-related>
+			<reverse-related>Moon Stone</reverse-related>
 			<reverse-related>Clefable</reverse-related>
 		</card>
 	</cards>
