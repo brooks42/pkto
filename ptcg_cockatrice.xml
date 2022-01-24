@@ -14,7 +14,7 @@
 			<color>G</color>
 			<manacost>G</manacost>
 			<type>Pokémon - Grass Poison</type>
-			<pt>1/2</pt>
+			<pt>1/1</pt>
 			<tablerow>2</tablerow>
 			<side>front</side>
 			<related attach="attach">Ivysaur (DFC)</related>
@@ -26,7 +26,7 @@
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/IvysaurDFC.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<type>Pokémon - Grass Poison</type>
-			<pt>2/3</pt>
+			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{T}: Add {G}.</text>
 			<side>back</side>
@@ -41,8 +41,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Bulbasaur {1}{G}
-Reach
-Ivysaur must be blocked if able.</text>
+Whenever a Pokémon you control enters the battlefield, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Venusaur</name>
@@ -66,7 +65,7 @@ If one or more counters would be put on a Pokémon you control, you may put that
 			<side>front</side>
 			<related attach="attach">Wartortle (DFC)</related>
 			<text>{1}{U}: Evolve
-Whenever Squirtle blocks a Pokémon, that Pokémon doesn't untap during its controller's next untap step.</text>
+{U}: Squirtle gets +0/+1 until end of turn.</text>
 		</card>
 		<card>
 			<name>Wartortle (DFC)</name>
@@ -76,7 +75,7 @@ Whenever Squirtle blocks a Pokémon, that Pokémon doesn't untap during its cont
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<side>back</side>
-			<text>Whenever Wartortle blocks a Pokémon, that Pokémon doesn't untap during its controller's next untap step.</text>
+			<text>{U}: Wartortle gets +0/+1 until end of turn.</text>
 			<related attach="attach">Squirtle</related>
 		</card>
 		<card>
@@ -134,7 +133,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Charmander {1}{R}
-Menace</text>
+Charmeleon has menace as long as it has power greater than or equal to 4.</text>
 		</card>
 		<card>
 			<name>Charizard</name>
@@ -287,7 +286,7 @@ Whenever Pidgeotto attacks, another target Pokémon you control gains flying unt
 			<type>Pokémon - Normal Flying</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Pidgeotto {1}{W}{W}
+			<text>Evolve From Pidgeotto {W}{W}
 Flying
 Pokémon you control have vigilance.</text>
 		</card>
@@ -453,7 +452,7 @@ Pokémon you control with lesser toughness than Nidoqueen have persist.</text>
 			<pt>3/1</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{B}: Evolve
-Whenever Nidoran♂ attacks, it gains first strike and deathtouch until end of turn.</text>
+Whenever Nidoran♂ attacks, it gains first strike until end of turn.</text>
 			<side>front</side>
 			<related attach="attach">Nidorino (DFC)</related>
 		</card>
@@ -464,7 +463,7 @@ Whenever Nidoran♂ attacks, it gains first strike and deathtouch until end of t
 			<type>Pokémon - Poison</type>
 			<pt>4/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Nidorino attacks, it gains first strike and deathtouch until end of turn.</text>
+			<text>Whenever Nidorino attacks, it gains first strike until end of turn.</text>
 			<side>back</side>
 			<related attach="attach">Nidoran♂</related>
 		</card>
@@ -472,11 +471,12 @@ Whenever Nidoran♂ attacks, it gains first strike and deathtouch until end of t
 			<name>Nidorino</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Nidorino.png" rarity="uncommon">PTCG</set>
 			<color>B</color>
-			<manacost>3BB</manacost>
+			<manacost>3B</manacost>
 			<type>Pokémon - Poison</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidoran♂ {1}{B}
+Deathtouch
 Whenever Nidorino evolves, if you control no other Pokémon, add {B}{B}{B} and draw a card.</text>
 		</card>
 		<card>
@@ -581,7 +581,7 @@ When you cast Golbat for its evolve cost, target player loses X life and you gai
 			<name>Oddish</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Oddish.png" rarity="common">PTCG</set>
 			<color>G</color>
-			<manacost>G</manacost>
+			<manacost>{B/G}</manacost>
 			<type>Pokémon - Grass Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
@@ -610,7 +610,7 @@ Lifelink</text>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Oddish {B/G}
-{2}{B}, {T}: Remove X counters from target permanent, where X is the number of -1/-1 counters on all Pokémon.</text>
+{2}{B}, {T}: Remove X counters from target permanent, where X is the number of -1/-1 counters on all Pokémon. If Gloom is evolved, untap it.</text>
 		</card>
 		<card>
 			<name>Vileplume</name>
@@ -665,7 +665,7 @@ If Parasect would be dealt damage by a Water Pokémon, prevent that damage. You 
 			<tablerow>2</tablerow>
 			<text>Evolve From Venonat {G}{U}
 Flying
-Whenever Venomoth evolves or enters the battlefield, choose a card name. Spells with the chosen name can't be cast.</text>
+Whenever Venomoth evolves, choose a card name. Spells with the chosen name can't be cast.</text>
 		</card>
 		<card>
 			<name>Diglett</name>
@@ -706,7 +706,7 @@ Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do,
 			<type>Pokémon - Normal</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Meowth {W/B}
+			<text>Evolve From Meowth {W}{B}
 Discard a card: Persian gets +1/+0 and gains first strike and trample until end of turn.</text>
 		</card>
 		<card>
@@ -717,7 +717,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>You may cast Psyduck if you see it while scrying. </text>
+			<text>If you see Psyduck while scrying, you may cast it.</text>
 		</card>
 		<card>
 			<name>Golduck</name>
@@ -847,7 +847,7 @@ Whenever Abra enters the battlefield or evolves, scry 1.</text>
 			<name>Kadabra</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Kadabra.png" rarity="uncommon">PTCG</set>
 			<color>U</color>
-			<manacost>2UU</manacost>
+			<manacost>2UB</manacost>
 			<type>Pokémon - Psychic</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
@@ -931,7 +931,7 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/WeepinbellDFC.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<type>Pokémon - Grass Poison</type>
-			<pt>3/3</pt>
+			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{G}: Weepinbell gets +1/+1 until end of turn.</text>
 			<side>back</side>
@@ -990,7 +990,7 @@ Whenever you scry, you may draw a card. If you do, discard a card.</text>
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{G}: Evolve
-Protection from Electric and Poison</text>
+Protection from Electric and instants</text>
 			<side>front</side>
 			<related attach="attach">Graveler (DFC)</related>
 		</card>
@@ -999,9 +999,9 @@ Protection from Electric and Poison</text>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/GravelerDFC.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<type>Pokémon - Rock Ground</type>
-			<pt>3/3</pt>
+			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Protection from Electric and Poison</text>
+			<text>Protection from Electric and instants</text>
 			<side>back</side>
 			<related attach="attach">Geodude</related>
 		</card>
@@ -1161,8 +1161,8 @@ Whenever you gain life, tap target Pokémon. While Dewgong is unevolved, this ab
 			<type>Pokémon - Poison</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Grimer {1}{B}
-Whenever a Pokémon dies, if it had any -1/-1 counters on it, put those counters on another target Pokémon. Its controller loses 1 life and you gain 1 life.</text>
+			<text>Evolve From Grimer {B}
+Whenever a Pokémon with one or more -1/-1 counters on it dies, put those counters on up to one target Pokémon. This ability triggers only once each turn if Muk is unevolved.</text>
 		</card>
 		<card>
 			<name>Shellder</name>
@@ -1189,12 +1189,12 @@ Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three targe
 			<name>Gastly</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Gastly.png" rarity="common">PTCG</set>
 			<color>B</color>
-			<manacost>1B</manacost>
+			<manacost>B</manacost>
 			<type>Pokémon - Ghost Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{B}{B}: Evolve
-Protection from Ground and Fighting</text>
+			<text>{B}: Evolve
+Protection from Fighting and Normal</text>
 			<side>front</side>
 			<related attach="attach">Haunter (DFC)</related>
 		</card>
@@ -1203,7 +1203,7 @@ Protection from Ground and Fighting</text>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/HaunterDFC.png" rarity="common">PTCG</set>
 			<color>B</color>
 			<type>Pokémon - Ghost Poison</type>
-			<pt>3/3</pt>
+			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>Protection from Ground and Fighting</text>
 			<side>back</side>
@@ -1218,7 +1218,7 @@ Protection from Ground and Fighting</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Gastly {B}{B}
-Whenever Haunter deals combat damage to a player, that player discards a card.</text>
+Whenever Haunter deals combat damage to a player or evolves, that player discards a card.</text>
 		</card>
 		<card>
 			<name>Gengar</name>
@@ -1229,7 +1229,7 @@ Whenever Haunter deals combat damage to a player, that player discards a card.</
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Haunter {2}{B}{B}
-{B}{B}{B}{B}{B}, {T}: Target player loses 5 life and you gain 5 life.</text>
+Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do, put that card onto the battlefield under your control. If Gengar is evolved, you may pay {2}{B} instead.</text>
 		</card>
 		<card>
 			<name>Onix</name>
@@ -1336,7 +1336,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<type>Pokémon - Ground</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Prowess</text>
+			<text>Vigilance</text>
 		</card>
 		<card>
 			<name>Marowak</name>
@@ -1347,7 +1347,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Cubone {1}{G}{W}
-{X}{2}{G/W}, {T}: Marowak deals X plus 3 damage to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
+{X}{G/W}, {T}: Marowak deals X to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
 		</card>
 		<card>
 			<name>Hitmonlee</name>
@@ -1493,7 +1493,7 @@ If a Pokémon would return to a player's hand from the battlefield, exile it ins
 			<type>Pokémon - Water</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Goldeen {1}{U}
+			<text>Evolve From Goldeen {U}{U}
 You may cast Seaking for its Evolve From cost as though it had flash. If you do, you may counter target spell.</text>
 		</card>
 		<card>
@@ -1514,7 +1514,7 @@ You may cast Seaking for its Evolve From cost as though it had flash. If you do,
 			<type>Pokémon - Water Psychic</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Staryu {2}{U}
+			<text>Evolve From Staryu {1}{U}
 Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
@@ -1525,7 +1525,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 			<type>Pokémon - Psychic Fairy</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Pokémon can't attack you or trainers you control unless their controller pays {1} for each of those Pokémon.</text>
+			<text>Pokémon can't attack you or trainers you control unless their controller pays {1} for each Pokémon they control that's attacking.</text>
 		</card>
 		<card>
 			<name>Scyther</name>
@@ -1691,7 +1691,7 @@ Whenever you evolve a Pokémon, Flareon deals 3 damage divided as you choose amo
 			<type>Pokémon - Rock Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{U}{U}: Omanyte can't be blocked this turn.
+			<text>{1}{U}{U}: Copy target instant spell with mana value 2 or less. You may choose new targets for the copy. 
 Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
@@ -1702,9 +1702,8 @@ Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
 			<type>Pokémon - Rock Water</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Omanyte {1}{U}{R}
-{1}{R}{R}, {T}: Omastar deals 2 damage to target Pokémon.
-Fossil—{4}{U}{R}, Exile three other cards from your graveyard.</text>
+			<text>Evolve From Omanyte {U}{R}
+{1}{R}{R}, {T}: Omastar deals 3 damage to any target.</text>
 		</card>
 		<card>
 			<name>Kabuto</name>
@@ -1725,9 +1724,8 @@ Fossil—{2}{U}{G}, Exile three other cards from your graveyard.</text>
 			<type>Pokémon - Rock Water</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Kabuto {1}{U}{G}
-{1}{G}{G}, {T}: Kabutops fights target Pokémon.
-Fossil—{4}{U}{G}, Exile three other cards from your graveyard.</text>
+			<text>Evolve From Kabuto {U}{G}
+{1}{G}{G}, {T}: Kabutops fights target Pokémon.</text>
 		</card>
 		<card>
 			<name>Aerodactyl</name>
