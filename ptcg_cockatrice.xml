@@ -1347,7 +1347,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Cubone {1}{G}{W}
-{X}{G/W}, {T}: Marowak deals X to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
+{X}{G}{W}, {T}: Marowak deals X to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
 		</card>
 		<card>
 			<name>Hitmonlee</name>
