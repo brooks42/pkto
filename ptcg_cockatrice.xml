@@ -2462,7 +2462,7 @@ Destroy all Pokémon.</text>
 			<tablerow>3</tablerow>
 			<text>This spell can't be countered as long as you control a Fire Pokémon.
 Fire Blast deals 5 damage to target Pokémon.
-Overload—Reveal a red Pokémon card from your hand.
+Overload {2}{R}{R}, Reveal a red Pokémon card from your hand.
 			</text>
 		</card>
 		<card>
@@ -2474,7 +2474,7 @@ Overload—Reveal a red Pokémon card from your hand.
 			<tablerow>3</tablerow>
 			<text>This spell has convoke as long as you control a Grass Pokémon.
 Destroy target artifact, enchantment, trainer, or token.
-Overload—Reveal a green Pokémon card from your hand.
+Overload {2}{G}{G}, Reveal a green Pokémon card from your hand.
 			</text>
 		</card>
 		<card>
@@ -2486,7 +2486,7 @@ Overload—Reveal a green Pokémon card from your hand.
 			<tablerow>3</tablerow>
 			<text>This spell has flash as long as you control a Water Pokémon.
 The owner of target spell and/or Pokémon puts it on the top or bottom of their library.
-Overload—Reveal a blue Pokémon card from your hand.
+Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
 			</text>
 		</card>
 		<card>
