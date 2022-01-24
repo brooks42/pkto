@@ -384,7 +384,7 @@ Whenever Raichu attacks, if it has first strike, you may destroy target artifact
 			<type>Pokémon - Ground</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>If an odd amount of damage would be dealt to Sandshrew, prevent that damage.</text>
+			<text>As long as Sandshrew is tapped, it has protection from each odd mana value.</text>
 		</card>
 		<card>
 			<name>Sandslash</name>
@@ -395,7 +395,7 @@ Whenever Raichu attacks, if it has first strike, you may destroy target artifact
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Sandshrew {1}{G}
-If an even amount of damage would be dealt to Sandslash, prevent that damage.</text>
+As long as Sandslash is tapped, it has protection from each even mana value.</text>
 		</card>
 		<card>
 			<name>Nidoran♀</name>
@@ -2485,7 +2485,7 @@ Overload {2}{G}{G}, Reveal a green Pokémon card from your hand.
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>This spell has flash as long as you control a Water Pokémon.
-The owner of target spell and/or Pokémon puts it on the top or bottom of their library.
+The owner of target spell or target Pokémon puts it on the top or bottom of their library.
 Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
 			</text>
 		</card>
