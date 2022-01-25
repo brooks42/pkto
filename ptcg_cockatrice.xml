@@ -921,7 +921,7 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{G}{G}: Evolve
+			<text>{G}: Evolve
 {1}{G}: Bellsprout gets +1/+1 until end of turn.</text>
 			<side>front</side>
 			<related attach="attach">Weepinbell (DFC)</related>
@@ -990,7 +990,7 @@ Whenever you scry, you may draw a card. If you do, discard a card.</text>
 			<pt>1/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{G}: Evolve
-Protection from Electric and instants</text>
+Protection from instants</text>
 			<side>front</side>
 			<related attach="attach">Graveler (DFC)</related>
 		</card>
@@ -999,7 +999,7 @@ Protection from Electric and instants</text>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/GravelerDFC.png" rarity="common">PTCG</set>
 			<color>G</color>
 			<type>Pokémon - Rock Ground</type>
-			<pt>2/3</pt>
+			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>Protection from Electric and instants</text>
 			<side>back</side>
@@ -1194,7 +1194,7 @@ Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three targe
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
 			<text>{B}: Evolve
-Protection from Fighting and Normal</text>
+Protection from Fighting and from Normal</text>
 			<side>front</side>
 			<related attach="attach">Haunter (DFC)</related>
 		</card>
