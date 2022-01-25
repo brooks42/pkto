@@ -47,9 +47,9 @@ Whenever a Pokémon you control enters the battlefield, if Ivysaur is tapped, un
 			<name>Venusaur</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Venusaur.png" rarity="rare">PTCG</set>
 			<color>G</color>
-			<manacost>2GGG</manacost>
+			<manacost>3GG</manacost>
 			<type>Pokémon - Grass Poison</type>
-			<pt>4/4</pt>
+			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Ivysaur {G}{G}
 If one or more counters would be put on a Pokémon you control, you may put that many plus one of each of those kinds of counters on that Pokémon instead.</text>
@@ -86,14 +86,14 @@ If one or more counters would be put on a Pokémon you control, you may put that
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Squirtle {1}{U}
+			<text>Evolve From Squirtle {U}
 Hexproof</text>
 		</card>
 		<card>
 			<name>Blastoise</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Blastoise.png" rarity="rare">PTCG</set>
 			<color>U</color>
-			<manacost>2UUU</manacost>
+			<manacost>3UU</manacost>
 			<type>Pokémon - Water</type>
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
@@ -111,7 +111,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 			<side>front</side>
 			<related attach="attach">Charmeleon (DFC)</related>
 			<text>{1}{R}: Evolve
-{R}: Charmander gets +1/+0 until end of turn.</text>
+{1}{R}: Charmander gets +1/+0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Charmeleon (DFC)</name>
@@ -120,7 +120,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 			<type>Pokémon - Fire</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>{R}: Charmeleon gets +1/+0 until end of turn.</text>
+			<text>{1}{R}: Charmeleon gets +1/+0 until end of turn.</text>
 			<side>back</side>
 			<related attach="attach">Charmander</related>
 		</card>
@@ -132,14 +132,14 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 			<type>Pokémon - Fire</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Charmander {1}{R}
+			<text>Evolve From Charmander {R}
 Charmeleon has menace as long as it has power greater than or equal to 4.</text>
 		</card>
 		<card>
 			<name>Charizard</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Charizard.png" rarity="rare">PTCG</set>
 			<color>R</color>
-			<manacost>2RRR</manacost>
+			<manacost>3RR</manacost>
 			<type>Pokémon - Fire Flying</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
@@ -192,7 +192,8 @@ Whenever Metapod evolves, it loses defender and you draw a card.</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Metapod {1}{G}{G}
-Flying, vigilance</text>
+Flying
+Whenever Butterfree evolves, tap all Pokémon you don't control. Those Pokémon don't untap during their controller's next untap step.</text>
 		</card>
 		<card>
 			<name>Weedle</name>
@@ -202,7 +203,7 @@ Flying, vigilance</text>
 			<type>Pokémon - Bug Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{B}: Evolve
+			<text>{1}{B}: Evolve
 Deathtouch</text>
 			<side>front</side>
 			<related attach="attach">Kakuna (DFC)</related>
@@ -327,13 +328,13 @@ Spearow can't be blocked except by Pokémon that share a color with it.</text>
 			<name>Fearow</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Fearow.png" rarity="uncommon">PTCG</set>
 			<color>WB</color>
-			<manacost>{3}{W/B}{W/B}{W/B}</manacost>
+			<manacost>{4}{W/B}{W/B}</manacost>
 			<type>Pokémon - Normal Flying</type>
 			<pt>5/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Spearow {2}{W/B}
-Prevent all damage that would be dealt to Fearow by Pokémon with first strike.
-Flying</text>
+Flying
+Prevent all noncombat damage that would be dealt to Fearow.</text>
 		</card>
 		<card>
 			<name>Ekans</name>
@@ -354,7 +355,7 @@ Flying</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Ekans {B}
-Whenever a +1/+1 counter would be put on a Pokémon, that many -1/-1 counters are put on it instead.</text>
+Whenever a +1/+1 counter would be put on a Pokémon you don't control, that many -1/-1 counters are put on it instead.</text>
 		</card>
 		<card>
 			<name>Pikachu</name>
@@ -489,7 +490,7 @@ Whenever Nidorino evolves, if you control no other Pokémon, add {B}{B}{B} and d
 			<pt>8/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidorino {B}{B}{B}
-{B}, Sacrifice a Pokémon: Nidoking gains indestructible and gets +2/+2 until end of turn.</text>
+{B}, Sacrifice a Pokémon: Nidoking gains indestructible until end of turn.</text>
 		</card>
 		<card>
 			<name>Clefairy</name>
@@ -529,7 +530,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<color>R</color>
 			<manacost>3RR</manacost>
 			<type>Pokémon - Fire</type>
-			<pt>3/3</pt>
+			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Vulpix {R}{R}
 {1}{R}{R}, Discard a card: Gain control of target Pokémon until end of turn. Untap that Pokémon. It gains haste until end of turn. Activate only as a sorcery.</text>
@@ -542,7 +543,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<type>Pokémon - Normal Fairy</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>Jigglypuff gets +1/+1 for each tapped Pokémon your opponents control.
+			<text>Whenever Jigglypuff attacks, it gets +1/+1 for each tapped Pokémon your opponents control.
 Whenever you cast a Pokémon spell, tap target Pokémon you don't control.</text>
 		</card>
 		<card>
@@ -564,7 +565,8 @@ Whenever Wigglytuff deals combat damage to a player, you gain life equal to its 
 			<type>Pokémon - Poison Flying</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>Flying, deathtouch, lifelink</text>
+			<text>Flying, lifelink
+Wither</text>
 		</card>
 		<card>
 			<name>Golbat</name>
@@ -586,7 +588,7 @@ When you cast Golbat for its evolve cost, target player loses X life and you gai
 			<type>Pokémon - Grass Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{B/G}: Evolve
+			<text>{1}{B/G}: Evolve
 Lifelink</text>
 			<side>front</side>
 			<related attach="attach">Gloom (DFC)</related>
@@ -643,7 +645,6 @@ Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Paras {G}
-Lifelink
 If Parasect would be dealt damage by a Water Pokémon, prevent that damage. You gain that much life.</text>
 		</card>
 		<card>
@@ -729,7 +730,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Psyduck {1}{U}
-{U}{U}{U}, {T}: Counter target spell unless its controller pays {2}. If Golduck is evolved, scry 2.</text>
+{1}{U}{U}, {T}: Counter target spell unless its controller pays {2}. If Golduck is evolved, scry 1.</text>
 		</card>
 		<card>
 			<name>Mankey</name>
@@ -737,7 +738,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<color>R</color>
 			<manacost>1R</manacost>
 			<type>Pokémon - Fighting</type>
-			<pt>2/2</pt>
+			<pt>2/1</pt>
 			<tablerow>2</tablerow>
 			<text>Haste, reach</text>
 		</card>
@@ -745,23 +746,22 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<name>Primeape</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Primeape.png" rarity="uncommon">PTCG</set>
 			<color>R</color>
-			<manacost>4RR</manacost>
+			<manacost>3RR</manacost>
 			<type>Pokémon - Fighting</type>
-			<pt>5/4</pt>
+			<pt>5/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Mankey {2}{R}
-Whenever Primeape attacks, destroy target artifact.</text>
+Whenever Primeape attacks, destroy target artifact. If Primeape is evolved, it deals 2 damage to that artifact's controller.</text>
 		</card>
 		<card>
 			<name>Growlithe</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Growlithe.png" rarity="rare">PTCG</set>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Growlithe.png" rarity="uncommon">PTCG</set>
 			<color>RW</color>
-			<manacost>2{R/W}{R/W}</manacost>
+			<manacost>1{R/W}{R/W}</manacost>
 			<type>Pokémon - Fire</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Vigilance
-Whenever Growlithe attacks, up to one target creature blocks it this combat if able.</text>
+			<text>Whenever Growlithe is dealt damage, it deals that much damage to any target.</text>
 		</card>
 		<card>
 			<name>Arcanine</name>
@@ -769,7 +769,7 @@ Whenever Growlithe attacks, up to one target creature blocks it this combat if a
 			<color>RW</color>
 			<manacost>5{R/W}{R/W}</manacost>
 			<type>Pokémon - Fire</type>
-			<pt>7/6</pt>
+			<pt>5/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Growlithe {1}{R/W}{R/W}
 Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white Pokémon get +0/+2 until end of turn.</text>
@@ -947,7 +947,8 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Bellsprout {G}{G}
-Reach, wither</text>
+Reach
+Wither</text>
 		</card>
 		<card>
 			<name>Victreebel</name>
@@ -1369,7 +1370,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flash
-When Hitmonchan enters the battlefield, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. Hitmonchan deals that much damage to any target.</text>
+When Hitmonchan enters the battlefield, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. Hitmonchan deals damage equal to its power to any target.</text>
 		</card>
 		<card>
 			<name>Lickitung</name>
