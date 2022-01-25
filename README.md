@@ -36,10 +36,6 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **A**: Pokémon with Evolve abilities act just like any other double-faced cards. [See this link for more info](https://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-29#:~:text=Double-Faced%20Card%20Rules%201%20Double-Faced%20Cards%20in%20General.,...%204%20Double-Faced%20Cards%20and%20Copy%20Effects.%20).
 
-**Q: Machop gets a +1/+1 counter when it evolves, and the Machoke on the back gets the same. When I activate its evolve ability, how many counters does it get?**
-
-**A**: Machoke will get one counter. The "when it evolves" ability isn't triggered until it has completed the evolution, at which point there is only one such ability. The ability on the Machop side triggers when casting a Machoke card for its Evolve From cost.
-
 **Q: Many Pokémon have abilities that reference them by name, such as "1G: Bellsprout gets +1/+1 until end of turn." Evolve Pokémon get all abilities from cards underneath them, do abilities like this still work?**
 
 **A**: Yes, a Weepinbell that uses that ability will still get +1/+1. In MTG, stating a creature's name is the same as saying "this creature." We chose to use Pokémon names more frequently for flavor points.
@@ -63,3 +59,11 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: Hyper Beam says "Enchant target Pokémon without an Evolve ability." Does that mean I can't use it on Dragonite, which has Evolve From?**
 
 **A**: Evolve is an activated ability, while Evolve From is an alternate casting cost. Any Pokémon with Evolve From can be enchanted by Hyper Beam.
+
+**Q: Beedrill and Ditto can make copies of evolved Pokémon. Do those copies get the abilities from the cards under the evolved Pokémon?**
+
+**A**: Yes, abilities of all cards in a merged permanent are copiable characteristics. For example, a copy of Beedrill with a weedle under it will have deathtouch.
+
+**Q: What if Ditto copies a Pokémon with an Evolve ability? Will it flip to the other side?**
+
+**A**: No, the reverse face of a DFC is not a copiable characteristic. This will not trigger abilities that care about evolution either.
