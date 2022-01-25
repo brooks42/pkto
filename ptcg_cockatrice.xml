@@ -320,7 +320,8 @@ When Raticate dies, you may return target Pokémon card with mana value 2 or les
 			<type>Pokémon - Normal Flying</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>First strike, intimidate</text>
+			<text>First strike
+Spearow can't be blocked except by Pokémon that share a color with it.</text>
 		</card>
 		<card>
 			<name>Fearow</name>
@@ -441,7 +442,7 @@ Whenever Nidorina evolves, return target Pokémon card from your graveyard to yo
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidorina {1}{G}
-Pokémon you control with lesser toughness than Nidoqueen have persist.</text>
+Whenever a Pokémon you control dies, if it had lesser toughness than Nidoqueen and no -1/-1 counters on it, return it to the battlefield under your control with a -1/-1 counter on it.</text>
 		</card>
 		<card>
 			<name>Nidoran♂</name>
@@ -875,7 +876,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{R/G}{R/G}: Evolve
-{3}{R/G}{R/G}, {T}, Exert Machop: It fights target Pokémon you don't control.</text>
+{3}{R/G}{R/G}, {T}: Machop fights target Pokémon you don't control. Machop doesn't untap during your next untap step.</text>
 			<side>front</side>
 			<related attach="attach">Machoke (DFC)</related>
 		</card>
@@ -886,7 +887,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 			<type>Pokémon - Fighting</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>{3}{R/G}{R/G}, {T}, Exert Machoke: It fights target Pokémon you don't control.</text>
+			<text>{3}{R/G}{R/G}, {T}: Machoke fights target Pokémon you don't control. Machoke doesn't untap during your next untap step.</text>
 			<side>back</side>
 			<related attach="attach">Machop</related>
 		</card>
@@ -1001,7 +1002,7 @@ Protection from instants</text>
 			<type>Pokémon - Rock Ground</type>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
-			<text>Protection from Electric and instants</text>
+			<text>Protection from instants</text>
 			<side>back</side>
 			<related attach="attach">Geodude</related>
 		</card>
@@ -1205,7 +1206,7 @@ Protection from Fighting and from Normal</text>
 			<type>Pokémon - Ghost Poison</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Protection from Ground and Fighting</text>
+			<text>Protection from Fighting and and from Normal</text>
 			<side>back</side>
 			<related attach="attach">Gastly</related>
 		</card>
@@ -1378,7 +1379,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<type>Pokémon - Normal</type>
 			<pt>3/7</pt>
 			<tablerow>2</tablerow>
-			<text>When Lickitung enters the battlefield, target Pokémon phases out until Lickitung leaves the battlefield.</text>
+			<text>When Lickitung enters the battlefield, target Pokémon can't attack, block, or activate abilities until Lickitung leaves the battlefield.</text>
 		</card>
 		<card>
 			<name>Koffing</name>
@@ -1842,7 +1843,7 @@ Flying, vigilance, haste, hexproof from trainers</text>
 			<pt>7/4</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Annihilator 1</text>
+Whenever Mewtwo attacks, defending player sacrifices a permanent.</text>
 		</card>
 		<card>
 			<name>Mew</name>
@@ -1951,7 +1952,7 @@ Pokémoncycling {3}</text>
 			<loyalty>3</loyalty>
 			<text>[+1]: Up to one target Pokémon gets +1/+0 and gains wither until end of turn.
 [-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
-[−6]: You get an emblem with "Pokémon you control have {B}: this Pokémon gains shadow until end of turn."</text>
+[−6]: You get an emblem with "Pokémon you control have {B}: This Pokémon gains can't be blocked this turn."</text>
 		</card>
 		<card>
 			<name>Sabrina</name>
@@ -2472,8 +2473,8 @@ Overload {2}{R}{R}, Reveal a red Pokémon card from your hand.
 			<manacost>2GG</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>This spell has convoke as long as you control a Grass Pokémon.
-Destroy target artifact, enchantment, trainer, or token.
+			<text>This spell costs {G} less to cast as long as you control a Grass Pokémon.
+Destroy target artifact, target enchantment, target trainer, or target token.
 Overload {2}{G}{G}, Reveal a green Pokémon card from your hand.
 			</text>
 		</card>
