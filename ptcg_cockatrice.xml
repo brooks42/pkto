@@ -2611,6 +2611,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {W}.
+Whenever a Pokémon you control evolves, you gain 1 life.
 Sacrifice Thunder Stone: Destroy target artifact or enchantment.</text>
 		</card>
 		<card>
@@ -2621,6 +2622,7 @@ Sacrifice Thunder Stone: Destroy target artifact or enchantment.</text>
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {G}.
+Whenever a Pokémon you control evolves, untap target land.
 Sacrifice Leaf Stone: Add {G}{G}.</text>
 		</card>
 		<card>
@@ -2631,6 +2633,7 @@ Sacrifice Leaf Stone: Add {G}{G}.</text>
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {U}.
+Whenever a Pokémon you control evolves, target Pokémon gets -2/-0 until your next turn.
 Sacrifice Water Stone: Scry 3.</text>
 		</card>
 		<card>
@@ -2641,6 +2644,7 @@ Sacrifice Water Stone: Scry 3.</text>
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {R}.
+Whenever a Pokémon you control evolves, Fire Stone deals 1 damage to target player.
 Sacrifice Fire Stone: Fire Stone deals 2 damage to target Pokémon or trainer.</text>
 		</card>
 		<card>
@@ -2651,6 +2655,7 @@ Sacrifice Fire Stone: Fire Stone deals 2 damage to target Pokémon or trainer.</
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {B}.
+Whenver a Pokémon you control evolves, put a -1/-1 counter on up to one target Pokémon.
 Sacrifice Moon Stone: Create a Treasure token.</text>
 		</card>
 		<!-- misc artifacts -->
