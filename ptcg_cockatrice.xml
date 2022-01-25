@@ -240,8 +240,8 @@ Whenever Kakuna evolves, it loses defender and target player discards a card.</t
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Kakuna {2}{B}
-Flying, wither
-Whenever Beedrill evolves, create two token copies of it except they are 1/1 with no mana cost.</text>
+Flying
+Whenever Beedrill evolves, create two  copies of it except they are 1/1 with no mana cost.</text>
 		</card>
 		<card>
 			<name>Pidgey</name>
@@ -3342,7 +3342,7 @@ Cycling {2}</text>
 			<type>Token Pokémon - Bug Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>Flying, wither</text>
+			<text>Flying</text>
 			<reverse-related count="2">Beedrill</reverse-related>
 		</card>
 		<card>
