@@ -2846,7 +2846,7 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<manacost>1R</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Whenever you attack with one or more Pokemon, you may choose a number. If you do, exile the top card of your library. If its mana value is equal to chosen number, you may cast it for as long as it remains exiled.</text>
+			<text>Whenever you attack with one or more Pokémon, you may choose a number. If you do, exile the top card of your library. If its mana value is equal to chosen number, you may cast it for as long as it remains exiled.</text>
 		</card>
 		<card>
 			<name>Viridian Gym</name>
@@ -2855,7 +2855,8 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<manacost>1BB</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Pokémon, instants and sorceries have deathtouch.</text>
+			<text>Pokémon you control have deathtouch.
+Instant and sorcery spells you control have deathtouch.</text>
 		</card>
 		<!-- lands -->
 		<card>
