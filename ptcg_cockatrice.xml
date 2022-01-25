@@ -1595,7 +1595,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 			<type>Pokémon - Water</type>
 			<pt>0/1</pt>
 			<tablerow>2</tablerow>
-			<text>{T}: Remove Magikarp from combat.</text>
+			<text>{T}: Flip a coin. If you win the flip, remove Magikarp from combat.</text>
 		</card>
 		<card>
 			<name>Gyarados</name>
@@ -1606,7 +1606,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 			<pt>10/10</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Magikarp {4}{U}{R}
-Whenever Gyarados evolves, discard your hand. It deals X plus 3 damage divided as you choose among any number of targets, where X is the number of cards discarded this way.</text>
+Whenever Gyarados evolves, it deals 6 damage divided as you choose among any number of target Pokémon and/or trainers.</text>
 		</card>
 		<card>
 			<name>Lapras</name>
