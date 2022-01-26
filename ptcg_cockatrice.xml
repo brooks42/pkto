@@ -613,7 +613,7 @@ Lifelink</text>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Oddish {B/G}
-{2}{B}, {T}: Remove X counters from target permanent, where X is the number of -1/-1 counters on all Pokémon. If Gloom is evolved, untap it.</text>
+{B}, {T}: Remove X counters from target permanent, where X is the number of -1/-1 counters on all Pokémon. If Gloom is evolved, untap it.</text>
 		</card>
 		<card>
 			<name>Vileplume</name>
@@ -2843,8 +2843,7 @@ Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 			<manacost>3GB</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>If an effect would put one or more -1/-1 counters on a Pokémon, it puts twice that many -1/-1 counters on that Pokémon instead.
-Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it instead.</text>
+			<text>If one or more -1/-1 counters would be put on a creature you don’t control, that many plus one -1/-1 counters are put on it instead.</text>
 		</card>
 		<card>
 			<name>Cinnabar Gym</name>
