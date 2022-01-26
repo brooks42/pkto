@@ -740,7 +740,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<type>Pokémon - Fighting</type>
 			<pt>2/1</pt>
 			<tablerow>2</tablerow>
-			<text>Haste, reach</text>
+			<text>Reach, haste</text>
 		</card>
 		<card>
 			<name>Primeape</name>
@@ -751,7 +751,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Mankey {2}{R}
-Whenever Primeape attacks, destroy target artifact. If Primeape is evolved, it deals 2 damage to that artifact's controller.</text>
+Whenever Primeape attacks, destroy up to one target artifact. If Primeape is evolved, it deals 2 damage to that artifact's controller.</text>
 		</card>
 		<card>
 			<name>Growlithe</name>
