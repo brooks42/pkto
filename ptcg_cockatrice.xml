@@ -1164,7 +1164,7 @@ Whenever you gain life, tap target Pokémon. While Dewgong is unevolved, this ab
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Grimer {B}
-Whenever a Pokémon with one or more -1/-1 counters on it dies, put those counters on up to one target Pokémon. This ability triggers only once each turn if Muk is unevolved.</text>
+Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Pokémon token named Grimer. If Muk is evolved, create two of those tokens instead.</text>
 		</card>
 		<card>
 			<name>Shellder</name>
