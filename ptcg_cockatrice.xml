@@ -376,7 +376,7 @@ Whenever a +1/+1 counter would be put on a Pokémon you don't control, that many
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Pikachu {W}{R}
-Whenever Raichu attacks, if it has first strike, you may destroy target artifact or enchantment.</text>
+Whenever Raichu deals combat damage to a Pokémon, it deals damage equal to its power to that Pokémon. If that Pokémon would die this turn, exile it instead.</text>
 		</card>
 		<card>
 			<name>Sandshrew</name>
