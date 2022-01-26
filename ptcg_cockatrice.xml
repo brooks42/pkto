@@ -2801,11 +2801,11 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 		<card>
 			<name>Cerulean Gym</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Cerulean%20Gym.png" rarity="rare">PTCG</set>
-			<color>U</color>
-			<manacost>UU</manacost>
+			<color>WU</color>
+			<manacost>WU</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card.</text>
+			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card. If a spell is not countered this way, you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Vermillion Gym</name>
