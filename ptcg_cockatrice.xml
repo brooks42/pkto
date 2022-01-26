@@ -386,7 +386,7 @@ Whenever Raichu attacks, if it has first strike, you may destroy target artifact
 			<type>Pokémon - Ground</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>As long as Sandshrew is tapped, it has protection from each odd mana value.</text>
+			<text>As long as Sandshrew is tapped, it has protection from each even mana value.</text>
 		</card>
 		<card>
 			<name>Sandslash</name>
@@ -397,7 +397,7 @@ Whenever Raichu attacks, if it has first strike, you may destroy target artifact
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Sandshrew {1}{G}
-As long as Sandslash is tapped, it has protection from each even mana value.</text>
+As long as Sandslash is tapped, it has protection from each odd mana value.</text>
 		</card>
 		<card>
 			<name>Nidoran♀</name>
@@ -761,7 +761,7 @@ Whenever Primeape attacks, destroy target artifact. If Primeape is evolved, it d
 			<type>Pokémon - Fire</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Growlithe is dealt damage, it deals that much damage to any target.</text>
+			<text>Whenever Growlithe is dealt damage, it deals that much damage to up to one target Pokémon.</text>
 		</card>
 		<card>
 			<name>Arcanine</name>
@@ -2655,7 +2655,7 @@ Sacrifice Fire Stone: Fire Stone deals 2 damage to target Pokémon or trainer.</
 			<type>Artifact - Stone</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {B}.
-Whenver a Pokémon you control evolves, put a -1/-1 counter on up to one target Pokémon.
+Whenver a Pokémon you control evolves, reveal the top card of your library. You may put that card into your graveyard.
 Sacrifice Moon Stone: Create a Treasure token.</text>
 		</card>
 		<!-- misc artifacts -->
