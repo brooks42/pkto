@@ -2863,7 +2863,7 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon you control have deathtouch.
-Whenever a Pokémon with a -1/-1 counter on it dies, put a -1/-1 counter on up to one target Pokémon.</text>
+Whenever an opponent sacrifices a permanent, that player loses 2 life unless they discard a card.</text>
 		</card>
 		<!-- lands -->
 		<card>
