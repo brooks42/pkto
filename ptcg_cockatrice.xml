@@ -2863,7 +2863,7 @@ Whenever a Pokémon would die, if it had any -1/-1 counters on it, exile it inst
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon you control have deathtouch.
-Instant and sorcery spells you control have deathtouch.</text>
+Whenever a Pokémon with a -1/-1 counter on it dies, put a -1/-1 counter on up to one target Pokémon.</text>
 		</card>
 		<!-- lands -->
 		<card>
