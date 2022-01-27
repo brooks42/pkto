@@ -828,7 +828,7 @@ Whenever a Pokémon becomes the target of a spell or ability, you may change a t
 			<type>Pokémon - Psychic</type>
 			<pt>0/2</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{U}: Evolve
+			<text>{U/B}{U/B}: Evolve
 Whenever Abra enters the battlefield or evolves, scry 1.</text>
 			<side>front</side>
 			<related attach="attach">Kadabra (DFC)</related>
@@ -1758,11 +1758,11 @@ Whenever you gain life, untap Snorlax.</text>
 			<color>UW</color>
 			<manacost>{U/W}{U/W}{U/W}{U/W}</manacost>
 			<type>Legendary Pokémon - Ice Flying</type>
-			<pt>5/5</pt>
+			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
 Articuno can't attack or block unless it is obedient.
-Tap 10 untapped permanents you control: Articuno becomes obedient.</text>
+Tap 6 untapped permanents you control: Articuno becomes obedient.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
@@ -1770,7 +1770,7 @@ Tap 10 untapped permanents you control: Articuno becomes obedient.</text>
 			<color>WR</color>
 			<manacost>{W/R}{W/R}{W/R}{W/R}</manacost>
 			<type>Legendary Pokémon - Electric Flying</type>
-			<pt>5/5</pt>
+			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
 Zapdos can't attack or block unless it is obedient.
@@ -1782,7 +1782,7 @@ Whenever you attack with three or more Pokémon, Zapdos becomes obedient.</text>
 			<color>GR</color>
 			<manacost>{G/R}{G/R}{G/R}{G/R}</manacost>
 			<type>Legendary Pokémon - Fire Flying</type>
-			<pt>5/5</pt>
+			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
 Moltres can't attack or block unless it is obedient.
@@ -3368,6 +3368,17 @@ Cycling {2}</text>
 			<reverse-related>Erika</reverse-related>
 		</card>
 		<card>
+			<name>Grimer (Token)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/GrimerToken.png" rarity="token">PTCG</set>
+			<color>B</color>
+			<manacost />
+			<type>Token Pokémon - Poison</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text />
+			<reverse-related>Muk</reverse-related>
+		</card>
+		<card>
 			<name>Red's Pikachu</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Reds%20Pikachu.png" rarity="token">PTCG</set>
 			<color>RW</color>
@@ -3390,6 +3401,36 @@ Cycling {2}</text>
 			<reverse-related>Pilfer</reverse-related>
 			<reverse-related>Moon Stone</reverse-related>
 			<reverse-related>Clefable</reverse-related>
+		</card>
+		<card>
+			<name>Brock (Emblem)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/BrockEmblem.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
+			<type>Emblem - Brock</type>
+			<tablerow>1</tablerow>
+			<text>Whenever a Pokémon you control evolves, put two +1/+1 counters on it.</text>
+			<reverse-related>Erika</reverse-related>
+		</card>
+		<card>
+			<name>Koga (Emblem)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/KogaEmblem.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
+			<type>Emblem - Koga</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon you control have "{B}: This Pokémon can't be blocked this turn."</text>
+			<reverse-related>Koga</reverse-related>
+		</card>
+		<card>
+			<name>Professor Oak (Emblem)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/OakEmblem.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
+			<type>Emblem - Oak</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon you control have indestructible.</text>
+			<reverse-related>Professor Oak</reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
