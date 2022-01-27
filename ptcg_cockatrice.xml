@@ -1226,12 +1226,12 @@ Whenever Haunter deals combat damage to a player or evolves, that player discard
 			<name>Gengar</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Gengar.png" rarity="rare">PTCG</set>
 			<color>B</color>
-			<manacost>3BBB</manacost>
+			<manacost>3BB</manacost>
 			<type>Pokémon - Ghost Poison</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Haunter {2}{B}{B}
-Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do, put that card onto the battlefield under your control. If Gengar is evolved, you may pay {2}{B} instead.</text>
+Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do, put that card onto the battlefield under your control. If Gengar is evolved, you may pay {B}{B} instead.</text>
 		</card>
 		<card>
 			<name>Onix</name>
