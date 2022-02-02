@@ -241,7 +241,7 @@ Whenever Kakuna evolves, it loses defender and target player discards a card.</t
 			<tablerow>2</tablerow>
 			<text>Evolve From Kakuna {2}{B}
 Flying
-Whenever Beedrill evolves, create two  copies of it except they are 1/1 with no mana cost.</text>
+Whenever Beedrill evolves, create two token copies of it except they are 1/1 with no mana cost.</text>
 		</card>
 		<card>
 			<name>Pidgey</name>
@@ -1838,13 +1838,24 @@ Flying, vigilance, haste, hexproof from trainers</text>
 		<card>
 			<name>Mewtwo</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mewtwo.png" rarity="mythic">PTCG</set>
-			<color>RWBU</color>
-			<manacost>2RWBU</manacost>
+			<color>UBR</color>
+			<manacost>5UBR</manacost>
 			<type>Legendary Pokémon - Psychic</type>
 			<pt>7/4</pt>
 			<tablerow>2</tablerow>
+			<text>When Mewtwo enters the battlefield, create a token copy of each Pokémon you don't control, except they are 2/2 with no mana cost.
+When Mewtwo dies, return it to the battlfield transformed.</text>
+		</card>
+		<card>
+			<name>Mewtwo, Redeemed</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/MewtwoRedeemed.png" rarity="mythic">PTCG</set>
+			<color>WUR</color>
+			<manacost />
+			<type>Legendary Pokémon - Psychic</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
 			<text>Flying
-Whenever Mewtwo attacks, defending player sacrifices a permanent.</text>
+Each other Pokémon you control gets +2/+2 if it shares a color with a Pokémon an opponent controls.</text>
 		</card>
 		<card>
 			<name>Mew</name>
@@ -1855,7 +1866,7 @@ Whenever Mewtwo attacks, defending player sacrifices a permanent.</text>
 			<pt>2/4</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Tap Mew and another untapped Pokémon you control: That Pokémon gains indestructible until end of turn.
+Mew has all abilities of all other Pokémon on the battlefield.
 Pokémoncycling {3}</text>
 		</card>
 		<!-- trainer cards -->
@@ -3377,6 +3388,17 @@ Cycling {2}</text>
 			<tablerow>2</tablerow>
 			<text />
 			<reverse-related>Muk</reverse-related>
+		</card>
+		<card>
+			<name>Clone (Token)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/CloneToken.png" rarity="token">PTCG</set>
+			<color />
+			<manacost />
+			<type>Token Pokémon - Clone</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text />
+			<reverse-related count="X">Mewtwo</reverse-related>
 		</card>
 		<card>
 			<name>Red's Pikachu</name>
