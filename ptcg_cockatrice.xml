@@ -1370,7 +1370,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<pt>3/5</pt>
 			<tablerow>2</tablerow>
 			<text>Flash
-When Hitmonchan enters the battlefield, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. Hitmonchan deals damage equal to its power to any target.</text>
+When Hitmonchan enters the battlefield, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. If you do, Hitmonchan deals damage equal to its power to any target.</text>
 		</card>
 		<card>
 			<name>Lickitung</name>
@@ -1860,14 +1860,14 @@ Each other Pokémon you control gets +2/+2 if it shares a color with a Pokémon 
 		<card>
 			<name>Mew</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Mew.png" rarity="mythic">PTCG</set>
-			<color>WUBRG</color>
-			<manacost>WUBRG</manacost>
+			<color>GWU</color>
+			<manacost>GWU</manacost>
 			<type>Legendary Pokémon - Psychic</type>
-			<pt>2/4</pt>
+			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Mew has all abilities of all other Pokémon on the battlefield.
-Pokémoncycling {3}</text>
+Pokémoncycling {3}
+When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<!-- trainer cards -->
 		<card>
@@ -2047,7 +2047,7 @@ Pokémoncycling {3}</text>
 			<type>Legendary Trainer - Agatha</type>
 			<loyalty>3</loyalty>
 			<text>Whenever a Pokémon with a soulbind counter on it dies, exile it. Create a token copy of it, except it's a Ghost.      
-[+1]: Put a soulbind counter on target Pokémon.
+[+1]: Put a soulbind counter on target nontoken Pokémon.
 [-2]: You may sacrifice a nontoken Pokémon. If you do, draw two cards.</text>
 		</card>
 		<card>
@@ -2498,7 +2498,7 @@ Overload {2}{G}{G}, Reveal a green Pokémon card from your hand.
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>This spell has flash as long as you control a Water Pokémon.
-The owner of target spell or target Pokémon puts it on the top or bottom of their library.
+The owner of target nonland permanent puts it on the top or bottom of their library.
 Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
 			</text>
 		</card>
@@ -3345,7 +3345,7 @@ Cycling {2}</text>
 		</card>
 		<!-- Tokens -->
 		<card>
-			<name>Beedrill (Token)</name>
+			<name>Beedrill Token</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/BeedrillToken.png" rarity="token">PTCG</set>
 			<color>B</color>
 			<manacost />
@@ -3356,7 +3356,7 @@ Cycling {2}</text>
 			<reverse-related count="2">Beedrill</reverse-related>
 		</card>
 		<card>
-			<name>Diglett (Token)</name>
+			<name>Diglett Token</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/DiglettToken.png" rarity="token">PTCG</set>
 			<color>R</color>
 			<manacost />
@@ -3368,7 +3368,7 @@ Cycling {2}</text>
 			<reverse-related count="2">Dig</reverse-related>
 		</card>
 		<card>
-			<name>Oddish (Token)</name>
+			<name>Oddish Token</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/OddishToken.png" rarity="token">PTCG</set>
 			<color>G</color>
 			<manacost />
@@ -3379,7 +3379,7 @@ Cycling {2}</text>
 			<reverse-related>Erika</reverse-related>
 		</card>
 		<card>
-			<name>Grimer (Token)</name>
+			<name>Grimer Token</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/GrimerToken.png" rarity="token">PTCG</set>
 			<color>B</color>
 			<manacost />
@@ -3390,7 +3390,7 @@ Cycling {2}</text>
 			<reverse-related>Muk</reverse-related>
 		</card>
 		<card>
-			<name>Clone (Token)</name>
+			<name>Clone Token</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/CloneToken.png" rarity="token">PTCG</set>
 			<color />
 			<manacost />
@@ -3401,7 +3401,7 @@ Cycling {2}</text>
 			<reverse-related count="X">Mewtwo</reverse-related>
 		</card>
 		<card>
-			<name>Red's Pikachu</name>
+			<name>Red's Pikachu Token</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Reds%20Pikachu.png" rarity="token">PTCG</set>
 			<color>RW</color>
 			<manacost />
@@ -3412,7 +3412,7 @@ Cycling {2}</text>
 			<reverse-related>Red</reverse-related>
 		</card>
 		<card>
-			<name>Treasure</name>
+			<name>Treasure Token</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/ptcg/main/cards/Treasure.png" rarity="token">PTCG</set>
 			<color />
 			<manacost />
