@@ -502,7 +502,7 @@ Whenever Nidorino evolves, if you control no other Pokémon, add {B}{B}{B} and d
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
 			<text>{T}: Add {W} or {B}.
-{2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon card. Clefairy gains all abilities of that card until end of turn. Then shuffle.</text>
+{2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon card. Clefairy gains all abilities of that card until end of turn. Put the revealed cards on the bottom of your library in any order.</text>
 		</card>
 		<card>
 			<name>Clefable</name>
