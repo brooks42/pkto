@@ -1170,6 +1170,7 @@ Whenever you gain life, tap target Pokémon. While Dewgong is unevolved, this ab
 			<text>Evolve From Grimer {B}
 Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Pokémon token named Grimer. If Muk is evolved, create two of those tokens instead.</text>
 			<related>Grimer Token</related>
+			<related count="2">Grimer Token</related>
 		</card>
 		<card>
 			<name>Shellder</name>
