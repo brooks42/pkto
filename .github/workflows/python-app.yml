@@ -31,5 +31,7 @@ jobs:
                   python3 $workingdir'/scripts/cube_compiler_script.py' -f $xmlfile
                   - uses: actions/upload-artifact@v3
             - name: Write cube artifact
+            - uses: actions/upload-artifact@v3
               with:
+                  name: cube file
                   path: pkto_cube.txt
