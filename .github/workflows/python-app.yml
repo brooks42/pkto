@@ -26,5 +26,6 @@ jobs:
                   pip install lxml
             - name: Run the cube script
               run: |
-                  xmlfile=`pwd`'/pkto_cockatrice.xml'
-                  python3 /scripts/cube_compiler_script.py -f $xmlfile
+                  workingdir=`pwd`
+                  xmlfile=$workingdir'/pkto_cockatrice.xml'
+                  python3 $workingdir'/scripts/cube_compiler_script.py' -f $xmlfile
