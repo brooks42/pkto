@@ -27,4 +27,4 @@ jobs:
             - name: Run the cube script
               run: |
                   xmlfile=`pwd`'/pkto_cockatrice.xml'
-                  python3 cube_compiler_script.py -f $xmlfile
+                  python3 /scripts/cube_compiler_script.py -f $xmlfile
