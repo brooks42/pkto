@@ -5,9 +5,7 @@
 # `pip3 install beautifulsoup4`
 # `pip3 install lxml`
 
-import urllib.request
-import urllib.parse
-import urllib.error
+import sys
 
 from bs4 import BeautifulSoup
 
@@ -25,61 +23,68 @@ def main():
     Eevee
     Eevee 
     """
-    filename = "../ptcg_cockatrice.xml"
 
-    # open the input file as XML, input is assumed to be a cockatrice card file
-    print("Loading file...")
-    cube_list = list()
+    try:
+        # sys.argv[1] is expected to be -f for bash reasons
+        filename = sys.argv[2]
 
-    with open(filename, "r") as f:
-        soup_obj = BeautifulSoup(f, "xml")
+        # open the input file as XML, input is assumed to be a cockatrice card file
+        print("Loading file...")
+        cube_list = list()
 
-        # grab the list of cards out of the input cockatrice xml file
-        all_cards = soup_obj.findAll("card")
+        with open(filename, "r") as f:
+            soup_obj = BeautifulSoup(f, "xml")
 
-        for index in range(len(all_cards)):
+            # grab the list of cards out of the input cockatrice xml file
+            all_cards = soup_obj.findAll("card")
 
-            # grab the info and transform this into the Card instance format above
-            cockatrice_card = all_cards[index]
+            for index in range(len(all_cards)):
 
-            for name_tag in cockatrice_card:
-                if name_tag.name == 'name':
-                    card_name = name_tag.string
+                # grab the info and transform this into the Card instance format above
+                cockatrice_card = all_cards[index]
 
-                    if '(DFC)' in card_name:
-                        continue
+                for name_tag in cockatrice_card:
+                    if name_tag.name == 'name':
+                        card_name = name_tag.string
 
-                    basic_lands = ["forest", "mountain",
-                                   "island", "swamp", "plains"]
-                    if card_name.lower() in basic_lands:
-                        continue
+                        if '(DFC)' in card_name:
+                            continue
 
-                    # also catch forest(a) etc
-                    basic_lands_a = [sub + " (a)" for sub in basic_lands]
-                    if card_name.lower() in basic_lands_a:
-                        continue
+                        basic_lands = ["forest", "mountain",
+                                       "island", "swamp", "plains"]
+                        if card_name.lower() in basic_lands:
+                            continue
 
-                    basic_lands_b = [sub + " (b)" for sub in basic_lands]
-                    if card_name.lower() in basic_lands_b:
-                        continue
+                        # also catch forest(a) etc
+                        basic_lands_a = [sub + " (a)" for sub in basic_lands]
+                        if card_name.lower() in basic_lands_a:
+                            continue
 
-                    for rarity_tag in cockatrice_card:
-                        if rarity_tag.name == 'set':
+                        basic_lands_b = [sub + " (b)" for sub in basic_lands]
+                        if card_name.lower() in basic_lands_b:
+                            continue
 
-                            if rarity_tag['rarity'] == 'token':
-                                continue
+                        for rarity_tag in cockatrice_card:
+                            if rarity_tag.name == 'set':
 
-                            cube_list.append(card_name)
+                                if rarity_tag['rarity'] == 'token':
+                                    continue
 
-                            if rarity_tag['rarity'] == 'common':
                                 cube_list.append(card_name)
 
-    cube_list.sort()
-    print(f'Writing {len(cube_list)} cards to cube file...')
-    with open('ptcg_cube.txt', 'w') as f:
-        f.write('\n'.join(str(item) for item in cube_list))
+                                if rarity_tag['rarity'] == 'common':
+                                    cube_list.append(card_name)
 
-    print('Done')
+        cube_list.sort()
+        print(f'Writing {len(cube_list)} cards to cube file...')
+        with open('ptcg_cube.txt', 'w') as f:
+            f.write('\n'.join(str(item) for item in cube_list))
+
+        print('Done')
+
+    except Exception as e:
+        print(f"Exception: {e}")
+        print("Usage: python3 cube_compiler_script -f filename")
 
 
 if __name__ == "__main__":
