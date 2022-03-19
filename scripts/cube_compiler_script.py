@@ -25,7 +25,7 @@ def main():
     Eevee
     Eevee 
     """
-    filename = "../ptcg_cockatrice.xml"
+    filename = "../pkto_cockatrice.xml"
 
     # open the input file as XML, input is assumed to be a cockatrice card file
     print("Loading file...")
