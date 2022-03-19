@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 
 def main():
     """ 
-    compiles the set of cards in ../ptcg_cockatrice.xml into a cube format
+    compiles the set of cards in ../pkto_cockatrice.xml into a cube format
 
     cube format is just a file with the card names, with repeated card names for commons
 
@@ -77,7 +77,7 @@ def main():
 
         cube_list.sort()
         print(f'Writing {len(cube_list)} cards to cube file...')
-        with open('ptcg_cube.txt', 'w') as f:
+        with open('pkto_cube.txt', 'w') as f:
             f.write('\n'.join(str(item) for item in cube_list))
 
         print('Done')
