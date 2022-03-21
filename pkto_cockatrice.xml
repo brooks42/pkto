@@ -2263,7 +2263,7 @@ Draw a card.</text>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/X%20Attack.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>RR</manacost>
-			<type>Sorcery - Medicine</type>
+			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
 			<text>Target Pokémon gets +3/+0 and gains haste until end of turn.</text>
 		</card>
