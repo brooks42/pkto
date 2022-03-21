@@ -1947,7 +1947,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Surge</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Pokémon you control get +1/+0 and haste until end of turn.
+			<text>[+1]: Pokémon you control get +1/+0 and gain haste until end of turn.
 [−2]: Pokémon you control with first strike gain double strike until end of turn, then Pokémon you control gain first strike until end of turn.
 [−4]: Untap all Pokémon you control that attacked this turn. After this main phase, there is an additional combat phase. </text>
 		</card>
