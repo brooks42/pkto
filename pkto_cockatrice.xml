@@ -1481,7 +1481,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Horsea {1}{U}
-If a Pokémon would return to a player's hand from the battlefield, exile it instead.</text>
+If a Pokémon would return to an opponent's hand from the battlefield, exile it instead.</text>
 		</card>
 		<card>
 			<name>Goldeen</name>
