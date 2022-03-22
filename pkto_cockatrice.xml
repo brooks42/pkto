@@ -1481,7 +1481,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Horsea {1}{U}
-If a Pokémon would return to a player's hand from the battlefield, exile it instead.</text>
+If a Pokémon would return to an opponent's hand from the battlefield, exile it instead.</text>
 		</card>
 		<card>
 			<name>Goldeen</name>
@@ -1947,7 +1947,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Surge</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Pokémon you control get +1/+0 and haste until end of turn.
+			<text>[+1]: Pokémon you control get +1/+0 and gain haste until end of turn.
 [−2]: Pokémon you control with first strike gain double strike until end of turn, then Pokémon you control gain first strike until end of turn.
 [−4]: Untap all Pokémon you control that attacked this turn. After this main phase, there is an additional combat phase. </text>
 		</card>
@@ -2118,7 +2118,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<manacost>3W</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Pokémon card with mana value lesser than or equal to the the highest mana value among Pokémon target opponent controls and put that card onto the battlefield. Then shuffle.</text>
+			<text>Search your library for a Pokémon card with mana value lesser than or equal to the the highest mana value among Pokémon target opponent controls. Put that card onto the battlefield, then shuffle.</text>
 		</card>
 		<card>
 			<name>Master Ball</name>
@@ -2263,7 +2263,7 @@ Draw a card.</text>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/X%20Attack.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>RR</manacost>
-			<type>Sorcery - Medicine</type>
+			<type>Instant - Medicine</type>
 			<tablerow>3</tablerow>
 			<text>Target Pokémon gets +3/+0 and gains haste until end of turn.</text>
 		</card>
