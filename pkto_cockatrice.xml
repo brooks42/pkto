@@ -2118,7 +2118,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<manacost>3W</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Pokémon card with mana value lesser than or equal to the the highest mana value among Pokémon target opponent controls. Put that card onto the battlefield, then shuffle.</text>
+			<text>Search your library for a Pokémon card with mana value lesser than or equal to the highest mana value among Pokémon target opponent controls. Put that card onto the battlefield, then shuffle.</text>
 		</card>
 		<card>
 			<name>Master Ball</name>
