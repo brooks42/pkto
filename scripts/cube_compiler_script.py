@@ -65,9 +65,8 @@ def main():
                         if card_name.lower() in basic_lands_b:
                             continue
 
-                        # append [PKTO] to the card name if it doesn't already end in PKTO
-                        if not card_name.endswith('[PKTO]'):
-                            card_name = f"{card_name} [PKTO]"
+                        # append (PKTO) to the card name to work with dr4ft
+                        card_name = f"{card_name} (PKTO)"
 
                         # only append non-token rarities, and append twice if rarity is common
                         for rarity_tag in cockatrice_card:
