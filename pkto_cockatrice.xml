@@ -2878,7 +2878,7 @@ Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 			<manacost>1R</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Whenever you attack with one or more Pokémon, choose odd or even. If you do, exile the top card of your library. If it has mana value of the chosen quality, you may cast it for as long as it remains exiled.</text>
+			<text>Whenever you attack with one or more Pokémon, choose odd or even. Then exile the top card of your library. If it has mana value of the chosen quality, you may cast it for as long as it remains exiled.</text>
 		</card>
 		<card>
 			<name>Viridian Gym</name>
