@@ -41,7 +41,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Bulbasaur {1}{G}
-Whenever a Pokémon you control enters the battlefield, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
+Whenever enters the battlefield under your control, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Venusaur</name>
@@ -1234,7 +1234,7 @@ Whenever Haunter deals combat damage to a player or evolves, that player discard
 			<color>B</color>
 			<manacost>3BB</manacost>
 			<type>Pokémon - Ghost Poison</type>
-			<pt>4/4</pt>
+			<pt>5/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Haunter {2}{B}{B}
 Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do, put that card onto the battlefield under your control. If Gengar is evolved, you may pay {B}{B} instead.</text>
@@ -2878,7 +2878,7 @@ Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 			<manacost>1R</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Whenever you attack with one or more Pokémon, you may choose a number. If you do, exile the top card of your library. If its mana value is equal to chosen number, you may cast it for as long as it remains exiled.</text>
+			<text>Whenever you attack with one or more Pokémon, choose odd or even. If you do, exile the top card of your library. If it has mana value of the chosen quality, you may cast it for as long as it remains exiled.</text>
 		</card>
 		<card>
 			<name>Viridian Gym</name>
