@@ -1854,7 +1854,7 @@ When Mewtwo dies, return it to the battlfield transformed.</text>
 			<related count="x">Clone Token</related>
 		</card>
 		<card>
-			<name>Mewtwo, Redeemed</name>
+			<name>Mewtwo, Redeemed (DFC)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/MewtwoRedeemed.png" rarity="mythic">PKTO</set>
 			<color>WUR</color>
 			<manacost />
