@@ -607,7 +607,7 @@ Lifelink</text>
 			<related attach="attach">Oddish</related>
 		</card>
 		<card>
-			<name>Gloom [PKTO]</name>
+			<name>Gloom (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Gloom.png" rarity="uncommon">PKTO</set>
 			<color>BG</color>
 			<manacost>1{B/G}{B/G}</manacost>
@@ -1024,7 +1024,7 @@ This spell can't be countered.
 Trample</text>
 		</card>
 		<card>
-			<name>Golem [PKTO]</name>
+			<name>Golem (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Golem.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>4GG</manacost>
@@ -2063,7 +2063,7 @@ When you cycle Mew, shuffle it into your library.</text>
 [-2]: You may sacrifice a nontoken Pokémon. If you do, draw two cards.</text>
 		</card>
 		<card>
-			<name>Lance [PKTO]</name>
+			<name>Lance (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Lance.png" rarity="mythic">PKTO</set>
 			<color>WRG</color>
 			<manacost>4WRG</manacost>
@@ -2157,7 +2157,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<text>Search target opponent's library for a Pokémon card with mana value X or less and put that card onto the battlefield under your control. Then that player shuffles. X can't be greater than 3.</text>
 		</card>
 		<card>
-			<name>Revive [PKTO]</name>
+			<name>Revive (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Revive.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>2B</manacost>
@@ -2331,7 +2331,7 @@ Draw a card.</text>
 			<text>Slash deals 4 damage to target Pokémon.</text>
 		</card>
 		<card>
-			<name>Whirlwind [PKTO]</name>
+			<name>Whirlwind (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Whirlwind.png" rarity="common">PKTO</set>
 			<color>WU</color>
 			<manacost>{W/U}</manacost>
@@ -2414,7 +2414,7 @@ Draw a card.</text>
 Draw a card.</text>
 		</card>
 		<card>
-			<name>Flash [PKTO]</name>
+			<name>Flash (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Flash.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>W</manacost>
@@ -2460,7 +2460,7 @@ Draw a card.</text>
 			<text>All Pokémon get -4/-4 until end of turn.</text>
 		</card>
 		<card>
-			<name>Blizzard [PKTO]</name>
+			<name>Blizzard (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Blizzard.png" rarity="rare">PKTO</set>
 			<color>WU</color>
 			<manacost>1WWU</manacost>
@@ -2794,7 +2794,7 @@ Flash
 Enchanted Pokémon gets +1/+1 and first strike.</text>
 		</card>
 		<card>
-			<name>Dream Eater [PKTO]</name>
+			<name>Dream Eater (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Dream%20Eater.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>BB</manacost>
