@@ -1386,7 +1386,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<type>Pokémon - Normal</type>
 			<pt>3/7</pt>
 			<tablerow>2</tablerow>
-			<text>When Lickitung enters the battlefield, target Pokémon can't attack, block, or activate abilities until Lickitung leaves the battlefield.</text>
+			<text>When Lickitung enters the battlefield, until Lickitung leaves the battlefield, target Pokémon can’t attack or block and its activated abilities can’t be activated.</text>
 		</card>
 		<card>
 			<name>Koffing</name>
@@ -2033,9 +2033,9 @@ When you cycle Mew, shuffle it into your library.</text>
 			<manacost>1{W/U}{W/U}</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Lorelei</type>
-			<loyalty>2</loyalty>
+			<loyalty>4</loyalty>
 			<text>Whenever you gain life, put a loyalty counter on Lorelei.
-[-2]: Tap or untap target Pokemon.
+[0]: Tap or untap up to one target Pokémon. You gain 1 life.
 [-X]: Put a Water and/or Ice Pokémon card with mana value X from your hand onto the battlefield.</text>
 		</card>
 		<card>
@@ -2047,7 +2047,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<type>Legendary Trainer - Bruno</type>
 			<loyalty>3</loyalty>
 			<text>At the beginning of combat on your turn, put a loyalty counter on Bruno. 
-[-1]: Put a +1/+1 counter on target Pokémon.
+[-1]: Put a +1/+1 counter on up to one target Pokémon.
 [-3]: Pokémon you control with +1/+1 counters on them gain trample until end of turn.</text>
 		</card>
 		<card>
@@ -2059,7 +2059,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<type>Legendary Trainer - Agatha</type>
 			<loyalty>3</loyalty>
 			<text>Whenever a Pokémon with a soulbind counter on it dies, exile it. Create a token copy of it, except it's a Ghost.      
-[+1]: Put a soulbind counter on target nontoken Pokémon.
+[+1]: Put a soulbind counter on up to one target nontoken Pokémon.
 [-2]: You may sacrifice a nontoken Pokémon. If you do, draw two cards.</text>
 		</card>
 		<card>
