@@ -2364,7 +2364,7 @@ Draw a card.</text>
 			<manacost>1{U/B}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard. Spells with the same name as that spell can't be cast until your next turn.</text>
+			<text>Counter target spell. If that spell is countered this way, put it into its owner’s hand instead of into that player’s graveyard. That player can’t cast spells with the same name as that spell until the end of their next turn.</text>
 		</card>
 		<card>
 			<name>Fire Spin</name>
