@@ -607,7 +607,7 @@ Lifelink</text>
 			<related attach="attach">Oddish</related>
 		</card>
 		<card>
-			<name>Gloom [PKTO]</name>
+			<name>Gloom (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Gloom.png" rarity="uncommon">PKTO</set>
 			<color>BG</color>
 			<manacost>1{B/G}{B/G}</manacost>
@@ -1024,7 +1024,7 @@ This spell can't be countered.
 Trample</text>
 		</card>
 		<card>
-			<name>Golem [PKTO]</name>
+			<name>Golem (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Golem.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>4GG</manacost>
@@ -1386,7 +1386,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<type>Pokémon - Normal</type>
 			<pt>3/7</pt>
 			<tablerow>2</tablerow>
-			<text>When Lickitung enters the battlefield, target Pokémon can't attack, block, or activate abilities until Lickitung leaves the battlefield.</text>
+			<text>When Lickitung enters the battlefield, until Lickitung leaves the battlefield, target Pokémon can't attack or block and its activated abilities can't be activated.</text>
 		</card>
 		<card>
 			<name>Koffing</name>
@@ -2033,9 +2033,9 @@ When you cycle Mew, shuffle it into your library.</text>
 			<manacost>1{W/U}{W/U}</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Lorelei</type>
-			<loyalty>2</loyalty>
+			<loyalty>4</loyalty>
 			<text>Whenever you gain life, put a loyalty counter on Lorelei.
-[-2]: Tap or untap target Pokemon.
+[0]: Tap or untap up to one target Pokémon. You gain 1 life.
 [-X]: Put a Water and/or Ice Pokémon card with mana value X from your hand onto the battlefield.</text>
 		</card>
 		<card>
@@ -2047,7 +2047,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<type>Legendary Trainer - Bruno</type>
 			<loyalty>3</loyalty>
 			<text>At the beginning of combat on your turn, put a loyalty counter on Bruno. 
-[-1]: Put a +1/+1 counter on target Pokémon.
+[-1]: Put a +1/+1 counter on up to one target Pokémon.
 [-3]: Pokémon you control with +1/+1 counters on them gain trample until end of turn.</text>
 		</card>
 		<card>
@@ -2059,11 +2059,11 @@ When you cycle Mew, shuffle it into your library.</text>
 			<type>Legendary Trainer - Agatha</type>
 			<loyalty>3</loyalty>
 			<text>Whenever a Pokémon with a soulbind counter on it dies, exile it. Create a token copy of it, except it's a Ghost.      
-[+1]: Put a soulbind counter on target nontoken Pokémon.
+[+1]: Put a soulbind counter on up to one target nontoken Pokémon.
 [-2]: You may sacrifice a nontoken Pokémon. If you do, draw two cards.</text>
 		</card>
 		<card>
-			<name>Lance [PKTO]</name>
+			<name>Lance (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Lance.png" rarity="mythic">PKTO</set>
 			<color>WRG</color>
 			<manacost>4WRG</manacost>
@@ -2157,7 +2157,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<text>Search target opponent's library for a Pokémon card with mana value X or less and put that card onto the battlefield under your control. Then that player shuffles. X can't be greater than 3.</text>
 		</card>
 		<card>
-			<name>Revive [PKTO]</name>
+			<name>Revive (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Revive.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>2B</manacost>
@@ -2331,7 +2331,7 @@ Draw a card.</text>
 			<text>Slash deals 4 damage to target Pokémon.</text>
 		</card>
 		<card>
-			<name>Whirlwind [PKTO]</name>
+			<name>Whirlwind (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Whirlwind.png" rarity="common">PKTO</set>
 			<color>WU</color>
 			<manacost>{W/U}</manacost>
@@ -2364,7 +2364,7 @@ Draw a card.</text>
 			<manacost>1{U/B}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard. Spells with the same name as that spell can't be cast until your next turn.</text>
+			<text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player’s graveyard. That player can’t cast spells with the same name as that spell until the end of their next turn.</text>
 		</card>
 		<card>
 			<name>Fire Spin</name>
@@ -2414,7 +2414,7 @@ Draw a card.</text>
 Draw a card.</text>
 		</card>
 		<card>
-			<name>Flash [PKTO]</name>
+			<name>Flash (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Flash.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>W</manacost>
@@ -2460,7 +2460,7 @@ Draw a card.</text>
 			<text>All Pokémon get -4/-4 until end of turn.</text>
 		</card>
 		<card>
-			<name>Blizzard [PKTO]</name>
+			<name>Blizzard (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Blizzard.png" rarity="rare">PKTO</set>
 			<color>WU</color>
 			<manacost>1WWU</manacost>
@@ -2794,7 +2794,7 @@ Flash
 Enchanted Pokémon gets +1/+1 and first strike.</text>
 		</card>
 		<card>
-			<name>Dream Eater [PKTO]</name>
+			<name>Dream Eater (PKTO)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Dream%20Eater.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>BB</manacost>
