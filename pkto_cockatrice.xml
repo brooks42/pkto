@@ -1386,7 +1386,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<type>Pokémon - Normal</type>
 			<pt>3/7</pt>
 			<tablerow>2</tablerow>
-			<text>When Lickitung enters the battlefield, until Lickitung leaves the battlefield, target Pokémon can’t attack or block and its activated abilities can’t be activated.</text>
+			<text>When Lickitung enters the battlefield, until Lickitung leaves the battlefield, target Pokémon can't attack or block and its activated abilities can't be activated.</text>
 		</card>
 		<card>
 			<name>Koffing</name>
@@ -2364,7 +2364,7 @@ Draw a card.</text>
 			<manacost>1{U/B}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Counter target spell. If that spell is countered this way, put it into its owner’s hand instead of into that player’s graveyard. That player can’t cast spells with the same name as that spell until the end of their next turn.</text>
+			<text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player’s graveyard. That player can’t cast spells with the same name as that spell until the end of their next turn.</text>
 		</card>
 		<card>
 			<name>Fire Spin</name>
