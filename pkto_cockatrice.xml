@@ -491,7 +491,8 @@ Whenever Nidorino evolves, if you control no other Pokémon, add {B}{B}{B} and d
 			<pt>8/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidorino {B}{B}{B}
-{B}, Sacrifice a Pokémon: Nidoking gains indestructible until end of turn.</text>
+As long as Nidoking has deathtouch, it must be blocked if able.
+As long as Nidoking has first strike, it has trample.</text>
 		</card>
 		<card>
 			<name>Clefairy</name>
@@ -1974,7 +1975,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<loyalty>3</loyalty>
 			<text>[+1]: Up to one target Pokémon gets +1/+0 and gains wither until end of turn.
 [-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
-[−6]: You get an emblem with "Pokémon you control have {B}: This Pokémon gains can't be blocked this turn."</text>
+[−6]: You get an emblem with "Pokémon you control have {B}: This Pokémon can't be blocked this turn."</text>
 			<related>Koga (Emblem)</related>
 		</card>
 		<card>
