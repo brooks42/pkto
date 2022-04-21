@@ -29,7 +29,7 @@ album_name = "Pokécube album"
 
 album_id = 'Q6aqDwK'
 
-last_updated_card = "Ditto"
+last_updated_card = "Poison Sting"
 
 
 def get_image_name_to_urls_dict():
@@ -85,7 +85,7 @@ def create_image(card_name, accessToken, image_url, album_id):
     response = requests.request(
         "POST", url, headers=headers, data=payload, files=files)
 
-    print(response.text)
+    # print(response.text)
     return response
 
 
@@ -147,13 +147,19 @@ def upload_cards():
     index = 0
     for cardInfo in cardList.items():
         index += 1
-        print(f'   {cardInfo[0]}: {cardInfo[1]}')
-        response = create_image(
-            cardInfo[0], access_token, cardInfo[1], album_id)
-        if response.status_code != 200:
-            print("stopping :(")
-            break
-        time.sleep(20)
+        print(f'-- {index}/{len(cardList)}) {cardInfo[0]}: {cardInfo[1]}')
+
+        succeeded = False
+        while not succeeded:
+            response = create_image(
+                cardInfo[0], access_token, cardInfo[1], album_id)
+            succeeded = response.status_code == 200
+            print(f'   {response.status_code}')
+            if not succeeded:
+                print('   retrying...')
+                time.sleep(140)
+        print('   done')
+        time.sleep(140)
 
 
 upload_cards()
