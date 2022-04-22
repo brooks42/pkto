@@ -491,7 +491,8 @@ Whenever Nidorino evolves, if you control no other Pokémon, add {B}{B}{B} and d
 			<pt>8/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidorino {B}{B}{B}
-{B}, Sacrifice a Pokémon: Nidoking gains indestructible until end of turn.</text>
+As long as Nidoking has deathtouch, it must be blocked if able.
+As long as Nidoking has first strike, it has trample.</text>
 		</card>
 		<card>
 			<name>Clefairy</name>
@@ -1974,7 +1975,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<loyalty>3</loyalty>
 			<text>[+1]: Up to one target Pokémon gets +1/+0 and gains wither until end of turn.
 [-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
-[−6]: You get an emblem with "Pokémon you control have {B}: This Pokémon gains can't be blocked this turn."</text>
+[−6]: You get an emblem with "Pokémon you control have {B}: This Pokémon can't be blocked this turn."</text>
 			<related>Koga (Emblem)</related>
 		</card>
 		<card>
@@ -2021,7 +2022,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Oak</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Until end of turn, Pokémon enter the battlefield with your choice of a lifelink counter or a first strike counter on them.
+			<text>[+1]: Until end of turn, Pokémon enter the battlefield with your choice of a lifelink or first strike counter on them.
 [-3]: Exile target Pokémon with power greater than its toughness.
 [-7]: You get an emblem with "Pokémon you control have indestructible."</text>
 			<related>Professor Oak (Emblem)</related>
@@ -2841,7 +2842,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
 			<text>Whenever a Pokémon you control attacks, put a charge counter on Vermillion Gym.
-Remove three charge counters from Vermillion Gym: Put a first strike counter, a vigilance counter or a haste counter on target Pokémon.</text>
+Remove three charge counters from Vermillion Gym: Put a first strike, vigilance, or haste counter on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Celadon Gym</name>
