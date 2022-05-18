@@ -3251,6 +3251,15 @@ Cycling {2}</text>
 			<text>{T}: Add {W}.</text>
 		</card>
 		<card>
+			<name>Plains (c)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Plains(c).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.</text>
+		</card>
+		<card>
 			<name>Island</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Island.png" rarity="common">PKTO</set>
 			<color />
@@ -3271,6 +3280,15 @@ Cycling {2}</text>
 		<card>
 			<name>Island (b)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Island(b).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.</text>
+		</card>
+		<card>
+			<name>Island (c)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Island(c).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3332,6 +3350,15 @@ Cycling {2}</text>
 			<text>{T}: Add {R}.</text>
 		</card>
 		<card>
+			<name>Mountain (c)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mountain(c).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.</text>
+		</card>
+		<card>
 			<name>Forest</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Forest.png" rarity="common">PKTO</set>
 			<color />
@@ -3352,6 +3379,15 @@ Cycling {2}</text>
 		<card>
 			<name>Forest (b)</name>
 			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Forest(b).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.</text>
+		</card>
+		<card>
+			<name>Forest (c)</name>
+			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Forest(c).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
