@@ -2861,7 +2861,7 @@ Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 			<manacost>UB</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Whenever you scry, look at the top card of target opponent's library. You may put that card on the bottom of that library. If you do, you lose 1 life. Otherwise, you gain 1 life.</text>
+			<text>Whenever you scry for the first time each turn, look at the top card of target opponent's library. You may put that card on the bottom of that library. If you do, you lose 1 life. Otherwise, scry 1.</text>
 		</card>
 		<card>
 			<name>Fuchsia Gym</name>
