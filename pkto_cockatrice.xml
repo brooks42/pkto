@@ -10,7 +10,7 @@
 		<!-- Pokémon -->
 		<card>
 			<name>Bulbasaur</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Bulbasaur.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bulbasaur.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>G</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -23,7 +23,7 @@
 		</card>
 		<card>
 			<name>Ivysaur (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/IvysaurDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/IvysaurDFC.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<type>Pokémon - Grass Poison</type>
 			<pt>2/2</pt>
@@ -34,7 +34,7 @@
 		</card>
 		<card>
 			<name>Ivysaur</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Ivysaur.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ivysaur.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>1GG</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -45,7 +45,7 @@ Whenever another Pokémon enters the battlefield under your control, if Ivysaur 
 		</card>
 		<card>
 			<name>Venusaur</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Venusaur.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Venusaur.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>3GG</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -56,7 +56,7 @@ If one or more counters would be put on a Pokémon you control, you may put that
 		</card>
 		<card>
 			<name>Squirtle</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Squirtle.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Squirtle.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<type>Pokémon - Water</type>
@@ -69,7 +69,7 @@ If one or more counters would be put on a Pokémon you control, you may put that
 		</card>
 		<card>
 			<name>Wartortle (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/WartortleDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/WartortleDFC.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
@@ -80,7 +80,7 @@ If one or more counters would be put on a Pokémon you control, you may put that
 		</card>
 		<card>
 			<name>Wartortle</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Wartortle.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Wartortle.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>1UU</manacost>
 			<type>Pokémon - Water</type>
@@ -91,7 +91,7 @@ Hexproof</text>
 		</card>
 		<card>
 			<name>Blastoise</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Blastoise.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Blastoise.png" rarity="rare">PKTO</set>
 			<color>U</color>
 			<manacost>3UU</manacost>
 			<type>Pokémon - Water</type>
@@ -102,7 +102,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 		</card>
 		<card>
 			<name>Charmander</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Charmander.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Charmander.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>R</manacost>
 			<type>Pokémon - Fire</type>
@@ -115,7 +115,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 		</card>
 		<card>
 			<name>Charmeleon (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/CharmeleonDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/CharmeleonDFC.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<type>Pokémon - Fire</type>
 			<pt>3/2</pt>
@@ -126,7 +126,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 		</card>
 		<card>
 			<name>Charmeleon</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Charmeleon.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Charmeleon.png" rarity="uncommon">PKTO</set>
 			<color>R</color>
 			<manacost>1RR</manacost>
 			<type>Pokémon - Fire</type>
@@ -137,7 +137,7 @@ Charmeleon has menace as long as it has power greater than or equal to 4.</text>
 		</card>
 		<card>
 			<name>Charizard</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Charizard.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Charizard.png" rarity="rare">PKTO</set>
 			<color>R</color>
 			<manacost>3RR</manacost>
 			<type>Pokémon - Fire Flying</type>
@@ -149,7 +149,7 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
 		</card>
 		<card>
 			<name>Caterpie</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Caterpie.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Caterpie.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>G</manacost>
 			<type>Pokémon - Bug</type>
@@ -162,7 +162,7 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
 		</card>
 		<card>
 			<name>Metapod (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/MetapodDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/MetapodDFC.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<type>Pokémon - Bug</type>
 			<pt>2/2</pt>
@@ -173,7 +173,7 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
 		</card>
 		<card>
 			<name>Metapod</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Metapod.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Metapod.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Pokémon - Bug</type>
@@ -185,7 +185,7 @@ Whenever Metapod evolves, it loses defender and you draw a card.</text>
 		</card>
 		<card>
 			<name>Butterfree</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Butterfree.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Butterfree.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>3GG</manacost>
 			<type>Pokémon - Bug Flying</type>
@@ -197,7 +197,7 @@ Whenever Butterfree evolves, tap all Pokémon you don't control. Those Pokémon 
 		</card>
 		<card>
 			<name>Weedle</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Weedle.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Weedle.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>B</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -210,7 +210,7 @@ Deathtouch</text>
 		</card>
 		<card>
 			<name>Kakuna (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/KakunaDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/KakunaDFC.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<type>Pokémon - Bug Poison</type>
 			<pt>2/2</pt>
@@ -221,7 +221,7 @@ Deathtouch</text>
 		</card>
 		<card>
 			<name>Kakuna</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Kakuna.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kakuna.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -233,7 +233,7 @@ Whenever Kakuna evolves, it loses defender and target player discards a card.</t
 		</card>
 		<card>
 			<name>Beedrill</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Beedrill.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Beedrill.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>3BB</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -246,7 +246,7 @@ Whenever Beedrill evolves, create two token copies of it except they are 1/1 wit
 		</card>
 		<card>
 			<name>Pidgey</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pidgey.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pidgey.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>W</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -259,7 +259,7 @@ Flying</text>
 		</card>
 		<card>
 			<name>Pidgeotto (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/PidgeottoDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/PidgeottoDFC.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<type>Pokémon - Normal Flying</type>
 			<pt>2/2</pt>
@@ -270,7 +270,7 @@ Flying</text>
 		</card>
 		<card>
 			<name>Pidgeotto</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pidgeotto.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pidgeotto.png" rarity="uncommon">PKTO</set>
 			<color>W</color>
 			<manacost>3W</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -282,7 +282,7 @@ Whenever Pidgeotto attacks, another target Pokémon you control gains flying unt
 		</card>
 		<card>
 			<name>Pidgeot</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pidgeot.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pidgeot.png" rarity="rare">PKTO</set>
 			<color>W</color>
 			<manacost>3WW</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -294,7 +294,7 @@ Pokémon you control have vigilance.</text>
 		</card>
 		<card>
 			<name>Rattata</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Rattata.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rattata.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>W</manacost>
 			<type>Pokémon - Normal</type>
@@ -305,7 +305,7 @@ Pokémon you control have vigilance.</text>
 		</card>
 		<card>
 			<name>Raticate</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Raticate.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Raticate.png" rarity="uncommon">PKTO</set>
 			<color>W</color>
 			<manacost>1WW</manacost>
 			<type>Pokémon - Normal</type>
@@ -316,7 +316,7 @@ When Raticate dies, you may return target Pokémon card with mana value 2 or les
 		</card>
 		<card>
 			<name>Spearow</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Spearow.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Spearow.png" rarity="common">PKTO</set>
 			<color>WB</color>
 			<manacost>1{W/B}{W/B}</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -327,7 +327,7 @@ Spearow can't be blocked except by Pokémon that share a color with it.</text>
 		</card>
 		<card>
 			<name>Fearow</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Fearow.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Fearow.png" rarity="uncommon">PKTO</set>
 			<color>WB</color>
 			<manacost>{4}{W/B}{W/B}</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -339,7 +339,7 @@ Prevent all noncombat damage that would be dealt to Fearow.</text>
 		</card>
 		<card>
 			<name>Ekans</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Ekans.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ekans.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Pokémon - Poison</type>
@@ -349,7 +349,7 @@ Prevent all noncombat damage that would be dealt to Fearow.</text>
 		</card>
 		<card>
 			<name>Arbok</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Arbok.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Arbok.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>3B</manacost>
 			<type>Pokémon - Poison</type>
@@ -360,7 +360,7 @@ Whenever a +1/+1 counter would be put on a Pokémon you don't control, that many
 		</card>
 		<card>
 			<name>Pikachu</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pikachu.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pikachu.png" rarity="uncommon">PKTO</set>
 			<color>WR</color>
 			<manacost>1WR</manacost>
 			<type>Pokémon - Electric</type>
@@ -370,7 +370,7 @@ Whenever a +1/+1 counter would be put on a Pokémon you don't control, that many
 		</card>
 		<card>
 			<name>Raichu</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Raichu.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Raichu.png" rarity="rare">PKTO</set>
 			<color>WR</color>
 			<manacost>3WR</manacost>
 			<type>Pokémon - Electric</type>
@@ -381,7 +381,7 @@ Whenever Raichu deals combat damage to a Pokémon, it deals damage equal to its 
 		</card>
 		<card>
 			<name>Sandshrew</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Sandshrew.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Sandshrew.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>2G</manacost>
 			<type>Pokémon - Ground</type>
@@ -391,7 +391,7 @@ Whenever Raichu deals combat damage to a Pokémon, it deals damage equal to its 
 		</card>
 		<card>
 			<name>Sandslash</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Sandslash.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Sandslash.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>4G</manacost>
 			<type>Pokémon - Ground</type>
@@ -402,7 +402,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
 		</card>
 		<card>
 			<name>Nidoran♀</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/NidoranF.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/NidoranF.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Pokémon - Poison</type>
@@ -415,7 +415,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
 		</card>
 		<card>
 			<name>Nidorina (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/NidorinaDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/NidorinaDFC.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<type>Pokémon - Poison</type>
 			<pt>2/3</pt>
@@ -426,7 +426,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
 		</card>
 		<card>
 			<name>Nidorina</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Nidorina.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Nidorina.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>2G</manacost>
 			<type>Pokémon - Poison</type>
@@ -437,7 +437,7 @@ Whenever Nidorina evolves, return target Pokémon card from your graveyard to yo
 		</card>
 		<card>
 			<name>Nidoqueen</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Nidoqueen.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Nidoqueen.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>5GG</manacost>
 			<type>Pokémon - Poison Ground</type>
@@ -448,7 +448,7 @@ Whenever a Pokémon you control dies, if it had lesser toughness than Nidoqueen 
 		</card>
 		<card>
 			<name>Nidoran♂</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/NidoranM.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/NidoranM.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>2B</manacost>
 			<type>Pokémon - Poison</type>
@@ -461,7 +461,7 @@ Whenever Nidoran♂ attacks, it gains first strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Nidorino (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/NidorinoDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/NidorinoDFC.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<type>Pokémon - Poison</type>
 			<pt>4/2</pt>
@@ -472,7 +472,7 @@ Whenever Nidoran♂ attacks, it gains first strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Nidorino</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Nidorino.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Nidorino.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>3B</manacost>
 			<type>Pokémon - Poison</type>
@@ -484,7 +484,7 @@ Whenever Nidorino evolves, if you control no other Pokémon, add {B}{B}{B} and d
 		</card>
 		<card>
 			<name>Nidoking</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Nidoking.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Nidoking.png" rarity="rare">PKTO</set>
 			<color>B</color>
 			<manacost>5BB</manacost>
 			<type>Pokémon - Poison Ground</type>
@@ -496,7 +496,7 @@ As long as Nidoking has first strike, it has trample.</text>
 		</card>
 		<card>
 			<name>Clefairy</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Clefairy.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Clefairy.png" rarity="uncommon">PKTO</set>
 			<color>WB</color>
 			<manacost>1WB</manacost>
 			<type>Pokémon - Fairy</type>
@@ -507,7 +507,7 @@ As long as Nidoking has first strike, it has trample.</text>
 		</card>
 		<card>
 			<name>Clefable</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Clefable.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Clefable.png" rarity="rare">PKTO</set>
 			<color>WB</color>
 			<manacost>2WB</manacost>
 			<type>Pokémon - Fairy</type>
@@ -519,7 +519,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 		</card>
 		<card>
 			<name>Vulpix</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Vulpix.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vulpix.png" rarity="uncommon">PKTO</set>
 			<color>R</color>
 			<manacost>2R</manacost>
 			<type>Pokémon - Fire</type>
@@ -529,7 +529,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 		</card>
 		<card>
 			<name>Ninetales</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Ninetales.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ninetales.png" rarity="rare">PKTO</set>
 			<color>R</color>
 			<manacost>3RR</manacost>
 			<type>Pokémon - Fire</type>
@@ -540,7 +540,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 		</card>
 		<card>
 			<name>Jigglypuff</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Jigglypuff.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Jigglypuff.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>1W</manacost>
 			<type>Pokémon - Normal Fairy</type>
@@ -551,7 +551,7 @@ Whenever you cast a Pokémon spell, tap target Pokémon you don't control.</text
 		</card>
 		<card>
 			<name>Wigglytuff</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Wigglytuff.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Wigglytuff.png" rarity="uncommon">PKTO</set>
 			<color>W</color>
 			<manacost>2WW</manacost>
 			<type>Pokémon - Normal Fairy</type>
@@ -562,7 +562,7 @@ Whenever Wigglytuff deals combat damage to a player, you gain life equal to its 
 		</card>
 		<card>
 			<name>Zubat</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Zubat.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Zubat.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Pokémon - Poison Flying</type>
@@ -573,7 +573,7 @@ Wither</text>
 		</card>
 		<card>
 			<name>Golbat</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Golbat.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Golbat.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>1BB</manacost>
 			<type>Pokémon - Poison Flying</type>
@@ -585,7 +585,7 @@ When you cast Golbat for its evolve cost, target player loses X life and you gai
 		</card>
 		<card>
 			<name>Oddish</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Oddish.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Oddish.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>G</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -598,7 +598,7 @@ Lifelink</text>
 		</card>
 		<card>
 			<name>Gloom (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/GloomDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/GloomDFC.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<type>Pokémon - Grass Poison</type>
 			<pt>2/2</pt>
@@ -609,7 +609,7 @@ Lifelink</text>
 		</card>
 		<card>
 			<name>Gloom (PKTO)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Gloom.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Gloom.png" rarity="uncommon">PKTO</set>
 			<color>BG</color>
 			<manacost>1{B/G}{B/G}</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -620,7 +620,7 @@ Lifelink</text>
 		</card>
 		<card>
 			<name>Vileplume</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Vileplume.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vileplume.png" rarity="rare">PKTO</set>
 			<color>BG</color>
 			<manacost>1{B/G}{B/G}{B/G}</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -631,7 +631,7 @@ Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text
 		</card>
 		<card>
 			<name>Paras</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Paras.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Paras.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Pokémon - Bug Grass</type>
@@ -641,7 +641,7 @@ Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text
 		</card>
 		<card>
 			<name>Parasect</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Parasect.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Parasect.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>3G</manacost>
 			<type>Pokémon - Bug Grass</type>
@@ -652,7 +652,7 @@ If Parasect would be dealt damage by a Water Pokémon, prevent that damage. You 
 		</card>
 		<card>
 			<name>Venonat</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Venonat.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Venonat.png" rarity="common">PKTO</set>
 			<color>GU</color>
 			<manacost>GU</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -662,7 +662,7 @@ If Parasect would be dealt damage by a Water Pokémon, prevent that damage. You 
 		</card>
 		<card>
 			<name>Venomoth</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Venomoth.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Venomoth.png" rarity="uncommon">PKTO</set>
 			<color>GU</color>
 			<manacost>2GU</manacost>
 			<type>Pokémon - Bug Poison</type>
@@ -674,7 +674,7 @@ Whenever Venomoth evolves, choose a card name. Spells with the chosen name can't
 		</card>
 		<card>
 			<name>Diglett</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Diglett.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Diglett.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>R</manacost>
 			<type>Pokémon - Ground</type>
@@ -684,7 +684,7 @@ Whenever Venomoth evolves, choose a card name. Spells with the chosen name can't
 		</card>
 		<card>
 			<name>Dugtrio</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Dugtrio.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dugtrio.png" rarity="uncommon">PKTO</set>
 			<color>R</color>
 			<manacost>1RR</manacost>
 			<type>Pokémon - Ground</type>
@@ -696,7 +696,7 @@ Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do,
 		</card>
 		<card>
 			<name>Meowth</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Meowth.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Meowth.png" rarity="uncommon">PKTO</set>
 			<color>WB</color>
 			<manacost>WB</manacost>
 			<type>Pokémon - Normal</type>
@@ -707,7 +707,7 @@ Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do,
 		</card>
 		<card>
 			<name>Persian</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Persian.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Persian.png" rarity="rare">PKTO</set>
 			<color>WB</color>
 			<manacost>3WB</manacost>
 			<type>Pokémon - Normal</type>
@@ -718,7 +718,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 		</card>
 		<card>
 			<name>Psyduck</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Psyduck.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Psyduck.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>2U</manacost>
 			<type>Pokémon - Water</type>
@@ -728,7 +728,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 		</card>
 		<card>
 			<name>Golduck</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Golduck.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Golduck.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>2UU</manacost>
 			<type>Pokémon - Water</type>
@@ -739,7 +739,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 		</card>
 		<card>
 			<name>Mankey</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mankey.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mankey.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>1R</manacost>
 			<type>Pokémon - Fighting</type>
@@ -749,7 +749,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 		</card>
 		<card>
 			<name>Primeape</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Primeape.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Primeape.png" rarity="uncommon">PKTO</set>
 			<color>R</color>
 			<manacost>3RR</manacost>
 			<type>Pokémon - Fighting</type>
@@ -760,7 +760,7 @@ Whenever Primeape attacks, destroy up to one target artifact. If Primeape is evo
 		</card>
 		<card>
 			<name>Growlithe</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Growlithe.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Growlithe.png" rarity="uncommon">PKTO</set>
 			<color>RW</color>
 			<manacost>1{R/W}{R/W}</manacost>
 			<type>Pokémon - Fire</type>
@@ -770,7 +770,7 @@ Whenever Primeape attacks, destroy up to one target artifact. If Primeape is evo
 		</card>
 		<card>
 			<name>Arcanine</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Arcanine.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Arcanine.png" rarity="rare">PKTO</set>
 			<color>RW</color>
 			<manacost>5{R/W}{R/W}</manacost>
 			<type>Pokémon - Fire</type>
@@ -781,7 +781,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
 		</card>
 		<card>
 			<name>Poliwag</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Poliwag.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Poliwag.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<type>Pokémon - Water</type>
@@ -794,7 +794,7 @@ Whenever this Pokémon evolves, gain control of target Pokémon with equal or le
 		</card>
 		<card>
 			<name>Poliwhirl (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/PoliwhirlDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/PoliwhirlDFC.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
@@ -805,7 +805,7 @@ Whenever this Pokémon evolves, gain control of target Pokémon with equal or le
 		</card>
 		<card>
 			<name>Poliwhirl</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Poliwhirl.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Poliwhirl.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>2UU</manacost>
 			<type>Pokémon - Water</type>
@@ -816,7 +816,7 @@ Whenever Poliwhirl becomes the target of a spell or ability an opponent controls
 		</card>
 		<card>
 			<name>Poliwrath</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Poliwrath.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Poliwrath.png" rarity="rare">PKTO</set>
 			<color>U</color>
 			<manacost>3UU</manacost>
 			<type>Pokémon - Water Fighting</type>
@@ -827,7 +827,7 @@ Whenever a Pokémon becomes the target of a spell or ability, you may change a t
 		</card>
 		<card>
 			<name>Abra</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Abra.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Abra.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<type>Pokémon - Psychic</type>
@@ -840,7 +840,7 @@ Whenever Abra enters the battlefield or evolves, scry 1.</text>
 		</card>
 		<card>
 			<name>Kadabra (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/KadabraDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/KadabraDFC.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<type>Pokémon - Psychic</type>
 			<pt>1/3</pt>
@@ -851,7 +851,7 @@ Whenever Abra enters the battlefield or evolves, scry 1.</text>
 		</card>
 		<card>
 			<name>Kadabra</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Kadabra.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kadabra.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>2UB</manacost>
 			<type>Pokémon - Psychic</type>
@@ -862,7 +862,7 @@ Whenever Abra enters the battlefield or evolves, scry 1.</text>
 		</card>
 		<card>
 			<name>Alakazam</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Alakazam.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Alakazam.png" rarity="rare">PKTO</set>
 			<color>UB</color>
 			<manacost>4UB</manacost>
 			<type>Pokémon - Psychic</type>
@@ -874,7 +874,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 		</card>
 		<card>
 			<name>Machop</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Machop.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Machop.png" rarity="common">PKTO</set>
 			<color>RG</color>
 			<manacost>{R/G}{R/G}</manacost>
 			<type>Pokémon - Fighting</type>
@@ -887,7 +887,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 		</card>
 		<card>
 			<name>Machoke (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/MachokeDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/MachokeDFC.png" rarity="common">PKTO</set>
 			<color>RG</color>
 			<type>Pokémon - Fighting</type>
 			<pt>3/3</pt>
@@ -898,7 +898,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 		</card>
 		<card>
 			<name>Machoke</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Machoke.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Machoke.png" rarity="uncommon">PKTO</set>
 			<color>RG</color>
 			<manacost>2{R/G}{R/G}</manacost>
 			<type>Pokémon - Fighting</type>
@@ -909,7 +909,7 @@ Whenever Machoke fights, put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Machamp</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Machamp.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Machamp.png" rarity="rare">PKTO</set>
 			<color>RG</color>
 			<manacost>4{R/G}{R/G}</manacost>
 			<type>Pokémon - Fighting</type>
@@ -921,7 +921,7 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 		</card>
 		<card>
 			<name>Bellsprout</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Bellsprout.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bellsprout.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>G</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -934,7 +934,7 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 		</card>
 		<card>
 			<name>Weepinbell (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/WeepinbellDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/WeepinbellDFC.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<type>Pokémon - Grass Poison</type>
 			<pt>2/2</pt>
@@ -945,7 +945,7 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 		</card>
 		<card>
 			<name>Weepinbell</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Weepinbell.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Weepinbell.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>2GG</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -957,7 +957,7 @@ Wither</text>
 		</card>
 		<card>
 			<name>Victreebel</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Victreebel.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Victreebel.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>4GG</manacost>
 			<type>Pokémon - Grass Poison</type>
@@ -968,7 +968,7 @@ Wither</text>
 		</card>
 		<card>
 			<name>Tentacool</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Tentacool.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Tentacool.png" rarity="common">PKTO</set>
 			<color>UB</color>
 			<manacost>1UB</manacost>
 			<type>Pokémon - Water Poison</type>
@@ -978,7 +978,7 @@ Wither</text>
 		</card>
 		<card>
 			<name>Tentacruel</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Tentacruel.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Tentacruel.png" rarity="uncommon">PKTO</set>
 			<color>UB</color>
 			<manacost>4UB</manacost>
 			<type>Pokémon - Water Poison</type>
@@ -990,7 +990,7 @@ Whenever you scry, you may draw a card. If you do, discard a card.</text>
 		</card>
 		<card>
 			<name>Geodude</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Geodude.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Geodude.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Pokémon - Rock Ground</type>
@@ -1003,7 +1003,7 @@ Protection from instants</text>
 		</card>
 		<card>
 			<name>Graveler (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/GravelerDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/GravelerDFC.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<type>Pokémon - Rock Ground</type>
 			<pt>2/4</pt>
@@ -1014,7 +1014,7 @@ Protection from instants</text>
 		</card>
 		<card>
 			<name>Graveler</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Graveler.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Graveler.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>2GG</manacost>
 			<type>Pokémon - Rock Ground</type>
@@ -1026,7 +1026,7 @@ Trample</text>
 		</card>
 		<card>
 			<name>Golem (PKTO)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Golem.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Golem.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>4GG</manacost>
 			<type>Pokémon - Rock Ground</type>
@@ -1037,7 +1037,7 @@ Trample</text>
 		</card>
 		<card>
 			<name>Ponyta</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Ponyta.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ponyta.png" rarity="uncommon">PKTO</set>
 			<color>R</color>
 			<manacost>2R</manacost>
 			<type>Pokémon - Fire</type>
@@ -1047,7 +1047,7 @@ Trample</text>
 		</card>
 		<card>
 			<name>Rapidash</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Rapidash.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rapidash.png" rarity="uncommon">PKTO</set>
 			<color>R</color>
 			<manacost>4R</manacost>
 			<type>Pokémon - Fire</type>
@@ -1058,7 +1058,7 @@ First strike, haste</text>
 		</card>
 		<card>
 			<name>Slowpoke</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Slowpoke.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Slowpoke.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>2U</manacost>
 			<type>Pokémon - Water Psychic</type>
@@ -1068,7 +1068,7 @@ First strike, haste</text>
 		</card>
 		<card>
 			<name>Slowbro</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Slowbro.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Slowbro.png" rarity="rare">PKTO</set>
 			<color>UB</color>
 			<manacost>2UUB</manacost>
 			<type>Pokémon - Water Psychic</type>
@@ -1079,7 +1079,7 @@ Whenever you put a card on the bottom of your library, put a +1/+1 counter on Sl
 		</card>
 		<card>
 			<name>Magnemite</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Magnemite.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Magnemite.png" rarity="common">PKTO</set>
 			<color />
 			<manacost>1</manacost>
 			<type>Artifact Pokémon - Electric Steel</type>
@@ -1089,7 +1089,7 @@ Whenever you put a card on the bottom of your library, put a +1/+1 counter on Sl
 		</card>
 		<card>
 			<name>Magneton</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Magneton.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Magneton.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
 			<type>Artifact Pokémon - Electric Steel</type>
@@ -1100,7 +1100,7 @@ Whenever Magneton evolves, put three +1/+1 counters on it.</text>
 		</card>
 		<card>
 			<name>Farfetch'd</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Farfetchd.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Farfetchd.png" rarity="rare">PKTO</set>
 			<color>WG</color>
 			<manacost>2WG</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -1110,7 +1110,7 @@ Whenever Magneton evolves, put three +1/+1 counters on it.</text>
 		</card>
 		<card>
 			<name>Doduo</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Doduo.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Doduo.png" rarity="uncommon">PKTO</set>
 			<color>RB</color>
 			<manacost>RB</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -1120,7 +1120,7 @@ Whenever Magneton evolves, put three +1/+1 counters on it.</text>
 		</card>
 		<card>
 			<name>Dodrio</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Dodrio.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dodrio.png" rarity="rare">PKTO</set>
 			<color>RB</color>
 			<manacost>3RB</manacost>
 			<type>Pokémon - Normal Flying</type>
@@ -1131,7 +1131,7 @@ Double strike, haste</text>
 		</card>
 		<card>
 			<name>Seel</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Seel.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Seel.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>WW</manacost>
 			<type>Pokémon - Water</type>
@@ -1141,7 +1141,7 @@ Double strike, haste</text>
 		</card>
 		<card>
 			<name>Dewgong</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Dewgong.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dewgong.png" rarity="uncommon">PKTO</set>
 			<color>WU</color>
 			<manacost>3WU</manacost>
 			<type>Pokémon - Water Ice</type>
@@ -1152,7 +1152,7 @@ Whenever you gain life, tap target Pokémon. While Dewgong is unevolved, this ab
 		</card>
 		<card>
 			<name>Grimer</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Grimer.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Grimer.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Pokémon - Poison</type>
@@ -1162,7 +1162,7 @@ Whenever you gain life, tap target Pokémon. While Dewgong is unevolved, this ab
 		</card>
 		<card>
 			<name>Muk</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Muk.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Muk.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>2BB</manacost>
 			<type>Pokémon - Poison</type>
@@ -1175,7 +1175,7 @@ Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Pokémon
 		</card>
 		<card>
 			<name>Shellder</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Shellder.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Shellder.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>2U</manacost>
 			<type>Pokémon - Water</type>
@@ -1185,7 +1185,7 @@ Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Pokémon
 		</card>
 		<card>
 			<name>Cloyster</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Cloyster.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cloyster.png" rarity="uncommon">PKTO</set>
 			<color>UR</color>
 			<manacost>2UR</manacost>
 			<type>Pokémon - Water Ice</type>
@@ -1196,7 +1196,7 @@ Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three targe
 		</card>
 		<card>
 			<name>Gastly</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Gastly.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Gastly.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>B</manacost>
 			<type>Pokémon - Ghost Poison</type>
@@ -1209,7 +1209,7 @@ Protection from Fighting and from Normal</text>
 		</card>
 		<card>
 			<name>Haunter (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/HaunterDFC.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/HaunterDFC.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<type>Pokémon - Ghost Poison</type>
 			<pt>2/2</pt>
@@ -1220,7 +1220,7 @@ Protection from Fighting and from Normal</text>
 		</card>
 		<card>
 			<name>Haunter</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Haunter.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Haunter.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>2BB</manacost>
 			<type>Pokémon - Ghost Poison</type>
@@ -1231,7 +1231,7 @@ Whenever Haunter deals combat damage to a player or evolves, that player discard
 		</card>
 		<card>
 			<name>Gengar</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Gengar.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Gengar.png" rarity="rare">PKTO</set>
 			<color>B</color>
 			<manacost>3BB</manacost>
 			<type>Pokémon - Ghost Poison</type>
@@ -1242,7 +1242,7 @@ Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do,
 		</card>
 		<card>
 			<name>Onix</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Onix.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Onix.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>3R</manacost>
 			<type>Pokémon - Rock Ground</type>
@@ -1253,7 +1253,7 @@ Whenever Onix attacks, you may discard a card. If you do, draw a card.</text>
 		</card>
 		<card>
 			<name>Drowzee</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Drowzee.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Drowzee.png" rarity="uncommon">PKTO</set>
 			<color>UB</color>
 			<manacost>1UB</manacost>
 			<type>Pokémon - Psychic</type>
@@ -1263,7 +1263,7 @@ Whenever Onix attacks, you may discard a card. If you do, draw a card.</text>
 		</card>
 		<card>
 			<name>Hypno</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Hypno.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Hypno.png" rarity="uncommon">PKTO</set>
 			<color>UB</color>
 			<manacost>2UB</manacost>
 			<type>Pokémon - Psychic</type>
@@ -1274,7 +1274,7 @@ Whenever you scry, untap Hypno.</text>
 		</card>
 		<card>
 			<name>Krabby</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Krabby.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Krabby.png" rarity="common">PKTO</set>
 			<color>UR</color>
 			<manacost>1UR</manacost>
 			<type>Pokémon - Water</type>
@@ -1284,7 +1284,7 @@ Whenever you scry, untap Hypno.</text>
 		</card>
 		<card>
 			<name>Kingler</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Kingler.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kingler.png" rarity="uncommon">PKTO</set>
 			<color>UR</color>
 			<manacost>3UR</manacost>
 			<type>Pokémon - Water</type>
@@ -1295,7 +1295,7 @@ Kingler has double strike as long as it has first strike.</text>
 		</card>
 		<card>
 			<name>Voltorb</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Voltorb.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Voltorb.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>R</manacost>
 			<type>Pokémon - Electric</type>
@@ -1306,7 +1306,7 @@ Haste</text>
 		</card>
 		<card>
 			<name>Electrode</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Electrode.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Electrode.png" rarity="uncommon">PKTO</set>
 			<color>RW</color>
 			<manacost>2RW</manacost>
 			<type>Pokémon - Electric</type>
@@ -1317,7 +1317,7 @@ Whenever Electrode is dealt damage or becomes the target of a spell or ability, 
 		</card>
 		<card>
 			<name>Exeggcute</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Exeggcute.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Exeggcute.png" rarity="common">PKTO</set>
 			<color>GB</color>
 			<manacost>GB</manacost>
 			<type>Pokémon - Grass Psychic</type>
@@ -1327,7 +1327,7 @@ Whenever Electrode is dealt damage or becomes the target of a spell or ability, 
 		</card>
 		<card>
 			<name>Exeggutor</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Exeggutor.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Exeggutor.png" rarity="uncommon">PKTO</set>
 			<color>GB</color>
 			<manacost>2GGB</manacost>
 			<type>Pokémon - Grass Psychic</type>
@@ -1339,7 +1339,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 		</card>
 		<card>
 			<name>Cubone</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Cubone.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cubone.png" rarity="uncommon">PKTO</set>
 			<color>WG</color>
 			<manacost>1WG</manacost>
 			<type>Pokémon - Ground</type>
@@ -1349,7 +1349,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 		</card>
 		<card>
 			<name>Marowak</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Marowak.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Marowak.png" rarity="uncommon">PKTO</set>
 			<color>WG</color>
 			<manacost>3WG</manacost>
 			<type>Pokémon - Ground</type>
@@ -1360,7 +1360,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 		</card>
 		<card>
 			<name>Hitmonlee</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Hitmonlee.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Hitmonlee.png" rarity="uncommon">PKTO</set>
 			<color>RG</color>
 			<manacost>2RG</manacost>
 			<type>Pokémon - Fighting</type>
@@ -1370,7 +1370,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 		</card>
 		<card>
 			<name>Hitmonchan</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Hitmonchan.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Hitmonchan.png" rarity="uncommon">PKTO</set>
 			<color>UG</color>
 			<manacost>2UG</manacost>
 			<type>Pokémon - Fighting</type>
@@ -1381,7 +1381,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 		</card>
 		<card>
 			<name>Lickitung</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Lickitung.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lickitung.png" rarity="uncommon">PKTO</set>
 			<color>W</color>
 			<manacost>4W</manacost>
 			<type>Pokémon - Normal</type>
@@ -1391,7 +1391,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 		</card>
 		<card>
 			<name>Koffing</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Koffing.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Koffing.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Pokémon - Poison</type>
@@ -1401,7 +1401,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 		</card>
 		<card>
 			<name>Weezing</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Weezing.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Weezing.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>XXBB</manacost>
 			<type>Pokémon - Poison</type>
@@ -1412,7 +1412,7 @@ When you cast Weezing, distribute X -1/-1 counters among up to X target Pokémon
 		</card>
 		<card>
 			<name>Rhyhorn</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Rhyhorn.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rhyhorn.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>3G</manacost>
 			<type>Pokémon - Ground Rock</type>
@@ -1423,7 +1423,7 @@ Whenever Rhyhorn deals combat damage to an opponent, it deals that much damage t
 		</card>
 		<card>
 			<name>Rhydon</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Rhydon.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rhydon.png" rarity="rare">PKTO</set>
 			<color>RG</color>
 			<manacost>4RG</manacost>
 			<type>Pokémon - Ground Rock</type>
@@ -1434,7 +1434,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
 		</card>
 		<card>
 			<name>Chansey</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Chansey.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Chansey.png" rarity="rare">PKTO</set>
 			<color>W</color>
 			<manacost>3WW</manacost>
 			<type>Pokémon - Normal</type>
@@ -1444,7 +1444,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
 		</card>
 		<card>
 			<name>Tangela</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Tangela.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Tangela.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>GGG</manacost>
 			<type>Pokémon - Grass</type>
@@ -1455,7 +1455,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
 		</card>
 		<card>
 			<name>Kangaskhan</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Kangaskhan.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kangaskhan.png" rarity="uncommon">PKTO</set>
 			<color>W</color>
 			<manacost>2WW</manacost>
 			<type>Pokémon - Normal</type>
@@ -1465,7 +1465,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
 		</card>
 		<card>
 			<name>Horsea</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Horsea.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Horsea.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>1UU</manacost>
 			<type>Pokémon - Water</type>
@@ -1475,7 +1475,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
 		</card>
 		<card>
 			<name>Seadra</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Seadra.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Seadra.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>3UU</manacost>
 			<type>Pokémon - Water</type>
@@ -1486,7 +1486,7 @@ If a Pokémon would return to an opponent's hand from the battlefield, exile it 
 		</card>
 		<card>
 			<name>Goldeen</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Goldeen.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Goldeen.png" rarity="common">PKTO</set>
 			<color>WU</color>
 			<manacost>WU</manacost>
 			<type>Pokémon - Water</type>
@@ -1496,7 +1496,7 @@ If a Pokémon would return to an opponent's hand from the battlefield, exile it 
 		</card>
 		<card>
 			<name>Seaking</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Seaking.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Seaking.png" rarity="uncommon">PKTO</set>
 			<color>WU</color>
 			<manacost>3WU</manacost>
 			<type>Pokémon - Water</type>
@@ -1507,7 +1507,7 @@ You may cast Seaking for its Evolve From cost as though it had flash. If you do,
 		</card>
 		<card>
 			<name>Staryu</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Staryu.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Staryu.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>1U</manacost>
 			<type>Pokémon - Water</type>
@@ -1517,7 +1517,7 @@ You may cast Seaking for its Evolve From cost as though it had flash. If you do,
 		</card>
 		<card>
 			<name>Starmie</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Starmie.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Starmie.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>3UU</manacost>
 			<type>Pokémon - Water Psychic</type>
@@ -1528,7 +1528,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Mr. Mime</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mr.%20Mime.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mr.%20Mime.png" rarity="uncommon">PKTO</set>
 			<color>W</color>
 			<manacost>2WW</manacost>
 			<type>Pokémon - Psychic Fairy</type>
@@ -1538,7 +1538,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Scyther</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Scyther.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Scyther.png" rarity="uncommon">PKTO</set>
 			<color>RG</color>
 			<manacost>2RG</manacost>
 			<type>Pokémon - Bug Flying</type>
@@ -1548,7 +1548,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Jynx</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Jynx.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Jynx.png" rarity="rare">PKTO</set>
 			<color>UB</color>
 			<manacost>3UB</manacost>
 			<type>Pokémon - Ice Psychic</type>
@@ -1558,7 +1558,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Electabuzz</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Electabuzz.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Electabuzz.png" rarity="uncommon">PKTO</set>
 			<color>WR</color>
 			<manacost>3WR</manacost>
 			<type>Pokémon - Electric</type>
@@ -1568,7 +1568,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Magmar</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Magmar.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Magmar.png" rarity="rare">PKTO</set>
 			<color>R</color>
 			<manacost>4R</manacost>
 			<type>Pokémon - Fire</type>
@@ -1578,7 +1578,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Pinsir</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pinsir.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pinsir.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>4G</manacost>
 			<type>Pokémon - Bug</type>
@@ -1588,7 +1588,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Tauros</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Tauros.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Tauros.png" rarity="uncommon">PKTO</set>
 			<color>RG</color>
 			<manacost>3{R/G}{R/G}</manacost>
 			<type>Pokémon - Normal</type>
@@ -1598,7 +1598,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Magikarp</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Magikarp.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Magikarp.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<type>Pokémon - Water</type>
@@ -1608,7 +1608,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
 		</card>
 		<card>
 			<name>Gyarados</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Gyarados.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Gyarados.png" rarity="mythic">PKTO</set>
 			<color>UR</color>
 			<manacost>5URR</manacost>
 			<type>Pokémon - Water Flying</type>
@@ -1619,7 +1619,7 @@ Whenever Gyarados evolves, it deals 6 damage divided as you choose among any num
 		</card>
 		<card>
 			<name>Lapras</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Lapras.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lapras.png" rarity="rare">PKTO</set>
 			<color>WU</color>
 			<manacost>2WU</manacost>
 			<type>Pokémon - Water Ice</type>
@@ -1630,7 +1630,7 @@ When Lapras dies, you gain 3 life.</text>
 		</card>
 		<card>
 			<name>Ditto</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Ditto.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ditto.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost>2</manacost>
 			<type>Pokémon - Normal</type>
@@ -1640,7 +1640,7 @@ When Lapras dies, you gain 3 life.</text>
 		</card>
 		<card>
 			<name>Eevee</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Eevee.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Eevee.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>1W</manacost>
 			<type>Pokémon - Normal</type>
@@ -1650,7 +1650,7 @@ When Lapras dies, you gain 3 life.</text>
 		</card>
 		<card>
 			<name>Vaporeon</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Vaporeon.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vaporeon.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>2UU</manacost>
 			<type>Pokémon - Water</type>
@@ -1661,7 +1661,7 @@ Whenever you evolve a Pokémon, scry 1 and draw a card.</text>
 		</card>
 		<card>
 			<name>Jolteon</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Jolteon.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Jolteon.png" rarity="uncommon">PKTO</set>
 			<color>RW</color>
 			<manacost>2RW</manacost>
 			<type>Pokémon - Electric</type>
@@ -1672,7 +1672,7 @@ Whenever you evolve a Pokémon, Pokémon you control get +1/+1 until end of turn
 		</card>
 		<card>
 			<name>Flareon</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Flareon.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Flareon.png" rarity="uncommon">PKTO</set>
 			<color>R</color>
 			<manacost>2RR</manacost>
 			<type>Pokémon - Fire</type>
@@ -1683,7 +1683,7 @@ Whenever you evolve a Pokémon, Flareon deals 3 damage divided as you choose amo
 		</card>
 		<card>
 			<name>Porygon</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Porygon.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Porygon.png" rarity="rare">PKTO</set>
 			<color>WUB</color>
 			<manacost>1WUB</manacost>
 			<type>Pokémon - Normal</type>
@@ -1694,7 +1694,7 @@ Whenever you evolve a Pokémon, Flareon deals 3 damage divided as you choose amo
 		</card>
 		<card>
 			<name>Omanyte</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Omanyte.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Omanyte.png" rarity="uncommon">PKTO</set>
 			<color>UR</color>
 			<manacost>1UR</manacost>
 			<type>Pokémon - Rock Water</type>
@@ -1705,7 +1705,7 @@ Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Omastar</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Omastar.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Omastar.png" rarity="rare">PKTO</set>
 			<color>UR</color>
 			<manacost>2URR</manacost>
 			<type>Pokémon - Rock Water</type>
@@ -1716,7 +1716,7 @@ Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Kabuto</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Kabuto.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kabuto.png" rarity="uncommon">PKTO</set>
 			<color>UG</color>
 			<manacost>1UG</manacost>
 			<type>Pokémon - Rock Water</type>
@@ -1727,7 +1727,7 @@ Fossil—{2}{U}{G}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Kabutops</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Kabutops.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kabutops.png" rarity="rare">PKTO</set>
 			<color>UG</color>
 			<manacost>2GGU</manacost>
 			<type>Pokémon - Rock Water</type>
@@ -1738,7 +1738,7 @@ Fossil—{2}{U}{G}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Aerodactyl</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Aerodactyl.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Aerodactyl.png" rarity="rare">PKTO</set>
 			<color>RG</color>
 			<manacost>1RG</manacost>
 			<type>Pokémon - Rock Flying</type>
@@ -1749,7 +1749,7 @@ Fossil—{2}{R}{G}, Exile three other cards from your graveyard.</text>
 		</card>
 		<card>
 			<name>Snorlax</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Snorlax.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Snorlax.png" rarity="rare">PKTO</set>
 			<color>W</color>
 			<manacost>1WW</manacost>
 			<type>Pokémon - Normal</type>
@@ -1761,7 +1761,7 @@ Whenever you gain life, untap Snorlax.</text>
 		</card>
 		<card>
 			<name>Articuno</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Articuno.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Articuno.png" rarity="mythic">PKTO</set>
 			<color>UW</color>
 			<manacost>{U/W}{U/W}{U/W}{U/W}</manacost>
 			<type>Legendary Pokémon - Ice Flying</type>
@@ -1773,7 +1773,7 @@ Tap 6 untapped permanents you control: Articuno becomes obedient.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Zapdos.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Zapdos.png" rarity="mythic">PKTO</set>
 			<color>WR</color>
 			<manacost>{W/R}{W/R}{W/R}{W/R}</manacost>
 			<type>Legendary Pokémon - Electric Flying</type>
@@ -1785,7 +1785,7 @@ Whenever you attack with three or more Pokémon, Zapdos becomes obedient.</text>
 		</card>
 		<card>
 			<name>Moltres</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Moltres.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Moltres.png" rarity="mythic">PKTO</set>
 			<color>GR</color>
 			<manacost>{G/R}{G/R}{G/R}{G/R}</manacost>
 			<type>Legendary Pokémon - Fire Flying</type>
@@ -1797,7 +1797,7 @@ As long as you have no cards in hand, Moltres is obedient.</text>
 		</card>
 		<card>
 			<name>Dratini</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Dratini.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dratini.png" rarity="rare">PKTO</set>
 			<color>RGW</color>
 			<manacost>RGW</manacost>
 			<type>Pokémon - Dragon</type>
@@ -1810,7 +1810,7 @@ Whenever Dratini enters the battlefield or evolves, you gain 2 life.</text>
 		</card>
 		<card>
 			<name>Dragonair (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/DragonairDFC.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/DragonairDFC.png" rarity="rare">PKTO</set>
 			<color>RGW</color>
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
@@ -1821,7 +1821,7 @@ Whenever Dratini enters the battlefield or evolves, you gain 2 life.</text>
 		</card>
 		<card>
 			<name>Dragonair</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Dragonair.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dragonair.png" rarity="rare">PKTO</set>
 			<color>RGW</color>
 			<manacost>2RGW</manacost>
 			<type>Pokémon - Dragon</type>
@@ -1833,7 +1833,7 @@ Whenever you gain life, put a +1/+1 counter on Dragonair.</text>
 		</card>
 		<card>
 			<name>Dragonite</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Dragonite.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dragonite.png" rarity="mythic">PKTO</set>
 			<color>RGW</color>
 			<manacost>4RRGGWW</manacost>
 			<type>Pokémon - Dragon Flying</type>
@@ -1844,7 +1844,7 @@ Flying, vigilance, haste, hexproof from trainers</text>
 		</card>
 		<card>
 			<name>Mewtwo</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mewtwo.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mewtwo.png" rarity="mythic">PKTO</set>
 			<color>UBR</color>
 			<manacost>5UBR</manacost>
 			<type>Legendary Pokémon - Psychic</type>
@@ -1856,7 +1856,7 @@ When Mewtwo dies, return it to the battlfield transformed.</text>
 		</card>
 		<card>
 			<name>Mewtwo, Redeemed (DFC)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/MewtwoRedeemed.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/MewtwoRedeemed.png" rarity="mythic">PKTO</set>
 			<color>WUR</color>
 			<manacost />
 			<type>Legendary Pokémon - Psychic</type>
@@ -1867,7 +1867,7 @@ Each other Pokémon you control gets +2/+2 if it shares a color with a Pokémon 
 		</card>
 		<card>
 			<name>Mew</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mew.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mew.png" rarity="mythic">PKTO</set>
 			<color>GWU</color>
 			<manacost>GWU</manacost>
 			<type>Legendary Pokémon - Psychic</type>
@@ -1880,7 +1880,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		<!-- trainer cards -->
 		<card>
 			<name>Red</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Red.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Red.png" rarity="mythic">PKTO</set>
 			<color>RW</color>
 			<manacost>3R{R/W}W</manacost>
 			<tablerow>1</tablerow>
@@ -1893,7 +1893,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Blue</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Blue.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Blue.png" rarity="mythic">PKTO</set>
 			<color>UR</color>
 			<manacost>2UR</manacost>
 			<tablerow>1</tablerow>
@@ -1905,7 +1905,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Green</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Green.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Green.png" rarity="mythic">PKTO</set>
 			<color>GU</color>
 			<manacost>2GU</manacost>
 			<tablerow>1</tablerow>
@@ -1917,7 +1917,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Brock</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Brock.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Brock.png" rarity="mythic">PKTO</set>
 			<color>RG</color>
 			<manacost>1RG</manacost>
 			<tablerow>1</tablerow>
@@ -1930,7 +1930,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Misty</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Misty.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Misty.png" rarity="mythic">PKTO</set>
 			<color>U</color>
 			<manacost>2UU</manacost>
 			<tablerow>1</tablerow>
@@ -1942,7 +1942,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Lt. Surge</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Lt.%20Surge.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lt.%20Surge.png" rarity="mythic">PKTO</set>
 			<color>RW</color>
 			<manacost>2RW</manacost>
 			<tablerow>1</tablerow>
@@ -1954,7 +1954,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Erika</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Erika.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Erika.png" rarity="mythic">PKTO</set>
 			<color>G</color>
 			<manacost>2GG</manacost>
 			<tablerow>1</tablerow>
@@ -1967,7 +1967,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Koga</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Koga.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Koga.png" rarity="mythic">PKTO</set>
 			<color>B</color>
 			<manacost>1BB</manacost>
 			<tablerow>1</tablerow>
@@ -1980,7 +1980,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Sabrina</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Sabrina.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Sabrina.png" rarity="mythic">PKTO</set>
 			<color>UB</color>
 			<manacost>2{U/B}U</manacost>
 			<tablerow>1</tablerow>
@@ -1992,7 +1992,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Blaine</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Blaine.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Blaine.png" rarity="mythic">PKTO</set>
 			<color>R</color>
 			<manacost>2R</manacost>
 			<tablerow>1</tablerow>
@@ -2004,7 +2004,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Giovanni</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Giovanni.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Giovanni.png" rarity="mythic">PKTO</set>
 			<color>B</color>
 			<manacost>3BB</manacost>
 			<tablerow>1</tablerow>
@@ -2016,7 +2016,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Professor Oak</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Professor%20Oak.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Professor%20Oak.png" rarity="mythic">PKTO</set>
 			<color >W</color>
 			<manacost>3WW</manacost>
 			<tablerow>1</tablerow>
@@ -2029,7 +2029,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Lorelei</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Lorelei.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lorelei.png" rarity="mythic">PKTO</set>
 			<color>WU</color>
 			<manacost>1{W/U}{W/U}</manacost>
 			<tablerow>1</tablerow>
@@ -2041,7 +2041,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Bruno</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Bruno.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bruno.png" rarity="mythic">PKTO</set>
 			<color>RG</color>
 			<manacost>2{R/G}{R/G}</manacost>
 			<tablerow>1</tablerow>
@@ -2053,7 +2053,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Agatha</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Agatha.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Agatha.png" rarity="mythic">PKTO</set>
 			<color>BU</color>
 			<manacost>2{U/B}B</manacost>
 			<tablerow>1</tablerow>
@@ -2065,7 +2065,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Lance (PKTO)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Lance.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lance.png" rarity="mythic">PKTO</set>
 			<color>WRG</color>
 			<manacost>4WRG</manacost>
 			<tablerow>1</tablerow>
@@ -2078,7 +2078,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		<!-- sorceries/instants -->
 		<card>
 			<name>Bill</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Bill.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bill.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
@@ -2087,7 +2087,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Poké Ball</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pok%C3%A9%20Ball.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9%20Ball.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>R</manacost>
 			<type>Sorcery</type>
@@ -2096,7 +2096,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Great Ball</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Great%20Ball.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Great%20Ball.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>1U</manacost>
 			<type>Sorcery</type>
@@ -2105,7 +2105,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Safari Ball</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Safari%20Ball.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Safari%20Ball.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>2G</manacost>
 			<type>Sorcery</type>
@@ -2114,7 +2114,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Ultra Ball</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Ultra%20Ball.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ultra%20Ball.png" rarity="rare">PKTO</set>
 			<color>W</color>
 			<manacost>3W</manacost>
 			<type>Sorcery</type>
@@ -2123,7 +2123,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Master Ball</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Master%20Ball.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Master%20Ball.png" rarity="mythic">PKTO</set>
 			<color>B</color>
 			<manacost>4B</manacost>
 			<type>Sorcery</type>
@@ -2132,7 +2132,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Switch</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Switch.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Switch.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>G</manacost>
 			<type>Instant</type>
@@ -2141,7 +2141,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Poké Flute</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pok%C3%A9%20Flute.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9%20Flute.png" rarity="uncommon">PKTO</set>
 			<color>W</color>
 			<manacost>2W</manacost>
 			<type>Instant</type>
@@ -2150,7 +2150,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Old Rod</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Old%20Rod.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Old%20Rod.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>2U</manacost>
 			<type>Sorcery</type>
@@ -2159,7 +2159,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Revive (PKTO)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Revive.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Revive.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>2B</manacost>
 			<type>Sorcery - Medicine</type>
@@ -2168,7 +2168,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Max Revive</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Max%20Revive.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Max%20Revive.png" rarity="rare">PKTO</set>
 			<color>WB</color>
 			<manacost>3{W/B}{W/B}</manacost>
 			<type>Sorcery - Medicine</type>
@@ -2177,7 +2177,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Energy Search</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Energy%20Search.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Energy%20Search.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Sorcery</type>
@@ -2186,16 +2186,16 @@ When you cycle Mew, shuffle it into your library.</text>
 		</card>
 		<card>
 			<name>Mysterious Fossil</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mysterious%20Fossil.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mysterious%20Fossil.png" rarity="common">PKTO</set>
 			<color>URG</color>
 			<manacost>1U{R/G}</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Search your library for a Pokémon card with fossil and put it into your hand. Then shuffle.</text>
+			<text>Search your library for a Pokémon card with fossil and put it onto the battlefield. Then shuffle.</text>
 		</card>
 		<card>
 			<name>Explore</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Explore.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Explore.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Sorcery</type>
@@ -2205,7 +2205,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Revitalize</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Revitalize.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Revitalize.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>1W</manacost>
 			<type>Instant</type>
@@ -2215,7 +2215,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Show of Force</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Show%20of%20Force.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Show%20of%20Force.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>1R</manacost>
 			<type>Instant</type>
@@ -2225,7 +2225,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Investigate</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Investigate.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Investigate.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>1U</manacost>
 			<type>Instant</type>
@@ -2234,7 +2234,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Potion</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Potion.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Potion.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>1W</manacost>
 			<type>Instant - Medicine</type>
@@ -2243,7 +2243,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Lemonade</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Lemonade.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lemonade.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>1WW</manacost>
 			<type>Instant - Medicine</type>
@@ -2252,7 +2252,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Growth</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Growth.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Growth.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>2G</manacost>
 			<type>Sorcery</type>
@@ -2261,7 +2261,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>X Attack</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/X%20Attack.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/X%20Attack.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>RR</manacost>
 			<type>Instant - Medicine</type>
@@ -2270,7 +2270,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>X Defense</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/X%20Defense.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/X%20Defense.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<type>Instant - Medicine</type>
@@ -2279,7 +2279,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Guard Spec.</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Guard%20Spec.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Guard%20Spec.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>U</manacost>
 			<type>Instant - Medicine</type>
@@ -2288,7 +2288,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Antidote</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Antidote.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Antidote.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>W</manacost>
 			<type>Instant - Medicine</type>
@@ -2297,7 +2297,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Turn to Stone</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Turn%20to%20Stone.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Turn%20to%20Stone.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>1BB</manacost>
 			<type>Instant</type>
@@ -2306,7 +2306,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Itemfinder</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Itemfinder.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Itemfinder.png" rarity="common">PKTO</set>
 			<color />
 			<manacost>1</manacost>
 			<type>Sorcery</type>
@@ -2315,7 +2315,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Body Slam</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Body%20Slam.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Body%20Slam.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Instant</type>
@@ -2324,7 +2324,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Slash</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Slash.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Slash.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>R</manacost>
 			<type>Sorcery</type>
@@ -2333,7 +2333,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Whirlwind (PKTO)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Whirlwind.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Whirlwind.png" rarity="common">PKTO</set>
 			<color>WU</color>
 			<manacost>{W/U}</manacost>
 			<type>Instant</type>
@@ -2342,7 +2342,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Sing</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Sing.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Sing.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>2UU</manacost>
 			<type>Sorcery</type>
@@ -2351,7 +2351,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Swift</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Swift.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swift.png" rarity="rare">PKTO</set>
 			<color>WB</color>
 			<manacost>1WB</manacost>
 			<type>Instant</type>
@@ -2360,7 +2360,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Disable</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Disable.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Disable.png" rarity="common">PKTO</set>
 			<color>UB</color>
 			<manacost>1{U/B}</manacost>
 			<type>Instant</type>
@@ -2369,7 +2369,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Fire Spin</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Fire%20Spin.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Fire%20Spin.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>R</manacost>
 			<type>Instant</type>
@@ -2378,7 +2378,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Gust</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Gust.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Gust.png" rarity="common">PKTO</set>
 			<color>WG</color>
 			<manacost>{G/W}</manacost>
 			<type>Instant</type>
@@ -2387,7 +2387,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Slam</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Slam.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Slam.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>2W</manacost>
 			<type>Sorcery</type>
@@ -2396,7 +2396,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Poison Sting</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Poison%20Sting.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Poison%20Sting.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Instant</type>
@@ -2406,7 +2406,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Glare</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Glare.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Glare.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>1R</manacost>
 			<type>Instant</type>
@@ -2416,7 +2416,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Flash (PKTO)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Flash.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Flash.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>W</manacost>
 			<type>Instant</type>
@@ -2426,7 +2426,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Night Shade</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Night%20Shade.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Night%20Shade.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>1B</manacost>
 			<type>Instant</type>
@@ -2435,7 +2435,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Aurora Beam</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Aurora%20Beam.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Aurora%20Beam.png" rarity="rare">PKTO</set>
 			<color>W</color>
 			<manacost>W</manacost>
 			<type>Instant</type>
@@ -2444,7 +2444,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Tackle</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Tackle.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Tackle.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>3W</manacost>
 			<type>Instant</type>
@@ -2453,7 +2453,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Toxic</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Toxic.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Toxic.png" rarity="rare">PKTO</set>
 			<color>B</color>
 			<manacost>2BB</manacost>
 			<type>Sorcery</type>
@@ -2462,7 +2462,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Blizzard (PKTO)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Blizzard.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Blizzard.png" rarity="rare">PKTO</set>
 			<color>WU</color>
 			<manacost>1WWU</manacost>
 			<type>Sorcery</type>
@@ -2472,7 +2472,7 @@ Destroy all Pokémon.</text>
 		</card>
 		<card>
 			<name>Reflect</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Reflect.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Reflect.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>1U</manacost>
 			<type>Instant</type>
@@ -2481,7 +2481,7 @@ Destroy all Pokémon.</text>
 		</card>
 		<card>
 			<name>Fire Blast</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Fire%20Blast.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Fire%20Blast.png" rarity="rare">PKTO</set>
 			<color>R</color>
 			<manacost>2RR</manacost>
 			<type>Sorcery</type>
@@ -2493,7 +2493,7 @@ Overload {2}{R}{R}, Reveal a red Pokémon card from your hand.
 		</card>
 		<card>
 			<name>Solar Beam</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Solar%20Beam.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Solar%20Beam.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>2GG</manacost>
 			<type>Sorcery</type>
@@ -2505,7 +2505,7 @@ Overload {2}{G}{G}, Reveal a green Pokémon card from your hand.
 		</card>
 		<card>
 			<name>Hydro Pump</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Hydro%20Pump.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Hydro%20Pump.png" rarity="rare">PKTO</set>
 			<color>U</color>
 			<manacost>2UU</manacost>
 			<type>Sorcery</type>
@@ -2517,7 +2517,7 @@ Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
 		</card>
 		<card>
 			<name>Release</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Release.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Release.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>1U</manacost>
 			<type>Instant</type>
@@ -2526,7 +2526,7 @@ Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
 		</card>
 		<card>
 			<name>Vine Whip</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Vine%20Whip.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vine%20Whip.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Instant</type>
@@ -2535,7 +2535,7 @@ Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
 		</card>
 		<card>
 			<name>Guillotine</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Guillotine.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Guillotine.png" rarity="uncommon">PKTO</set>
 			<color>BG</color>
 			<manacost>1BG</manacost>
 			<type>Instant</type>
@@ -2545,7 +2545,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 		</card>
 		<card>
 			<name>Substitute</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Substitute.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Substitute.png" rarity="uncommon">PKTO</set>
 			<color>W</color>
 			<manacost>W</manacost>
 			<type>Instant</type>
@@ -2556,7 +2556,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 		</card>
 		<card>
 			<name>Pilfer</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pilfer.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pilfer.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>3BB</manacost>
 			<type>Instant</type>
@@ -2566,7 +2566,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 		</card>
 		<card>
 			<name>Mirror Move</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mirror%20Move.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mirror%20Move.png" rarity="uncommon">PKTO</set>
 			<color>R</color>
 			<manacost>1R</manacost>
 			<type>Instant</type>
@@ -2575,7 +2575,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 		</card>
 		<card>
 			<name>Double-Edge</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Double-Edge.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Double-Edge.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>3G</manacost>
 			<type>Sorcery</type>
@@ -2584,7 +2584,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 		</card>
 		<card>
 			<name>Prepare for Trouble</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Prepare%20for%20Trouble.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Prepare%20for%20Trouble.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>BB</manacost>
 			<type>Sorcery</type>
@@ -2593,7 +2593,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 		</card>
 		<card>
 			<name>Razor Leaf</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Razor%20Leaf.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Razor%20Leaf.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Sorcery</type>
@@ -2602,7 +2602,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 		</card>
 		<card>
 			<name>Water Gun</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Water%20Gun.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Water%20Gun.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>XU</manacost>
 			<type>Instant</type>
@@ -2611,7 +2611,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 		</card>
 		<card>
 			<name>Petal Dance</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Petal%20Dance.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Petal%20Dance.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>5GG</manacost>
 			<type>Sorcery</type>
@@ -2620,7 +2620,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 		</card>
 		<card>
 			<name>Dig</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Dig.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dig.png" rarity="uncommon">PKTO</set>
 			<color>R</color>
 			<manacost>3R</manacost>
 			<type>Sorcery</type>
@@ -2631,7 +2631,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 		<!-- evolution stones -->
 		<card>
 			<name>Thunder Stone</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Thunder%20Stone.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Thunder%20Stone.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
 			<type>Artifact - Stone</type>
@@ -2642,7 +2642,7 @@ Sacrifice Thunder Stone: Destroy target artifact or enchantment.</text>
 		</card>
 		<card>
 			<name>Leaf Stone</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Leaf%20Stone.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Leaf%20Stone.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
 			<type>Artifact - Stone</type>
@@ -2653,7 +2653,7 @@ Sacrifice Leaf Stone: Add {G}{G}.</text>
 		</card>
 		<card>
 			<name>Water Stone</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Water%20Stone.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Water%20Stone.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
 			<type>Artifact - Stone</type>
@@ -2664,7 +2664,7 @@ Sacrifice Water Stone: Scry 3.</text>
 		</card>
 		<card>
 			<name>Fire Stone</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Fire%20Stone.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Fire%20Stone.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
 			<type>Artifact - Stone</type>
@@ -2675,7 +2675,7 @@ Sacrifice Fire Stone: Fire Stone deals 2 damage to target Pokémon or trainer.</
 		</card>
 		<card>
 			<name>Moon Stone</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Moon%20Stone.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Moon%20Stone.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
 			<type>Artifact - Stone</type>
@@ -2688,7 +2688,7 @@ Sacrifice Moon Stone: Create a Treasure token.</text>
 		<!-- misc artifacts -->
 		<card>
 			<name>Ancient Slab</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Ancient%20Slab.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ancient%20Slab.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>2</manacost>
 			<type>Artifact</type>
@@ -2697,7 +2697,7 @@ Sacrifice Moon Stone: Create a Treasure token.</text>
 		</card>
 		<card>
 			<name>Pokémon Storage System</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pok%C3%A9mon%20Storage%20System.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9mon%20Storage%20System.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>4</manacost>
 			<type>Artifact</type>
@@ -2707,7 +2707,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 		</card>
 		<card>
 			<name>Town Map</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Town%20Map.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Town%20Map.png" rarity="common">PKTO</set>
 			<color />
 			<manacost>1</manacost>
 			<type>Artifact</type>
@@ -2716,7 +2716,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 		</card>
 		<card>
 			<name>Super Repel</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Super%20Repel.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Super%20Repel.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
 			<type>Artifact</type>
@@ -2725,7 +2725,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 		</card>
 		<card>
 			<name>Nugget</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Nugget.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Nugget.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>1</manacost>
 			<type>Artifact</type>
@@ -2735,7 +2735,7 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
 		</card>
 		<card>
 			<name>Mysterious Feather</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mysterious%20Feather.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mysterious%20Feather.png" rarity="mythic">PKTO</set>
 			<color />
 			<manacost>0</manacost>
 			<type>Artifact</type>
@@ -2745,7 +2745,7 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
 		<!-- attack enchantments -->
 		<card>
 			<name>Rage</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Rage.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rage.png" rarity="uncommon">PKTO</set>
 			<color>R</color>
 			<manacost>RR</manacost>
 			<type>Enchantment - TM</type>
@@ -2755,7 +2755,7 @@ Whenever enchanted Pokémon attacks, it deals 3 damage to up to one target Poké
 		</card>
 		<card>
 			<name>Ice Beam</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Ice%20Beam.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ice%20Beam.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>UU</manacost>
 			<type>Enchantment - TM</type>
@@ -2765,7 +2765,7 @@ Whenever enchanted Pokémon deals combat damage to a Pokémon, tap that Pokémon
 		</card>
 		<card>
 			<name>Hyper Beam</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Hyper%20Beam.png" rarity="mythic">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Hyper%20Beam.png" rarity="mythic">PKTO</set>
 			<color />
 			<manacost>5</manacost>
 			<type>Enchantment - TM</type>
@@ -2775,7 +2775,7 @@ Enchanted Pokémon has "{T}: Destroy target nonland permanent. This Pokémon doe
 		</card>
 		<card>
 			<name>Swords Dance</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Swords%20Dance.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swords%20Dance.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>GG</manacost>
 			<type>Enchantment - TM</type>
@@ -2785,7 +2785,7 @@ Enchanted Pokémon has "{T}: Put a +1/+1 counter on this Pokémon. Then if it ha
 		</card>
 		<card>
 			<name>Mega Kick</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mega%20Kick.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mega%20Kick.png" rarity="uncommon">PKTO</set>
 			<color>W</color>
 			<manacost>WW</manacost>
 			<type>Enchantment - TM</type>
@@ -2796,7 +2796,7 @@ Enchanted Pokémon gets +1/+1 and first strike.</text>
 		</card>
 		<card>
 			<name>Dream Eater (PKTO)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Dream%20Eater.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dream%20Eater.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>BB</manacost>
 			<type>Enchantment - TM</type>
@@ -2806,7 +2806,7 @@ Whenever enchanted Pokémon deals combat damage to a player, that player discard
 		</card>
 		<card>
 			<name>Freeze</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Freeze.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Freeze.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>1UU</manacost>
 			<type>Enchantment</type>
@@ -2818,7 +2818,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 		<!-- Locations -->
 		<card>
 			<name>Pewter Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pewter%20Gym.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pewter%20Gym.png" rarity="rare">PKTO</set>
 			<color>RG</color>
 			<manacost>RG</manacost>
 			<type>Enchantment - Gym</type>
@@ -2827,7 +2827,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 		</card>
 		<card>
 			<name>Cerulean Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Cerulean%20Gym.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20Gym.png" rarity="rare">PKTO</set>
 			<color>WU</color>
 			<manacost>WU</manacost>
 			<type>Enchantment - Gym</type>
@@ -2836,7 +2836,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 		</card>
 		<card>
 			<name>Vermillion Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Vermillion%20Gym.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vermillion%20Gym.png" rarity="rare">PKTO</set>
 			<color>RW</color>
 			<manacost>1RW</manacost>
 			<type>Enchantment - Gym</type>
@@ -2846,7 +2846,7 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 		</card>
 		<card>
 			<name>Celadon Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Celadon%20Gym.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Celadon%20Gym.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>1GG</manacost>
 			<type>Enchantment - Gym</type>
@@ -2856,7 +2856,7 @@ Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 		</card>
 		<card>
 			<name>Saffron Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Saffron%20Gym.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Saffron%20Gym.png" rarity="rare">PKTO</set>
 			<color>UB</color>
 			<manacost>UB</manacost>
 			<type>Enchantment - Gym</type>
@@ -2865,7 +2865,7 @@ Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 		</card>
 		<card>
 			<name>Fuchsia Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Fuchsia%20Gym.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Fuchsia%20Gym.png" rarity="rare">PKTO</set>
 			<color>GB</color>
 			<manacost>3GB</manacost>
 			<type>Enchantment - Gym</type>
@@ -2874,7 +2874,7 @@ Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 		</card>
 		<card>
 			<name>Cinnabar Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Cinnabar%20Gym.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Gym.png" rarity="rare">PKTO</set>
 			<color>R</color>
 			<manacost>1R</manacost>
 			<type>Enchantment - Gym</type>
@@ -2883,7 +2883,7 @@ Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 		</card>
 		<card>
 			<name>Viridian Gym</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Viridian%20Gym.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Viridian%20Gym.png" rarity="rare">PKTO</set>
 			<color>B</color>
 			<manacost>1BB</manacost>
 			<type>Enchantment - Gym</type>
@@ -2894,7 +2894,7 @@ Whenever an opponent sacrifices a permanent, that player loses 2 life unless the
 		<!-- lands -->
 		<card>
 			<name>Bill's Grassland</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Bills%20Grassland.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bills%20Grassland.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -2905,7 +2905,7 @@ Whenever an opponent sacrifices a permanent, that player loses 2 life unless the
 		</card>
 		<card>
 			<name>Bill's Volcano</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Bills%20Volcano.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bills%20Volcano.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -2916,7 +2916,7 @@ Whenever an opponent sacrifices a permanent, that player loses 2 life unless the
 		</card>
 		<card>
 			<name>Bill's Rainforest</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Bills%20Rainforest.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bills%20Rainforest.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -2927,7 +2927,7 @@ Whenever an opponent sacrifices a permanent, that player loses 2 life unless the
 		</card>
 		<card>
 			<name>Bill's Marsh</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Bills%20Marsh.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bills%20Marsh.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -2938,7 +2938,7 @@ Whenever an opponent sacrifices a permanent, that player loses 2 life unless the
 		</card>
 		<card>
 			<name>Bill's Coastline</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Bills%20Coastline.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bills%20Coastline.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -2949,7 +2949,7 @@ Whenever an opponent sacrifices a permanent, that player loses 2 life unless the
 		</card>
 		<card>
 			<name>Celadon City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Celadon%20City.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Celadon%20City.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -2959,7 +2959,7 @@ Whenever an opponent sacrifices a permanent, that player loses 2 life unless the
 		</card>
 		<card>
 			<name>Cerulean Cave</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Cerulean%20Cave.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20Cave.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -2970,7 +2970,7 @@ Whenever an opponent sacrifices a permanent, that player loses 2 life unless the
 		</card>
 		<card>
 			<name>Cerulean City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Cerulean%20City.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20City.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -2981,7 +2981,7 @@ Whenever an opponent sacrifices a permanent, that player loses 2 life unless the
 		</card>
 		<card>
 			<name>Cinnabar Island</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Cinnabar%20Island.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Island.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -2991,7 +2991,7 @@ Whenever an opponent sacrifices a permanent, that player loses 2 life unless the
 		</card>
 		<card>
 			<name>Cinnabar Lab</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Cinnabar%20Lab.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Lab.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3001,7 +3001,7 @@ Whenever an opponent sacrifices a permanent, that player loses 2 life unless the
 		</card>
 		<card>
 			<name>Cycling Road</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Cycling%20Road.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cycling%20Road.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3013,7 +3013,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Diglett's Cave</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Digletts%20Cave.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Digletts%20Cave.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3023,7 +3023,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Fuchsia City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Fuchsia%20City.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Fuchsia%20City.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3034,7 +3034,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Game Corner</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Game%20Corner.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Game%20Corner.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3044,7 +3044,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Indigo Plateau</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Indigo%20Plateau.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Indigo%20Plateau.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3056,7 +3056,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Lavender Town</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Lavender%20Town.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lavender%20Town.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3068,7 +3068,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Mt. Moon</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mt.%20Moon.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mt.%20Moon.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3078,7 +3078,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Pallet Town</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pallet%20Town.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pallet%20Town.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3089,7 +3089,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Pewter City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pewter%20City.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pewter%20City.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3100,7 +3100,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Pewter Museum</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pewter%20Museum.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pewter%20Museum.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3110,7 +3110,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Pokémon Mansion</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Pok%C3%A9mon%20Mansion.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9mon%20Mansion.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3120,7 +3120,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Power Plant</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Power%20Plant.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Power%20Plant.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3131,7 +3131,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Rock Tunnel</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Rock%20Tunnel.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rock%20Tunnel.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3143,7 +3143,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Safari Zone</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Safari%20Zone.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Safari%20Zone.png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3152,7 +3152,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Saffron City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Saffron%20City.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Saffron%20City.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3162,7 +3162,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>S.S. Anne</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/S.S.%20Anne.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/S.S.%20Anne.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3172,7 +3172,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Silph Co.</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Silph%20Co.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Silph%20Co.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3184,7 +3184,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Vermillion City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Vermillion%20City.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vermillion%20City.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3194,7 +3194,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Seafoam Islands</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Seafoam%20Islands.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Seafoam%20Islands.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3204,7 +3204,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Viridian City</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Viridian%20City.png" rarity="rare">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Viridian%20City.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3214,7 +3214,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Viridian Forest</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Viridian%20Forest.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Viridian%20Forest.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3225,7 +3225,7 @@ Cycling {2}</text>
 		<!-- Basics -->
 		<card>
 			<name>Plains</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Plains.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Plains.png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3234,7 +3234,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Plains (a)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Plains(a).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Plains(a).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3243,7 +3243,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Plains (b)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Plains(b).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Plains(b).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3252,7 +3252,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Plains (c)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Plains(c).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Plains(c).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3261,7 +3261,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Island</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Island.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Island.png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3270,7 +3270,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Island (a)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Island(a).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Island(a).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3279,7 +3279,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Island (b)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Island(b).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Island(b).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3288,7 +3288,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Island (c)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Island(c).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Island(c).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3297,7 +3297,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Swamp</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Swamp.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swamp.png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3306,7 +3306,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Swamp (a)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Swamp(a).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swamp(a).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3315,7 +3315,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Swamp (b)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Swamp(b).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swamp(b).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3324,7 +3324,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Mountain</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mountain.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mountain.png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3333,7 +3333,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Mountain (a)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mountain(a).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mountain(a).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3342,7 +3342,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Mountain (b)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mountain(b).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mountain(b).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3351,7 +3351,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Mountain (c)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Mountain(c).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mountain(c).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3360,7 +3360,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Forest</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Forest.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Forest.png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3369,7 +3369,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Forest (a)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Forest(a).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Forest(a).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3378,7 +3378,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Forest (b)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Forest(b).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Forest(b).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3387,7 +3387,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Forest (c)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Forest(c).png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Forest(c).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3397,7 +3397,7 @@ Cycling {2}</text>
 		<!-- Tokens -->
 		<card>
 			<name>Beedrill Token</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/BeedrillToken.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/BeedrillToken.png" rarity="token">PKTO</set>
 			<color>B</color>
 			<manacost />
 			<type>Token Pokémon - Bug Poison</type>
@@ -3407,7 +3407,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Diglett Token</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/DiglettToken.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/DiglettToken.png" rarity="token">PKTO</set>
 			<color>R</color>
 			<manacost />
 			<type>Token Pokémon - Ground</type>
@@ -3417,7 +3417,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Oddish Token</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/OddishToken.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/OddishToken.png" rarity="token">PKTO</set>
 			<color>G</color>
 			<manacost />
 			<type>Token Pokémon - Grass Poison</type>
@@ -3427,7 +3427,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Grimer Token</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/GrimerToken.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/GrimerToken.png" rarity="token">PKTO</set>
 			<color>B</color>
 			<manacost />
 			<type>Token Pokémon - Poison</type>
@@ -3437,7 +3437,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Clone Token</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/CloneToken.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/CloneToken.png" rarity="token">PKTO</set>
 			<color />
 			<manacost />
 			<type>Token Pokémon - Clone</type>
@@ -3447,7 +3447,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Red's Pikachu</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Reds%20Pikachu.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Reds%20Pikachu.png" rarity="token">PKTO</set>
 			<color>RW</color>
 			<manacost />
 			<type>Token Legendary Pokémon - Electric</type>
@@ -3457,7 +3457,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Treasure Token</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/Treasure.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Treasure.png" rarity="token">PKTO</set>
 			<color />
 			<manacost />
 			<type>Token Artifact - Treasure</type>
@@ -3466,7 +3466,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Brock (Emblem)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/BrockEmblem.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/BrockEmblem.png" rarity="token">PKTO</set>
 			<color />
 			<manacost />
 			<type>Emblem - Brock</type>
@@ -3475,7 +3475,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Koga (Emblem)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/KogaEmblem.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/KogaEmblem.png" rarity="token">PKTO</set>
 			<color />
 			<manacost />
 			<type>Emblem - Koga</type>
@@ -3484,7 +3484,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Professor Oak (Emblem)</name>
-			<set picURL="https://raw.githubusercontent.com/brooks42/pkto/main/cards/OakEmblem.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/OakEmblem.png" rarity="token">PKTO</set>
 			<color />
 			<manacost />
 			<type>Emblem - Oak</type>
