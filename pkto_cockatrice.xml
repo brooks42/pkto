@@ -1440,7 +1440,8 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
 			<type>Pokémon - Normal</type>
 			<pt>1/12</pt>
 			<tablerow>2</tablerow>
-			<text>At the beginning of your upkeep, if you have 40 or more life, you win the game.</text>
+			<text>Lifelink
+At the beginning of your upkeep, you gain 1 life. Then if you have 40 or more life, you win the game.</text>
 		</card>
 		<card>
 			<name>Tangela</name>
@@ -2848,11 +2849,10 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 			<name>Celadon Gym</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Celadon%20Gym.png" rarity="rare">PKTO</set>
 			<color>G</color>
-			<manacost>1GG</manacost>
+			<manacost>1G</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Whenever a Pokémon you control attacks, put a bloom counter on Celadon Gym.
-Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
+			<text>Pokémon you control have reach and {T}: Add one mana of any color."</text>
 		</card>
 		<card>
 			<name>Saffron Gym</name>
@@ -2885,7 +2885,7 @@ Remove a bloom counter from Celadon Gym: Add one mana of any color.</text>
 			<name>Viridian Gym</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Viridian%20Gym.png" rarity="rare">PKTO</set>
 			<color>B</color>
-			<manacost>1BB</manacost>
+			<manacost>1B</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon you control have deathtouch.
