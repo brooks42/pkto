@@ -2852,7 +2852,7 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 			<manacost>1G</manacost>
 			<type>Enchantment - Gym</type>
 			<tablerow>1</tablerow>
-			<text>Pokémon you control have reach and {T}: Add one mana of any color."</text>
+			<text>Pokémon you control have reach and "{T}: Add one mana of any color."</text>
 		</card>
 		<card>
 			<name>Saffron Gym</name>
