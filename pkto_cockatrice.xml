@@ -2163,7 +2163,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Revive.png" rarity="common">PKTO</set>
 			<color>B</color>
 			<manacost>2B</manacost>
-			<type>Sorcery - Medicine</type>
+			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>Return target Pokémon card with mana value 5 or less from your graveyard to the battlefield tapped.</text>
 		</card>
@@ -2172,7 +2172,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Max%20Revive.png" rarity="rare">PKTO</set>
 			<color>WB</color>
 			<manacost>3{W/B}{W/B}</manacost>
-			<type>Sorcery - Medicine</type>
+			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>Return target Pokémon card from your graveyard to the battlefield.</text>
 		</card>
@@ -2238,7 +2238,7 @@ Draw a card.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Potion.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>1W</manacost>
-			<type>Instant - Medicine</type>
+			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Remove target Pokémon you control from combat. It gains indestructible until end of turn.</text>
 		</card>
@@ -2247,7 +2247,7 @@ Draw a card.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Lemonade.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>1WW</manacost>
-			<type>Instant - Medicine</type>
+			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Put a +1/+1 counter on target Pokémon. It gains indestructible until end of turn.</text>
 		</card>
@@ -2265,7 +2265,7 @@ Draw a card.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/X%20Attack.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>RR</manacost>
-			<type>Instant - Medicine</type>
+			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Target Pokémon gets +3/+0 and gains haste until end of turn.</text>
 		</card>
@@ -2274,7 +2274,7 @@ Draw a card.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/X%20Defense.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>U</manacost>
-			<type>Instant - Medicine</type>
+			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Target Pokémon gets +0/+4 until end of turn. Untap it. At this turn's next end of combat, tap each Pokémon that was blocked by that Pokémon this turn and they don't untap during their controller's next untap step.</text>
 		</card>
@@ -2283,7 +2283,7 @@ Draw a card.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Guard%20Spec.png" rarity="common">PKTO</set>
 			<color>U</color>
 			<manacost>U</manacost>
-			<type>Instant - Medicine</type>
+			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Put a +1/+1 counter on target Pokémon you control. It gains hexproof until end of turn.</text>
 		</card>
@@ -2292,7 +2292,7 @@ Draw a card.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Antidote.png" rarity="common">PKTO</set>
 			<color>W</color>
 			<manacost>W</manacost>
-			<type>Instant - Medicine</type>
+			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Remove all counters from target Pokémon or player. You gain life equal to the number of counters removed this way.</text>
 		</card>
@@ -2635,7 +2635,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 			<set picURL="https://brooks42.github.io/pkto/cards/Thunder%20Stone.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
-			<type>Artifact - Stone</type>
+			<type>Artifact</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {W}.
 Whenever a Pokémon you control evolves, you gain 1 life.
@@ -2646,7 +2646,7 @@ Sacrifice Thunder Stone: Destroy target artifact or enchantment.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Leaf%20Stone.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
-			<type>Artifact - Stone</type>
+			<type>Artifact</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {G}.
 Whenever a Pokémon you control evolves, untap target land.
@@ -2657,7 +2657,7 @@ Sacrifice Leaf Stone: Add {G}{G}.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Water%20Stone.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
-			<type>Artifact - Stone</type>
+			<type>Artifact</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {U}.
 Whenever a Pokémon you control evolves, target Pokémon gets -2/-0 until your next turn.
@@ -2668,7 +2668,7 @@ Sacrifice Water Stone: Scry 3.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Fire%20Stone.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
-			<type>Artifact - Stone</type>
+			<type>Artifact</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {R}.
 Whenever a Pokémon you control evolves, Fire Stone deals 1 damage to target player.
@@ -2679,7 +2679,7 @@ Sacrifice Fire Stone: Fire Stone deals 2 damage to target Pokémon or trainer.</
 			<set picURL="https://brooks42.github.io/pkto/cards/Moon%20Stone.png" rarity="uncommon">PKTO</set>
 			<color />
 			<manacost>3</manacost>
-			<type>Artifact - Stone</type>
+			<type>Artifact</type>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {B}.
 Whenver a Pokémon you control evolves, reveal the top card of your library. You may put that card into your graveyard.
@@ -2749,7 +2749,7 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Rage.png" rarity="uncommon">PKTO</set>
 			<color>R</color>
 			<manacost>RR</manacost>
-			<type>Enchantment - TM</type>
+			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Whenever enchanted Pokémon attacks, it deals 3 damage to up to one target Pokémon.</text>
@@ -2759,7 +2759,7 @@ Whenever enchanted Pokémon attacks, it deals 3 damage to up to one target Poké
 			<set picURL="https://brooks42.github.io/pkto/cards/Ice%20Beam.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>UU</manacost>
-			<type>Enchantment - TM</type>
+			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Whenever enchanted Pokémon deals combat damage to a Pokémon, tap that Pokémon and it doesn't untap during its controller's next untap step.</text>
@@ -2769,7 +2769,7 @@ Whenever enchanted Pokémon deals combat damage to a Pokémon, tap that Pokémon
 			<set picURL="https://brooks42.github.io/pkto/cards/Hyper%20Beam.png" rarity="mythic">PKTO</set>
 			<color />
 			<manacost>5</manacost>
-			<type>Enchantment - TM</type>
+			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon without an Evolve ability
 Enchanted Pokémon has "{T}: Destroy target nonland permanent. This Pokémon doesn't untap during its controller's next untap step."</text>
@@ -2779,7 +2779,7 @@ Enchanted Pokémon has "{T}: Destroy target nonland permanent. This Pokémon doe
 			<set picURL="https://brooks42.github.io/pkto/cards/Swords%20Dance.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
 			<manacost>GG</manacost>
-			<type>Enchantment - TM</type>
+			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Enchanted Pokémon has "{T}: Put a +1/+1 counter on this Pokémon. Then if it has three or more +1/+1 counters on it, sacrifice Swords Dance.”</text>
@@ -2789,7 +2789,7 @@ Enchanted Pokémon has "{T}: Put a +1/+1 counter on this Pokémon. Then if it ha
 			<set picURL="https://brooks42.github.io/pkto/cards/Mega%20Kick.png" rarity="uncommon">PKTO</set>
 			<color>W</color>
 			<manacost>WW</manacost>
-			<type>Enchantment - TM</type>
+			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Flash
@@ -2800,20 +2800,20 @@ Enchanted Pokémon gets +1/+1 and first strike.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Dream%20Eater.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
 			<manacost>BB</manacost>
-			<type>Enchantment - TM</type>
+			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Whenever enchanted Pokémon deals combat damage to a player, that player discards a card.</text>
 		</card>
 		<card>
-			<name>Freeze</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Freeze.png" rarity="uncommon">PKTO</set>
+			<name>Frozen</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Frozen.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>1UU</manacost>
-			<type>Enchantment</type>
+			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
-			<text>Enchant Pokémon
-When Freeze enters the battlefield, tap enchanted Pokémon.
+			<text>Enchant Pokémon you don't control
+When Frozen enters the battlefield, tap enchanted Pokémon.
 Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 		</card>
 		<!-- Locations -->
@@ -2822,7 +2822,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Pewter%20Gym.png" rarity="rare">PKTO</set>
 			<color>RG</color>
 			<manacost>RG</manacost>
-			<type>Enchantment - Gym</type>
+			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon you control enter the battlefield with an additional +1/+1 counter on them.</text>
 		</card>
@@ -2831,7 +2831,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20Gym.png" rarity="rare">PKTO</set>
 			<color>WU</color>
 			<manacost>WU</manacost>
-			<type>Enchantment - Gym</type>
+			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card. If a spell is not countered this way, you gain 1 life.</text>
 		</card>
@@ -2840,7 +2840,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/Vermillion%20Gym.png" rarity="rare">PKTO</set>
 			<color>RW</color>
 			<manacost>1RW</manacost>
-			<type>Enchantment - Gym</type>
+			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Whenever a Pokémon you control attacks, put a charge counter on Vermillion Gym.
 Remove three charge counters from Vermillion Gym: Put a first strike, vigilance, or haste counter on target Pokémon.</text>
@@ -2850,7 +2850,7 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 			<set picURL="https://brooks42.github.io/pkto/cards/Celadon%20Gym.png" rarity="rare">PKTO</set>
 			<color>G</color>
 			<manacost>1G</manacost>
-			<type>Enchantment - Gym</type>
+			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon you control have reach and "{T}: Add one mana of any color."</text>
 		</card>
@@ -2859,7 +2859,7 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 			<set picURL="https://brooks42.github.io/pkto/cards/Saffron%20Gym.png" rarity="rare">PKTO</set>
 			<color>UB</color>
 			<manacost>UB</manacost>
-			<type>Enchantment - Gym</type>
+			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Whenever you scry for the first time each turn, look at the top card of target opponent's library. You may put that card on the bottom of that library. If you do, you lose 1 life. Otherwise, scry 1.</text>
 		</card>
@@ -2868,7 +2868,7 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 			<set picURL="https://brooks42.github.io/pkto/cards/Fuchsia%20Gym.png" rarity="rare">PKTO</set>
 			<color>GB</color>
 			<manacost>3GB</manacost>
-			<type>Enchantment - Gym</type>
+			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>If one or more -1/-1 counters would be put on a creature you don’t control, that many plus one -1/-1 counters are put on it instead.</text>
 		</card>
@@ -2877,7 +2877,7 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 			<set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Gym.png" rarity="rare">PKTO</set>
 			<color>R</color>
 			<manacost>1R</manacost>
-			<type>Enchantment - Gym</type>
+			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Whenever you attack with one or more Pokémon, choose odd or even. Then exile the top card of your library. If it has mana value of the chosen quality, you may cast it for as long as it remains exiled.</text>
 		</card>
@@ -2886,7 +2886,7 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 			<set picURL="https://brooks42.github.io/pkto/cards/Viridian%20Gym.png" rarity="rare">PKTO</set>
 			<color>B</color>
 			<manacost>1B</manacost>
-			<type>Enchantment - Gym</type>
+			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon you control have deathtouch.
 Whenever an opponent sacrifices a permanent, that player loses 2 life unless they discard a card.</text>
@@ -3447,7 +3447,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Red's Pikachu</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Reds%20Pikachu.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Reds%20PikachuToken.png" rarity="token">PKTO</set>
 			<color>RW</color>
 			<manacost />
 			<type>Token Legendary Pokémon - Electric</type>
@@ -3457,7 +3457,7 @@ Cycling {2}</text>
 		</card>
 		<card>
 			<name>Treasure Token</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Treasure.png" rarity="token">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/TreasureToken.png" rarity="token">PKTO</set>
 			<color />
 			<manacost />
 			<type>Token Artifact - Treasure</type>
