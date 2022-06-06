@@ -12,10 +12,6 @@ Pokémon is a replacement for the creature type. Pokémon behave like creatures 
 
 Trainer is a replacement for the planeswalker type. Trainers behave like planeswalkers in all respects.
 
-### TM
-
-TM is a replacement for the aura subtype. TMs behave like auras in all respects.
-
 ### Fossil
 
 Fossil is a replacement for the escape mechanic. Fossil behaves like escape in all respects.
