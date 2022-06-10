@@ -3260,6 +3260,15 @@ Cycling {2}</text>
 			<text>{T}: Add {W}.</text>
 		</card>
 		<card>
+			<name>Plains (d)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Plains(d).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.</text>
+		</card>
+		<card>
 			<name>Island</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Island.png" rarity="common">PKTO</set>
 			<color />
@@ -3296,6 +3305,15 @@ Cycling {2}</text>
 			<text>{T}: Add {U}.</text>
 		</card>
 		<card>
+			<name>Island (d)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Island(d).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.</text>
+		</card>
+		<card>
 			<name>Swamp</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Swamp.png" rarity="common">PKTO</set>
 			<color />
@@ -3316,6 +3334,24 @@ Cycling {2}</text>
 		<card>
 			<name>Swamp (b)</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Swamp(b).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.</text>
+		</card>
+		<card>
+			<name>Swamp (c)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swamp(c).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.</text>
+		</card>
+		<card>
+			<name>Swamp (d)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swamp(d).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
@@ -3359,6 +3395,15 @@ Cycling {2}</text>
 			<text>{T}: Add {R}.</text>
 		</card>
 		<card>
+			<name>Mountain (d)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mountain(d).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.</text>
+		</card>
+		<card>
 			<name>Forest</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Forest.png" rarity="common">PKTO</set>
 			<color />
@@ -3388,6 +3433,15 @@ Cycling {2}</text>
 		<card>
 			<name>Forest (c)</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Forest(c).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.</text>
+		</card>
+		<card>
+			<name>Forest (d)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Forest(d).png" rarity="common">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
