@@ -51,18 +51,13 @@ def main():
                         if '(DFC)' in card_name:
                             continue
 
-                        basic_lands = ["forest", "mountain",
-                                       "island", "swamp", "plains"]
-                        if card_name.lower() in basic_lands:
-                            continue
+                        basicland = False
+                        for type_tag in cockatrice_card:
+                            if type_tag.name == 'type':
+                                if 'Basic Land' in type_tag.string:
+                                    basicland = True
 
-                        # also catch forest(a) etc
-                        basic_lands_a = [sub + " (a)" for sub in basic_lands]
-                        if card_name.lower() in basic_lands_a:
-                            continue
-
-                        basic_lands_b = [sub + " (b)" for sub in basic_lands]
-                        if card_name.lower() in basic_lands_b:
+                        if basicland:
                             continue
 
                         # append (PKTO) to the card name to work with dr4ft
