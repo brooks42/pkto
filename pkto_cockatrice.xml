@@ -2281,8 +2281,8 @@ Draw a card.</text>
 		<card>
 			<name>Guard Spec.</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Guard%20Spec.png" rarity="common">PKTO</set>
-			<color>U</color>
-			<manacost>U</manacost>
+			<color>G</color>
+			<manacost>G</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Put a +1/+1 counter on target Pokémon you control. It gains hexproof until end of turn.</text>
