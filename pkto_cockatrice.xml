@@ -1854,6 +1854,8 @@ Flying, vigilance, haste, hexproof from trainers</text>
 			<text>When Mewtwo enters the battlefield, create a token copy of each Pokémon you don't control, except they are 2/2 with no mana cost.
 When Mewtwo dies, return it to the battlfield transformed.</text>
 			<related count="x">Clone Token</related>
+			<related count="x">Clone Token(a)</related>
+			<related count="x">Clone Token(b)</related>
 		</card>
 		<card>
 			<name>Mewtwo, Redeemed (DFC)</name>
@@ -3517,6 +3519,26 @@ Cycling {2}</text>
 		<card>
 			<name>Clone Token</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/CloneToken.png" rarity="token">PKTO</set>
+			<color />
+			<manacost />
+			<type>Token Pokémon - Clone</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text />
+		</card>
+		<card>
+			<name>Clone Token(a)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/CloneToken(a).png" rarity="token">PKTO</set>
+			<color />
+			<manacost />
+			<type>Token Pokémon - Clone</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text />
+		</card>
+		<card>
+			<name>Clone Token(b)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/CloneToken(b).png" rarity="token">PKTO</set>
 			<color />
 			<manacost />
 			<type>Token Pokémon - Clone</type>
