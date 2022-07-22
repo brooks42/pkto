@@ -63,3 +63,7 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: What if Ditto copies a Pokémon with an Evolve ability? Will it flip to the other side?**
 
 **A**: No, the reverse face of a DFC is not a copiable characteristic. This will not trigger abilities that care about evolution either.
+
+**Q: Solar Beam says "Destroy target artifact, target enchantment, target trainer, or target token." If I overload it, do I destroy each artifact, enchantment, trainer, and token?**
+
+**A**: No, overload replaces each instance of "target" with "each." This means you choose between destroying each artifact, each enchantment, each trainer, or each token.
