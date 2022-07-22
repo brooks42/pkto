@@ -66,4 +66,4 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **Q: Solar Beam says "Destroy target artifact, target enchantment, target trainer, or target token." If I overload it, do I destroy each artifact, enchantment, trainer, and token?**
 
-**A**: No, overload replaces each instance of "target" with "each." This means you choose between destroying each artifact, each enchantment, each trainer, or each token.
+**A**: No, overload replaces all instances of "target" with "each." This means you choose between destroying each artifact, each enchantment, each trainer, or each token.
