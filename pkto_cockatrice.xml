@@ -41,7 +41,7 @@
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Bulbasaur {1}{G}
-Whenever Pokémon enters the battlefield under your control, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
+Whenever a Pokémon enters the battlefield under your control, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Venusaur</name>
@@ -727,7 +727,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<text>If you see Psyduck while scrying, you may cast it.</text>
 		</card>
 		<card>
-			<name>	</name>
+			<name>Golduck</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Golduck.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>2UU</manacost>
