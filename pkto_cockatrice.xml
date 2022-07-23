@@ -51,7 +51,7 @@ Whenever a Pokémon enters the battlefield under your control, if Ivysaur is tap
 			<type>Pokémon - Grass Poison</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Ivysaur {G}{G}
+			<text>Evolve From Ivysaur {1}{G}{G}
 If one or more counters would be put on a Pokémon you control, you may put that many plus one of each of those kinds of counters on that Pokémon instead.</text>
 		</card>
 		<card>
@@ -525,7 +525,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<type>Pokémon - Fire</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Vulpix attacks, it gets +1/+0 for each other attacking Pokémon you control.</text>
+			<text>Whenever Vulpix attacks, it gets +1/+0 for each other attacking Pokémon you control until end of turn.</text>
 		</card>
 		<card>
 			<name>Ninetales</name>
@@ -857,7 +857,7 @@ Whenever Abra enters the battlefield or evolves, scry 1.</text>
 			<type>Pokémon - Psychic</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Abra {U}
+			<text>Evolve From Abra {B}
 {T}: Draw a card, then discard a card.</text>
 		</card>
 		<card>
@@ -985,7 +985,7 @@ Wither</text>
 			<pt>4/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Tentacool {1}{U}{B}			
-All lands are Swamps and Islands in addition to their other types.
+Nonbasic lands are Islands.
 Whenever you scry, you may draw a card. If you do, discard a card.</text>
 		</card>
 		<card>
@@ -1033,7 +1033,7 @@ Trample</text>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Graveler {G}{G}
-{T}: Golem deals 5 damage to target Pokémon with flying.</text>
+{T}: Golem deals 6 damage to target Pokémon with flying.</text>
 		</card>
 		<card>
 			<name>Ponyta</name>
@@ -1075,7 +1075,7 @@ First strike, haste</text>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Slowpoke {U}{B}
-Whenever you put a card on the bottom of your library, put a +1/+1 counter on Slowbro.</text>
+Whenever you put one or more cards on the bottom of your library, put a +1/+1 counter on Slowbro.</text>
 		</card>
 		<card>
 			<name>Magnemite</name>
@@ -2244,7 +2244,7 @@ Draw a card.</text>
 			<manacost>W</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Target Pokémon gains indestructible until end of turn. Prevent all damage that Pokémon would deal this turn.
+			<text>Target Pokémon you control gains indestructible until end of turn. Prevent all damage that Pokémon would deal this turn.
 You gain 1 life.</text>
 		</card>
 		<card>
@@ -2900,7 +2900,7 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon you control have deathtouch.
-Whenever an opponent sacrifices a permanent, that player loses 2 life unless they discard a card.</text>
+Whenever a Pokémon an opponent controls dies, that player may have you create a Treasure token. If they don't, they lose 2 life.</text>
 		</card>
 		<!-- lands -->
 		<card>
