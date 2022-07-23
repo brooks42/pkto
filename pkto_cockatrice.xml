@@ -1924,13 +1924,13 @@ When you cycle Mew, shuffle it into your library.</text>
 			<name>Brock</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Brock.png" rarity="mythic">PKTO</set>
 			<color>RG</color>
-			<manacost>1RG</manacost>
+			<manacost>2RG</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Brock</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Up to one target Pokémon gets +2/+2 until end of turn.
-[−2]: Until end of turn, Pokémon you control enter the battlefield with an additional +1/+1 counter on them.
-[−4]: You get an emblem with "Whenever a Pokémon you control evolves, put two +1/+1 counters on it."</text>
+			<text>[+1]: Add {R} or {G}. Pokémon spells you cast this turn can't be countered.
+[+1]: Draw a card if you control a Pokémon with power 4 or greater.
+[−7]: You get an emblem with "Whenever a Pokémon you control is dealt damage, it deals that much damage to that source’s controller."</text>
 			<related>Brock (Emblem)</related>
 		</card>
 		<card>
@@ -2048,13 +2048,13 @@ When you cycle Mew, shuffle it into your library.</text>
 			<name>Bruno</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Bruno.png" rarity="mythic">PKTO</set>
 			<color>RG</color>
-			<manacost>2{R/G}{R/G}</manacost>
+			<manacost>1{R/G}{R/G}</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Bruno</type>
 			<loyalty>3</loyalty>
-			<text>At the beginning of combat on your turn, put a loyalty counter on Bruno. 
-[-1]: Put a +1/+1 counter on up to one target Pokémon.
-[-3]: Pokémon you control with +1/+1 counters on them gain trample until end of turn.</text>
+			<text>Whenever you attack, put a loyalty counter on Bruno.
+[-1]: Put a +1/+1 counter on target Pokémon.
+[-2]: Target Pokémon you control fights target Pokémon.</text>
 		</card>
 		<card>
 			<name>Agatha</name>
@@ -3581,7 +3581,7 @@ Cycling {2}</text>
 			<manacost />
 			<type>Emblem - Brock</type>
 			<tablerow>1</tablerow>
-			<text>Whenever a Pokémon you control evolves, put two +1/+1 counters on it.</text>
+			<text>Whenever a Pokémon you control is dealt damage, it deals that much damage to that source's controller.</text>
 		</card>
 		<card>
 			<name>Koga (Emblem)</name>
