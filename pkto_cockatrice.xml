@@ -1803,10 +1803,10 @@ As long as you have no cards in hand, Moltres is obedient.</text>
 			<color>RGW</color>
 			<manacost>RGW</manacost>
 			<type>Pokémon - Dragon</type>
-			<pt>2/2</pt>
+			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{R}{G}{W}: Evolve
-Whenever Dratini enters the battlefield or evolves, you gain 2 life.</text>
+Whenever Dratini becomes the target of a spell, put a +1/+1 counter on it and you gain 2 life.</text>
 			<side>front</side>
 			<related attach="attach">Dragonair (DFC)</related>
 		</card>
@@ -1817,7 +1817,7 @@ Whenever Dratini enters the battlefield or evolves, you gain 2 life.</text>
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Dragonair enters the battlefield or evolves, you gain 2 life.</text>
+			<text>Whenever Dragonair becomes the target of a spell, put a +1/+1 counter on it and you gain 2 life.</text>
 			<side>back</side>
 			<related attach="attach">Dratini</related>
 		</card>
@@ -1830,8 +1830,7 @@ Whenever Dratini enters the battlefield or evolves, you gain 2 life.</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Dratini {R}{G}{W}
-{1}{R}{G}{W}: Regenerate Dragonair.
-Whenever you gain life, put a +1/+1 counter on Dragonair.</text>
+Spells your opponents cast cost {X} more to cast, where X is one plus the number of counters on Dragonair.</text>
 		</card>
 		<card>
 			<name>Dragonite</name>
