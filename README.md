@@ -67,3 +67,7 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: Solar Beam says "Destroy target artifact, target enchantment, target trainer, or target token." If I overload it, do I destroy each artifact, enchantment, trainer, and token?**
 
 **A**: No, overload replaces all instances of "target" with "each." This means you choose between destroying each artifact, each enchantment, each trainer, or each token.
+
+**Q: If I have Raticate evolved onto Rattata and Raticate dies, can it return Rattata to the battlefield?**
+
+**A**: Yes. Dies means "goes to the graveyard" so when the ability triggers both cards are in the graveyard and Rattata is a legal target.

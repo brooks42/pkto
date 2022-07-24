@@ -525,7 +525,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<type>Pokémon - Fire</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Vulpix attacks, it gets +1/+0 for each other attacking Pokémon you control until end of turn.</text>
+			<text>Whenever Vulpix attacks, it gets +1/+0 until end of turn for each other attacking Pokémon you control.</text>
 		</card>
 		<card>
 			<name>Ninetales</name>
@@ -648,7 +648,7 @@ Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Paras {G}
-Whenever a non-Pokémon permanent leaves the battlefield, choose any number of permanents. Double the number of each kind of counter on those permanents.</text>
+Whenever a non-Pokémon permanent you don't control leaves the battlefield, double the number of each kind of counter on target permanent.</text>
 		</card>
 		<card>
 			<name>Venonat</name>
@@ -724,7 +724,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>If you look at Psyduck while scrying, you may cast it.</text>
+			<text>If you look at Psyduck while scrying, you may cast it without paying its mana cost.</text>
 		</card>
 		<card>
 			<name>Golduck</name>
@@ -1692,7 +1692,7 @@ Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you c
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Whenever a player casts a spell,  Porygon becomes that spell’s colors.
-Porygon has lifelink as long as it is white. The same is true for hexproof and blue, wither and black, menace and red, and reach and green.</text>
+Porygon has lifelink as long as it's white. The same is true for hexproof and blue, wither and black, menace and red, and reach and green.</text>
 		</card>
 		<card>
 			<name>Omanyte</name>
@@ -1760,6 +1760,7 @@ Fossil—{2}{R}{G}, Exile three other cards from your graveyard.</text>
 			<text>Snorlax enters the battlefield tapped.
 Snorlax doesn't untap during your untap step.
 Whenever you gain life, untap Snorlax.</text>
+			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Articuno</name>
@@ -2150,7 +2151,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<manacost>1W</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Untap all Pokémon you control. If you gained life this turn, those Pokémon get +1/+1 until end of turn.</text>
+			<text>Untap all Pokémon you control. Pokémon untapped this way get +1/+1 until end of turn.</text>
 		</card>
 		<card>
 			<name>Old Rod</name>
@@ -2165,10 +2166,10 @@ When you cycle Mew, shuffle it into your library.</text>
 			<name>Revive (PKTO)</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Revive.png" rarity="common">PKTO</set>
 			<color>B</color>
-			<manacost>2B</manacost>
+			<manacost>B</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Return target Pokémon card with mana value 5 or less from your graveyard to the battlefield tapped.</text>
+			<text>Return target Pokémon card with mana value 3 or less from your graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>Max Revive</name>
@@ -2250,10 +2251,10 @@ You gain 1 life.</text>
 			<name>Lemonade</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Lemonade.png" rarity="common">PKTO</set>
 			<color>W</color>
-			<manacost>1WW</manacost>
+			<manacost>WW</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Put a +1/+1 counter on target Pokémon. It gains indestructible until end of turn.</text>
+			<text>Put a +1/+1 counter on target Pokémon. That Pokémon gains indestructible until end of turn.</text>
 		</card>
 		<card>
 			<name>Growth</name>
@@ -2900,6 +2901,7 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 			<tablerow>1</tablerow>
 			<text>Pokémon you control have deathtouch.
 Whenever a Pokémon an opponent controls dies, that player may have you create a Treasure token. If they don't, they lose 2 life.</text>
+			<related>Treasure Token</related>
 		</card>
 		<!-- lands -->
 		<card>
