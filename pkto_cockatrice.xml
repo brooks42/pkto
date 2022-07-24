@@ -724,7 +724,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>If you see Psyduck while scrying, you may cast it.</text>
+			<text>If you look at Psyduck while scrying, you may cast it.</text>
 		</card>
 		<card>
 			<name>Golduck</name>
@@ -1526,7 +1526,7 @@ You may cast Seaking for its Evolve From cost as though it had flash. If you do,
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Staryu {1}{U}
-Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
+Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is evolved, untap it.</text>
 		</card>
 		<card>
 			<name>Mr. Mime</name>
