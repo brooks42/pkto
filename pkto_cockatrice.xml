@@ -51,7 +51,7 @@ Whenever a Pokémon enters the battlefield under your control, if Ivysaur is tap
 			<type>Pokémon - Grass Poison</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Ivysaur {G}{G}
+			<text>Evolve From Ivysaur {1}{G}{G}
 If one or more counters would be put on a Pokémon you control, you may put that many plus one of each of those kinds of counters on that Pokémon instead.</text>
 		</card>
 		<card>
@@ -525,7 +525,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<type>Pokémon - Fire</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Vulpix attacks, it gets +1/+0 for each other attacking Pokémon you control.</text>
+			<text>Whenever Vulpix attacks, it gets +1/+0 for each other attacking Pokémon you control until end of turn.</text>
 		</card>
 		<card>
 			<name>Ninetales</name>
@@ -724,7 +724,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>If you see Psyduck while scrying, you may cast it.</text>
+			<text>If you look at Psyduck while scrying, you may cast it.</text>
 		</card>
 		<card>
 			<name>Golduck</name>
@@ -857,7 +857,7 @@ Whenever Abra enters the battlefield or evolves, scry 1.</text>
 			<type>Pokémon - Psychic</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Abra {U}
+			<text>Evolve From Abra {B}
 {T}: Draw a card, then discard a card.</text>
 		</card>
 		<card>
@@ -985,7 +985,7 @@ Wither</text>
 			<pt>4/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Tentacool {1}{U}{B}			
-All lands are Swamps and Islands in addition to their other types.
+Nonbasic lands are Islands.
 Whenever you scry, you may draw a card. If you do, discard a card.</text>
 		</card>
 		<card>
@@ -1033,7 +1033,7 @@ Trample</text>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Graveler {G}{G}
-{T}: Golem deals 5 damage to target Pokémon with flying.</text>
+{T}: Golem deals 6 damage to target Pokémon with flying.</text>
 		</card>
 		<card>
 			<name>Ponyta</name>
@@ -1075,7 +1075,7 @@ First strike, haste</text>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Slowpoke {U}{B}
-Whenever you put a card on the bottom of your library, put a +1/+1 counter on Slowbro.</text>
+Whenever you put one or more cards on the bottom of your library, put a +1/+1 counter on Slowbro.</text>
 		</card>
 		<card>
 			<name>Magnemite</name>
@@ -1526,7 +1526,7 @@ You may cast Seaking for its Evolve From cost as though it had flash. If you do,
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Staryu {1}{U}
-Whenever you scry, target Pokémon gets -2/-0 until end of turn.</text>
+Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is evolved, untap it.</text>
 		</card>
 		<card>
 			<name>Mr. Mime</name>
@@ -1803,10 +1803,10 @@ As long as you have no cards in hand, Moltres is obedient.</text>
 			<color>RGW</color>
 			<manacost>RGW</manacost>
 			<type>Pokémon - Dragon</type>
-			<pt>2/2</pt>
+			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>{R}{G}{W}: Evolve
-Whenever Dratini enters the battlefield or evolves, you gain 2 life.</text>
+Whenever Dratini becomes the target of a spell, put a +1/+1 counter on it and you gain 2 life.</text>
 			<side>front</side>
 			<related attach="attach">Dragonair (DFC)</related>
 		</card>
@@ -1817,7 +1817,7 @@ Whenever Dratini enters the battlefield or evolves, you gain 2 life.</text>
 			<type>Pokémon - Dragon</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Dragonair enters the battlefield or evolves, you gain 2 life.</text>
+			<text>Whenever Dragonair becomes the target of a spell, put a +1/+1 counter on it and you gain 2 life.</text>
 			<side>back</side>
 			<related attach="attach">Dratini</related>
 		</card>
@@ -1830,8 +1830,7 @@ Whenever Dratini enters the battlefield or evolves, you gain 2 life.</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Dratini {R}{G}{W}
-{1}{R}{G}{W}: Regenerate Dragonair.
-Whenever you gain life, put a +1/+1 counter on Dragonair.</text>
+Spells your opponents cast cost {X} more to cast, where X is one plus the number of counters on Dragonair.</text>
 		</card>
 		<card>
 			<name>Dragonite</name>
@@ -1924,13 +1923,13 @@ When you cycle Mew, shuffle it into your library.</text>
 			<name>Brock</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Brock.png" rarity="mythic">PKTO</set>
 			<color>RG</color>
-			<manacost>1RG</manacost>
+			<manacost>2RG</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Brock</type>
 			<loyalty>3</loyalty>
-			<text>[+1]: Up to one target Pokémon gets +2/+2 until end of turn.
-[−2]: Until end of turn, Pokémon you control enter the battlefield with an additional +1/+1 counter on them.
-[−4]: You get an emblem with "Whenever a Pokémon you control evolves, put two +1/+1 counters on it."</text>
+			<text>[+1]: Add {R} or {G}. Pokémon spells you cast this turn can't be countered.
+[+1]: Draw a card if you control a Pokémon with power 4 or greater.
+[−7]: You get an emblem with "Whenever a Pokémon you control is dealt damage, it deals that much damage to that source’s controller."</text>
 			<related>Brock (Emblem)</related>
 		</card>
 		<card>
@@ -2015,7 +2014,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Giovanni</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Draw a card and you lose 1 life.
+			<text>[+1]: Target player draws a card and loses 1 life.
 [-2]: Each player sacrifices a Pokémon or trainer.
 [-6]: Search target opponent's library for a Pokémon card and put that card onto the battlefield under your control. Then that player shuffles.</text>
 		</card>
@@ -2048,13 +2047,13 @@ When you cycle Mew, shuffle it into your library.</text>
 			<name>Bruno</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Bruno.png" rarity="mythic">PKTO</set>
 			<color>RG</color>
-			<manacost>2{R/G}{R/G}</manacost>
+			<manacost>1{R/G}{R/G}</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Bruno</type>
 			<loyalty>3</loyalty>
-			<text>At the beginning of combat on your turn, put a loyalty counter on Bruno. 
-[-1]: Put a +1/+1 counter on up to one target Pokémon.
-[-3]: Pokémon you control with +1/+1 counters on them gain trample until end of turn.</text>
+			<text>Whenever you attack, put a loyalty counter on Bruno.
+[-1]: Put a +1/+1 counter on target Pokémon.
+[-2]: Target Pokémon you control fights target Pokémon.</text>
 		</card>
 		<card>
 			<name>Agatha</name>
@@ -2244,7 +2243,7 @@ Draw a card.</text>
 			<manacost>W</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Target Pokémon gains indestructible until end of turn. Prevent all damage that Pokémon would deal this turn.
+			<text>Target Pokémon you control gains indestructible until end of turn. Prevent all damage that Pokémon would deal this turn.
 You gain 1 life.</text>
 		</card>
 		<card>
@@ -2900,7 +2899,7 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon you control have deathtouch.
-Whenever an opponent sacrifices a permanent, that player loses 2 life unless they discard a card.</text>
+Whenever a Pokémon an opponent controls dies, that player may have you create a Treasure token. If they don't, they lose 2 life.</text>
 		</card>
 		<!-- lands -->
 		<card>
@@ -3581,7 +3580,7 @@ Cycling {2}</text>
 			<manacost />
 			<type>Emblem - Brock</type>
 			<tablerow>1</tablerow>
-			<text>Whenever a Pokémon you control evolves, put two +1/+1 counters on it.</text>
+			<text>Whenever a Pokémon you control is dealt damage, it deals that much damage to that source's controller.</text>
 		</card>
 		<card>
 			<name>Koga (Emblem)</name>
