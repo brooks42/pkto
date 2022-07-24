@@ -2014,7 +2014,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Giovanni</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Draw a card and you lose 1 life.
+			<text>[+1]: Target player draws a card and loses 1 life.
 [-2]: Each player sacrifices a Pokémon or trainer.
 [-6]: Search target opponent's library for a Pokémon card and put that card onto the battlefield under your control. Then that player shuffles.</text>
 		</card>
