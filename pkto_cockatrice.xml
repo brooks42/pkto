@@ -1831,7 +1831,7 @@ Whenever Dratini becomes the target of a spell, put a +1/+1 counter on it and yo
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Dratini {R}{G}{W}
-Spells your opponents cast cost {X} more to cast, where X is one plus the number of times Dragonair has evolved.</text>
+Spells your opponents cast that target Pokémon you control cost {X} more to cast, where X is one plus the number of times Dragonair has evolved.</text>
 		</card>
 		<card>
 			<name>Dragonite</name>
