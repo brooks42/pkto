@@ -1137,18 +1137,18 @@ Double strike, haste</text>
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>{T}: You gain 1 life.</text>
+			<text>Whenever a Pokémon evolves, you gain 2 life.</text>
 		</card>
 		<card>
 			<name>Dewgong</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Dewgong.png" rarity="uncommon">PKTO</set>
 			<color>WU</color>
-			<manacost>3WU</manacost>
+			<manacost>2WU</manacost>
 			<type>Pokémon - Water Ice</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Seel {W}
-Whenever you gain life, tap target Pokémon. This ability triggers only once each turn as long as Dewgong is unevolved.</text>
+Triggered abilities of evolved Pokémon you control trigger an additional time.</text>
 		</card>
 		<card>
 			<name>Grimer</name>
@@ -1387,7 +1387,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<type>Pokémon - Normal</type>
 			<pt>3/7</pt>
 			<tablerow>2</tablerow>
-			<text>When Lickitung enters the battlefield, until Lickitung leaves the battlefield, target Pokémon can't attack or block and its activated abilities can't be activated.</text>
+			<text>When Lickitung enters the battlefield, choose target Pokémon. Until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can't be activated.</text>
 		</card>
 		<card>
 			<name>Koffing</name>
@@ -1447,12 +1447,11 @@ At the beginning of your upkeep, you gain 1 life. Then if you have 40 or more li
 			<name>Tangela</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Tangela.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
-			<manacost>GGG</manacost>
+			<manacost>1G</manacost>
 			<type>Pokémon - Grass</type>
-			<pt>3/3</pt>
+			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>Reach
-{G}, {T}: Tap target Pokémon. Put a +1/+1 counter on Tangela.</text>
+			<text>Whenever a land enters the battlefield under your control, put a +1/+1 counter on Tangela.</text>
 		</card>
 		<card>
 			<name>Kangaskhan</name>
