@@ -764,7 +764,7 @@ Whenever Primeape attacks, destroy up to one target artifact. If Primeape is evo
 			<color>RW</color>
 			<manacost>1{R/W}{R/W}</manacost>
 			<type>Pokémon - Fire</type>
-			<pt>3/2</pt>
+			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Whenever Growlithe is dealt damage, it deals that much damage to up to one target Pokémon.</text>
 		</card>
@@ -1137,18 +1137,18 @@ Double strike, haste</text>
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>{T}: You gain 1 life.</text>
+			<text>Whenever a Pokémon evolves, you gain 2 life.</text>
 		</card>
 		<card>
 			<name>Dewgong</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Dewgong.png" rarity="uncommon">PKTO</set>
 			<color>WU</color>
-			<manacost>3WU</manacost>
+			<manacost>2WU</manacost>
 			<type>Pokémon - Water Ice</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Seel {W}
-Whenever you gain life, tap target Pokémon. This ability triggers only once each turn as long as Dewgong is unevolved.</text>
+Triggered abilities of evolved Pokémon you control trigger an additional time.</text>
 		</card>
 		<card>
 			<name>Grimer</name>
@@ -1364,7 +1364,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<color>RG</color>
 			<manacost>2RG</manacost>
 			<type>Pokémon - Fighting</type>
-			<pt>5/3</pt>
+			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>Whenever Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn.</text>
 		</card>
@@ -1374,7 +1374,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<color>GW</color>
 			<manacost>2GW</manacost>
 			<type>Pokémon - Fighting</type>
-			<pt>3/5</pt>
+			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Flash
 When Hitmonchan enters the battlefield, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. If you do, Hitmonchan deals damage equal to its power to any target.</text>
@@ -1387,7 +1387,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<type>Pokémon - Normal</type>
 			<pt>3/7</pt>
 			<tablerow>2</tablerow>
-			<text>When Lickitung enters the battlefield, until Lickitung leaves the battlefield, target Pokémon can't attack or block and its activated abilities can't be activated.</text>
+			<text>When Lickitung enters the battlefield, choose target Pokémon. Until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can't be activated.</text>
 		</card>
 		<card>
 			<name>Koffing</name>
@@ -1408,7 +1408,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Koffing {X}{B}{B}
-When you cast Weezing, distribute X -1/-1 counters among up to X target Pokémon.</text>
+When you cast Weezing, distribute X -1/-1 counters among any number of target Pokémon.</text>
 		</card>
 		<card>
 			<name>Rhyhorn</name>
@@ -1447,12 +1447,11 @@ At the beginning of your upkeep, you gain 1 life. Then if you have 40 or more li
 			<name>Tangela</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Tangela.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
-			<manacost>GGG</manacost>
+			<manacost>1G</manacost>
 			<type>Pokémon - Grass</type>
-			<pt>3/3</pt>
+			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>Reach
-{G}, {T}: Tap target Pokémon. Put a +1/+1 counter on Tangela.</text>
+			<text>Whenever a land enters the battlefield under your control, put a +1/+1 counter on Tangela.</text>
 		</card>
 		<card>
 			<name>Kangaskhan</name>
@@ -1831,7 +1830,7 @@ Whenever Dratini becomes the target of a spell, put a +1/+1 counter on it and yo
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Dratini {R}{G}{W}
-Spells your opponents cast cost {X} more to cast, where X is one plus the number of counters on Dragonair.</text>
+Spells your opponents cast that target Pokémon you control cost {X} more to cast, where X is one plus the number of times Dragonair has evolved.</text>
 		</card>
 		<card>
 			<name>Dragonite</name>
@@ -2416,10 +2415,10 @@ Draw a card.</text>
 			<name>Glare</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Glare.png" rarity="common">PKTO</set>
 			<color>R</color>
-			<manacost>1R</manacost>
-			<type>Instant</type>
+			<manacost>R</manacost>
+			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Target Pokémon can't attack or block this turn.
+			<text>Target Pokémon can't block this turn.
 Draw a card.</text>
 		</card>
 		<card>
@@ -2762,7 +2761,9 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
 			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Whenever enchanted Pokémon attacks, it deals 3 damage to up to one target Pokémon.</text>
+Whenever enchanted Pokémon attacks, it deals 3 damage to target Pokémon.
+At the beginning of your end step, sacrifice Rage unless enchanted Pokémon attacked this turn.
+</text>
 		</card>
 		<card>
 			<name>Ice Beam</name>
