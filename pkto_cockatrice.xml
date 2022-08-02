@@ -1366,7 +1366,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<type>Pokémon - Fighting</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn.</text>
+			<text>Whenever Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn and it doesn't untap during your next untap step.</text>
 		</card>
 		<card>
 			<name>Hitmonchan</name>
@@ -1771,7 +1771,7 @@ Whenever you gain life, untap Snorlax.</text>
 			<tablerow>2</tablerow>
 			<text>Flying
 Articuno can't attack or block unless it is obedient.
-Tap 6 untapped permanents you control: Articuno becomes obedient.</text>
+Tap 4 other untapped nonland permanents you control: Articuno becomes obedient.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
@@ -1854,12 +1854,13 @@ Hexproof from trainers</text>
 			<tablerow>2</tablerow>
 			<text>When Mewtwo enters the battlefield, create a token copy of each Pokémon you don't control, except they are 2/2 Clones.
 When Mewtwo dies, return it to the battlfield transformed.</text>
-			<related count="x">Clone Token</related>
-			<related count="x">Clone Token(a)</related>
-			<related count="x">Clone Token(b)</related>
+			<related attach="attach">Mewtwo, Redeemed</related>
+			<related>Clone Token</related>
+			<related>Clone Token(a)</related>
+			<related>Clone Token(b)</related>
 		</card>
 		<card>
-			<name>Mewtwo, Redeemed (DFC)</name>
+			<name>Mewtwo, Redeemed</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/MewtwoRedeemed.png" rarity="mythic">PKTO</set>
 			<color>WUR</color>
 			<manacost />
@@ -1904,7 +1905,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<type>Legendary Trainer - Blue</type>
 			<loyalty>4</loyalty>
 			<text>At the beginning of your upkeep, if a player attacked you last turn, draw a card.
-[+1]: The next Pokémon spell you cast this turn costs {1} less to cast for each Pokémon your opponents control.
+[+1]: If a player controls more Pokémon than you, the next Pokémon spell you cast this turn costs {X} less to cast, where X is equal to the difference.
 [-3]: Create a token copy of target Pokémon you don’t control, except it has haste. Exile it at the beginning of the next end step.</text>
 		</card>
 		<card>
@@ -2369,7 +2370,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
 			<name>Disable</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Disable.png" rarity="common">PKTO</set>
 			<color>UB</color>
-			<manacost>{U/B}</manacost>
+			<manacost>U{U/B}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player’s graveyard. That player can’t cast spells with the same name as that spell until the end of their next turn.</text>
