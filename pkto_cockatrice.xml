@@ -30,7 +30,6 @@
 			<tablerow>2</tablerow>
 			<text>{T}: Add {G}.</text>
 			<side>back</side>
-			<related attach="attach">Bulbasaur</related>
 		</card>
 		<card>
 			<name>Ivysaur</name>
@@ -76,7 +75,6 @@ If one or more counters would be put on a Pokémon you control, you may put that
 			<tablerow>2</tablerow>
 			<side>back</side>
 			<text>{U}: Wartortle gets +0/+1 until end of turn.</text>
-			<related attach="attach">Squirtle</related>
 		</card>
 		<card>
 			<name>Wartortle</name>
@@ -122,7 +120,6 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 			<tablerow>2</tablerow>
 			<text>{1}{R}: Charmeleon gets +1/+0 until end of turn.</text>
 			<side>back</side>
-			<related attach="attach">Charmander</related>
 		</card>
 		<card>
 			<name>Charmeleon</name>
@@ -169,7 +166,6 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
 			<tablerow>2</tablerow>
 			<text>{1}{G}, {T}: Tap target Pokémon.</text>
 			<side>back</side>
-			<related attach="attach">Caterpie</related>
 		</card>
 		<card>
 			<name>Metapod</name>
@@ -217,7 +213,6 @@ Deathtouch</text>
 			<tablerow>2</tablerow>
 			<text>Deathtouch</text>
 			<side>back</side>
-			<related attach="attach">Weedle</related>
 		</card>
 		<card>
 			<name>Kakuna</name>
@@ -266,7 +261,6 @@ Flying</text>
 			<tablerow>2</tablerow>
 			<text>Flying</text>
 			<side>back</side>
-			<related attach="attach">Pidgey</related>
 		</card>
 		<card>
 			<name>Pidgeotto</name>
@@ -422,7 +416,6 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
 			<tablerow>2</tablerow>
 			<text>{2}{G}, {T}: Reveal cards from the top of your library until you reveal a Pokémon card with an Evolve ability. Put that card into your hand and the rest on the bottom of your library in any order.</text>
 			<side>back</side>
-			<related attach="attach">Nidoran♀</related>
 		</card>
 		<card>
 			<name>Nidorina</name>
@@ -468,7 +461,6 @@ Whenever Nidoran♂ attacks, it gains first strike until end of turn.</text>
 			<tablerow>2</tablerow>
 			<text>Whenever Nidorino attacks, it gains first strike until end of turn.</text>
 			<side>back</side>
-			<related attach="attach">Nidoran♂</related>
 		</card>
 		<card>
 			<name>Nidorino</name>
@@ -605,7 +597,6 @@ Lifelink</text>
 			<tablerow>2</tablerow>
 			<text>Lifelink</text>
 			<side>back</side>
-			<related attach="attach">Oddish</related>
 		</card>
 		<card>
 			<name>Gloom (PKTO)</name>
@@ -801,7 +792,6 @@ Whenever Poliwag evolves, gain control of target Pokémon with equal or lesser m
 			<tablerow>2</tablerow>
 			<text>Whenever Poliwhirl evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.</text>
 			<side>back</side>
-			<related attach="attach">Poliwag</related>
 		</card>
 		<card>
 			<name>Poliwhirl</name>
@@ -847,7 +837,6 @@ Whenever Abra enters the battlefield or evolves, scry 1.</text>
 			<tablerow>2</tablerow>
 			<text>Whenever Kadabra enters the battlefield or evolves, scry 1.</text>
 			<side>back</side>
-			<related attach="attach">Abra</related>
 		</card>
 		<card>
 			<name>Kadabra</name>
@@ -894,7 +883,6 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 			<tablerow>2</tablerow>
 			<text>{3}{R/G}{R/G}, {T}: Machoke fights target Pokémon you don't control. Machoke doesn't untap during your next untap step.</text>
 			<side>back</side>
-			<related attach="attach">Machop</related>
 		</card>
 		<card>
 			<name>Machoke</name>
@@ -941,7 +929,6 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 			<tablerow>2</tablerow>
 			<text>{1}{G}: Weepinbell gets +1/+1 until end of turn.</text>
 			<side>back</side>
-			<related attach="attach">Bellsprout</related>
 		</card>
 		<card>
 			<name>Weepinbell</name>
@@ -994,10 +981,10 @@ Whenever you scry, you may draw a card. If you do, discard a card.</text>
 			<color>G</color>
 			<manacost>1G</manacost>
 			<type>Pokémon - Rock Ground</type>
-			<pt>1/3</pt>
+			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{G}: Evolve
-Protection from instants</text>
+Hexproof from instants</text>
 			<side>front</side>
 			<related attach="attach">Graveler (DFC)</related>
 		</card>
@@ -1006,11 +993,10 @@ Protection from instants</text>
 			<set picURL="https://brooks42.github.io/pkto/cards/GravelerDFC.png" rarity="common">PKTO</set>
 			<color>G</color>
 			<type>Pokémon - Rock Ground</type>
-			<pt>2/4</pt>
+			<pt>3/4</pt>
 			<tablerow>2</tablerow>
-			<text>Protection from instants</text>
+			<text>Hexproof from instants</text>
 			<side>back</side>
-			<related attach="attach">Geodude</related>
 		</card>
 		<card>
 			<name>Graveler</name>
@@ -1216,7 +1202,6 @@ Protection from Fighting and from Normal</text>
 			<tablerow>2</tablerow>
 			<text>Protection from Fighting and from Normal</text>
 			<side>back</side>
-			<related attach="attach">Gastly</related>
 		</card>
 		<card>
 			<name>Haunter</name>
@@ -1313,7 +1298,7 @@ Haste</text>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Voltorb {R/W}
-Whenever Electrode is dealt damage or becomes the target of a spell or ability, you may have it deal 3 damage to each Pokémon and each trainer.</text>
+When Electrode dies, you may have it deal 3 damage to each Pokémon and each trainer.</text>
 		</card>
 		<card>
 			<name>Exeggcute</name>
@@ -1387,7 +1372,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<type>Pokémon - Normal</type>
 			<pt>3/7</pt>
 			<tablerow>2</tablerow>
-			<text>When Lickitung enters the battlefield, choose target Pokémon. Until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can't be activated.</text>
+			<text>When Lickitung enters the battlefield, choose up to one target Pokémon. Until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can't be activated.</text>
 		</card>
 		<card>
 			<name>Koffing</name>
@@ -1819,7 +1804,6 @@ Whenever Dratini becomes the target of a spell, put a +1/+1 counter on it and yo
 			<tablerow>2</tablerow>
 			<text>Whenever Dragonair becomes the target of a spell, put a +1/+1 counter on it and you gain 2 life.</text>
 			<side>back</side>
-			<related attach="attach">Dratini</related>
 		</card>
 		<card>
 			<name>Dragonair</name>
