@@ -1189,7 +1189,7 @@ Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three targe
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
 			<text>{B}: Evolve
-Protection from Fighting and from Normal</text>
+Whenever Gastly becomes the target of a spell or ability an opponent controls, exile that spell or ability unless its controller discards a card.</text>
 			<side>front</side>
 			<related attach="attach">Haunter (DFC)</related>
 		</card>
@@ -1200,7 +1200,7 @@ Protection from Fighting and from Normal</text>
 			<type>Pokémon - Ghost Poison</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Protection from Fighting and from Normal</text>
+			<text>Whenever Haunter becomes the target of a spell or ability an opponent controls, exile that spell or ability unless its controller discards a card.</text>
 			<side>back</side>
 		</card>
 		<card>
@@ -1372,7 +1372,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<type>Pokémon - Normal</type>
 			<pt>3/7</pt>
 			<tablerow>2</tablerow>
-			<text>When Lickitung enters the battlefield, choose up to one target Pokémon. Until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can't be activated.</text>
+			<text>When Lickitung enters the battlefield, you may choose target Pokémon. If you do, until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can’t be activated.</text>
 		</card>
 		<card>
 			<name>Koffing</name>
@@ -2572,7 +2572,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 			<name>Double-Edge</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Double-Edge.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
-			<manacost>3G</manacost>
+			<manacost>2G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
 			<text>Put a +1/+1 counter on target Pokémon you control. If you do, it fights another target Pokémon.</text>
