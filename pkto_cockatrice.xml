@@ -2569,13 +2569,13 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 			<text>Copy target instant or sorcery spell. You may choose new targets for the copy.</text>
 		</card>
 		<card>
-			<name>Double-Edge</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Double-Edge.png" rarity="uncommon">PKTO</set>
+			<name>Double Kick</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Double Kick.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
-			<manacost>2G</manacost>
+			<manacost>G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Put a +1/+1 counter on target Pokémon you control. If you do, it fights another target Pokémon.</text>
+			<text>Choose target Pokémon you control. It fights target Pokémon you don't control, then fights target Pokémon you don't control.</text>
 		</card>
 		<card>
 			<name>Prepare for Trouble</name>
@@ -2611,7 +2611,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 			<manacost>3G</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>At the beginning of your end step, untap all lands you control.</text>
+			<text>At the beginning of your end step, untap all permanents you control.</text>
 		</card>
 		<card>
 			<name>Dig</name>
@@ -2764,7 +2764,7 @@ Whenever enchanted Pokémon deals combat damage to a Pokémon, tap that Pokémon
 			<name>Hyper Beam</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Hyper%20Beam.png" rarity="mythic">PKTO</set>
 			<color />
-			<manacost>5</manacost>
+			<manacost>7</manacost>
 			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon without an Evolve ability
