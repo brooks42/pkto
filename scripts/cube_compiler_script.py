@@ -47,6 +47,9 @@ def main():
                     if name_tag.name == 'name':
                         card_name = name_tag.string
 
+                        if card_name == 'Mewtwo, Redeemed':
+                            continue
+
                         # skip DFCs since they don't need to be in the cube file
                         if '(DFC)' in card_name:
                             continue

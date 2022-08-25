@@ -2631,8 +2631,9 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 			<tablerow>3</tablerow>
 			<text>Target player discards two cards. Pokémon you control gain menace until end of turn.</text>
 		</card>
-		<name>Psychic</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Psychic.png" rarity="uncommon">PKTO</set>
+		<card>
+			<name>Psychic</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Psychic.png" rarity="rare">PKTO</set>
 			<color>B</color>
 			<manacost>3BB</manacost>
 			<type>Instant</type>
@@ -2764,7 +2765,7 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
 			<text>Enchant Pokémon
 Whenever enchanted Pokémon attacks, it deals 3 damage to target Pokémon.
 At the beginning of your end step, sacrifice Rage unless enchanted Pokémon attacked this turn.
-</text>
+			</text>
 		</card>
 		<card>
 			<name>Ice Beam</name>
