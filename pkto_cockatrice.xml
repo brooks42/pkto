@@ -2334,7 +2334,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
 		</card>
 		<card>
 			<name>Sing</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Sing.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Sing.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
 			<manacost>2UU</manacost>
 			<type>Sorcery</type>
@@ -2352,7 +2352,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
 		</card>
 		<card>
 			<name>Disable</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Disable.png" rarity="common">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Disable.png" rarity="uncommon">PKTO</set>
 			<color>UB</color>
 			<manacost>U{U/B}</manacost>
 			<type>Instant</type>
@@ -2360,13 +2360,13 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
 			<text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player’s graveyard. That player can’t cast spells with the same name as that spell until the end of their next turn.</text>
 		</card>
 		<card>
-			<name>Fire Spin</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Fire%20Spin.png" rarity="common">PKTO</set>
+			<name>Ember</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ember.png" rarity="common">PKTO</set>
 			<color>R</color>
 			<manacost>R</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Fire Spin deals 2 damage to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
+			<text>Ember deals 2 damage to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
 		</card>
 		<card>
 			<name>Gust</name>
@@ -2553,11 +2553,10 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 			<name>Pilfer</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Pilfer.png" rarity="uncommon">PKTO</set>
 			<color>B</color>
-			<manacost>3BB</manacost>
-			<type>Instant</type>
+			<manacost>1B</manacost>
+			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Exile target Pokémon. If you do, create a Treasure token.</text>
-			<related>Treasure Token</related>
+			<text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.</text>
 		</card>
 		<card>
 			<name>Mirror Move</name>
@@ -2622,6 +2621,23 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 			<tablerow>3</tablerow>
 			<text>Create two 2/1 red Ground Pokémon tokens named Diglett.</text>
 			<related count="2">Diglett Token</related>
+		</card>
+		<card>
+			<name>Skull Bash</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Skull%20Bash.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>2B</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Target player discards two cards. Pokémon you control gain menace until end of turn.</text>
+		</card>
+		<name>Psychic</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Psychic.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>3BB</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Exile target Pokémon. Its controller discards a card at random.</text>
 		</card>
 		<!-- evolution stones -->
 		<card>
