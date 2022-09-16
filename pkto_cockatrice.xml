@@ -2283,7 +2283,7 @@ You gain 1 life.</text>
 			<manacost>W</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Remove all counters from target Pokémon. You gain life equal to twice the number of counters removed this way.</text>
+			<text>Target Pokémon you control gets +1/+2 until end of turn. Remove all counters from it. You gain life equal to twice the number of counters removed this way.</text>
 		</card>
 		<card>
 			<name>Turn to Stone</name>
