@@ -2011,7 +2011,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Oak</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Up to one target Pokémon gains defender and "T: Each opponent draws a card. This Pokémon loses defender and this ability."
+			<text>[+1]: Choose a Pokémon. Prevent all damage it would deal until your next turn. Whenever damage is prevented this way for the first time each turn, draw a card.
 [-3]: Exile target Pokémon with power 4 or greater.
 [-7]: You get an emblem with "Pokémon you control have indestructible."</text>
 			<related>Professor Oak (Emblem)</related>
@@ -2893,7 +2893,7 @@ Remove three charge counters from Vermillion Gym: Put a first strike, vigilance,
 			<manacost>1R</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>Whenever you attack with one or more Pokémon, choose odd or even. Then exile the top card of your library. If it has mana value of the chosen quality, you may cast it for as long as it remains exiled.</text>
+			<text>Whenever you attack, choose odd or even. Then exile the top card of your library. If it has mana value of the chosen quality, you may cast it for as long as it remains exiled.</text>
 		</card>
 		<card>
 			<name>Viridian Gym</name>
