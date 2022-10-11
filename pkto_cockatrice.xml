@@ -2011,7 +2011,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Oak</type>
 			<loyalty>4</loyalty>
-			<text>[+1]: Choose a Pokémon. Prevent all damage it would deal until your next turn. Whenever damage is prevented this way for the first time each turn, draw a card.
+			<text>[+1]: Choose a Pokémon. Until your next turn, whenever that Pokémon attacks, draw a card.
 [-3]: Exile target Pokémon with power 4 or greater.
 [-7]: You get an emblem with "Pokémon you control have indestructible."</text>
 			<related>Professor Oak (Emblem)</related>
@@ -2565,7 +2565,7 @@ Target Pokémon or trainer loses indestructible. Destroy it. It can't be regener
 			<manacost>1R</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Copy target instant or sorcery spell. You may choose new targets for the copy.</text>
+			<text>Copy target instant spell, sorcery spell, or activated ability. You may choose new targets for the copy.</text>
 		</card>
 		<card>
 			<name>Double Kick</name>
@@ -2785,7 +2785,7 @@ Whenever enchanted Pokémon deals combat damage to a Pokémon, tap that Pokémon
 			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon without an Evolve ability
-Enchanted Pokémon has "{T}: Destroy target nonland permanent, then put a stun counter on this Pokémon"</text>
+Enchanted Pokémon has "{T}: Destroy target nonland permanent, then put a stun counter on this Pokémon. Activate only as a sorcery."</text>
 		</card>
 		<card>
 			<name>Swords Dance</name>
