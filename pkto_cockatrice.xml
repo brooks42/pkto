@@ -649,7 +649,7 @@ Whenever a non-Pokémon permanent you don't control leaves the battlefield, doub
 			<type>Pokémon - Bug Poison</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>When Venonat enters the battlefield, target player reveals their hand.</text>
+			<text>Whenever Venonat deals combat damage to a player, draw a card.</text>
 		</card>
 		<card>
 			<name>Venomoth</name>
@@ -657,11 +657,11 @@ Whenever a non-Pokémon permanent you don't control leaves the battlefield, doub
 			<color>GU</color>
 			<manacost>2GU</manacost>
 			<type>Pokémon - Bug Poison</type>
-			<pt>3/3</pt>
+			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Venonat {G}{U}
 Flying
-Whenever Venomoth evolves, choose a card name. Spells with the chosen name can't be cast.</text>
+Whenever you draw your second card each turn, you may put a land card from your hand onto the battlefield.</text>
 		</card>
 		<card>
 			<name>Diglett</name>
@@ -1632,7 +1632,7 @@ When Lapras dies, you gain 3 life.</text>
 			<type>Pokémon - Normal</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>You may pay {1} less to evolve Pokémon.</text>
+			<text>You may pay {W}{U}{B}{R}{G} less to evolve Pokémon. This effect can't reduce the mana in that cost by more than one mana.</text>
 		</card>
 		<card>
 			<name>Vaporeon</name>
@@ -2090,7 +2090,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<manacost>1U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Scry 3. You may reveal the top card of library. If a Pokémon card is revealed this way, you may put it into your hand.</text>
+			<text>Scry 3. You may reveal the top card of your library. If a Pokémon card is revealed this way, you may put it into your hand.</text>
 		</card>
 		<card>
 			<name>Safari Ball</name>
