@@ -183,13 +183,13 @@ Whenever Metapod evolves, it loses defender and you draw a card.</text>
 			<name>Butterfree</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Butterfree.png" rarity="rare">PKTO</set>
 			<color>G</color>
-			<manacost>3GG</manacost>
+			<manacost>1GG</manacost>
 			<type>Pokémon - Bug Flying</type>
-			<pt>3/3</pt>
+			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Metapod {1}{G}{G}
+			<text>Evolve From Metapod {2}{G}
 Flying
-Whenever Butterfree evolves, tap all Pokémon you don't control. Those Pokémon don't untap during their controller's next untap step.</text>
+Whenever Butterfee attacks or blocks, put a stun counter on target Pokémon you don’t control. If Butterfree is evolved, tap that Pokémon.</text>
 		</card>
 		<card>
 			<name>Weedle</name>
@@ -1436,7 +1436,7 @@ At the beginning of your upkeep, you gain 1 life. Then if you have 40 or more li
 			<type>Pokémon - Grass</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever a land enters the battlefield under your control, put a +1/+1 counter on Tangela.</text>
+			<text>Landfall - Whenever a land enters the battlefield under your control, put a +1/+1 counter on Tangela.</text>
 		</card>
 		<card>
 			<name>Kangaskhan</name>
