@@ -711,11 +711,12 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 			<name>Psyduck</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Psyduck.png" rarity="common">PKTO</set>
 			<color>U</color>
-			<manacost>2U</manacost>
+			<manacost>1U</manacost>
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>If you look at Psyduck while scrying, you may cast it without paying its mana cost.</text>
+			<text>If you look at Psyduck while scrying, you may cast it without paying its mana cost.
+When Psyduck enters the battlefield, you may counter target spell.</text>
 		</card>
 		<card>
 			<name>Golduck</name>
@@ -1222,7 +1223,7 @@ Whenever Haunter evolves or deals combat damage to a player, each opponent disca
 			<type>Pokémon - Ghost Poison</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Haunter {2}{B}{B}
+			<text>Evolve From Haunter {B}{B}
 Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do, put that card onto the battlefield under your control. If Gengar is evolved, you may pay {B}{B} instead.</text>
 		</card>
 		<card>
@@ -1540,7 +1541,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
 			<type>Pokémon - Ice Psychic</type>
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{U}{B}, {T}: Scry 2. Then draw a card and you lose 2 life.</text>
+			<text>{2}{U}{B}, {T}: Scry 2, then draw a card. You lose 2 life.</text>
 		</card>
 		<card>
 			<name>Electabuzz</name>
@@ -2375,7 +2376,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
 			<manacost>{G/W}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Gust deals 2 damage to target attacking Pokémon. If that Pokémon has flying, Gust deals 5 damage to it instead.</text>
+			<text>Gust deals 2 damage to target attacking Pokémon. If that Pokémon has flying, Gust deals 6 damage instead.</text>
 		</card>
 		<card>
 			<name>Slam</name>
@@ -2775,7 +2776,7 @@ At the beginning of your end step, sacrifice Rage unless enchanted Pokémon atta
 			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Whenever enchanted Pokémon deals combat damage to a Pokémon, tap that Pokémon and put a stun counter on it.</text>
+Whenever enchanted Pokémon attacks, tap target permanent and put a stun counter on it.</text>
 		</card>
 		<card>
 			<name>Hyper Beam</name>
