@@ -1072,7 +1072,7 @@ Whenever you put one or more cards on the bottom of your library, put a +1/+1 co
 			<type>Artifact Pokémon - Electric Steel</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>If one or more counters would be put on Magnemite, you may add {R}{W} instead.</text>
+			<text>If one or more counters would be put on Magnemite, you may put those counters on another target permanent instead.</text>
 		</card>
 		<card>
 			<name>Magneton</name>
