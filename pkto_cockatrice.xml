@@ -1083,7 +1083,7 @@ Whenever you put one or more cards on the bottom of your library, put a +1/+1 co
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Magnemite {1}
-{T}: Move up to three counters from target permanent onto Magneton.</text>
+{T}: Move up to three counters from another target permanent onto Magneton.</text>
 		</card>
 		<card>
 			<name>Farfetch'd</name>
