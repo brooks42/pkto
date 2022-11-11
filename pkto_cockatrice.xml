@@ -951,8 +951,9 @@ Wither</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>5/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Weepinbell {1}{G}{G}
-{X}{X}{B/G}, {T}: Choose target Pokémon or trainer. Put X -1/-1 counters on that Pokémon or remove X loyalty counters from that trainer.</text>
+			<text>Evolve From Weepinbell {G}{G}
+Pokémon without wither get -1/-1.
+{T}: Put a wither counter on another target Pokémon.</text>
 		</card>
 		<card>
 			<name>Tentacool</name>
@@ -1083,7 +1084,7 @@ Whenever you put one or more cards on the bottom of your library, put a +1/+1 co
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Magnemite {1}
-{T}: Move up to three counters from target permanent onto Magneton.</text>
+{T}: Move up to three counters from another target permanent onto Magneton.</text>
 		</card>
 		<card>
 			<name>Farfetch'd</name>
