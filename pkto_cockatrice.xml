@@ -403,7 +403,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
 			<text>{1}{G}: Evolve
-{2}{G}, {T}: Reveal cards from the top of your library until you reveal a Pokémon card with an Evolve ability. Put that card into your hand and the rest on the bottom of your library in any order.</text>
+Whenever Nidoran♀ enters the battlefield or evolves, mill three cards, then return a land card from your graveyard to your hand.</text>
 			<side>front</side>
 			<related attach="attach">Nidorina (DFC)</related>
 		</card>
@@ -414,7 +414,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
 			<type>Pokémon - Poison</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{G}, {T}: Reveal cards from the top of your library until you reveal a Pokémon card with an Evolve ability. Put that card into your hand and the rest on the bottom of your library in any order.</text>
+			<text>Whenever Nidorina enters the battlefield or evolves, mill three cards, then return a land card from your graveyard to your hand.</text>
 			<side>back</side>
 		</card>
 		<card>
@@ -426,7 +426,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidoran♀ {1}{G}
-Whenever Nidorina evolves, return target Pokémon card from your graveyard to your hand.</text>
+Whenever Nidorina evolves, return target Pokémon card or land card from your graveyard to your hand.</text>
 		</card>
 		<card>
 			<name>Nidoqueen</name>
@@ -437,7 +437,7 @@ Whenever Nidorina evolves, return target Pokémon card from your graveyard to yo
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidorina {1}{G}
-Whenever a Pokémon you control dies, if it had lesser toughness than Nidoqueen and no -1/-1 counters on it, return it to the battlefield under your control with a -1/-1 counter on it.</text>
+Whenever Nidoqueen evolves or attacks, return target permanent card from your graveyard to your hand. If that card has mana value 3 or less, put it onto the battlefield instead.</text>
 		</card>
 		<card>
 			<name>Nidoran♂</name>
