@@ -18,8 +18,8 @@
 			<tablerow>2</tablerow>
 			<side>front</side>
 			<related attach="attach">Ivysaur (DFC)</related>
-			<text>{1}{G}: Evolve
-{T}: Add {G}.</text>
+			<text>{T}: Add {G}.
+{1}{G}: Evolve</text>
 		</card>
 		<card>
 			<name>Ivysaur (DFC)</name>
@@ -63,8 +63,8 @@ If one or more counters would be put on a Pokémon you control, you may put that
 			<tablerow>2</tablerow>
 			<side>front</side>
 			<related attach="attach">Wartortle (DFC)</related>
-			<text>{1}{U}: Evolve
-{U}: Squirtle gets +0/+1 until end of turn.</text>
+			<text>{U}: Squirtle gets +0/+1 until end of turn.
+{1}{U}: Evolve</text>
 		</card>
 		<card>
 			<name>Wartortle (DFC)</name>
@@ -108,8 +108,8 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 			<tablerow>2</tablerow>
 			<side>front</side>
 			<related attach="attach">Charmeleon (DFC)</related>
-			<text>{1}{R}: Evolve
-{1}{R}: Charmander gets +1/+0 until end of turn.</text>
+			<text>{1}{R}: Charmander gets +1/+0 until end of turn.
+{1}{R}: Evolve</text>
 		</card>
 		<card>
 			<name>Charmeleon (DFC)</name>
@@ -154,8 +154,8 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
 			<tablerow>2</tablerow>
 			<side>front</side>
 			<related attach="attach">Metapod (DFC)</related>
-			<text>{G}: Evolve
-{1}{G}, {T}: Tap target Pokémon.</text>
+			<text>{1}{G}, {T}: Tap target Pokémon.
+{G}: Evolve</text>
 		</card>
 		<card>
 			<name>Metapod (DFC)</name>
@@ -199,8 +199,8 @@ Whenever Butterfee attacks or blocks, put a stun counter on target Pokémon you 
 			<type>Pokémon - Bug Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{B}: Evolve
-Deathtouch</text>
+			<text>Deathtouch
+{1}{B}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Kakuna (DFC)</related>
 		</card>
@@ -247,8 +247,8 @@ Whenever Beedrill evolves, create two token copies of it except they are 1/1 wit
 			<type>Pokémon - Normal Flying</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{W}: Evolve
-Flying</text>
+			<text>Flying
+{1}{W}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Pidgeotto (DFC)</related>
 		</card>
@@ -402,8 +402,8 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
 			<type>Pokémon - Poison</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{G}: Evolve
-Whenever Nidoran♀ enters the battlefield or evolves, mill three cards, then return a land card from your graveyard to your hand.</text>
+			<text>Whenever Nidoran♀ enters the battlefield or evolves, mill three cards, then return a land card from your graveyard to your hand.
+{1}{G}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Nidorina (DFC)</related>
 		</card>
@@ -447,8 +447,8 @@ Whenever Nidoqueen evolves or attacks, return target permanent card from your gr
 			<type>Pokémon - Poison</type>
 			<pt>3/1</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{B}: Evolve
-Whenever Nidoran♂ attacks, it gains first strike until end of turn.</text>
+			<text>Whenever Nidoran♂ attacks, it gains first strike until end of turn.
+{1}{B}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Nidorino (DFC)</related>
 		</card>
@@ -583,8 +583,8 @@ When you cast Golbat for its evolve cost, target player loses X life and you gai
 			<type>Pokémon - Grass Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{B/G}: Evolve
-Lifelink</text>
+			<text>Lifelink
+{1}{B/G}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Gloom (DFC)</related>
 		</card>
@@ -779,8 +779,8 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
 			<type>Pokémon - Water</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>{U}: Evolve
-Whenever Poliwag evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.</text>
+			<text>Whenever Poliwag evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.
+{U}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Poliwhirl (DFC)</related>
 		</card>
@@ -824,8 +824,8 @@ Whenever a Pokémon becomes the target of a spell or ability, you may change a t
 			<type>Pokémon - Psychic</type>
 			<pt>0/2</pt>
 			<tablerow>2</tablerow>
-			<text>{U/B}{U/B}: Evolve
-Whenever Abra enters the battlefield or evolves, scry 1.</text>
+			<text>Whenever Abra enters the battlefield or evolves, scry 1.
+{U/B}{U/B}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Kadabra (DFC)</related>
 		</card>
@@ -870,8 +870,8 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 			<type>Pokémon - Fighting</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{R/G}{R/G}: Evolve
-{3}{R/G}{R/G}, {T}: Machop fights target Pokémon you don't control. Machop doesn't untap during your next untap step.</text>
+			<text>{3}{R/G}{R/G}, {T}: Machop fights target Pokémon you don't control. Machop doesn't untap during your next untap step.
+{R/G}{R/G}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Machoke (DFC)</related>
 		</card>
@@ -916,8 +916,8 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{G}: Evolve
-{1}{G}: Bellsprout gets +1/+1 until end of turn.</text>
+			<text>{1}{G}: Bellsprout gets +1/+1 until end of turn.
+{G}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Weepinbell (DFC)</related>
 		</card>
@@ -985,8 +985,8 @@ Whenever you scry, you may draw a card. If you do, discard a card.</text>
 			<type>Pokémon - Rock Ground</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{G}: Evolve
-Hexproof from instants</text>
+			<text>Hexproof from instants
+{1}{G}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Graveler (DFC)</related>
 		</card>
@@ -1190,8 +1190,8 @@ Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three targe
 			<type>Pokémon - Ghost Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{B}: Evolve
-Whenever Gastly becomes the target of a spell or ability an opponent controls, exile that spell or ability unless its controller discards a card.</text>
+			<text>Whenever Gastly becomes the target of a spell or ability an opponent controls, exile that spell or ability unless its controller discards a card.
+{B}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Haunter (DFC)</related>
 		</card>
@@ -1792,8 +1792,8 @@ As long as you have no cards in hand, Moltres is obedient.</text>
 			<type>Pokémon - Dragon</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>{R}{G}{W}: Evolve
-Whenever Dratini becomes the target of a spell, put a +1/+1 counter on it and you gain 2 life.</text>
+			<text>Whenever Dratini becomes the target of a spell, put a +1/+1 counter on it and you gain 2 life.
+{R}{G}{W}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Dragonair (DFC)</related>
 		</card>
