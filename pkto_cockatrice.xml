@@ -1,0 +1,3497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_carddatabase version="3">
+	<sets>
+		<set>
+			<name>PKTO</name>
+			<longname>Pokécube: Kanto</longname>
+		</set>
+	</sets>
+	<cards>
+		<!-- Pokémon -->
+		<card>
+			<name>Bulbasaur</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bulbasaur.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<side>front</side>
+			<related attach="attach">Ivysaur (DFC)</related>
+			<text>{T}: Add {G}.
+{1}{G}: Evolve</text>
+		</card>
+		<card>
+			<name>Ivysaur (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/IvysaurDFC.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<type>Pokémon - Grass Poison</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{T}: Add {G}.</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Ivysaur</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ivysaur.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>1GG</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Bulbasaur {1}{G}
+Whenever a Pokémon enters the battlefield under your control, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
+		</card>
+		<card>
+			<name>Venusaur</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Venusaur.png" rarity="rare">PKTO</set>
+			<color>G</color>
+			<manacost>3GG</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Ivysaur {1}{G}{G}
+If one or more counters would be put on a Pokémon you control, you may put that many plus one of each of those kinds of counters on that Pokémon instead.</text>
+		</card>
+		<card>
+			<name>Squirtle</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Squirtle.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<side>front</side>
+			<related attach="attach">Wartortle (DFC)</related>
+			<text>{U}: Squirtle gets +0/+1 until end of turn.
+{1}{U}: Evolve</text>
+		</card>
+		<card>
+			<name>Wartortle (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/WartortleDFC.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<type>Pokémon - Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<side>back</side>
+			<text>{U}: Wartortle gets +0/+1 until end of turn.</text>
+		</card>
+		<card>
+			<name>Wartortle</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Wartortle.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>1UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Squirtle {U}
+Hexproof</text>
+		</card>
+		<card>
+			<name>Blastoise</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Blastoise.png" rarity="rare">PKTO</set>
+			<color>U</color>
+			<manacost>3UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/5</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Wartortle {1}{U}{U}
+You may have each Pokémon you control assign combat damage equal to its toughness rather than its power.</text>
+		</card>
+		<card>
+			<name>Charmander</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Charmander.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>2/1</pt>
+			<tablerow>2</tablerow>
+			<side>front</side>
+			<related attach="attach">Charmeleon (DFC)</related>
+			<text>{1}{R}: Charmander gets +1/+0 until end of turn.
+{1}{R}: Evolve</text>
+		</card>
+		<card>
+			<name>Charmeleon (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/CharmeleonDFC.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<type>Pokémon - Fire</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{R}: Charmeleon gets +1/+0 until end of turn.</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Charmeleon</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Charmeleon.png" rarity="uncommon">PKTO</set>
+			<color>R</color>
+			<manacost>1RR</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Charmander {R}
+Charmeleon has menace as long as it has power greater than or equal to 4.</text>
+		</card>
+		<card>
+			<name>Charizard</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Charizard.png" rarity="rare">PKTO</set>
+			<color>R</color>
+			<manacost>3RR</manacost>
+			<type>Pokémon - Fire Flying</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Charmeleon {1}{R}{R}
+Flying
+Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player or trainer it's attacking.</text>
+		</card>
+		<card>
+			<name>Caterpie</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Caterpie.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Pokémon - Bug</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<side>front</side>
+			<related attach="attach">Metapod (DFC)</related>
+			<text>{1}{G}, {T}: Tap target Pokémon.
+{G}: Evolve</text>
+		</card>
+		<card>
+			<name>Metapod (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/MetapodDFC.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<type>Pokémon - Bug</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{G}, {T}: Tap target Pokémon.</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Metapod</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Metapod.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Pokémon - Bug</type>
+			<pt>1/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Caterpie {G}
+Defender
+Whenever Metapod evolves, it loses defender and you draw a card.</text>
+		</card>
+		<card>
+			<name>Butterfree</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Butterfree.png" rarity="rare">PKTO</set>
+			<color>G</color>
+			<manacost>1GG</manacost>
+			<type>Pokémon - Bug Flying</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Metapod {2}{G}
+Flying
+Whenever Butterfee attacks or blocks, put a stun counter on target Pokémon you don’t control. If Butterfree is evolved, tap that Pokémon.</text>
+		</card>
+		<card>
+			<name>Weedle</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Weedle.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<type>Pokémon - Bug Poison</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>Deathtouch
+{1}{B}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Kakuna (DFC)</related>
+		</card>
+		<card>
+			<name>Kakuna (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/KakunaDFC.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<type>Pokémon - Bug Poison</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Deathtouch</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Kakuna</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kakuna.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Pokémon - Bug Poison</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Weedle {B}
+Defender
+Whenever Kakuna evolves, it loses defender and target player discards a card.</text>
+		</card>
+		<card>
+			<name>Beedrill</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Beedrill.png" rarity="rare">PKTO</set>
+			<color>B</color>
+			<manacost>3BB</manacost>
+			<type>Pokémon - Bug Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Kakuna {2}{B}
+Flying
+Whenever Beedrill evolves, create two token copies of it except they are 1/1 with no mana cost.</text>
+			<related count="2">Beedrill Token</related>
+		</card>
+		<card>
+			<name>Pidgey</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pidgey.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+{1}{W}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Pidgeotto (DFC)</related>
+		</card>
+		<card>
+			<name>Pidgeotto (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/PidgeottoDFC.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<type>Pokémon - Normal Flying</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Flying</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Pidgeotto</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pidgeotto.png" rarity="uncommon">PKTO</set>
+			<color>W</color>
+			<manacost>3W</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Pidgey {W}
+Flying
+Whenever Pidgeotto attacks, another target Pokémon you control gains flying until end of turn.</text>
+		</card>
+		<card>
+			<name>Pidgeot</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pidgeot.png" rarity="rare">PKTO</set>
+			<color>W</color>
+			<manacost>3WW</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Pidgeotto {W}{W}
+Flying
+Pokémon you control have vigilance.</text>
+		</card>
+		<card>
+			<name>Rattata</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rattata.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>First strike
+			Sacrifice Rattata: Destroy target enchantment.</text>
+		</card>
+		<card>
+			<name>Raticate</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Raticate.png" rarity="uncommon">PKTO</set>
+			<color>W</color>
+			<manacost>1WW</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Rattata {1}{W}
+When Raticate dies, you may return target Pokémon card with mana value 2 or less from your graveyard to the battlefield.</text>
+		</card>
+		<card>
+			<name>Spearow</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Spearow.png" rarity="common">PKTO</set>
+			<color>WB</color>
+			<manacost>1{W/B}{W/B}</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>First strike
+Spearow can't be blocked except by Pokémon that share a color with it.</text>
+		</card>
+		<card>
+			<name>Fearow</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Fearow.png" rarity="uncommon">PKTO</set>
+			<color>WB</color>
+			<manacost>{4}{W/B}{W/B}</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>5/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Spearow {2}{W/B}
+Flying
+Prevent all noncombat damage that would be dealt to Fearow.</text>
+		</card>
+		<card>
+			<name>Ekans</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ekans.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>Wither</text>
+		</card>
+		<card>
+			<name>Arbok</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Arbok.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>3B</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Ekans {B}
+If a +1/+1 counter would be put on a Pokémon you don't control, that many -1/-1 counters are put on it instead.</text>
+		</card>
+		<card>
+			<name>Pikachu</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pikachu.png" rarity="uncommon">PKTO</set>
+			<color>RW</color>
+			<manacost>1RW</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>First strike, haste</text>
+		</card>
+		<card>
+			<name>Raichu</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Raichu.png" rarity="rare">PKTO</set>
+			<color>RW</color>
+			<manacost>2RW</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Pikachu {R}{W}
+Whenever Raichu deals combat damage to a Pokémon, it deals damage equal to its power to that Pokémon. If that Pokémon would die this turn, exile it instead.</text>
+		</card>
+		<card>
+			<name>Sandshrew</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Sandshrew.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>2G</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>As long as Sandshrew is tapped, it has protection from each even mana value.</text>
+		</card>
+		<card>
+			<name>Sandslash</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Sandslash.png" rarity="rare">PKTO</set>
+			<color>G</color>
+			<manacost>4G</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Sandshrew {1}{G}
+As long as Sandslash is tapped, it has protection from each odd mana value.</text>
+		</card>
+		<card>
+			<name>Nidoran♀</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/NidoranF.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Nidoran♀ enters the battlefield or evolves, mill three cards, then return a land card from your graveyard to your hand.
+{1}{G}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Nidorina (DFC)</related>
+		</card>
+		<card>
+			<name>Nidorina (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/NidorinaDFC.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<type>Pokémon - Poison</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Nidorina enters the battlefield or evolves, mill three cards, then return a land card from your graveyard to your hand.</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Nidorina</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Nidorina.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>2G</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Nidoran♀ {1}{G}
+Whenever Nidorina evolves, return target Pokémon card or land card from your graveyard to your hand.</text>
+		</card>
+		<card>
+			<name>Nidoqueen</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Nidoqueen.png" rarity="rare">PKTO</set>
+			<color>G</color>
+			<manacost>5GG</manacost>
+			<type>Pokémon - Poison Ground</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Nidorina {1}{G}
+Whenever Nidoqueen evolves or attacks, return target permanent card from your graveyard to your hand. If that card has mana value 3 or less, put it onto the battlefield instead.</text>
+		</card>
+		<card>
+			<name>Nidoran♂</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/NidoranM.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<manacost>2B</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>3/1</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Nidoran♂ attacks, it gains first strike until end of turn.
+{1}{B}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Nidorino (DFC)</related>
+		</card>
+		<card>
+			<name>Nidorino (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/NidorinoDFC.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<type>Pokémon - Poison</type>
+			<pt>4/2</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Nidorino attacks, it gains first strike until end of turn.</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Nidorino</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Nidorino.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>3B</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Nidoran♂ {1}{B}
+Deathtouch
+Whenever Nidorino evolves, if you control no other Pokémon, add {B}{B}{B} and draw a card.</text>
+		</card>
+		<card>
+			<name>Nidoking</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Nidoking.png" rarity="rare">PKTO</set>
+			<color>B</color>
+			<manacost>5BB</manacost>
+			<type>Pokémon - Poison Ground</type>
+			<pt>8/6</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Nidorino {B}{B}{B}
+As long as Nidoking has deathtouch, it must be blocked if able.
+As long as Nidoking has first strike, it has trample.</text>
+		</card>
+		<card>
+			<name>Clefairy</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Clefairy.png" rarity="uncommon">PKTO</set>
+			<color>WB</color>
+			<manacost>1WB</manacost>
+			<type>Pokémon - Fairy</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{T}: Add {W} or {B}.
+{2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon card. Clefairy gains all abilities of that card until end of turn. Put the revealed cards on the bottom of your library in any order.</text>
+		</card>
+		<card>
+			<name>Clefable</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Clefable.png" rarity="rare">PKTO</set>
+			<color>WB</color>
+			<manacost>2WB</manacost>
+			<type>Pokémon - Fairy</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Clefairy {1}{W/B}
+Whenever a player reveals one or more cards, untap Clefable and create a Treasure token.</text>
+			<related>Treasure Token</related>
+		</card>
+		<card>
+			<name>Vulpix</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vulpix.png" rarity="uncommon">PKTO</set>
+			<color>R</color>
+			<manacost>2R</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Vulpix attacks, it gets +1/+0 until end of turn for each other attacking Pokémon you control.</text>
+		</card>
+		<card>
+			<name>Ninetales</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ninetales.png" rarity="rare">PKTO</set>
+			<color>R</color>
+			<manacost>3RR</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Vulpix {R}{R}
+{1}{R}{R}, Discard a card: Gain control of target Pokémon until end of turn. Untap that Pokémon. It gains haste until end of turn. Activate only as a sorcery.</text>
+		</card>
+		<card>
+			<name>Jigglypuff</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Jigglypuff.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<type>Pokémon - Normal Fairy</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Jigglypuff attacks, it gets +1/+1 until end of turn for each tapped Pokémon your opponents control.
+Whenever you cast a Pokémon spell, tap target Pokémon you don't control.</text>
+		</card>
+		<card>
+			<name>Wigglytuff</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Wigglytuff.png" rarity="uncommon">PKTO</set>
+			<color>W</color>
+			<manacost>2WW</manacost>
+			<type>Pokémon - Normal Fairy</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Jigglypuff {1}{W}
+Whenever Wigglytuff deals combat damage to a player, you gain life equal to its power. Then if you've gained 5 or more life this turn, draw a card.</text>
+		</card>
+		<card>
+			<name>Zubat</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Zubat.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Pokémon - Poison Flying</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>Flying, lifelink
+Wither</text>
+		</card>
+		<card>
+			<name>Golbat</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Golbat.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>1BB</manacost>
+			<type>Pokémon - Poison Flying</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Zubat {X}{B}
+Flying
+When you cast Golbat for its evolve cost, target player loses X life and you gain X life.</text>
+		</card>
+		<card>
+			<name>Oddish</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Oddish.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>Lifelink
+{1}{B/G}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Gloom (DFC)</related>
+		</card>
+		<card>
+			<name>Gloom (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/GloomDFC.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<type>Pokémon - Grass Poison</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Lifelink</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Gloom (PKTO)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Gloom.png" rarity="uncommon">PKTO</set>
+			<color>BG</color>
+			<manacost>1{B/G}{B/G}</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Oddish {B/G}
+{B}, {T}: Remove up to two counters from target permanent. If Gloom is evolved, untap it.</text>
+		</card>
+		<card>
+			<name>Vileplume</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vileplume.png" rarity="rare">PKTO</set>
+			<color>BG</color>
+			<manacost>1{B/G}{B/G}{B/G}</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>3/5</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Gloom {B/G}
+Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Paras</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Paras.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Pokémon - Bug Grass</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Paras enters the battlefield or evolves, you may destroy target artifact or enchantment.</text>
+		</card>
+		<card>
+			<name>Parasect</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Parasect.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>3G</manacost>
+			<type>Pokémon - Bug Grass</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Paras {G}
+Whenever a non-Pokémon permanent you don't control leaves the battlefield, double the number of each kind of counter on target permanent.</text>
+		</card>
+		<card>
+			<name>Venonat</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Venonat.png" rarity="common">PKTO</set>
+			<color>GU</color>
+			<manacost>GU</manacost>
+			<type>Pokémon - Bug Poison</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Venonat deals combat damage to a player, draw a card.</text>
+		</card>
+		<card>
+			<name>Venomoth</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Venomoth.png" rarity="uncommon">PKTO</set>
+			<color>GU</color>
+			<manacost>2GU</manacost>
+			<type>Pokémon - Bug Poison</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Venonat {G}{U}
+Flying
+Whenever you draw your second card each turn, you may put a land card from your hand onto the battlefield.</text>
+		</card>
+		<card>
+			<name>Diglett</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Diglett.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>2/1</pt>
+			<tablerow>2</tablerow>
+			<text>You may have Diglett assign its combat damage as though it weren't blocked.</text>
+		</card>
+		<card>
+			<name>Dugtrio</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dugtrio.png" rarity="uncommon">PKTO</set>
+			<color>R</color>
+			<manacost>1RR</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Diglett {1}{R}
+Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do, create a 2/1 red Ground Pokémon token named Diglett.</text>
+			<related>Diglett Token</related>
+		</card>
+		<card>
+			<name>Meowth</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Meowth.png" rarity="uncommon">PKTO</set>
+			<color>WB</color>
+			<manacost>WB</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Meowth deals combat damage to a player, create a Treasure token. If it has first strike, draw a card.</text>
+			<related>Treasure Token</related>
+		</card>
+		<card>
+			<name>Persian</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Persian.png" rarity="rare">PKTO</set>
+			<color>WB</color>
+			<manacost>3WB</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Meowth {W}{B}
+Discard a card: Persian gets +1/+0 and gains first strike and trample until end of turn.</text>
+		</card>
+		<card>
+			<name>Psyduck</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Psyduck.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>If you look at Psyduck while scrying, you may cast it without paying its mana cost.
+When Psyduck enters the battlefield, you may counter target spell.</text>
+		</card>
+		<card>
+			<name>Golduck</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Golduck.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Psyduck {1}{U}
+{1}{U}{U}, {T}: Counter target spell unless its controller pays {2}. If Golduck is evolved, scry 1.</text>
+		</card>
+		<card>
+			<name>Mankey</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mankey.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>2/1</pt>
+			<tablerow>2</tablerow>
+			<text>Reach, haste</text>
+		</card>
+		<card>
+			<name>Primeape</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Primeape.png" rarity="uncommon">PKTO</set>
+			<color>R</color>
+			<manacost>3RR</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Mankey {2}{R}
+Whenever Primeape attacks, destroy up to one target artifact. If Primeape is evolved, it deals 2 damage to that artifact's controller.</text>
+		</card>
+		<card>
+			<name>Growlithe</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Growlithe.png" rarity="uncommon">PKTO</set>
+			<color>RW</color>
+			<manacost>1{R/W}{R/W}</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Growlithe is dealt damage, it deals that much damage to up to one target Pokémon.</text>
+		</card>
+		<card>
+			<name>Arcanine</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Arcanine.png" rarity="rare">PKTO</set>
+			<color>RW</color>
+			<manacost>5{R/W}{R/W}</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>5/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Growlithe {1}{R/W}{R/W}
+Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white Pokémon get +0/+2 until end of turn.</text>
+		</card>
+		<card>
+			<name>Poliwag</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Poliwag.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Poliwag evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.
+{U}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Poliwhirl (DFC)</related>
+		</card>
+		<card>
+			<name>Poliwhirl (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/PoliwhirlDFC.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<type>Pokémon - Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Poliwhirl evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Poliwhirl</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Poliwhirl.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Poliwag {1}{U}
+Whenever Poliwhirl becomes the target of a spell or ability an opponent controls, you may draw a card.</text>
+		</card>
+		<card>
+			<name>Poliwrath</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Poliwrath.png" rarity="rare">PKTO</set>
+			<color>U</color>
+			<manacost>3UU</manacost>
+			<type>Pokémon - Water Fighting</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Poliwhirl {U}{U}
+Whenever a Pokémon becomes the target of a spell or ability, you may change a target of that spell to Poliwrath.</text>
+		</card>
+		<card>
+			<name>Abra</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Abra.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>0/2</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Abra enters the battlefield or evolves, scry 1.
+{U/B}{U/B}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Kadabra (DFC)</related>
+		</card>
+		<card>
+			<name>Kadabra (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/KadabraDFC.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<type>Pokémon - Psychic</type>
+			<pt>1/3</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Kadabra enters the battlefield or evolves, scry 1.</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Kadabra</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kadabra.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>2UB</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Abra {B}
+{T}: Draw a card, then discard a card.</text>
+		</card>
+		<card>
+			<name>Alakazam</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Alakazam.png" rarity="rare">PKTO</set>
+			<color>UB</color>
+			<manacost>4UB</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Kadabra {1}{U}{B}
+{U}{U}: Scry 1.
+If you would scry a number of cards, scry that many cards plus one instead.</text>
+		</card>
+		<card>
+			<name>Machop</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Machop.png" rarity="common">PKTO</set>
+			<color>RG</color>
+			<manacost>{R/G}{R/G}</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{R/G}{R/G}, {T}: Machop fights target Pokémon you don't control. Machop doesn't untap during your next untap step.
+{R/G}{R/G}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Machoke (DFC)</related>
+		</card>
+		<card>
+			<name>Machoke (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/MachokeDFC.png" rarity="common">PKTO</set>
+			<color>RG</color>
+			<type>Pokémon - Fighting</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{3}{R/G}{R/G}, {T}: Machoke fights target Pokémon you don't control. Machoke doesn't untap during your next untap step.</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Machoke</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Machoke.png" rarity="uncommon">PKTO</set>
+			<color>RG</color>
+			<manacost>2{R/G}{R/G}</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Machop {R/G}{R/G}
+Whenever Machoke fights, put a +1/+1 counter on it.</text>
+		</card>
+		<card>
+			<name>Machamp</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Machamp.png" rarity="rare">PKTO</set>
+			<color>RG</color>
+			<manacost>4{R/G}{R/G}</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Machoke {R/G}{R/G}{R/G}
+Menace
+As long as Machamp is evolved, it must be blocked if able.</text>
+		</card>
+		<card>
+			<name>Bellsprout</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bellsprout.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{G}: Bellsprout gets +1/+1 until end of turn.
+{G}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Weepinbell (DFC)</related>
+		</card>
+		<card>
+			<name>Weepinbell (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/WeepinbellDFC.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<type>Pokémon - Grass Poison</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{G}: Weepinbell gets +1/+1 until end of turn.</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Weepinbell</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Weepinbell.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>2GG</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Bellsprout {G}{G}
+Reach
+Wither</text>
+		</card>
+		<card>
+			<name>Victreebel</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Victreebel.png" rarity="rare">PKTO</set>
+			<color>G</color>
+			<manacost>4GG</manacost>
+			<type>Pokémon - Grass Poison</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Weepinbell {G}{G}
+Pokémon without wither get -1/-1.
+{T}: Put a wither counter on another target Pokémon.</text>
+		</card>
+		<card>
+			<name>Tentacool</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Tentacool.png" rarity="common">PKTO</set>
+			<color>UB</color>
+			<manacost>1UB</manacost>
+			<type>Pokémon - Water Poison</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Islandwalk</text>
+		</card>
+		<card>
+			<name>Tentacruel</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Tentacruel.png" rarity="uncommon">PKTO</set>
+			<color>UB</color>
+			<manacost>4UB</manacost>
+			<type>Pokémon - Water Poison</type>
+			<pt>4/6</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Tentacool {1}{U}{B}			
+Nonbasic lands are Islands.
+Whenever you scry, you may draw a card. If you do, discard a card.</text>
+		</card>
+		<card>
+			<name>Geodude</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Geodude.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Pokémon - Rock Ground</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Hexproof from instants
+{1}{G}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Graveler (DFC)</related>
+		</card>
+		<card>
+			<name>Graveler (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/GravelerDFC.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<type>Pokémon - Rock Ground</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>Hexproof from instants</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Graveler</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Graveler.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>2GG</manacost>
+			<type>Pokémon - Rock Ground</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Geodude {G}{G}
+This spell can't be countered.
+Trample</text>
+		</card>
+		<card>
+			<name>Golem (PKTO)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Golem.png" rarity="rare">PKTO</set>
+			<color>G</color>
+			<manacost>4GG</manacost>
+			<type>Pokémon - Rock Ground</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Graveler {G}{G}
+{T}: Golem deals 6 damage to target Pokémon with flying.</text>
+		</card>
+		<card>
+			<name>Ponyta</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ponyta.png" rarity="uncommon">PKTO</set>
+			<color>R</color>
+			<manacost>2R</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Trample</text>
+		</card>
+		<card>
+			<name>Rapidash</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rapidash.png" rarity="uncommon">PKTO</set>
+			<color>R</color>
+			<manacost>4R</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Ponyta {R}
+First strike, haste</text>
+		</card>
+		<card>
+			<name>Slowpoke</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Slowpoke.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Pokémon - Water Psychic</type>
+			<pt>1/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}, {T}: Scry 1. If you put a card on the bottom of your library this way, draw a card.</text>
+		</card>
+		<card>
+			<name>Slowbro</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Slowbro.png" rarity="rare">PKTO</set>
+			<color>UB</color>
+			<manacost>2UUB</manacost>
+			<type>Pokémon - Water Psychic</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Slowpoke {U}{B}
+Whenever you put one or more cards on the bottom of your library, put a +1/+1 counter on Slowbro.</text>
+		</card>
+		<card>
+			<name>Magnemite</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Magnemite.png" rarity="common">PKTO</set>
+			<color />
+			<manacost>1</manacost>
+			<type>Artifact Pokémon - Electric Steel</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>If one or more counters would be put on Magnemite, you may put those counters on another target permanent instead.</text>
+		</card>
+		<card>
+			<name>Magneton</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Magneton.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>3</manacost>
+			<type>Artifact Pokémon - Electric Steel</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Magnemite {1}
+{T}: Move up to three counters from another target permanent onto Magneton.</text>
+		</card>
+		<card>
+			<name>Farfetch'd</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Farfetchd.png" rarity="rare">PKTO</set>
+			<color>GW</color>
+			<manacost>2GW</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>Vigilance, first strike</text>
+		</card>
+		<card>
+			<name>Doduo</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Doduo.png" rarity="uncommon">PKTO</set>
+			<color>RB</color>
+			<manacost>RB</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Menace</text>
+		</card>
+		<card>
+			<name>Dodrio</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dodrio.png" rarity="rare">PKTO</set>
+			<color>RB</color>
+			<manacost>3RB</manacost>
+			<type>Pokémon - Normal Flying</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Doduo {1}{R}{B}
+Double strike, haste</text>
+		</card>
+		<card>
+			<name>Seel</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Seel.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>WW</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever a Pokémon evolves, you gain 2 life.</text>
+		</card>
+		<card>
+			<name>Dewgong</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dewgong.png" rarity="uncommon">PKTO</set>
+			<color>WU</color>
+			<manacost>2WU</manacost>
+			<type>Pokémon - Water Ice</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Seel {W}
+Triggered abilities of evolved Pokémon you control trigger an additional time.</text>
+		</card>
+		<card>
+			<name>Grimer</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Grimer.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{B}, {T}: Put a -1/-1 counter on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Muk</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Muk.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>2BB</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Grimer {B}
+Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Poison Pokémon token named Grimer. If Muk is evolved, create two of those tokens instead.</text>
+			<related>Grimer Token</related>
+			<related count="2">Grimer Token</related>
+		</card>
+		<card>
+			<name>Shellder</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Shellder.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>0/4</pt>
+			<tablerow>2</tablerow>
+			<text>{2}, {T}: Shellder gains indestructible until end of turn.</text>
+		</card>
+		<card>
+			<name>Cloyster</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cloyster.png" rarity="uncommon">PKTO</set>
+			<color>UR</color>
+			<manacost>2UR</manacost>
+			<type>Pokémon - Water Ice</type>
+			<pt>2/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Shellder {U}{R}
+Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three target Pokémon and/or trainers.</text>
+		</card>
+		<card>
+			<name>Gastly</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Gastly.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<type>Pokémon - Ghost Poison</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Gastly becomes the target of a spell or ability an opponent controls, exile that spell or ability unless its controller discards a card.
+{B}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Haunter (DFC)</related>
+		</card>
+		<card>
+			<name>Haunter (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/HaunterDFC.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<type>Pokémon - Ghost Poison</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Haunter becomes the target of a spell or ability an opponent controls, exile that spell or ability unless its controller discards a card.</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Haunter</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Haunter.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>2BB</manacost>
+			<type>Pokémon - Ghost Poison</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Gastly {B}{B}
+Whenever Haunter evolves or deals combat damage to a player, each opponent discards a card.</text>
+		</card>
+		<card>
+			<name>Gengar</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Gengar.png" rarity="rare">PKTO</set>
+			<color>B</color>
+			<manacost>3BB</manacost>
+			<type>Pokémon - Ghost Poison</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Haunter {B}{B}
+Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do, put that card onto the battlefield under your control. If Gengar is evolved, you may pay {B}{B} instead.</text>
+		</card>
+		<card>
+			<name>Onix</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Onix.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<manacost>3R</manacost>
+			<type>Pokémon - Rock Ground</type>
+			<pt>5/2</pt>
+			<tablerow>2</tablerow>
+			<text>Trample
+Whenever Onix attacks, you may discard a card. If you do, draw a card.</text>
+		</card>
+		<card>
+			<name>Drowzee</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Drowzee.png" rarity="uncommon">PKTO</set>
+			<color>UB</color>
+			<manacost>1UB</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>{T}: Tap target Pokémon.</text>
+		</card>
+		<card>
+			<name>Hypno</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Hypno.png" rarity="uncommon">PKTO</set>
+			<color>UB</color>
+			<manacost>2UB</manacost>
+			<type>Pokémon - Psychic</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Drowzee {U}{B}
+Whenever you scry, untap Hypno.</text>
+		</card>
+		<card>
+			<name>Krabby</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Krabby.png" rarity="common">PKTO</set>
+			<color>UR</color>
+			<manacost>1UR</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{R}: Krabby gets +1/+0 and gains first strike until end of turn.</text>
+		</card>
+		<card>
+			<name>Kingler</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kingler.png" rarity="uncommon">PKTO</set>
+			<color>UR</color>
+			<manacost>3UR</manacost>
+			<type>Pokémon - Water</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Krabby {1}{U}{R}
+Kingler has double strike as long as it has first strike.</text>
+		</card>
+		<card>
+			<name>Voltorb</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Voltorb.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>{X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon.
+Haste</text>
+		</card>
+		<card>
+			<name>Electrode</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Electrode.png" rarity="uncommon">PKTO</set>
+			<color>RW</color>
+			<manacost>2RW</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Voltorb {R/W}
+When Electrode dies, you may have it deal 3 damage to each Pokémon and each trainer.</text>
+		</card>
+		<card>
+			<name>Exeggcute</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Exeggcute.png" rarity="common">PKTO</set>
+			<color>BG</color>
+			<manacost>BG</manacost>
+			<type>Pokémon - Grass Psychic</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{B/G}: Regenerate Exeggcute.</text>
+		</card>
+		<card>
+			<name>Exeggutor</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Exeggutor.png" rarity="uncommon">PKTO</set>
+			<color>BG</color>
+			<manacost>2BGG</manacost>
+			<type>Pokémon - Grass Psychic</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Exeggcute {G}{B}
+Reach
+Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that Pokémon and you draw a card.</text>
+		</card>
+		<card>
+			<name>Cubone</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cubone.png" rarity="uncommon">PKTO</set>
+			<color>WG</color>
+			<manacost>1WG</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>3/2</pt>
+			<tablerow>2</tablerow>
+			<text>Vigilance</text>
+		</card>
+		<card>
+			<name>Marowak</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Marowak.png" rarity="rare">PKTO</set>
+			<color>GW</color>
+			<manacost>3GW</manacost>
+			<type>Pokémon - Ground</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Cubone {1}{G}{W}
+{X}{G}{W}, {T}: Marowak deals X to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
+		</card>
+		<card>
+			<name>Hitmonlee</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Hitmonlee.png" rarity="uncommon">PKTO</set>
+			<color>RG</color>
+			<manacost>2RG</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn and it doesn't untap during your next untap step.</text>
+		</card>
+		<card>
+			<name>Hitmonchan</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Hitmonchan.png" rarity="uncommon">PKTO</set>
+			<color>GW</color>
+			<manacost>2GW</manacost>
+			<type>Pokémon - Fighting</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>Flash
+When Hitmonchan enters the battlefield, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. If you do, Hitmonchan deals damage equal to its power to any target.</text>
+		</card>
+		<card>
+			<name>Lickitung</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lickitung.png" rarity="uncommon">PKTO</set>
+			<color>W</color>
+			<manacost>4W</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>3/7</pt>
+			<tablerow>2</tablerow>
+			<text>When Lickitung enters the battlefield, you may choose target Pokémon. If you do, until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can’t be activated.</text>
+		</card>
+		<card>
+			<name>Koffing</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Koffing.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Koffing gets +1/+1 for each -1/-1 counter on all Pokémon.</text>
+		</card>
+		<card>
+			<name>Weezing</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Weezing.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>XXBB</manacost>
+			<type>Pokémon - Poison</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Koffing {X}{B}{B}
+When you cast Weezing, distribute X -1/-1 counters among any number of target Pokémon.</text>
+		</card>
+		<card>
+			<name>Rhyhorn</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rhyhorn.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>3G</manacost>
+			<type>Pokémon - Ground Rock</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Rhyhorn can't be blocked by Pokémon with power 2 or less.
+Whenever Rhyhorn deals combat damage to an opponent, it deals that much damage to target trainer that player controls.</text>
+		</card>
+		<card>
+			<name>Rhydon</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rhydon.png" rarity="rare">PKTO</set>
+			<color>RG</color>
+			<manacost>4RG</manacost>
+			<type>Pokémon - Ground Rock</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Rhyhorn {R}{G}
+As an additional cost to cast Pokémon spells, you may pay any amount of mana. If you do, that Pokémon enters the battlefield with that many additional +1/+1 counters on it.</text>
+		</card>
+		<card>
+			<name>Chansey</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Chansey.png" rarity="rare">PKTO</set>
+			<color>W</color>
+			<manacost>3WW</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>1/12</pt>
+			<tablerow>2</tablerow>
+			<text>Lifelink
+At the beginning of your upkeep, you gain 1 life. Then if you have 40 or more life, you win the game.</text>
+		</card>
+		<card>
+			<name>Tangela</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Tangela.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Pokémon - Grass</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>Landfall - Whenever a land enters the battlefield under your control, put a +1/+1 counter on Tangela.</text>
+		</card>
+		<card>
+			<name>Kangaskhan</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kangaskhan.png" rarity="uncommon">PKTO</set>
+			<color>W</color>
+			<manacost>2WW</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>3/5</pt>
+			<tablerow>2</tablerow>
+			<text>Prevent all damage that would be dealt to attacking Pokémon you control.</text>
+		</card>
+		<card>
+			<name>Horsea</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Horsea.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>1UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{U}, {T}: Target Pokémon loses all abilities until end of turn.</text>
+		</card>
+		<card>
+			<name>Seadra</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Seadra.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>3U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Horsea {1}{U}
+Flash
+Whenever Seadra evolves, untap it.</text>
+		</card>
+		<card>
+			<name>Goldeen</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Goldeen.png" rarity="common">PKTO</set>
+			<color>WU</color>
+			<manacost>{W/U}{W/U}</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever a spell or ability you control counters a spell, you gain 2 life.</text>
+		</card>
+		<card>
+			<name>Seaking</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Seaking.png" rarity="uncommon">PKTO</set>
+			<color>WU</color>
+			<manacost>3{W/U}{W/U}</manacost>
+			<type>Pokémon - Water</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Goldeen {U}{U}
+You may cast Seaking for its Evolve From cost as though it had flash. If you do, you may counter target spell.</text>
+		</card>
+		<card>
+			<name>Staryu</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Staryu.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Staryu attacks or blocks, scry 1.</text>
+		</card>
+		<card>
+			<name>Starmie</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Starmie.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>3UU</manacost>
+			<type>Pokémon - Water Psychic</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Staryu {1}{U}
+Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is evolved, untap it.</text>
+		</card>
+		<card>
+			<name>Mr. Mime</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mr.%20Mime.png" rarity="uncommon">PKTO</set>
+			<color>W</color>
+			<manacost>2WW</manacost>
+			<type>Pokémon - Psychic Fairy</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Pokémon can't attack you or trainers you control unless their controller pays {1} for each Pokémon they control that's attacking.</text>
+		</card>
+		<card>
+			<name>Scyther</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Scyther.png" rarity="uncommon">PKTO</set>
+			<color>RG</color>
+			<manacost>2RG</manacost>
+			<type>Pokémon - Bug Flying</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Double strike</text>
+		</card>
+		<card>
+			<name>Jynx</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Jynx.png" rarity="rare">PKTO</set>
+			<color>UB</color>
+			<manacost>3UB</manacost>
+			<type>Pokémon - Ice Psychic</type>
+			<pt>4/3</pt>
+			<tablerow>2</tablerow>
+			<text>{2}{U}{B}, {T}: Scry 2, then draw a card. You lose 2 life.</text>
+		</card>
+		<card>
+			<name>Electabuzz</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Electabuzz.png" rarity="uncommon">PKTO</set>
+			<color>RW</color>
+			<manacost>3RW</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Electabuzz attacks for the first time each turn, there is an additional combat phase after this one. Untap all Pokémon you control that attacked this turn at the beginning of that combat.</text>
+		</card>
+		<card>
+			<name>Magmar</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Magmar.png" rarity="rare">PKTO</set>
+			<color>R</color>
+			<manacost>4R</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{R}, {T}: Magmar deals 2 damage to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
+		</card>
+		<card>
+			<name>Pinsir</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pinsir.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>4G</manacost>
+			<type>Pokémon - Bug</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>Trample</text>
+		</card>
+		<card>
+			<name>Tauros</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Tauros.png" rarity="uncommon">PKTO</set>
+			<color>RG</color>
+			<manacost>3{R/G}{R/G}</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>6/4</pt>
+			<tablerow>2</tablerow>
+			<text>Trample</text>
+		</card>
+		<card>
+			<name>Magikarp</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Magikarp.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Pokémon - Water</type>
+			<pt>0/1</pt>
+			<tablerow>2</tablerow>
+			<text>{T}: Flip a coin. If you win the flip, remove Magikarp from combat.</text>
+		</card>
+		<card>
+			<name>Gyarados</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Gyarados.png" rarity="mythic">PKTO</set>
+			<color>UR</color>
+			<manacost>5URR</manacost>
+			<type>Pokémon - Water Flying</type>
+			<pt>10/10</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Magikarp {4}{U}{R}
+Whenever Gyarados evolves, it deals 6 damage divided as you choose among any number of target Pokémon and/or trainers.</text>
+		</card>
+		<card>
+			<name>Lapras</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lapras.png" rarity="rare">PKTO</set>
+			<color>WU</color>
+			<manacost>2WU</manacost>
+			<type>Pokémon - Water Ice</type>
+			<pt>3/6</pt>
+			<tablerow>2</tablerow>
+			<text>Sacrifice Lapras: Each opponent sacrifices a Pokémon.
+When Lapras dies, you gain 3 life.</text>
+		</card>
+		<card>
+			<name>Ditto</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ditto.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost>2</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>0/2</pt>
+			<tablerow>2</tablerow>
+			<text>{3}: Ditto becomes a copy of target permanent, except its name is Ditto.</text>
+		</card>
+		<card>
+			<name>Eevee</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Eevee.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>You may pay {W}{U}{B}{R}{G} less to evolve Pokémon. This effect can't reduce the mana in that cost by more than one mana.</text>
+		</card>
+		<card>
+			<name>Vaporeon</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vaporeon.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<type>Pokémon - Water</type>
+			<pt>3/5</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Eevee {3}{U}
+Whenever a Pokémon you control evolves, scry 1 and draw a card.</text>
+		</card>
+		<card>
+			<name>Jolteon</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Jolteon.png" rarity="uncommon">PKTO</set>
+			<color>RW</color>
+			<manacost>2RW</manacost>
+			<type>Pokémon - Electric</type>
+			<pt>5/3</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Eevee {3}{R/W}
+Whenever a Pokémon you control evolves, Pokémon you control get +1/+1 until end of turn.</text>
+		</card>
+		<card>
+			<name>Flareon</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Flareon.png" rarity="uncommon">PKTO</set>
+			<color>R</color>
+			<manacost>2RR</manacost>
+			<type>Pokémon - Fire</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Eevee {3}{R}
+Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you choose among any number of target Pokémon.</text>
+		</card>
+		<card>
+			<name>Porygon</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Porygon.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost>3</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever a player casts a spell,  Porygon becomes that spell’s colors.
+Porygon has lifelink as long as it's white. The same is true for hexproof and blue, wither and black, menace and red, and reach and green.</text>
+		</card>
+		<card>
+			<name>Omanyte</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Omanyte.png" rarity="uncommon">PKTO</set>
+			<color>UR</color>
+			<manacost>1UR</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{U}{U}: Copy target instant spell with mana value 2 or less. You may choose new targets for the copy. 
+Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
+		</card>
+		<card>
+			<name>Omastar</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Omastar.png" rarity="rare">PKTO</set>
+			<color>UR</color>
+			<manacost>2URR</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>5/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Omanyte {U}{R}
+{1}{R}{R}, {T}: Omastar deals 3 damage to any target.</text>
+		</card>
+		<card>
+			<name>Kabuto</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kabuto.png" rarity="uncommon">PKTO</set>
+			<color>GU</color>
+			<manacost>1GU</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>2/3</pt>
+			<tablerow>2</tablerow>
+			<text>{1}{U}{U}: Scry 2.
+Fossil—{2}{G}{U}, Exile three other cards from your graveyard.</text>
+		</card>
+		<card>
+			<name>Kabutops</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Kabutops.png" rarity="rare">PKTO</set>
+			<color>GU</color>
+			<manacost>2GGU</manacost>
+			<type>Pokémon - Rock Water</type>
+			<pt>4/5</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Kabuto {G}{U}
+{1}{G}{G}, {T}: Kabutops fights target Pokémon.</text>
+		</card>
+		<card>
+			<name>Aerodactyl</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Aerodactyl.png" rarity="rare">PKTO</set>
+			<color>RG</color>
+			<manacost>1RG</manacost>
+			<type>Pokémon - Rock Flying</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text>Flying, haste
+Fossil—{2}{R}{G}, Exile three other cards from your graveyard.</text>
+		</card>
+		<card>
+			<name>Snorlax</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Snorlax.png" rarity="rare">PKTO</set>
+			<color>W</color>
+			<manacost>1WW</manacost>
+			<type>Pokémon - Normal</type>
+			<pt>5/5</pt>
+			<tablerow>2</tablerow>
+			<text>Snorlax enters the battlefield tapped.
+Snorlax doesn't untap during your untap step.
+Whenever you gain life, untap Snorlax.</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Articuno</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Articuno.png" rarity="mythic">PKTO</set>
+			<color>UW</color>
+			<manacost>{U/W}{U/W}{U/W}{U/W}</manacost>
+			<type>Legendary Pokémon - Ice Flying</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+Articuno can't attack or block unless it is obedient.
+Tap 4 other untapped nonland permanents you control: Articuno becomes obedient.</text>
+		</card>
+		<card>
+			<name>Zapdos</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Zapdos.png" rarity="mythic">PKTO</set>
+			<color>RW</color>
+			<manacost>{R/W}{R/W}{R/W}{R/W}</manacost>
+			<type>Legendary Pokémon - Electric Flying</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+Zapdos can't attack or block unless it is obedient.
+Whenever you attack with three or more Pokémon, Zapdos becomes obedient.</text>
+		</card>
+		<card>
+			<name>Moltres</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Moltres.png" rarity="mythic">PKTO</set>
+			<color>BR</color>
+			<manacost>{B/R}{B/R}{B/R}{B/R}</manacost>
+			<type>Legendary Pokémon - Fire Flying</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+Moltres can't attack or block unless it is obedient.
+As long as you have no cards in hand, Moltres is obedient.</text>
+		</card>
+		<card>
+			<name>Dratini</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dratini.png" rarity="uncommon">PKTO</set>
+			<color>RGW</color>
+			<manacost>RGW</manacost>
+			<type>Pokémon - Dragon</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Dratini becomes the target of a spell, put a +1/+1 counter on it and you gain 2 life.
+{R}{G}{W}: Evolve</text>
+			<side>front</side>
+			<related attach="attach">Dragonair (DFC)</related>
+		</card>
+		<card>
+			<name>Dragonair (DFC)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/DragonairDFC.png" rarity="uncommon">PKTO</set>
+			<color>RGW</color>
+			<type>Pokémon - Dragon</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Whenever Dragonair becomes the target of a spell, put a +1/+1 counter on it and you gain 2 life.</text>
+			<side>back</side>
+		</card>
+		<card>
+			<name>Dragonair</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dragonair.png" rarity="rare">PKTO</set>
+			<color>RGW</color>
+			<manacost>2RGW</manacost>
+			<type>Pokémon - Dragon</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Dratini {R}{G}{W}
+Spells your opponents cast that target Pokémon you control cost {X} more to cast, where X is one plus the number of times Dragonair has evolved.</text>
+		</card>
+		<card>
+			<name>Dragonite</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dragonite.png" rarity="mythic">PKTO</set>
+			<color>RGW</color>
+			<manacost>4RRGGWW</manacost>
+			<type>Pokémon - Dragon Flying</type>
+			<pt>6/6</pt>
+			<tablerow>2</tablerow>
+			<text>Evolve From Dragonair {3}{R}{G}{W}
+Flying, vigilance, haste
+Hexproof from trainers</text>
+		</card>
+		<card>
+			<name>Mewtwo</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mewtwo.png" rarity="mythic">PKTO</set>
+			<color>UBR</color>
+			<manacost>5UBR</manacost>
+			<type>Legendary Pokémon - Psychic</type>
+			<pt>7/4</pt>
+			<tablerow>2</tablerow>
+			<text>When Mewtwo enters the battlefield, create a token copy of each Pokémon you don't control, except they are 2/2 Clones.
+When Mewtwo dies, return it to the battlfield transformed.</text>
+			<related attach="attach">Mewtwo, Redeemed</related>
+			<related>Clone Token</related>
+			<related>Clone Token(a)</related>
+			<related>Clone Token(b)</related>
+		</card>
+		<card>
+			<name>Mewtwo, Redeemed</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/MewtwoRedeemed.png" rarity="mythic">PKTO</set>
+			<color>WUR</color>
+			<manacost />
+			<type>Legendary Pokémon - Psychic</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+Each other Pokémon you control gets +2/+2 if it shares a color with a Pokémon an opponent controls.</text>
+		</card>
+		<card>
+			<name>Mew</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mew.png" rarity="mythic">PKTO</set>
+			<color>GWU</color>
+			<manacost>GWU</manacost>
+			<type>Legendary Pokémon - Psychic</type>
+			<pt>3/3</pt>
+			<tablerow>2</tablerow>
+			<text>Flying
+Pokémoncycling {3}
+When you cycle Mew, shuffle it into your library.</text>
+		</card>
+		<!-- trainer cards -->
+		<card>
+			<name>Red</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Red.png" rarity="mythic">PKTO</set>
+			<color>RW</color>
+			<manacost>3R{R/W}W</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Red</type>
+			<loyalty>4</loyalty>
+			<text>[+1]: Exile the top two cards of your library. Until end of turn, you may cast Pokémon cards exiled this way.
+[−3]: Create Red's Pikachu, a legendary 4/4 red and white Electric Pokémon token with first strike, lifelink, and haste.
+[−7]: You may put any number of Pokémon cards from your hand onto the battlefield.</text>
+			<related>Red's Pikachu</related>
+		</card>
+		<card>
+			<name>Blue</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Blue.png" rarity="mythic">PKTO</set>
+			<color>UR</color>
+			<manacost>2UR</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Blue</type>
+			<loyalty>4</loyalty>
+			<text>At the beginning of your upkeep, if a player attacked you last turn, draw a card.
+[+1]: If a player controls more Pokémon than you, the next Pokémon spell you cast this turn costs {X} less to cast, where X is equal to the difference.
+[-3]: Create a token copy of target Pokémon you don’t control, except it has haste. Exile it at the beginning of the next end step.</text>
+		</card>
+		<card>
+			<name>Green</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Green.png" rarity="mythic">PKTO</set>
+			<color>GU</color>
+			<manacost>2GU</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Green</type>
+			<loyalty>4</loyalty>
+			<text>You may spend mana as though it were mana of any color to evolve Pokémon.
+[+1]: Reveal the top card of your library. If it's an artifact card, put it onto the battlefield. Otherwise, put it into your hand.
+[−3]: Search your library for a Pokémon card with Evolve From, reveal it, and put it into your hand. You may evolve it without paying its mana cost this turn. Then shuffle.</text>
+		</card>
+		<card>
+			<name>Brock</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Brock.png" rarity="mythic">PKTO</set>
+			<color>RG</color>
+			<manacost>2RG</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Brock</type>
+			<loyalty>3</loyalty>
+			<text>[+1]: Add {R} or {G}. Pokémon spells you cast this turn can't be countered.
+[+1]: Draw a card if you control a Pokémon with power 4 or greater.
+[−7]: You get an emblem with "Whenever a Pokémon you control is dealt damage, it deals that much damage to that source’s controller."</text>
+			<related>Brock (Emblem)</related>
+		</card>
+		<card>
+			<name>Misty</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Misty.png" rarity="mythic">PKTO</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Misty</type>
+			<loyalty>4</loyalty>
+			<text>Whenever a spell or ability you control counters a spell, put two loyalty counters on Misty.
+[-2]: Draw a card.
+[−3]: Each player chooses a Pokémon they don't control and gains control of it.</text>
+		</card>
+		<card>
+			<name>Lt. Surge</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lt.%20Surge.png" rarity="mythic">PKTO</set>
+			<color>RW</color>
+			<manacost>2RW</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Surge</type>
+			<loyalty>4</loyalty>
+			<text>[+1]: Pokémon you control get +1/+0 and gain haste until end of turn.
+[−2]: Pokémon you control with first strike gain double strike until end of turn, then Pokémon you control gain first strike until end of turn.
+[−4]: Untap all Pokémon you control that attacked this turn. After this main phase, there is an additional combat phase. </text>
+		</card>
+		<card>
+			<name>Erika</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Erika.png" rarity="mythic">PKTO</set>
+			<color>G</color>
+			<manacost>2GG</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Erika</type>
+			<loyalty>3</loyalty>
+			<text>[+1]: Create a 1/1 green Grass Poison Pokémon token with lifelink named Oddish.
+[-2]: Destroy target artifact or enchantment.
+[−X]: Pokémon you control get +X/+X until end of turn.</text>
+			<related>Oddish Token</related>
+		</card>
+		<card>
+			<name>Koga</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Koga.png" rarity="mythic">PKTO</set>
+			<color>B</color>
+			<manacost>1BB</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Koga</type>
+			<loyalty>3</loyalty>
+			<text>[+1]: Up to one target Pokémon gets +2/+0 and gains wither until end of turn.
+[-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
+[−6]: You get an emblem with "Pokémon you control have '{B}: This Pokémon can't be blocked this turn.'"</text>
+			<related>Koga (Emblem)</related>
+		</card>
+		<card>
+			<name>Sabrina</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Sabrina.png" rarity="mythic">PKTO</set>
+			<color>UB</color>
+			<manacost>2{U/B}U</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Sabrina</type>
+			<loyalty>5</loyalty>
+			<text>[+1]: Look at the top card of each opponent's library. Then scry 1.
+[-3]: Search your library for a card, then shuffle and put that card second from the top.
+[-8]: Take an extra turn after this one.</text>
+		</card>
+		<card>
+			<name>Blaine</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Blaine.png" rarity="mythic">PKTO</set>
+			<color>R</color>
+			<manacost>2R</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Blaine</type>
+			<loyalty>3</loyalty>
+			<text>[+1]: You may discard a card. If you do, draw a card.
+[-2]: Blaine deals damage to target Pokémon equal to the number of Mountains you control.
+[-3]: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.</text>
+		</card>
+		<card>
+			<name>Giovanni</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Giovanni.png" rarity="mythic">PKTO</set>
+			<color>B</color>
+			<manacost>3BB</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Giovanni</type>
+			<loyalty>4</loyalty>
+			<text>[+1]: Target player draws a card and loses 1 life.
+[-2]: Each player sacrifices a Pokémon or trainer.
+[-6]: Search target opponent's library for a Pokémon card and put that card onto the battlefield under your control. Then that player shuffles.</text>
+		</card>
+		<card>
+			<name>Professor Oak</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Professor%20Oak.png" rarity="mythic">PKTO</set>
+			<color >W</color>
+			<manacost>3WW</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Oak</type>
+			<loyalty>4</loyalty>
+			<text>[+1]: Choose a Pokémon. Until your next turn, whenever that Pokémon attacks, draw a card.
+[-3]: Exile target Pokémon with power 4 or greater.
+[-7]: You get an emblem with "Pokémon you control have indestructible."</text>
+			<related>Professor Oak (Emblem)</related>
+		</card>
+		<card>
+			<name>Lorelei</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lorelei.png" rarity="mythic">PKTO</set>
+			<color>WU</color>
+			<manacost>1{W/U}{W/U}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Lorelei</type>
+			<loyalty>4</loyalty>
+			<text>Whenever you gain life, put a loyalty counter on Lorelei.
+[0]: Tap or untap up to one target Pokémon. You gain 1 life.
+[-X]: Put a Water and/or Ice Pokémon card with mana value X from your hand onto the battlefield.</text>
+		</card>
+		<card>
+			<name>Bruno</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bruno.png" rarity="mythic">PKTO</set>
+			<color>RG</color>
+			<manacost>1{R/G}{R/G}</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Bruno</type>
+			<loyalty>3</loyalty>
+			<text>Whenever you attack, put a loyalty counter on Bruno.
+[-1]: Put a +1/+1 counter on target Pokémon.
+[-2]: Target Pokémon you control fights target Pokémon.</text>
+		</card>
+		<card>
+			<name>Agatha</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Agatha.png" rarity="mythic">PKTO</set>
+			<color>BU</color>
+			<manacost>2{U/B}B</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Agatha</type>
+			<loyalty>3</loyalty>
+			<text>Whenever a Pokémon with a soulbind counter on it dies, exile it. Create a token copy of it, except it's a Ghost.      
+[+1]: Put a soulbind counter on up to one target nontoken Pokémon.
+[-2]: You may sacrifice a nontoken Pokémon. If you do, draw two cards.</text>
+		</card>
+		<card>
+			<name>Lance (PKTO)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lance.png" rarity="mythic">PKTO</set>
+			<color>RGW</color>
+			<manacost>4RGW</manacost>
+			<tablerow>1</tablerow>
+			<type>Legendary Trainer - Lance</type>
+			<loyalty>4</loyalty>
+			<text>[+1]: Lance deals 3 damage to up to one target Pokémon. You gain 3 life.
+[-3]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying, vigilance, and indestructible.
+[-8]: Gain control of all Pokémon.</text>
+		</card>
+		<!-- sorceries/instants -->
+		<card>
+			<name>Bill</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bill.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>2U</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Draw two cards.</text>
+		</card>
+		<card>
+			<name>Poké Ball</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9%20Ball.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Exile the top three cards of your library. Until the end of your next turn, you may cast Pokémon cards exiled this way.</text>
+		</card>
+		<card>
+			<name>Great Ball</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Great%20Ball.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Scry 3. You may reveal the top card of your library. If a Pokémon card is revealed this way, you may put it into your hand.</text>
+		</card>
+		<card>
+			<name>Safari Ball</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Safari%20Ball.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>2G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Look at the top six cards of your library. Put up to one Pokémon card with mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+		</card>
+		<card>
+			<name>Ultra Ball</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ultra%20Ball.png" rarity="rare">PKTO</set>
+			<color>W</color>
+			<manacost>3W</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for a Pokémon card with mana value lesser than or equal to the highest mana value among Pokémon target opponent controls. Put that card onto the battlefield, then shuffle.</text>
+		</card>
+		<card>
+			<name>Master Ball</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Master%20Ball.png" rarity="mythic">PKTO</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for a Pokémon card, reveal it, put it into your hand, then shuffle.</text>
+		</card>
+		<card>
+			<name>Switch</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Switch.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Choose target Pokémon you control. Reveal a Pokémon card with equal or lesser mana value from your hand. If you do, return the chosen Pokémon to your hand and put the revealed card onto the battlefield.</text>
+		</card>
+		<card>
+			<name>Poké Flute</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9%20Flute.png" rarity="uncommon">PKTO</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Untap all Pokémon you control. Pokémon untapped this way get +1/+1 until end of turn.</text>
+		</card>
+		<card>
+			<name>Old Rod</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Old%20Rod.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>XU</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search target opponent's library for a Pokémon card with mana value X or less and put that card onto the battlefield under your control. Then that player shuffles. X can't be greater than 3.</text>
+		</card>
+		<card>
+			<name>Revive (PKTO)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Revive.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<manacost>B</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Return target Pokémon card with mana value 3 or less from your graveyard to the battlefield.</text>
+		</card>
+		<card>
+			<name>Max Revive</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Max%20Revive.png" rarity="rare">PKTO</set>
+			<color>WB</color>
+			<manacost>3{W/B}{W/B}</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Return target Pokémon card from your graveyard to the battlefield.</text>
+		</card>
+		<card>
+			<name>Energy Search</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Energy%20Search.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+		</card>
+		<card>
+			<name>Mysterious Fossil</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mysterious%20Fossil.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>1</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{2}, {T}, Sacrifice Mysterious Fossil: Search your library and/or graveyard for a Pokémon card with fossil and put it onto the battlefield. If you search your library this way, shuffle. Activate only during your turn.</text>
+		</card>
+		<card>
+			<name>Explore</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Explore.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>You may play an additional land this turn.
+Draw a card.</text>
+		</card>
+		<card>
+			<name>Revitalize</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Revitalize.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>1W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>You gain 3 life.
+Draw a card.</text>
+		</card>
+		<card>
+			<name>Show of Force</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Show%20of%20Force.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Show of Force deals 1 damage to each Pokémon without flying.
+Draw a card.</text>
+		</card>
+		<card>
+			<name>Investigate</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Investigate.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Scry 2, then draw a card.</text>
+		</card>
+		<card>
+			<name>Potion</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Potion.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon you control gains indestructible until end of turn. Prevent all damage that Pokémon would deal this turn.
+You gain 1 life.</text>
+		</card>
+		<card>
+			<name>Lemonade</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lemonade.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>WW</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Put a +1/+1 counter on target Pokémon. That Pokémon gains indestructible until end of turn.</text>
+		</card>
+		<card>
+			<name>Growth</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Growth.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>2G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+		</card>
+		<card>
+			<name>X Attack</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/X%20Attack.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gets +3/+0 and gains haste until end of turn.</text>
+		</card>
+		<card>
+			<name>X Defense</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/X%20Defense.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>U</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon gets +0/+4 until end of turn. Untap it. At this turn's next end of combat, tap each Pokémon that was blocked by that Pokémon this turn and they don't untap during their controller's next untap step.</text>
+		</card>
+		<card>
+			<name>Guard Spec.</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Guard%20Spec.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Put a +1/+1 counter on target Pokémon you control. It gains hexproof until end of turn.</text>
+		</card>
+		<card>
+			<name>Antidote</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Antidote.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon you control gets +1/+2 until end of turn. Remove all counters from it. You gain life equal to twice the number of counters removed this way.</text>
+		</card>
+		<card>
+			<name>Turn to Stone</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Turn%20to%20Stone.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<manacost>1BB</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Destroy target Pokémon or trainer.</text>
+		</card>
+		<card>
+			<name>Dowsing Machine</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dowsing%20Machine.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>2</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{T}, Put a charge counter on Dowsing Machine: Scry 1.
+{2}, {T}, Put a charge counter on Dowsing Machine: Draw a card.
+When there are four or more charge counters on Dowsing Machine, sacrifice it.</text>
+		</card>
+		<card>
+			<name>Body Slam</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Body%20Slam.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon you control fights target Pokémon you don't control. If the Pokémon you control has trample, excess damage is dealt to that Pokémon's controller instead.</text>
+		</card>
+		<card>
+			<name>Slash</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Slash.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Slash deals 4 damage to target Pokémon.</text>
+		</card>
+		<card>
+			<name>Whirlwind (PKTO)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Whirlwind.png" rarity="common">PKTO</set>
+			<color>WU</color>
+			<manacost>{W/U}</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Return target Pokémon or trainer to its owner's hand. Its controller draws a card.</text>
+		</card>
+		<card>
+			<name>Sing</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Sing.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Tap all Pokémon target player controls. Those Pokémon don't untap during that player's next untap step.</text>
+		</card>
+		<card>
+			<name>Swift</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swift.png" rarity="rare">PKTO</set>
+			<color>WB</color>
+			<manacost>1WB</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Destroy target nonland permanent.</text>
+		</card>
+		<card>
+			<name>Disable</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Disable.png" rarity="uncommon">PKTO</set>
+			<color>UB</color>
+			<manacost>U{U/B}</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player’s graveyard. That player can’t cast spells with the same name as that spell until the end of their next turn.</text>
+		</card>
+		<card>
+			<name>Ember</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ember.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Ember deals 2 damage to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
+		</card>
+		<card>
+			<name>Gust</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Gust.png" rarity="common">PKTO</set>
+			<color>GW</color>
+			<manacost>{G/W}</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Gust deals 2 damage to target attacking Pokémon. If that Pokémon has flying, Gust deals 6 damage instead.</text>
+		</card>
+		<card>
+			<name>Slam</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Slam.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>2W</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Destroy target tapped Pokémon.</text>
+		</card>
+		<card>
+			<name>Poison Sting</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Poison%20Sting.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Put a -1/-1 counter on target Pokémon.
+Draw a card.</text>
+		</card>
+		<card>
+			<name>Glare</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Glare.png" rarity="common">PKTO</set>
+			<color>R</color>
+			<manacost>R</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon can't block this turn.
+Draw a card.</text>
+		</card>
+		<card>
+			<name>Flash (PKTO)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Flash.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>All Pokémon get -3/-0 until end of turn.
+Draw a card.</text>
+		</card>
+		<card>
+			<name>Night Shade</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Night%20Shade.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Destroy target nonblack Pokémon.</text>
+		</card>
+		<card>
+			<name>Aurora Beam</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Aurora%20Beam.png" rarity="rare">PKTO</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Exile target Pokémon. Its controller gains life equal to its power.</text>
+		</card>
+		<card>
+			<name>Tackle</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Tackle.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>3W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Destroy target attacking or blocking Pokémon.</text>
+		</card>
+		<card>
+			<name>Toxic</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Toxic.png" rarity="rare">PKTO</set>
+			<color>B</color>
+			<manacost>2BB</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>All Pokémon get -4/-4 until end of turn.</text>
+		</card>
+		<card>
+			<name>Blizzard (PKTO)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Blizzard.png" rarity="rare">PKTO</set>
+			<color>WU</color>
+			<manacost>1WWU</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>This spell can't be countered.
+Destroy all Pokémon.</text>
+		</card>
+		<card>
+			<name>Reflect</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Reflect.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Counter target non-Pokémon spell.</text>
+		</card>
+		<card>
+			<name>Fire Blast</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Fire%20Blast.png" rarity="rare">PKTO</set>
+			<color>R</color>
+			<manacost>2RR</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>This spell can't be countered as long as you control a Fire Pokémon.
+Fire Blast deals 5 damage to target Pokémon.
+Overload {2}{R}{R}, Reveal a red Pokémon card from your hand.
+			</text>
+		</card>
+		<card>
+			<name>Solar Beam</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Solar%20Beam.png" rarity="rare">PKTO</set>
+			<color>G</color>
+			<manacost>2GG</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>This spell costs {G} less to cast as long as you control a Grass Pokémon.
+Destroy target artifact, target enchantment, target trainer, or target token.
+Overload {2}{G}{G}, Reveal a green Pokémon card from your hand.
+			</text>
+		</card>
+		<card>
+			<name>Hydro Pump</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Hydro%20Pump.png" rarity="rare">PKTO</set>
+			<color>U</color>
+			<manacost>2UU</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>This spell has flash as long as you control a Water Pokémon.
+The owner of target nonland permanent puts it on the top or bottom of their library.
+Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
+			</text>
+		</card>
+		<card>
+			<name>Release</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Release.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>1U</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Counter target Pokémon spell.</text>
+		</card>
+		<card>
+			<name>Vine Whip</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vine%20Whip.png" rarity="common">PKTO</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.</text>
+		</card>
+		<card>
+			<name>Guillotine</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Guillotine.png" rarity="uncommon">PKTO</set>
+			<color>BG</color>
+			<manacost>1BG</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>This spell can't be countered.
+Target Pokémon or trainer loses indestructible. Destroy it. It can't be regenerated.</text>
+		</card>
+		<card>
+			<name>Substitute</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Substitute.png" rarity="common">PKTO</set>
+			<color>W</color>
+			<manacost>W</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Choose one —
+• Target Pokémon you control gains hexproof from the color of your choice until end of turn. 
+• Target attacking Pokémon becomes blocked.</text>
+		</card>
+		<card>
+			<name>Pilfer</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pilfer.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.</text>
+		</card>
+		<card>
+			<name>Mirror Move</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mirror%20Move.png" rarity="uncommon">PKTO</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Copy target instant spell, sorcery spell, or activated ability. You may choose new targets for the copy.</text>
+		</card>
+		<card>
+			<name>Double Kick</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Double Kick.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Choose target Pokémon you control. It fights target Pokémon you don't control, then fights target Pokémon you don't control.</text>
+		</card>
+		<card>
+			<name>Prepare for Trouble</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Prepare%20for%20Trouble.png" rarity="common">PKTO</set>
+			<color>B</color>
+			<manacost>BB</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Target player draws two cards and loses 2 life.</text>
+		</card>
+		<card>
+			<name>Razor Leaf</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Razor%20Leaf.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Target Pokémon you control deals damage equal to its power to target Pokémon you don't control. If the Pokémon you don't control has flying, destroy it instead.</text>
+		</card>
+		<card>
+			<name>Water Gun</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Water%20Gun.png" rarity="common">PKTO</set>
+			<color>U</color>
+			<manacost>XU</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Counter target spell with mana value X.</text>
+		</card>
+		<card>
+			<name>Petal Dance</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Petal%20Dance.png" rarity="rare">PKTO</set>
+			<color>G</color>
+			<manacost>3G</manacost>
+			<type>Enchantment</type>
+			<tablerow>1</tablerow>
+			<text>At the beginning of your end step, untap all permanents you control.</text>
+		</card>
+		<card>
+			<name>Dig</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dig.png" rarity="uncommon">PKTO</set>
+			<color>R</color>
+			<manacost>3R</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Create two 2/1 red Ground Pokémon tokens named Diglett.</text>
+			<related count="2">Diglett Token</related>
+		</card>
+		<card>
+			<name>Skull Bash</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Skull%20Bash.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>2B</manacost>
+			<type>Sorcery</type>
+			<tablerow>3</tablerow>
+			<text>Target player discards two cards. Pokémon you control gain menace until end of turn.</text>
+		</card>
+		<card>
+			<name>Psychic</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Psychic.png" rarity="rare">PKTO</set>
+			<color>B</color>
+			<manacost>3BB</manacost>
+			<type>Instant</type>
+			<tablerow>3</tablerow>
+			<text>Exile target Pokémon. Its controller discards a card at random.</text>
+		</card>
+		<!-- evolution stones -->
+		<card>
+			<name>Thunder Stone</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Thunder%20Stone.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>3</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {W}.
+Whenever a Pokémon you control evolves, you gain 1 life.
+Sacrifice Thunder Stone: Destroy target artifact or enchantment.</text>
+		</card>
+		<card>
+			<name>Leaf Stone</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Leaf%20Stone.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>3</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {G}.
+Whenever a Pokémon you control evolves, untap target land.
+Sacrifice Leaf Stone: Add {G}{G}.</text>
+		</card>
+		<card>
+			<name>Water Stone</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Water%20Stone.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>3</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {U}.
+Whenever a Pokémon you control evolves, target Pokémon gets -2/-0 until your next turn.
+Sacrifice Water Stone: Scry 3.</text>
+		</card>
+		<card>
+			<name>Fire Stone</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Fire%20Stone.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>3</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {R}.
+Whenever a Pokémon you control evolves, Fire Stone deals 1 damage to target player.
+Sacrifice Fire Stone: Fire Stone deals 2 damage to target Pokémon or trainer.</text>
+		</card>
+		<card>
+			<name>Moon Stone</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Moon%20Stone.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>3</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{T}: Add {B}.
+Whenver a Pokémon you control evolves, reveal the top card of your library. You may put that card into your graveyard.
+Sacrifice Moon Stone: Create a Treasure token.</text>
+			<related>Treasure Token</related>
+		</card>
+		<!-- misc artifacts -->
+		<card>
+			<name>Ancient Slab</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ancient%20Slab.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>2</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}: Add one mana of any color.</text>
+		</card>
+		<card>
+			<name>Pokémon Storage System</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9mon%20Storage%20System.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>4</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>At the beginning of each opponent's upkeep, exile all cards from your hand face down.
+At the beginning of your upkeep, return all cards you own exiled with Pokémon Storage System to your hand, then draw a card.</text>
+		</card>
+		<card>
+			<name>Town Map</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Town%20Map.png" rarity="common">PKTO</set>
+			<color />
+			<manacost>1</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{2}, {T}, Sacrifice Town Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle.</text>
+		</card>
+		<card>
+			<name>Super Repel</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Super%20Repel.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>3</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon can't attack you unless their controller pays {2} for each Pokémon they control that's attacking you.</text>
+		</card>
+		<card>
+			<name>Nugget</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Nugget.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost>1</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{1}, {T}, Sacrifice Nugget: Add one mana of any color.
+When Nugget is put into a graveyard from the battlefield, draw a card.</text>
+		</card>
+		<card>
+			<name>Mysterious Feather</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mysterious%20Feather.png" rarity="mythic">PKTO</set>
+			<color />
+			<manacost>0</manacost>
+			<type>Artifact</type>
+			<tablerow>1</tablerow>
+			<text>{T}, Sacrifice Mysterious Feather: Add one mana of any color.</text>
+		</card>
+		<!-- attack enchantments -->
+		<card>
+			<name>Rage</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rage.png" rarity="uncommon">PKTO</set>
+			<color>R</color>
+			<manacost>RR</manacost>
+			<type>Enchantment - Aura</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+Whenever enchanted Pokémon attacks, it deals 3 damage to target Pokémon.
+At the beginning of your end step, sacrifice Rage unless enchanted Pokémon attacked this turn.
+			</text>
+		</card>
+		<card>
+			<name>Ice Beam</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Ice%20Beam.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>UU</manacost>
+			<type>Enchantment - Aura</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+Whenever enchanted Pokémon attacks, tap target permanent and put a stun counter on it.</text>
+		</card>
+		<card>
+			<name>Hyper Beam</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Hyper%20Beam.png" rarity="mythic">PKTO</set>
+			<color />
+			<manacost>7</manacost>
+			<type>Enchantment - Aura</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon without an Evolve ability
+Enchanted Pokémon has "{T}: Destroy target nonland permanent, then put a stun counter on this Pokémon. Activate only as a sorcery."</text>
+		</card>
+		<card>
+			<name>Swords Dance</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swords%20Dance.png" rarity="uncommon">PKTO</set>
+			<color>G</color>
+			<manacost>GG</manacost>
+			<type>Enchantment - Aura</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+Enchanted Pokémon has "{T}: Put a +1/+1 counter on this Pokémon. Then if it has three or more +1/+1 counters on it, sacrifice Swords Dance.”</text>
+		</card>
+		<card>
+			<name>Mega Kick</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mega%20Kick.png" rarity="uncommon">PKTO</set>
+			<color>W</color>
+			<manacost>WW</manacost>
+			<type>Enchantment - Aura</type>
+			<tablerow>1</tablerow>
+			<text>Flash
+Enchant Pokémon
+Enchanted Pokémon gets +1/+1 and has first strike.</text>
+		</card>
+		<card>
+			<name>Dream Eater (PKTO)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Dream%20Eater.png" rarity="uncommon">PKTO</set>
+			<color>B</color>
+			<manacost>BB</manacost>
+			<type>Enchantment - Aura</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon
+Whenever enchanted Pokémon deals combat damage to a player, that player discards a card.</text>
+		</card>
+		<card>
+			<name>Frozen</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Frozen.png" rarity="uncommon">PKTO</set>
+			<color>U</color>
+			<manacost>1UU</manacost>
+			<type>Enchantment - Aura</type>
+			<tablerow>1</tablerow>
+			<text>Enchant Pokémon you don't control
+When Frozen enters the battlefield, tap enchanted Pokémon.
+Enchanted Pokémon doesn't untap during its controller's untap step.</text>
+		</card>
+		<!-- Locations -->
+		<card>
+			<name>Pewter Gym</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pewter%20Gym.png" rarity="rare">PKTO</set>
+			<color>RG</color>
+			<manacost>RG</manacost>
+			<type>Enchantment</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon you control enter the battlefield with an additional +1/+1 counter on them.</text>
+		</card>
+		<card>
+			<name>Cerulean Gym</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20Gym.png" rarity="rare">PKTO</set>
+			<color>WU</color>
+			<manacost>WU</manacost>
+			<type>Enchantment</type>
+			<tablerow>1</tablerow>
+			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card. If a spell is not countered this way, 
+			1 life.</text>
+		</card>
+		<card>
+			<name>Vermillion Gym</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vermillion%20Gym.png" rarity="rare">PKTO</set>
+			<color>RW</color>
+			<manacost>RW</manacost>
+			<type>Enchantment</type>
+			<tablerow>1</tablerow>
+			<text>Whenever a Pokémon you control attacks, put a charge counter on Vermillion Gym.
+Remove three charge counters from Vermillion Gym: Put a first strike, vigilance, or haste counter on target Pokémon.</text>
+		</card>
+		<card>
+			<name>Celadon Gym</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Celadon%20Gym.png" rarity="rare">PKTO</set>
+			<color>G</color>
+			<manacost>1G</manacost>
+			<type>Enchantment</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon you control have reach and "{T}: Add one mana of any color."</text>
+		</card>
+		<card>
+			<name>Saffron Gym</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Saffron%20Gym.png" rarity="rare">PKTO</set>
+			<color>UB</color>
+			<manacost>UB</manacost>
+			<type>Enchantment</type>
+			<tablerow>1</tablerow>
+			<text>When Saffron Gym enters the battlefield, draw a card.
+If you would draw a card, scry 1 and draw a card instead.</text>
+		</card>
+		<card>
+			<name>Fuchsia Gym</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Fuchsia%20Gym.png" rarity="rare">PKTO</set>
+			<color>BG</color>
+			<manacost>BG</manacost>
+			<type>Enchantment</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon you control have wither.
+If one or more -1/-1 counters would be put on a Pokémon you don’t control, that many plus one -1/-1 counters are put on it instead.</text>
+		</card>
+		<card>
+			<name>Cinnabar Gym</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Gym.png" rarity="rare">PKTO</set>
+			<color>R</color>
+			<manacost>1R</manacost>
+			<type>Enchantment</type>
+			<tablerow>1</tablerow>
+			<text>Whenever you attack, choose odd or even. Then exile the top card of your library. If it has mana value of the chosen quality, you may cast it for as long as it remains exiled.</text>
+		</card>
+		<card>
+			<name>Viridian Gym</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Viridian%20Gym.png" rarity="rare">PKTO</set>
+			<color>B</color>
+			<manacost>1B</manacost>
+			<type>Enchantment</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon you control have deathtouch.
+Whenever a Pokémon an opponent controls dies, that player may have you create a Treasure token. If they don't, they lose 2 life.</text>
+			<related>Treasure Token</related>
+		</card>
+		<!-- lands -->
+		<card>
+			<name>Bill's Grassland</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bills%20Grassland.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Put a storage counter on Bill's Grassland.
+{T}, Remove all storage counters from Bill's Grassland: Add {W} for each storage counter removed this way.</text>
+		</card>
+		<card>
+			<name>Bill's Volcano</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bills%20Volcano.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Put a storage counter on Bill's Volcano.
+{T}, Remove all storage counters from Bill's Volcano: Add {R} for each storage counter removed this way.</text>
+		</card>
+		<card>
+			<name>Bill's Rainforest</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bills%20Rainforest.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Put a storage counter on Bill's Rainforest.
+{T}, Remove all storage counters from Bill's Rainforest: Add {G} for each storage counter removed this way.</text>
+		</card>
+		<card>
+			<name>Bill's Marsh</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bills%20Marsh.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Put a storage counter on Bill's Marsh.
+{T}, Remove all storage counters from Bill's Marsh: Add {B} for each storage counter removed this way.</text>
+		</card>
+		<card>
+			<name>Bill's Coastline</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Bills%20Coastline.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Put a storage counter on Bill's Coastline.
+{T}, Remove all storage counters from Bill's Coastline: Add {U} for each storage counter removed this way.</text>
+		</card>
+		<card>
+			<name>Celadon City</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Celadon%20City.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Add {G} or {W}. You lose 1 life.</text>
+		</card>
+		<card>
+			<name>Cerulean Cave</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20Cave.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Cerulean Cave enters the battlefield tapped unless you pay 2 life.
+{T}: Add {U} or {B}.</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Cerulean City</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20City.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Cerulean City enters the battlefield tapped unless you pay 2 life.
+{T}: Add {W} or {U}.</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Cinnabar Island</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Island.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Add {U} or {R}. You lose 1 life.</text>
+		</card>
+		<card>
+			<name>Cinnabar Lab</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Lab.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Add {G} or {U}. You lose 1 life.</text>
+		</card>
+		<card>
+			<name>Cycling Road</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Cycling%20Road.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Cycling Road enters the battlefield tapped.
+{T}: Add {G} or {W}.
+Cycling {2}</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Diglett's Cave</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Digletts%20Cave.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.
+{2}{R}, {T}, Sacrifice Diglett's Cave: Destroy target nonbasic land.</text>
+		</card>
+		<card>
+			<name>Fuchsia City</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Fuchsia%20City.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Fuchsia City enters the battlefield tapped unless you pay 2 life.
+{T}: Add {B} or {G}.</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Game Corner</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Game%20Corner.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Add {B} or {R}. You lose 1 life.</text>
+		</card>
+		<card>
+			<name>Indigo Plateau</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Indigo%20Plateau.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Indigo Plateau enters the battlefield tapped.
+{T}: Add {U} or {R}.
+Cycling {2}</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Lavender Town</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Lavender%20Town.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Lavender Town enters the battlefield tapped.
+{T}: Add {W} or {B}.
+Cycling {2}</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Mt. Moon</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mt.%20Moon.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {C}.
+{T}: Add {W} or {B}. You lose 1 life.</text>
+		</card>
+		<card>
+			<name>Pallet Town</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pallet%20Town.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>As Pallet Town enters the battlefield, choose a color. 
+{T}: Add {W}.
+{T}: Add one mana of the chosen color. Spend this mana only to cast Pokémon spells.</text>
+		</card>
+		<card>
+			<name>Pewter City</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pewter%20City.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Pewter City enters the battlefield tapped unless you pay 2 life.
+{T}: Add {R} or {G}.</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Pewter Museum</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pewter%20Museum.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R} or {G}. You lose 1 life.
+{1}, {T}, Sacrifice Pewter Museum: Draw a card.</text>
+		</card>
+		<card>
+			<name>Pokémon Mansion</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9mon%20Mansion.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.
+{4}{B}, {T}: Target player loses 1 life and you gain 1 life.</text>
+		</card>
+		<card>
+			<name>Power Plant</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Power%20Plant.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Power Plant enters the battlefield tapped unless you pay 2 life.
+{T}: Add {R} or {W}.</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Rock Tunnel</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rock%20Tunnel.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Rock Tunnel enters the battlefield tapped.
+{T}: Add {B} or {R}.
+Cycling {2}</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Safari Zone</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Safari%20Zone.png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}, Sacrifice Safari Zone: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+		</card>
+		<card>
+			<name>Saffron City</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Saffron%20City.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B} or {U}. You lose 1 life.
+{1}, {T}, Sacrifice Saffron City: Draw a card.</text>
+		</card>
+		<card>
+			<name>S.S. Anne</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/S.S.%20Anne.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.
+{1}{U}, {T}, Sacrifice S.S. Anne: Return target Pokémon to its owner's hand.</text>
+		</card>
+		<card>
+			<name>Silph Co.</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Silph%20Co.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>Silph Co. enters the battlefield tapped.
+{T}: Add {G} or {U}.
+Cycling {2}</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Vermillion City</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vermillion%20City.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R} or {W}. You lose 1 life.
+{1}, {T}, Sacrifice Vermillion City: Draw a card.</text>
+		</card>
+		<card>
+			<name>Seafoam Islands</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Seafoam%20Islands.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W} or {U}. You lose 1 life.
+{1}, {T}, Sacrifice Seafoam Islands: Draw a card.</text>
+		</card>
+		<card>
+			<name>Viridian City</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Viridian%20City.png" rarity="rare">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}, or {G}. You lose 1 life.
+{1}, {T}, Sacrifice Viridian City: Draw a card.</text>
+		</card>
+		<card>
+			<name>Viridian Forest</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Viridian%20Forest.png" rarity="uncommon">PKTO</set>
+			<color />
+			<manacost />
+			<type>Land</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.
+{2}, {T}: Add {G} for each Forest and each Bug Pokémon you control.</text>
+		</card>
+		<!-- Basics -->
+		<card>
+			<name>Plains</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Plains.png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Plains</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.</text>
+		</card>
+		<card>
+			<name>Plains (a)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Plains(a).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Plains</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.</text>
+		</card>
+		<card>
+			<name>Plains (b)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Plains(b).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Plains</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.</text>
+		</card>
+		<card>
+			<name>Plains (c)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Plains(c).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Plains</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.</text>
+		</card>
+		<card>
+			<name>Plains (d)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Plains(d).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Plains</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {W}.</text>
+		</card>
+		<card>
+			<name>Island</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Island.png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Island</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.</text>
+		</card>
+		<card>
+			<name>Island (a)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Island(a).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Island</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.</text>
+		</card>
+		<card>
+			<name>Island (b)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Island(b).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Island</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.</text>
+		</card>
+		<card>
+			<name>Island (c)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Island(c).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Island</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.</text>
+		</card>
+		<card>
+			<name>Island (d)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Island(d).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Island</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {U}.</text>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swamp.png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Swamp</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.</text>
+		</card>
+		<card>
+			<name>Swamp (a)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swamp(a).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Swamp</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.</text>
+		</card>
+		<card>
+			<name>Swamp (b)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swamp(b).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Swamp</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.</text>
+		</card>
+		<card>
+			<name>Swamp (c)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swamp(c).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Swamp</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.</text>
+		</card>
+		<card>
+			<name>Swamp (d)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Swamp(d).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Swamp</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {B}.</text>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mountain.png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Mountain</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.</text>
+		</card>
+		<card>
+			<name>Mountain (a)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mountain(a).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Mountain</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.</text>
+		</card>
+		<card>
+			<name>Mountain (b)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mountain(b).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Mountain</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.</text>
+		</card>
+		<card>
+			<name>Mountain (c)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mountain(c).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Mountain</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.</text>
+		</card>
+		<card>
+			<name>Mountain (d)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Mountain(d).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Mountain</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {R}.</text>
+		</card>
+		<card>
+			<name>Forest</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Forest.png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Forest</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.</text>
+		</card>
+		<card>
+			<name>Forest (a)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Forest(a).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Forest</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.</text>
+		</card>
+		<card>
+			<name>Forest (b)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Forest(b).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Forest</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.</text>
+		</card>
+		<card>
+			<name>Forest (c)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Forest(c).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Forest</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.</text>
+		</card>
+		<card>
+			<name>Forest (d)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Forest(d).png" rarity="common">PKTO</set>
+			<color />
+			<manacost />
+			<maintype>Land</maintype>
+			<type>Basic Land — Forest</type>
+			<tablerow>0</tablerow>
+			<text>{T}: Add {G}.</text>
+		</card>
+		<!-- Tokens -->
+	</cards>
+</cockatrice_carddatabase>
