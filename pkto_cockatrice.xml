@@ -1048,7 +1048,7 @@ First strike, haste</text>
 			<name>Slowpoke</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Slowpoke.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
-			<manacost>2U</manacost>
+			<manacost>1U</manacost>
 			<type>Pokémon - Water Psychic</type>
 			<pt>1/4</pt>
 			<tablerow>2</tablerow>
