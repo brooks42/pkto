@@ -726,7 +726,7 @@ When Psyduck enters the battlefield, you may counter target spell.</text>
 			<type>Pokémon - Water</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Psyduck {1}{U}
+			<text>Evolve From Psyduck {U}
 {1}{U}{U}, {T}: Counter target spell unless its controller pays {2}. If Golduck is evolved, scry 1.</text>
 		</card>
 		<card>
@@ -1021,7 +1021,7 @@ Trample</text>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Graveler {G}{G}
-{T}: Golem deals 6 damage to target Pokémon with flying.</text>
+{X}{G}, {T}: Golem deals X damage to target Pokémon with flying.</text>
 		</card>
 		<card>
 			<name>Ponyta</name>
