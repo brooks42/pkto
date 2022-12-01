@@ -1332,7 +1332,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<type>Pokémon - Ground</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
-			<text>Vigilance</text>
+			<text>Whenever Cubone attacks, put a +1/+1 counter on it.</text>
 		</card>
 		<card>
 			<name>Marowak</name>
@@ -1342,8 +1342,8 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<type>Pokémon - Ground</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Cubone {1}{G}{W}
-{X}{G}{W}, {T}: Marowak deals X to target attacking Pokémon, blocking Pokémon, or Pokémon with flying.</text>
+			<text>Evolve From Cubone {G}{W}
+{W}, Remove all counters from Marowak: It deals X damage to target attacking or blocking Pokémon, where X is the number of counters removed this way.</text>
 		</card>
 		<card>
 			<name>Hitmonlee</name>
