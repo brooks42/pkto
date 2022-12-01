@@ -1063,7 +1063,7 @@ First strike, haste</text>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Slowpoke {U}{B}
-Whenever you put one or more cards on the bottom of your library, put a +1/+1 counter on Slowbro.</text>
+Whenever Slowbro becomes tapped, copy target activated or triggered ability.</text>
 		</card>
 		<card>
 			<name>Magnemite</name>
