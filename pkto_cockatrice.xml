@@ -3493,5 +3493,121 @@ Cycling {2}</text>
 			<text>{T}: Add {G}.</text>
 		</card>
 		<!-- Tokens -->
+		<card>
+			<name>Beedrill Token</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/BeedrillToken.png" rarity="token">PKTO</set>
+			<color>B</color>
+			<manacost />
+			<type>Token Pokémon - Bug Poison</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>Flying</text>
+		</card>
+		<card>
+			<name>Diglett Token</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/DiglettToken.png" rarity="token">PKTO</set>
+			<color>R</color>
+			<manacost />
+			<type>Token Pokémon - Ground</type>
+			<pt>2/1</pt>
+			<tablerow>2</tablerow>
+			<text />
+		</card>
+		<card>
+			<name>Oddish Token</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/OddishToken.png" rarity="token">PKTO</set>
+			<color>G</color>
+			<manacost />
+			<type>Token Pokémon - Grass Poison</type>
+			<pt>1/1</pt>
+			<tablerow>2</tablerow>
+			<text>Lifelink</text>
+		</card>
+		<card>
+			<name>Grimer Token</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/GrimerToken.png" rarity="token">PKTO</set>
+			<color>B</color>
+			<manacost />
+			<type>Token Pokémon - Poison</type>
+			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text />
+		</card>
+		<card>
+			<name>Clone Token</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/CloneToken.png" rarity="token">PKTO</set>
+			<color />
+			<manacost />
+			<type>Token Pokémon - Clone</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text />
+		</card>
+		<card>
+			<name>Clone Token(a)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/CloneToken(a).png" rarity="token">PKTO</set>
+			<color />
+			<manacost />
+			<type>Token Pokémon - Clone</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text />
+		</card>
+		<card>
+			<name>Clone Token(b)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/CloneToken(b).png" rarity="token">PKTO</set>
+			<color />
+			<manacost />
+			<type>Token Pokémon - Clone</type>
+			<pt>2/2</pt>
+			<tablerow>2</tablerow>
+			<text />
+		</card>
+		<card>
+			<name>Red's Pikachu</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Reds%20PikachuToken.png" rarity="token">PKTO</set>
+			<color>RW</color>
+			<manacost />
+			<type>Token Legendary Pokémon - Electric</type>
+			<pt>4/4</pt>
+			<tablerow>2</tablerow>
+			<text>First strike, lifelink, haste</text>
+		</card>
+		<card>
+			<name>Treasure Token</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/TreasureToken.png" rarity="token">PKTO</set>
+			<color />
+			<manacost />
+			<type>Token Artifact - Treasure</type>
+			<tablerow>1</tablerow>
+			<text>{T}, Sacrifice this artifact: Add one many of any color.</text>
+		</card>
+		<card>
+			<name>Brock (Emblem)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/BrockEmblem.png" rarity="token">PKTO</set>
+			<color />
+			<manacost />
+			<type>Emblem - Brock</type>
+			<tablerow>1</tablerow>
+			<text>Whenever a Pokémon you control is dealt damage, it deals that much damage to that source's controller.</text>
+		</card>
+		<card>
+			<name>Koga (Emblem)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/KogaEmblem.png" rarity="token">PKTO</set>
+			<color />
+			<manacost />
+			<type>Emblem - Koga</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon you control have "{B}: This Pokémon can't be blocked this turn."</text>
+		</card>
+		<card>
+			<name>Professor Oak (Emblem)</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/OakEmblem.png" rarity="token">PKTO</set>
+			<color />
+			<manacost />
+			<type>Emblem - Oak</type>
+			<tablerow>1</tablerow>
+			<text>Pokémon you control have indestructible.</text>
+		</card>
 	</cards>
 </cockatrice_carddatabase>
