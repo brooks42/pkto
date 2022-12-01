@@ -426,7 +426,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidoran♀ {1}{G}
-Whenever Nidorina evolves, return target Pokémon card or land card from your graveyard to your hand.</text>
+Whenever Nidorina becomes blocked, put a -1/-1 counter on target Pokémon blocking it.</text>
 		</card>
 		<card>
 			<name>Nidoqueen</name>
@@ -528,7 +528,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Vulpix {R}{R}
-{1}{R}{R}, Discard a card: Gain control of target Pokémon until end of turn. Untap that Pokémon. It gains haste until end of turn. Activate only as a sorcery.</text>
+{X}{R}, Discard a card: Gain control of target Pokémon with power X or less until end of turn. Untap that Pokémon. It gains haste until end of turn. Activate only as a sorcery.</text>
 		</card>
 		<card>
 			<name>Jigglypuff</name>
@@ -639,7 +639,7 @@ Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Paras {G}
-Whenever a non-Pokémon permanent you don't control leaves the battlefield, double the number of each kind of counter on target permanent.</text>
+Whenever a permanent leaves the battlefield, for each kind of counter on another target permanent, put another counter of that kind on it or remove one from it.</text>
 		</card>
 		<card>
 			<name>Venonat</name>
@@ -940,8 +940,8 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Bellsprout {G}{G}
-Reach
-Wither</text>
+Wither
+Weepinbell has vigilance as long as it has power greater than or equal to 5.</text>
 		</card>
 		<card>
 			<name>Victreebel</name>
@@ -949,7 +949,7 @@ Wither</text>
 			<color>G</color>
 			<manacost>4GG</manacost>
 			<type>Pokémon - Grass Poison</type>
-			<pt>5/5</pt>
+			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Weepinbell {G}{G}
 Pokémon without wither get -1/-1.
@@ -1928,8 +1928,8 @@ When you cycle Mew, shuffle it into your library.</text>
 			<type>Legendary Trainer - Misty</type>
 			<loyalty>4</loyalty>
 			<text>Whenever a spell or ability you control counters a spell, put two loyalty counters on Misty.
-[-2]: Draw a card.
-[−3]: Each player chooses a Pokémon they don't control and gains control of it.</text>
+[+1]: Draw a card.
+[−3]: Return another nonland permanent to its owner's hand.</text>
 		</card>
 		<card>
 			<name>Lt. Surge</name>
@@ -1950,10 +1950,10 @@ When you cycle Mew, shuffle it into your library.</text>
 			<manacost>2GG</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Erika</type>
-			<loyalty>3</loyalty>
+			<loyalty>2</loyalty>
 			<text>[+1]: Create a 1/1 green Grass Poison Pokémon token with lifelink named Oddish.
-[-2]: Destroy target artifact or enchantment.
-[−X]: Pokémon you control get +X/+X until end of turn.</text>
+[-1]: Destroy target artifact or enchantment.
+[−4]: Pokémon you control get +3/+3 and gain trample until end of turn.</text>
 			<related>Oddish Token</related>
 		</card>
 		<card>
@@ -2028,7 +2028,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<loyalty>4</loyalty>
 			<text>Whenever you gain life, put a loyalty counter on Lorelei.
 [0]: Tap or untap up to one target Pokémon. You gain 1 life.
-[-X]: Put a Water and/or Ice Pokémon card with mana value X from your hand onto the battlefield.</text>
+[-3]: Put three stun counters on target permanent.</text>
 		</card>
 		<card>
 			<name>Bruno</name>
@@ -2267,7 +2267,7 @@ You gain 1 life.</text>
 			<manacost>U</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Target Pokémon gets +0/+4 until end of turn. Untap it. At this turn's next end of combat, tap each Pokémon that was blocked by that Pokémon this turn and they don't untap during their controller's next untap step.</text>
+			<text>Target Pokémon gets +0/+4 until end of turn. Untap it. At this turn's next end of combat, tap each Pokémon that was blocked by that Pokémon this turn and put a stun counter on them.</text>
 		</card>
 		<card>
 			<name>Guard Spec.</name>
