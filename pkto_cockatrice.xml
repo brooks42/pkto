@@ -848,7 +848,7 @@ Whenever a Pokémon becomes the target of a spell or ability, you may change a t
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Abra {B}
-{T}: Draw a card, then discard a card.</text>
+Whenever you scry, Kadabra gains hexproof until end of turn.</text>
 		</card>
 		<card>
 			<name>Alakazam</name>
