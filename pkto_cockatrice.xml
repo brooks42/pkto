@@ -189,7 +189,7 @@ Whenever Metapod evolves, it loses defender and you draw a card.</text>
 			<tablerow>2</tablerow>
 			<text>Evolve From Metapod {2}{G}
 Flying
-Whenever Butterfee attacks or blocks, put a stun counter on target Pokémon you don’t control. If Butterfree is evolved, tap that Pokémon.</text>
+Whenever Butterfee attacks or blocks, put a stun counter on target Pokémon you don't control. If Butterfree is evolved, tap that Pokémon.</text>
 		</card>
 		<card>
 			<name>Weedle</name>
@@ -1052,18 +1052,19 @@ First strike, haste</text>
 			<type>Pokémon - Water Psychic</type>
 			<pt>1/4</pt>
 			<tablerow>2</tablerow>
-			<text>{2}{U}, {T}: Scry 1. If you put a card on the bottom of your library this way, draw a card.</text>
+			<text>Whenever Slowpoke would be dealt combat damage, prevent that damage. Deal that much damage to Slowpoke at the beginning of the next turn's upkeep.
+Remove three counters from Slowpoke: Return it to its owner's hand.</text>
 		</card>
 		<card>
 			<name>Slowbro</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Slowbro.png" rarity="rare">PKTO</set>
 			<color>UB</color>
-			<manacost>2UUB</manacost>
+			<manacost>2UB</manacost>
 			<type>Pokémon - Water Psychic</type>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Slowpoke {U}{B}
-Whenever Slowbro becomes tapped, copy target activated or triggered ability.</text>
+Whenever Slowbro would be dealt noncombat damage, prevent that damage and put a -1/-1 counter on it. Scry 1, then draw a card.</text>
 		</card>
 		<card>
 			<name>Magnemite</name>
@@ -1374,7 +1375,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<type>Pokémon - Normal</type>
 			<pt>3/7</pt>
 			<tablerow>2</tablerow>
-			<text>When Lickitung enters the battlefield, you may choose target Pokémon. If you do, until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can’t be activated.</text>
+			<text>When Lickitung enters the battlefield, you may choose target Pokémon. If you do, until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can't be activated.</text>
 		</card>
 		<card>
 			<name>Koffing</name>
@@ -1677,7 +1678,7 @@ Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you c
 			<type>Pokémon - Normal</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever a player casts a spell,  Porygon becomes that spell’s colors.
+			<text>Whenever a player casts a spell,  Porygon becomes that spell's colors.
 Porygon has lifelink as long as it's white. The same is true for hexproof and blue, wither and black, menace and red, and reach and green.</text>
 		</card>
 		<card>
@@ -1892,7 +1893,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<loyalty>4</loyalty>
 			<text>At the beginning of your upkeep, if a player attacked you last turn, draw a card.
 [+1]: If a player controls more Pokémon than you, the next Pokémon spell you cast this turn costs {X} less to cast, where X is equal to the difference.
-[-3]: Create a token copy of target Pokémon you don’t control, except it has haste. Exile it at the beginning of the next end step.</text>
+[-3]: Create a token copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
 		</card>
 		<card>
 			<name>Green</name>
@@ -1916,7 +1917,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<loyalty>3</loyalty>
 			<text>[+1]: Add {R} or {G}. Pokémon spells you cast this turn can't be countered.
 [+1]: Draw a card if you control a Pokémon with power 4 or greater.
-[−7]: You get an emblem with "Whenever a Pokémon you control is dealt damage, it deals that much damage to that source’s controller."</text>
+[−7]: You get an emblem with "Whenever a Pokémon you control is dealt damage, it deals that much damage to that source's controller."</text>
 			<related>Brock (Emblem)</related>
 		</card>
 		<card>
@@ -2359,7 +2360,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
 			<manacost>U{U/B}</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player’s graveyard. That player can’t cast spells with the same name as that spell until the end of their next turn.</text>
+			<text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard. That player can't cast spells with the same name as that spell until the end of their next turn.</text>
 		</card>
 		<card>
 			<name>Ember</name>
@@ -2797,7 +2798,7 @@ Enchanted Pokémon has "{T}: Destroy target nonland permanent, then put a stun c
 			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Enchanted Pokémon has "{T}: Put a +1/+1 counter on this Pokémon. Then if it has three or more +1/+1 counters on it, sacrifice Swords Dance.”</text>
+Enchanted Pokémon has "{T}: Put a +1/+1 counter on this Pokémon. Then if it has three or more +1/+1 counters on it, sacrifice Swords Dance."</text>
 		</card>
 		<card>
 			<name>Mega Kick</name>
@@ -2888,7 +2889,7 @@ If you would draw a card, scry 1 and draw a card instead.</text>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon you control have wither.
-If one or more -1/-1 counters would be put on a Pokémon you don’t control, that many plus one -1/-1 counters are put on it instead.</text>
+If one or more -1/-1 counters would be put on a Pokémon you don't control, that many plus one -1/-1 counters are put on it instead.</text>
 		</card>
 		<card>
 			<name>Cinnabar Gym</name>
