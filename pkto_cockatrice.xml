@@ -517,7 +517,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<type>Pokémon - Fire</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Vulpix attacks, it gets +1/+0 until end of turn for each other attacking Pokémon you control.</text>
+			<text>Whenever Vulpix attacks, it gets +1/+0 until end of turn for each attacking Pokémon you control.</text>
 		</card>
 		<card>
 			<name>Ninetales</name>
