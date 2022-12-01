@@ -1338,12 +1338,12 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<name>Marowak</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Marowak.png" rarity="rare">PKTO</set>
 			<color>GW</color>
-			<manacost>3GW</manacost>
+			<manacost>2GW</manacost>
 			<type>Pokémon - Ground</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Cubone {G}{W}
-{W}, Remove all counters from Marowak: It deals X damage to target attacking or blocking Pokémon, where X is the number of counters removed this way.</text>
+{G}{W}, Remove all counters from Marowak: It deals X damage to target attacking or blocking Pokémon, where X is the number of counters removed this way.</text>
 		</card>
 		<card>
 			<name>Hitmonlee</name>
