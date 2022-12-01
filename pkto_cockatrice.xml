@@ -528,7 +528,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 			<pt>4/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Vulpix {R}{R}
-Whenever Ninetales attacks, you may pay {1}{R}{R} and discard a card. If you do, gain control of target Pokémon with power less than Ninetales' power. Tap it. It's attacking the player or trainer Ninetales is attacking.</text>
+Whenever Ninetales attacks, you may pay {1}{R}{R} and discard a card. If you do, gain control of target Pokémon with power less than Ninetales's power until end of turn. Tap it. It's attacking the player or trainer Ninetales is attacking.</text>
 		</card>
 		<card>
 			<name>Jigglypuff</name>
