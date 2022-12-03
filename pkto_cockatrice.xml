@@ -437,7 +437,7 @@ Whenever Nidorina becomes blocked, put a -1/-1 counter on target Pokémon blocki
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Nidorina {1}{G}
-Whenever Nidoqueen evolves or attacks, return target permanent card from your graveyard to your hand. If that card has mana value 3 or less, put it onto the battlefield instead.</text>
+Whenever Nidoqueen evolves or attacks, return target Pokémon card or land card from your graveyard to your hand. If it has mana value 3 or less, put it onto the battlefield instead.</text>
 		</card>
 		<card>
 			<name>Nidoran♂</name>
@@ -1052,7 +1052,7 @@ First strike, haste</text>
 			<type>Pokémon - Water Psychic</type>
 			<pt>1/4</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Slowpoke would be dealt combat damage, prevent that damage. Deal that much damage to Slowpoke at the beginning of the next turn's upkeep.
+			<text>Whenever Slowpoke would be dealt combat damage, prevent that damage. If damage was prevented this way, deal that much damage to Slowpoke at the beginning of the next turn's upkeep.
 Remove three counters from Slowpoke: Return it to its owner's hand.</text>
 		</card>
 		<card>
@@ -1064,7 +1064,7 @@ Remove three counters from Slowpoke: Return it to its owner's hand.</text>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Slowpoke {U}{B}
-Whenever Slowbro would be dealt noncombat damage, prevent that damage and put a -1/-1 counter on it. Scry 1, then draw a card.</text>
+If noncombat damage would be dealt to Slowbro, prevent that damage. If damage was prevented this way, put a -1/-1 counter on it, scry 1, then draw a card.</text>
 		</card>
 		<card>
 			<name>Magnemite</name>
@@ -2767,7 +2767,7 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Whenever enchanted Pokémon attacks, it deals 3 damage to target Pokémon.
-At the beginning of your end step, sacrifice Rage unless enchanted Pokémon attacked this turn.
+At the beginning of your end step, sacrifice Rage unless a Pokémon died this turn.
 			</text>
 		</card>
 		<card>
