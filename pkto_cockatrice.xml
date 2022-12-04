@@ -1508,7 +1508,7 @@ You may cast Seaking for its Evolve From cost as though it had flash. If you do,
 			<name>Starmie</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Starmie.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
-			<manacost>3UU</manacost>
+			<manacost>3U</manacost>
 			<type>Pokémon - Water Psychic</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
