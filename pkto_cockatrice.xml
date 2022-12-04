@@ -236,7 +236,7 @@ Whenever Kakuna evolves, it loses defender and target player discards a card.</t
 			<tablerow>2</tablerow>
 			<text>Evolve From Kakuna {2}{B}
 Flying
-Whenever Beedrill evolves, create two token copies of it except they're 1/1 with no mana cost.</text>
+Whenever Beedrill evolves, create two 1/1 black Bug Poison Pokémon tokens named Beedrill.</text>
 			<related count="2">Beedrill Token</related>
 		</card>
 		<card>
