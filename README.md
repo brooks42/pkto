@@ -71,3 +71,7 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: If I have Raticate evolved onto Rattata and Raticate dies, can it return Rattata to the battlefield?**
 
 **A**: Yes. Dies means "goes to the graveyard" so when the ability triggers both cards are in the graveyard and Rattata is a legal target.
+
+**Q: If Ninetales dies with its attack trigger on the stack, what happens?**
+
+**A**: Ninetales's controll may still pay 1RR and discard a card to take control of the targeted Pokémon. The Pokémon will tap, but will not be attacking, as Ninetales is no longer attacking anything.
