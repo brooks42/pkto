@@ -854,11 +854,11 @@ Whenever you scry, Kadabra gains hexproof until end of turn.</text>
 			<name>Alakazam</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Alakazam.png" rarity="rare">PKTO</set>
 			<color>UB</color>
-			<manacost>4UB</manacost>
+			<manacost>3UB</manacost>
 			<type>Pokémon - Psychic</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Kadabra {1}{U}{B}
+			<text>Evolve From Kadabra {U}{B}
 {U}{U}: Scry 1.
 If you would scry a number of cards, scry that many cards plus one instead.</text>
 		</card>
