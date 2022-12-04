@@ -230,7 +230,7 @@ Whenever Kakuna evolves, it loses defender and target player discards a card.</t
 			<name>Beedrill</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Beedrill.png" rarity="rare">PKTO</set>
 			<color>B</color>
-			<manacost>3BB</manacost>
+			<manacost>1BB</manacost>
 			<type>Pokémon - Bug Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
