@@ -2732,8 +2732,8 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 		<card>
 			<name>Super Repel</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Super%20Repel.png" rarity="uncommon">PKTO</set>
-			<color />
-			<manacost>3</manacost>
+			<color>W</color>
+			<manacost>2W</manacost>
 			<type>Artifact</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon can't attack you unless their controller pays {2} for each Pokémon they control that's attacking you.</text>
