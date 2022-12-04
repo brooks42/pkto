@@ -236,7 +236,7 @@ Whenever Kakuna evolves, it loses defender and target player discards a card.</t
 			<tablerow>2</tablerow>
 			<text>Evolve From Kakuna {2}{B}
 Flying
-Whenever Beedrill evolves, create two token copies of it except they are 1/1 with no mana cost.</text>
+Whenever Beedrill evolves, create two token copies of it except they're 1/1 with no mana cost.</text>
 			<related count="2">Beedrill Token</related>
 		</card>
 		<card>
@@ -1839,7 +1839,7 @@ Hexproof from trainers</text>
 			<type>Legendary Pokémon - Psychic</type>
 			<pt>7/4</pt>
 			<tablerow>2</tablerow>
-			<text>When Mewtwo enters the battlefield, create a token copy of each Pokémon you don't control, except they are 2/2 Clones.
+			<text>When Mewtwo enters the battlefield, create a token copy of each Pokémon you don't control, except they're 2/2 Clones.
 When Mewtwo dies, return it to the battlfield transformed.</text>
 			<related attach="attach">Mewtwo, Redeemed</related>
 			<related>Clone Token</related>
