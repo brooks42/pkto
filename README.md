@@ -74,4 +74,4 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **Q: If Ninetales dies with its attack trigger on the stack, what happens?**
 
-**A**: Ninetales's controll may still pay 1RR and discard a card to take control of the targeted Pokémon. The Pokémon will tap, but will not be attacking, as Ninetales is no longer attacking anything.
+**A**: Ninetales's controller may still pay 1RR and discard a card to take control of the targeted Pokémon. The Pokémon will tap, but will not be attacking, as Ninetales is no longer attacking anything.
