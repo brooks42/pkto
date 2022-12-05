@@ -573,7 +573,7 @@ Wither</text>
 			<tablerow>2</tablerow>
 			<text>Evolve From Zubat {X}{B}
 Flying
-When you cast Golbat for its evolve cost, target player loses X life and you gain X life.</text>
+Whenever Golbat evolves, target player loses X life and you gain X life.</text>
 		</card>
 		<card>
 			<name>Oddish</name>
@@ -2540,7 +2540,7 @@ Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>This spell can't be countered.
-Target Pokémon or trainer loses indestructible. Destroy it. It can't be regenerated.</text>
+Target Pokémon or trainer loses indestructible until end of turn. Destroy it. It can't be regenerated.</text>
 		</card>
 		<card>
 			<name>Substitute</name>
