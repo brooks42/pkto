@@ -1894,7 +1894,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<loyalty>4</loyalty>
 			<text>At the beginning of your upkeep, if a player attacked you last turn, draw a card.
 [+1]: If a player controls more Pokémon than you, the next Pokémon spell you cast this turn costs {X} less to cast, where X is equal to the difference.
-[-3]: Create a token copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
+[-4]: Create a token copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
 		</card>
 		<card>
 			<name>Green</name>
