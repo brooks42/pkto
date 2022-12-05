@@ -2898,7 +2898,8 @@ If one or more -1/-1 counters would be put on a Pokémon you don't control, that
 			<manacost>1R</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>Whenever you attack, choose odd or even. Then exile the top card of your library. If it has mana value of the chosen quality, you may cast it for as long as it remains exiled.</text>
+			<text>Whenever you attack, choose odd or even, then reveal the top card of your library. If it has mana value of the chosen quality, exile it.
+You may cast cards exiled with Cinnabar Gym.</text>
 		</card>
 		<card>
 			<name>Viridian Gym</name>
