@@ -2417,7 +2417,7 @@ Draw a card.</text>
 			<manacost>W</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>All Pokémon get -3/-0 until end of turn.
+			<text>Prevent all damage that would be dealt this turn.
 Draw a card.</text>
 		</card>
 		<card>
