@@ -2850,8 +2850,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 			<manacost>WU</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card. If a spell is not countered this way, 
-			1 life.</text>
+			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card. If a spell is not countered this way, you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Vermillion Gym</name>
