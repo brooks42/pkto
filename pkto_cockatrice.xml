@@ -1402,7 +1402,7 @@ When you cast Weezing, distribute X -1/-1 counters among any number of target Po
 			<name>Rhyhorn</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Rhyhorn.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
-			<manacost>2G</manacost>
+			<manacost>3G</manacost>
 			<type>Pokémon - Ground Rock</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
