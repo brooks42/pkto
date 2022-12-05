@@ -2687,7 +2687,7 @@ Sacrifice Water Stone: Scry 3.</text>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {R}.
 Whenever a Pokémon you control evolves, Fire Stone deals 1 damage to target player.
-Sacrifice Fire Stone: Fire Stone deals 2 damage to target Pokémon or trainer.</text>
+Sacrifice Fire Stone: It deals 2 damage to target Pokémon or trainer.</text>
 		</card>
 		<card>
 			<name>Moon Stone</name>
