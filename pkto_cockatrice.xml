@@ -1570,7 +1570,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
 			<name>Pinsir</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Pinsir.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
-			<manacost>4G</manacost>
+			<manacost>4GG</manacost>
 			<type>Pokémon - Bug</type>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
