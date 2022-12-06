@@ -1398,7 +1398,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Koffing {X}{B}{B}
-When you cast Weezing, distribute X -1/-1 counters among any number of target Pokémon.</text>
+Whenever Weezing enters the battlefield or evolves, distribute X -1/-1 counters among any number of target Pokémon.</text>
 		</card>
 		<card>
 			<name>Rhyhorn</name>
