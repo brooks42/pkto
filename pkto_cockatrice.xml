@@ -1268,7 +1268,7 @@ Whenever you scry, untap Hypno.</text>
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{R}: Krabby gets +1/+0 and gains first strike until end of turn.</text>
+			<text>{2}{R}: Krabby gets +1/+0 and gains first strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Kingler</name>
