@@ -779,7 +779,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
 			<type>Pokémon - Water</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Poliwag evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.
+			<text>Whenever Poliwag evolves, gain control of target Pokémon with equal or lesser mana value until Poliwag leaves the battlefield.
 {U}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Poliwhirl (DFC)</related>
@@ -791,7 +791,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Poliwhirl evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.</text>
+			<text>Whenever Poliwhirl evolves, gain control of target Pokémon with equal or lesser mana value until Poliwhirl leaves the battlefield.</text>
 			<side>back</side>
 		</card>
 		<card>
