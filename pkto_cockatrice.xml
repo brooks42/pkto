@@ -2057,6 +2057,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<text>Whenever a Pokémon with a soulbind counter on it dies, exile it. Create a token copy of it, except it's a Ghost.      
 [+1]: Put a soulbind counter on up to one target nontoken Pokémon.
 [-2]: You may sacrifice a nontoken Pokémon. If you do, draw two cards.</text>
+			<related>Ghost Token</related>
 		</card>
 		<card>
 			<name>Lance (PKTO)</name>
@@ -3535,6 +3536,16 @@ Cycling {2}</text>
 			<manacost />
 			<type>Token Pokémon - Poison</type>
 			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text />
+		</card>
+		<card>
+			<name>Ghost Token</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/GhostToken.png" rarity="token">PKTO</set>
+			<color>UB</color>
+			<manacost />
+			<type>Token Pokémon - Ghost</type>
+			<pt />
 			<tablerow>2</tablerow>
 			<text />
 		</card>
