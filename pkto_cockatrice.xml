@@ -952,7 +952,7 @@ Weepinbell has vigilance as long as it has power greater than or equal to 5.</te
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Weepinbell {G}{G}
-Pokémon without wither get -1/-1.
+Pokémon with wither get +1/+1.
 {T}: Put a wither counter on another target Pokémon.</text>
 		</card>
 		<card>
@@ -1052,7 +1052,7 @@ First strike, haste</text>
 			<type>Pokémon - Water Psychic</type>
 			<pt>1/4</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Slowpoke would be dealt combat damage, prevent that damage. If damage was prevented this way, deal that much damage to Slowpoke at the beginning of the next turn's upkeep.
+			<text>If combat damage would be dealt to Slowpoke, prevent that damage. If damage was prevented this way, deal that much damage to Slowpoke at the beginning of the next turn's end step.
 Remove three counters from Slowpoke: Return it to its owner's hand.</text>
 		</card>
 		<card>
@@ -2799,7 +2799,7 @@ Enchanted Pokémon has "{T}: Destroy target nonland permanent, then put a stun c
 			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Enchanted Pokémon has "{T}: Put a +1/+1 counter on this Pokémon. Then if it has three or more +1/+1 counters on it, sacrifice Swords Dance."</text>
+At the beginning of your upkeep, put a +1/+1 counter on enchanted Pokémon. Then if it has three or more +1/+1 counters on it, sacrifice Swords Dance and draw a card.</text>
 		</card>
 		<card>
 			<name>Mega Kick</name>
