@@ -1289,8 +1289,8 @@ Kingler has double strike as long as it has first strike.</text>
 			<type>Pokémon - Electric</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon.
-Haste</text>
+			<text>Haste
+{X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon.</text>
 		</card>
 		<card>
 			<name>Electrode</name>
