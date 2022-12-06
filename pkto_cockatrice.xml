@@ -916,7 +916,8 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{G}: Bellsprout gets +1/+1 until end of turn.
+			<text>Reach
+{1}{G}: Bellsprout gets +1/+1 until end of turn.
 {G}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Weepinbell (DFC)</related>
@@ -928,7 +929,8 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{G}: Weepinbell gets +1/+1 until end of turn.</text>
+			<text>Reach
+{1}{G}: Weepinbell gets +1/+1 until end of turn.</text>
 			<side>back</side>
 		</card>
 		<card>
