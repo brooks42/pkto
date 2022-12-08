@@ -1660,7 +1660,7 @@ Whenever a Pokémon you control evolves, scry 1 and draw a card.</text>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Eevee {3}{R/W}
-Whenever a Pokémon you control evolves, put a stun counter on target Pokémon you don't control. Pokémon you control get +1/+1 until end of turn.</text>
+Whenever a Pokémon you control evolves, tap up to two target Pokémon you don't control. Put a stun counter on each of them.</text>
 		</card>
 		<card>
 			<name>Flareon</name>
