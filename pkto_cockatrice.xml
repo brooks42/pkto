@@ -39,7 +39,7 @@
 			<type>Pokémon - Grass Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Bulbasaur {1}{G}
+			<text>Evolve From Bulbasaur {G}
 Whenever a Pokémon enters the battlefield under your control, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
 		</card>
 		<card>
@@ -189,7 +189,7 @@ Whenever Metapod evolves, it loses defender and you draw a card.</text>
 			<tablerow>2</tablerow>
 			<text>Evolve From Metapod {2}{G}
 Flying
-Whenever Butterfee attacks or blocks, put a stun counter on target Pokémon you don't control. If Butterfree is evolved, tap that Pokémon.</text>
+Whenever Butterfree attacks or blocks, put a stun counter on target Pokémon you don't control. If Butterfree is evolved, tap that Pokémon.</text>
 		</card>
 		<card>
 			<name>Weedle</name>
@@ -230,13 +230,13 @@ Whenever Kakuna evolves, it loses defender and target player discards a card.</t
 			<name>Beedrill</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Beedrill.png" rarity="rare">PKTO</set>
 			<color>B</color>
-			<manacost>3BB</manacost>
+			<manacost>1BB</manacost>
 			<type>Pokémon - Bug Poison</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Kakuna {2}{B}
 Flying
-Whenever Beedrill evolves, create two token copies of it except they are 1/1 with no mana cost.</text>
+Whenever Beedrill evolves, create two 1/1 black Bug Poison Pokémon tokens with flying named Beedrill.</text>
 			<related count="2">Beedrill Token</related>
 		</card>
 		<card>
@@ -436,8 +436,8 @@ Whenever Nidorina becomes blocked, put a -1/-1 counter on target Pokémon blocki
 			<type>Pokémon - Poison Ground</type>
 			<pt>4/5</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Nidorina {1}{G}
-Whenever Nidoqueen evolves or attacks, return target permanent card from your graveyard to your hand. If that card has mana value 3 or less, put it onto the battlefield instead.</text>
+			<text>Evolve From Nidorina {1}{G}{G}
+Whenever Nidoqueen evolves or attacks, return target Pokémon card or land card from your graveyard to your hand. If it has mana value 3 or less, put it onto the battlefield instead.</text>
 		</card>
 		<card>
 			<name>Nidoran♂</name>
@@ -573,7 +573,7 @@ Wither</text>
 			<tablerow>2</tablerow>
 			<text>Evolve From Zubat {X}{B}
 Flying
-When you cast Golbat for its evolve cost, target player loses X life and you gain X life.</text>
+Whenever Golbat evolves, target player loses X life and you gain X life.</text>
 		</card>
 		<card>
 			<name>Oddish</name>
@@ -779,7 +779,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
 			<type>Pokémon - Water</type>
 			<pt>1/2</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Poliwag evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.
+			<text>Whenever Poliwag evolves, gain control of target Pokémon with equal or lesser mana value until Poliwag leaves the battlefield.
 {U}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Poliwhirl (DFC)</related>
@@ -791,7 +791,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
 			<type>Pokémon - Water</type>
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Poliwhirl evolves, gain control of target Pokémon with equal or lesser mana value until this Pokémon leaves the battlefield.</text>
+			<text>Whenever Poliwhirl evolves, gain control of target Pokémon with equal or lesser mana value until Poliwhirl leaves the battlefield.</text>
 			<side>back</side>
 		</card>
 		<card>
@@ -854,11 +854,11 @@ Whenever you scry, Kadabra gains hexproof until end of turn.</text>
 			<name>Alakazam</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Alakazam.png" rarity="rare">PKTO</set>
 			<color>UB</color>
-			<manacost>4UB</manacost>
+			<manacost>3UB</manacost>
 			<type>Pokémon - Psychic</type>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Kadabra {1}{U}{B}
+			<text>Evolve From Kadabra {U}{B}
 {U}{U}: Scry 1.
 If you would scry a number of cards, scry that many cards plus one instead.</text>
 		</card>
@@ -916,7 +916,8 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{G}: Bellsprout gets +1/+1 until end of turn.
+			<text>Reach
+{1}{G}: Bellsprout gets +1/+1 until end of turn.
 {G}: Evolve</text>
 			<side>front</side>
 			<related attach="attach">Weepinbell (DFC)</related>
@@ -928,7 +929,8 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 			<type>Pokémon - Grass Poison</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{1}{G}: Weepinbell gets +1/+1 until end of turn.</text>
+			<text>Reach
+{1}{G}: Weepinbell gets +1/+1 until end of turn.</text>
 			<side>back</side>
 		</card>
 		<card>
@@ -952,7 +954,7 @@ Weepinbell has vigilance as long as it has power greater than or equal to 5.</te
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Weepinbell {G}{G}
-Pokémon without wither get -1/-1.
+Pokémon with wither get +1/+1.
 {T}: Put a wither counter on another target Pokémon.</text>
 		</card>
 		<card>
@@ -1010,7 +1012,7 @@ Whenever you scry, you may draw a card. If you do, discard a card.</text>
 			<tablerow>2</tablerow>
 			<text>Evolve From Geodude {G}{G}
 This spell can't be countered.
-Trample</text>
+Vigilance</text>
 		</card>
 		<card>
 			<name>Golem (PKTO)</name>
@@ -1052,7 +1054,7 @@ First strike, haste</text>
 			<type>Pokémon - Water Psychic</type>
 			<pt>1/4</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Slowpoke would be dealt combat damage, prevent that damage. Deal that much damage to Slowpoke at the beginning of the next turn's upkeep.
+			<text>If combat damage would be dealt to Slowpoke, prevent that damage. If damage was prevented this way, deal that much damage to Slowpoke at the beginning of the next turn's end step.
 Remove three counters from Slowpoke: Return it to its owner's hand.</text>
 		</card>
 		<card>
@@ -1064,7 +1066,7 @@ Remove three counters from Slowpoke: Return it to its owner's hand.</text>
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Slowpoke {U}{B}
-Whenever Slowbro would be dealt noncombat damage, prevent that damage and put a -1/-1 counter on it. Scry 1, then draw a card.</text>
+If noncombat damage would be dealt to Slowbro, prevent that damage. If damage was prevented this way, put a -1/-1 counter on it, scry 1, then draw a card.</text>
 		</card>
 		<card>
 			<name>Magnemite</name>
@@ -1268,7 +1270,7 @@ Whenever you scry, untap Hypno.</text>
 			<type>Pokémon - Water</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
-			<text>{R}: Krabby gets +1/+0 and gains first strike until end of turn.</text>
+			<text>{2}{R}: Krabby gets +1/+0 and gains first strike until end of turn.</text>
 		</card>
 		<card>
 			<name>Kingler</name>
@@ -1289,8 +1291,8 @@ Kingler has double strike as long as it has first strike.</text>
 			<type>Pokémon - Electric</type>
 			<pt>1/1</pt>
 			<tablerow>2</tablerow>
-			<text>{X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon.
-Haste</text>
+			<text>Haste
+{X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon.</text>
 		</card>
 		<card>
 			<name>Electrode</name>
@@ -1365,7 +1367,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 			<pt>3/4</pt>
 			<tablerow>2</tablerow>
 			<text>Flash
-When Hitmonchan enters the battlefield, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. If you do, Hitmonchan deals damage equal to its power to any target.</text>
+When Hitmonchan enters the battlefield, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. If damage is prevented this way, Hitmonchan deals damage equal to its power to any target.</text>
 		</card>
 		<card>
 			<name>Lickitung</name>
@@ -1396,7 +1398,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 			<pt>2/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Koffing {X}{B}{B}
-When you cast Weezing, distribute X -1/-1 counters among any number of target Pokémon.</text>
+Whenever Weezing enters the battlefield or evolves, distribute X -1/-1 counters among any number of target Pokémon.</text>
 		</card>
 		<card>
 			<name>Rhyhorn</name>
@@ -1406,7 +1408,8 @@ When you cast Weezing, distribute X -1/-1 counters among any number of target Po
 			<type>Pokémon - Ground Rock</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Rhyhorn can't be blocked by Pokémon with power 2 or less.
+			<text>Haste
+Rhyhorn can't be blocked by Pokémon with power 2 or less.
 Whenever Rhyhorn deals combat damage to an opponent, it deals that much damage to target trainer that player controls.</text>
 		</card>
 		<card>
@@ -1508,7 +1511,7 @@ You may cast Seaking for its Evolve From cost as though it had flash. If you do,
 			<name>Starmie</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Starmie.png" rarity="uncommon">PKTO</set>
 			<color>U</color>
-			<manacost>3UU</manacost>
+			<manacost>3U</manacost>
 			<type>Pokémon - Water Psychic</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
@@ -1553,7 +1556,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
 			<type>Pokémon - Electric</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Electabuzz attacks for the first time each turn, there is an additional combat phase after this one. Untap all Pokémon you control that attacked this turn at the beginning of that combat.</text>
+			<text>Whenever Electabuzz attacks for the first time each turn, untap all attacking creatures. After this phase, there is an additional combat phase.</text>
 		</card>
 		<card>
 			<name>Magmar</name>
@@ -1569,7 +1572,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
 			<name>Pinsir</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Pinsir.png" rarity="uncommon">PKTO</set>
 			<color>G</color>
-			<manacost>4G</manacost>
+			<manacost>4GG</manacost>
 			<type>Pokémon - Bug</type>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
@@ -1657,7 +1660,7 @@ Whenever a Pokémon you control evolves, scry 1 and draw a card.</text>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Eevee {3}{R/W}
-Whenever a Pokémon you control evolves, Pokémon you control get +1/+1 until end of turn.</text>
+Whenever a Pokémon you control evolves, tap up to two target Pokémon you don't control. Put a stun counter on each of them.</text>
 		</card>
 		<card>
 			<name>Flareon</name>
@@ -1668,7 +1671,7 @@ Whenever a Pokémon you control evolves, Pokémon you control get +1/+1 until en
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Eevee {3}{R}
-Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you choose among any number of target Pokémon.</text>
+Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you choose among any number of targets.</text>
 		</card>
 		<card>
 			<name>Porygon</name>
@@ -1758,7 +1761,7 @@ Whenever you gain life, untap Snorlax.</text>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Articuno can't attack or block unless it is obedient.
+Articuno can't attack or block unless it's obedient.
 Tap 4 other untapped nonland permanents you control: Articuno becomes obedient.</text>
 		</card>
 		<card>
@@ -1770,7 +1773,7 @@ Tap 4 other untapped nonland permanents you control: Articuno becomes obedient.<
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Zapdos can't attack or block unless it is obedient.
+Zapdos can't attack or block unless it's obedient.
 Whenever you attack with three or more Pokémon, Zapdos becomes obedient.</text>
 		</card>
 		<card>
@@ -1782,7 +1785,7 @@ Whenever you attack with three or more Pokémon, Zapdos becomes obedient.</text>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
 			<text>Flying
-Moltres can't attack or block unless it is obedient.
+Moltres can't attack or block unless it's obedient.
 As long as you have no cards in hand, Moltres is obedient.</text>
 		</card>
 		<card>
@@ -1839,7 +1842,7 @@ Hexproof from trainers</text>
 			<type>Legendary Pokémon - Psychic</type>
 			<pt>7/4</pt>
 			<tablerow>2</tablerow>
-			<text>When Mewtwo enters the battlefield, create a token copy of each Pokémon you don't control, except they are 2/2 Clones.
+			<text>When Mewtwo enters the battlefield, create a token copy of each Pokémon you don't control, except they're 2/2 Clones.
 When Mewtwo dies, return it to the battlfield transformed.</text>
 			<related attach="attach">Mewtwo, Redeemed</related>
 			<related>Clone Token</related>
@@ -1893,7 +1896,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<loyalty>4</loyalty>
 			<text>At the beginning of your upkeep, if a player attacked you last turn, draw a card.
 [+1]: If a player controls more Pokémon than you, the next Pokémon spell you cast this turn costs {X} less to cast, where X is equal to the difference.
-[-3]: Create a token copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
+[-4]: Create a token copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
 		</card>
 		<card>
 			<name>Green</name>
@@ -1930,7 +1933,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<loyalty>4</loyalty>
 			<text>Whenever a spell or ability you control counters a spell, put two loyalty counters on Misty.
 [+1]: Draw a card.
-[−3]: Return another nonland permanent to its owner's hand.</text>
+[−3]: Return another target nonland permanent to its owner's hand.</text>
 		</card>
 		<card>
 			<name>Lt. Surge</name>
@@ -1942,7 +1945,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<loyalty>4</loyalty>
 			<text>[+1]: Pokémon you control get +1/+0 and gain haste until end of turn.
 [−2]: Pokémon you control with first strike gain double strike until end of turn, then Pokémon you control gain first strike until end of turn.
-[−4]: Untap all Pokémon you control that attacked this turn. After this main phase, there is an additional combat phase. </text>
+[−4]: Untap all Pokémon that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
 		</card>
 		<card>
 			<name>Erika</name>
@@ -2054,6 +2057,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<text>Whenever a Pokémon with a soulbind counter on it dies, exile it. Create a token copy of it, except it's a Ghost.      
 [+1]: Put a soulbind counter on up to one target nontoken Pokémon.
 [-2]: You may sacrifice a nontoken Pokémon. If you do, draw two cards.</text>
+			<related>Ghost Token</related>
 		</card>
 		<card>
 			<name>Lance (PKTO)</name>
@@ -2093,7 +2097,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<manacost>1U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Scry 3. You may reveal the top card of your library. If a Pokémon card is revealed this way, you may put it into your hand.</text>
+			<text>Scry 3, then you may reveal the top card of your library. If a Pokémon card is revealed this way, put it into your hand.</text>
 		</card>
 		<card>
 			<name>Safari Ball</name>
@@ -2416,7 +2420,7 @@ Draw a card.</text>
 			<manacost>W</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>All Pokémon get -3/-0 until end of turn.
+			<text>Prevent all damage that would be dealt this turn.
 Draw a card.</text>
 		</card>
 		<card>
@@ -2539,7 +2543,7 @@ Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
 			<type>Instant</type>
 			<tablerow>3</tablerow>
 			<text>This spell can't be countered.
-Target Pokémon or trainer loses indestructible. Destroy it. It can't be regenerated.</text>
+Target Pokémon or trainer loses indestructible until end of turn. Destroy it. It can't be regenerated.</text>
 		</card>
 		<card>
 			<name>Substitute</name>
@@ -2686,7 +2690,7 @@ Sacrifice Water Stone: Scry 3.</text>
 			<tablerow>1</tablerow>
 			<text>{T}: Add {R}.
 Whenever a Pokémon you control evolves, Fire Stone deals 1 damage to target player.
-Sacrifice Fire Stone: Fire Stone deals 2 damage to target Pokémon or trainer.</text>
+Sacrifice Fire Stone: It deals 2 damage to target Pokémon or trainer.</text>
 		</card>
 		<card>
 			<name>Moon Stone</name>
@@ -2732,8 +2736,8 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 		<card>
 			<name>Super Repel</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Super%20Repel.png" rarity="uncommon">PKTO</set>
-			<color />
-			<manacost>3</manacost>
+			<color>W</color>
+			<manacost>2W</manacost>
 			<type>Artifact</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon can't attack you unless their controller pays {2} for each Pokémon they control that's attacking you.</text>
@@ -2767,7 +2771,7 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
 Whenever enchanted Pokémon attacks, it deals 3 damage to target Pokémon.
-At the beginning of your end step, sacrifice Rage unless enchanted Pokémon attacked this turn.
+At the beginning of your end step, sacrifice Rage unless a Pokémon died this turn.
 			</text>
 		</card>
 		<card>
@@ -2798,7 +2802,8 @@ Enchanted Pokémon has "{T}: Destroy target nonland permanent, then put a stun c
 			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon
-Enchanted Pokémon has "{T}: Put a +1/+1 counter on this Pokémon. Then if it has three or more +1/+1 counters on it, sacrifice Swords Dance."</text>
+At the beginning of your upkeep, put a +1/+1 counter on enchanted Pokémon.
+When Swords Dance is put into a graveyard from the battlefield, return it to its owner's hand.</text>
 		</card>
 		<card>
 			<name>Mega Kick</name>
@@ -2849,8 +2854,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 			<manacost>WU</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card. If a spell is not countered this way, 
-			1 life.</text>
+			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card. If a spell is not countered this way, you gain 1 life.</text>
 		</card>
 		<card>
 			<name>Vermillion Gym</name>
@@ -2898,7 +2902,8 @@ If one or more -1/-1 counters would be put on a Pokémon you don't control, that
 			<manacost>1R</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>Whenever you attack, choose odd or even. Then exile the top card of your library. If it has mana value of the chosen quality, you may cast it for as long as it remains exiled.</text>
+			<text>Whenever you attack, choose odd or even, then reveal the top card of your library. If it's a nonland card with mana value of the chosen quality, exile it.
+You may cast cards exiled with Cinnabar Gym.</text>
 		</card>
 		<card>
 			<name>Viridian Gym</name>
@@ -3531,6 +3536,16 @@ Cycling {2}</text>
 			<manacost />
 			<type>Token Pokémon - Poison</type>
 			<pt>1/2</pt>
+			<tablerow>2</tablerow>
+			<text />
+		</card>
+		<card>
+			<name>Ghost Token</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/GhostToken.png" rarity="token">PKTO</set>
+			<color>UB</color>
+			<manacost />
+			<type>Token Pokémon - Ghost</type>
+			<pt />
 			<tablerow>2</tablerow>
 			<text />
 		</card>
