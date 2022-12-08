@@ -2097,7 +2097,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<manacost>1U</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Scry 3, then you may reveal the top card of library. If a Pokémon card is revealed this way, put it into your hand.</text>
+			<text>Scry 3, then you may reveal the top card of your library. If a Pokémon card is revealed this way, put it into your hand.</text>
 		</card>
 		<card>
 			<name>Safari Ball</name>
