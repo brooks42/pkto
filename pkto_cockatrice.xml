@@ -1755,8 +1755,8 @@ Whenever you gain life, untap Snorlax.</text>
 		<card>
 			<name>Articuno</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Articuno.png" rarity="mythic">PKTO</set>
-			<color>UW</color>
-			<manacost>{U/W}{U/W}{U/W}{U/W}</manacost>
+			<color>WU</color>
+			<manacost>{W/U}{W/U}{W/U}{W/U}</manacost>
 			<type>Legendary Pokémon - Ice Flying</type>
 			<pt>6/6</pt>
 			<tablerow>2</tablerow>
