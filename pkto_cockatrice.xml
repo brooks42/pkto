@@ -2857,14 +2857,14 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 			<text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card. If a spell is not countered this way, you gain 1 life.</text>
 		</card>
 		<card>
-			<name>Vermillion Gym</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Vermillion%20Gym.png" rarity="rare">PKTO</set>
+			<name>Vermilion Gym</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vermilion%20Gym.png" rarity="rare">PKTO</set>
 			<color>RW</color>
 			<manacost>RW</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>Whenever a Pokémon you control attacks, put a charge counter on Vermillion Gym.
-Remove three charge counters from Vermillion Gym: Put a first strike, vigilance, or haste counter on target Pokémon.</text>
+			<text>Whenever a Pokémon you control attacks, put a charge counter on Vermilion Gym.
+Remove three charge counters from Vermilion Gym: Put a first strike, vigilance, or haste counter on target Pokémon.</text>
 		</card>
 		<card>
 			<name>Celadon Gym</name>
@@ -3208,14 +3208,14 @@ Cycling {2}</text>
 			<cipt>1</cipt>
 		</card>
 		<card>
-			<name>Vermillion City</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Vermillion%20City.png" rarity="rare">PKTO</set>
+			<name>Vermilion City</name>
+			<set picURL="https://brooks42.github.io/pkto/cards/Vermilion%20City.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
 			<text>{T}: Add {R} or {W}. You lose 1 life.
-{1}, {T}, Sacrifice Vermillion City: Draw a card.</text>
+{1}, {T}, Sacrifice Vermilion City: Draw a card.</text>
 		</card>
 		<card>
 			<name>Seafoam Islands</name>
