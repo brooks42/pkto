@@ -20,7 +20,7 @@ Fossil is a replacement for the escape mechanic. Fossil behaves like escape in a
 
 Evolve - An activated ability that turns the card over, just like transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their power, toughness, and name are different.
 
-Evolve From - An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all abilities from under it.
+Evolve From - An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all non-evolve abilities from under it.
 
 Both "Evolve" and "Evolve From" count as evolution/evolving. Any triggered abilities that care about Pokémon evolving will trigger from both types of evolution. If a card affects what you can pay "to evolve Pokémon" it applies to both types of evolution. 
 
