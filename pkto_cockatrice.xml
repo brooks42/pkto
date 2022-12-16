@@ -130,7 +130,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Charmander {R}
-Charmeleon has menace as long as it has power greater than or equal to 4.</text>
+Charmeleon has menace as long as it has power 4 or greater.</text>
 		</card>
 		<card>
 			<name>Charizard</name>
