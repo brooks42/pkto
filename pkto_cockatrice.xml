@@ -2882,8 +2882,8 @@ Remove three charge counters from Vermilion Gym: Put a first strike, vigilance, 
 			<manacost>UB</manacost>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
-			<text>When Saffron Gym enters the battlefield, scry 1 and draw a card.
-The first time you would draw a card each turn, scry 1 and draw a card instead.</text>
+			<text>When Saffron Gym enters the battlefield, scry 1, then draw a card.
+The first time you would draw a card each turn, scry 1, then draw a card instead.</text>
 		</card>
 		<card>
 			<name>Fuchsia Gym</name>
