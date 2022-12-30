@@ -748,7 +748,7 @@ When Psyduck enters the battlefield, you may counter target spell.</text>
 			<pt>5/3</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Mankey {2}{R}
-Whenever Primeape attacks, destroy up to one target artifact. If Primeape is evolved, it deals 4 damage to that artifact's controller.</text>
+Whenever Primeape attacks, destroy up to one target artifact. If Primeape has reach, it deals 4 damage to that artifact's controller.</text>
 		</card>
 		<card>
 			<name>Growlithe</name>
