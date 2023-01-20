@@ -272,7 +272,7 @@ Whenever Beedrill evolves, create two 1/1 black Bug Poison Pokémon tokens with 
 			<tablerow>2</tablerow>
 			<text>Evolve From Pidgey {W}
 Flying
-Whenever Pidgeotto attacks, another target Pokémon you control gains flying until end of turn.</text>
+Whenever Pidgeotto attacks or evolves, another target Pokémon you control gains flying until end of turn.</text>
 		</card>
 		<card>
 			<name>Pidgeot</name>
@@ -1920,7 +1920,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<loyalty>3</loyalty>
 			<text>[+1]: Add {R} or {G}. Pokémon spells you cast this turn can't be countered.
 [+1]: Draw a card if you control a Pokémon with power 4 or greater.
-[−7]: You get an emblem with "Whenever a Pokémon you control is dealt damage, it deals that much damage to that source's controller."</text>
+[−7]: You get an emblem with “Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source’s controller.”</text>
 			<related>Brock (Emblem)</related>
 		</card>
 		<card>
@@ -3605,7 +3605,7 @@ Cycling {2}</text>
 			<manacost />
 			<type>Emblem - Brock</type>
 			<tablerow>1</tablerow>
-			<text>Whenever a Pokémon you control is dealt damage, it deals that much damage to that source's controller.</text>
+			<text>Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source’s controller.</text>
 		</card>
 		<card>
 			<name>Koga (Emblem)</name>
