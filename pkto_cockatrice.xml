@@ -1607,7 +1607,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
 			<pt>10/10</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Magikarp {4}{U}{R}
-Whenever Gyarados evolves, it deals 6 damage divided as you choose among any number of target Pokémon and/or trainers.</text>
+Whenever Gyarados enters the battlefield or evolves, it deals 6 damage divided as you choose among any number of targets. Whenever a permanent dealt damage this way dies this turn, if Gyarados is evolved, draw a card.</text>
 		</card>
 		<card>
 			<name>Lapras</name>
@@ -1762,7 +1762,7 @@ Whenever you gain life, untap Snorlax.</text>
 			<tablerow>2</tablerow>
 			<text>Flying
 Articuno can't attack or block unless it's obedient.
-Tap 4 other untapped nonland permanents you control: Articuno becomes obedient.</text>
+Tap 4 other untapped nonland permanents you control and put a stun counter on them: Articuno becomes obedient.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
@@ -1920,7 +1920,7 @@ When you cycle Mew, shuffle it into your library.</text>
 			<loyalty>3</loyalty>
 			<text>[+1]: Add {R} or {G}. Pokémon spells you cast this turn can't be countered.
 [+1]: Draw a card if you control a Pokémon with power 4 or greater.
-[−7]: You get an emblem with “Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source’s controller.”</text>
+[−7]: You get an emblem with “Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source's controller.”</text>
 			<related>Brock (Emblem)</related>
 		</card>
 		<card>
@@ -3605,7 +3605,7 @@ Cycling {2}</text>
 			<manacost />
 			<type>Emblem - Brock</type>
 			<tablerow>1</tablerow>
-			<text>Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source’s controller.</text>
+			<text>Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source's controller.</text>
 		</card>
 		<card>
 			<name>Koga (Emblem)</name>
