@@ -1037,7 +1037,7 @@ Vigilance</text>
 		</card>
 		<card>
 			<name>Rapidash</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Rapidash.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Rapidash.png" rarity="rare">PKTO</set>
 			<color>R</color>
 			<manacost>4R</manacost>
 			<type>Pokémon - Fire</type>
@@ -1253,7 +1253,7 @@ Whenever Onix attacks, you may discard a card. If you do, draw a card.</text>
 		</card>
 		<card>
 			<name>Hypno</name>
-			<set picURL="https://brooks42.github.io/pkto/cards/Hypno.png" rarity="uncommon">PKTO</set>
+			<set picURL="https://brooks42.github.io/pkto/cards/Hypno.png" rarity="rare">PKTO</set>
 			<color>UB</color>
 			<manacost>2UB</manacost>
 			<type>Pokémon - Psychic</type>
