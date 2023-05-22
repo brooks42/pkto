@@ -1495,7 +1495,8 @@ Whenever Seadra evolves, untap it.</text>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
 			<text>Evolve From Goldeen {U}{U}
-You may cast Seaking for its Evolve From cost as though it had flash. If you do, you may counter target spell.</text>
+You may evolve Seaking as though it had flash.
+Whenever Seaking enters the battlefield or evolves, counter target spell.</text>
 		</card>
 		<card>
 			<name>Staryu</name>
