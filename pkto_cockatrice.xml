@@ -2990,7 +2990,7 @@ Whenever a Pokémon an opponent controls dies, that player may have you create a
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Cerulean Cave enters the battlefield tapped unless you pay 2 life.
+			<text>As Cerulean Cave enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
 {T}: Add {U} or {B}.</text>
 			<cipt>1</cipt>
 		</card>
@@ -3001,7 +3001,7 @@ Whenever a Pokémon an opponent controls dies, that player may have you create a
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Cerulean City enters the battlefield tapped unless you pay 2 life.
+			<text>As Cerulean City enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
 {T}: Add {W} or {U}.</text>
 			<cipt>1</cipt>
 		</card>
@@ -3054,7 +3054,7 @@ Cycling {2}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Fuchsia City enters the battlefield tapped unless you pay 2 life.
+			<text>As Fuchsia City enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
 {T}: Add {B} or {G}.</text>
 			<cipt>1</cipt>
 		</card>
@@ -3120,7 +3120,7 @@ Cycling {2}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Pewter City enters the battlefield tapped unless you pay 2 life.
+			<text>As Pewter City enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
 {T}: Add {R} or {G}.</text>
 			<cipt>1</cipt>
 		</card>
@@ -3151,7 +3151,7 @@ Cycling {2}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>Power Plant enters the battlefield tapped unless you pay 2 life.
+			<text>As Power Plant enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
 {T}: Add {R} or {W}.</text>
 			<cipt>1</cipt>
 		</card>
