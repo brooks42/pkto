@@ -3600,7 +3600,7 @@ Cycling {2}</text>
 			<text>{T}, Sacrifice this artifact: Add one many of any color.</text>
 		</card>
 		<card>
-			<name>Brock (Emblem)</name>
+			<name>Brock Emblem</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/BrockEmblem.png" rarity="token">PKTO</set>
 			<color />
 			<manacost />
@@ -3609,7 +3609,7 @@ Cycling {2}</text>
 			<text>Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source's controller.</text>
 		</card>
 		<card>
-			<name>Koga (Emblem)</name>
+			<name>Koga Emblem</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/KogaEmblem.png" rarity="token">PKTO</set>
 			<color />
 			<manacost />
@@ -3618,7 +3618,7 @@ Cycling {2}</text>
 			<text>Pokémon you control have "{B}: This Pokémon can't be blocked this turn."</text>
 		</card>
 		<card>
-			<name>Professor Oak (Emblem)</name>
+			<name>Professor Oak Emblem</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/OakEmblem.png" rarity="token">PKTO</set>
 			<color />
 			<manacost />
