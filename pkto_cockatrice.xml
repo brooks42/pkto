@@ -1102,8 +1102,8 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
 		<card>
 			<name>Doduo</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Doduo.png" rarity="uncommon">PKTO</set>
-			<color>RB</color>
-			<manacost>RB</manacost>
+			<color>BR</color>
+			<manacost>BR</manacost>
 			<type>Pokémon - Normal Flying</type>
 			<pt>2/2</pt>
 			<tablerow>2</tablerow>
@@ -1112,12 +1112,12 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
 		<card>
 			<name>Dodrio</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Dodrio.png" rarity="rare">PKTO</set>
-			<color>RB</color>
-			<manacost>3RB</manacost>
+			<color>BR</color>
+			<manacost>3BR</manacost>
 			<type>Pokémon - Normal Flying</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
-			<text>Evolve From Doduo {1}{R}{B}
+			<text>Evolve From Doduo {1}{B}{R}
 Double strike, haste</text>
 		</card>
 		<card>
@@ -1330,8 +1330,8 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 		<card>
 			<name>Cubone</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Cubone.png" rarity="uncommon">PKTO</set>
-			<color>WG</color>
-			<manacost>1WG</manacost>
+			<color>GW</color>
+			<manacost>1GW</manacost>
 			<type>Pokémon - Ground</type>
 			<pt>3/2</pt>
 			<tablerow>2</tablerow>
@@ -1679,7 +1679,7 @@ Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you c
 			<set picURL="https://brooks42.github.io/pkto/cards/Porygon.png" rarity="rare">PKTO</set>
 			<color />
 			<manacost>3</manacost>
-			<type>Pokémon - Normal</type>
+			<type>Artifact Pokémon - Normal</type>
 			<pt>3/3</pt>
 			<tablerow>2</tablerow>
 			<text>Whenever a player casts a spell,  Porygon becomes that spell's colors.
@@ -2050,7 +2050,7 @@ When you cycle Mew, shuffle it into your library.</text>
 		<card>
 			<name>Agatha</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Agatha.png" rarity="mythic">PKTO</set>
-			<color>BU</color>
+			<color>UB</color>
 			<manacost>2{U/B}B</manacost>
 			<tablerow>1</tablerow>
 			<type>Legendary Trainer - Agatha</type>
