@@ -3183,7 +3183,7 @@ Cycling {2}</text>
 			<manacost />
 			<type>Land</type>
 			<tablerow>0</tablerow>
-			<text>{T}: Add {B} or {U}. You lose 1 life.
+			<text>{T}: Add {U} or {B}. You lose 1 life.
 {1}, {T}, Sacrifice Saffron City: Draw a card.</text>
 		</card>
 		<card>
