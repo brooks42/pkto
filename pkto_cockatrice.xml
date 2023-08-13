@@ -1557,7 +1557,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
 			<type>Pokémon - Electric</type>
 			<pt>4/4</pt>
 			<tablerow>2</tablerow>
-			<text>Whenever Electabuzz attacks for the first time each turn, untap all attacking creatures. After this phase, there is an additional combat phase.</text>
+			<text>Whenever Electabuzz attacks for the first time each turn, untap all attacking Pokémon. After this phase, there is an additional combat phase.</text>
 		</card>
 		<card>
 			<name>Magmar</name>
