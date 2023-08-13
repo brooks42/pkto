@@ -2134,7 +2134,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 			<manacost>G</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Choose target Pokémon you control. Reveal a Pokémon card with equal or lesser mana value from your hand. If you do, return the chosen Pokémon to your hand and put the revealed card onto the battlefield.</text>
+			<text>Choose target Pokémon you control. Reveal a Pokémon card with equal or lesser mana value from your hand. If you do, return the chosen Pokémon to its owner's hand and put the revealed card onto the battlefield.</text>
 		</card>
 		<card>
 			<name>Poké Flute</name>
