@@ -32,6 +32,10 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **A**: Pokémon with Evolve abilities act just like any other double-faced cards. [See this link for more info](https://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-29#:~:text=Double-Faced%20Card%20Rules%201%20Double-Faced%20Cards%20in%20General.,...%204%20Double-Faced%20Cards%20and%20Copy%20Effects.%20).
 
+**Q: If I kill a Pokémon in response to it being target by a spell with Evolve From, what happens?**
+
+**A**: The Evolve From spell will still resolve, but it will enter battlefield on its own, won't trigger any abilities that care about evolution, and won't be considered evolved.
+
 **Q: Many Pokémon have abilities that reference them by name, such as "1G: Bellsprout gets +1/+1 until end of turn." Evolve Pokémon get all abilities from cards underneath them, do abilities like this still work?**
 
 **A**: Yes, a Weepinbell that uses that ability will still get +1/+1. In MTG, stating a creature's name is the same as saying "this creature." We chose to use Pokémon names more frequently for flavor points.
