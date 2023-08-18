@@ -1763,7 +1763,7 @@ Whenever you gain life, untap Snorlax.</text>
 			<tablerow>2</tablerow>
 			<text>Flying
 Articuno can't attack or block unless it's obedient.
-Tap four other untapped nonland permanents you control and put a stun counter on them: Articuno becomes obedient.</text>
+Tap four other untapped nonland permanents you control and put a stun counter on each of them: Articuno becomes obedient.</text>
 		</card>
 		<card>
 			<name>Zapdos</name>
@@ -2273,7 +2273,7 @@ You gain 1 life.</text>
 			<manacost>U</manacost>
 			<type>Instant</type>
 			<tablerow>3</tablerow>
-			<text>Target Pokémon gets +0/+4 until end of turn. Untap it. At this turn's next end of combat, tap each Pokémon that was blocked by that Pokémon this turn and put a stun counter on them.</text>
+			<text>Target Pokémon gets +0/+4 until end of turn. Untap it. At this turn's next end of combat, tap each Pokémon that was blocked by that Pokémon this turn and put a stun counter on each of them.</text>
 		</card>
 		<card>
 			<name>Guard Spec.</name>
