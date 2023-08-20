@@ -32,6 +32,10 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **A**: Pokémon with Evolve abilities act just like any other double-faced cards. [See this link for more info](https://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-29#:~:text=Double-Faced%20Card%20Rules%201%20Double-Faced%20Cards%20in%20General.,...%204%20Double-Faced%20Cards%20and%20Copy%20Effects.%20).
 
+**Q: If I kill a Pokémon in response to it being targeted by a spell that was cast for its Evolve From cost, what happens?**
+
+**A**: The Evolve From spell will still resolve, but it will enter battlefield on its own, won't trigger any abilities that care about evolution, and won't be considered evolved.
+
 **Q: Many Pokémon have abilities that reference them by name, such as "1G: Bellsprout gets +1/+1 until end of turn." Evolve Pokémon get all abilities from cards underneath them, do abilities like this still work?**
 
 **A**: Yes, a Weepinbell that uses that ability will still get +1/+1. In MTG, stating a creature's name is the same as saying "this creature." We chose to use Pokémon names more frequently for flavor points.
@@ -47,10 +51,6 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: Why doesn't Spearow have flying?**
 
 **A**: We know it's weird that there are Flying Pokémon, that not all Flying Pokémon have flying, and that you can have flying even if you're not a Flying Pokémon. We didn't want to be constrained to all Flying Pokémon having flying, mostly for balance.
-
-**Q: The Metapod card has Defender, which makes sense. The Metapod DFC doesn't. What gives?**
-
-**A**: Our DFC's don't add or remove abilities when they flip. Also when Caterpie evolves into Metapod, it retains its moveset, such as tackle.
 
 **Q: Hyper Beam says "Enchant target Pokémon without an Evolve ability." Does that mean I can't use it on Dragonite, which has Evolve From?**
 
@@ -75,3 +75,6 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: If Ninetales dies with its attack trigger on the stack, what happens?**
 
 **A**: Ninetales's controller may still pay 1RR and discard a card to take control of the targeted Pokémon. The Pokémon will tap, but will not be attacking, as Ninetales is no longer attacking anything.
+
+**Q:If I make a token copy of a Pokemon with an Evolve ability with Mewtwo, can that copy activate it and flip to the back face?**
+**A**: Yes, token copies of transforming double-faced cards can transform.
