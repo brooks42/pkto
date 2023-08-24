@@ -842,7 +842,7 @@ Whenever a Pokémon becomes the target of a spell or ability, you may change a t
 		<card>
 			<name>Kadabra</name>
 			<set picURL="https://brooks42.github.io/pkto/cards/Kadabra.png" rarity="uncommon">PKTO</set>
-			<color>U</color>
+			<color>UB</color>
 			<manacost>2UB</manacost>
 			<type>Pokémon - Psychic</type>
 			<pt>3/2</pt>
