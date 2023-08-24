@@ -2914,7 +2914,7 @@ You may cast cards exiled with Cinnabar Gym.</text>
 			<type>Enchantment</type>
 			<tablerow>1</tablerow>
 			<text>Pokémon you control have deathtouch.
-Whenever a Pokémon an opponent controls dies, that player may have you create a Treasure token. If they don't, they lose 2 life.</text>
+Whenever a Pokémon an opponent controls dies, you create a Treasure token unless that player pays 2 life.</text>
 			<related>Treasure Token</related>
 		</card>
 		<!-- lands -->
