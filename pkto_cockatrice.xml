@@ -2792,7 +2792,7 @@ Whenever enchanted Pokémon attacks, tap target permanent and put a stun counter
 			<manacost>7</manacost>
 			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
-			<text>Enchant Pokémon without an Evolve ability
+			<text>Enchant Pokémon without Evolve
 Enchanted Pokémon has "{T}: Destroy target nonland permanent, then put a stun counter on this Pokémon. Activate only as a sorcery."</text>
 		</card>
 		<card>
