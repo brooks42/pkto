@@ -1946,7 +1946,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 			<loyalty>4</loyalty>
 			<text>[+1]: Pokémon you control get +1/+0 and gain haste until end of turn.
 [−2]: Pokémon you control with first strike gain double strike until end of turn, then Pokémon you control gain first strike until end of turn.
-[−4]: Untap all Pokémon that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+[−4]: Untap all Pokémon that attacked this turn. If it's a main phase, there is an additional combat phase followed by an additional main phase.</text>
 		</card>
 		<card>
 			<name>Erika</name>
