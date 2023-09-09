@@ -76,5 +76,11 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **A**: Ninetales's controller may still pay 1RR and discard a card to take control of the targeted Pokémon. The Pokémon will tap, but will not be attacking, as Ninetales is no longer attacking anything.
 
-**Q:If I make a token copy of a Pokemon with an Evolve ability with Mewtwo, can that copy activate it and flip to the back face?**
+**Q: If I make a token copy of a Pokemon with an Evolve ability with Mewtwo, can that copy activate it and flip to the back face?**
 **A**: Yes, token copies of transforming double-faced cards can transform.
+
+**Q: Do Pokémon die between the fights for Double Kick?
+**A**: Double kick creates a delayed trigger that goes on the stack after the first fight resolves. State based actions are checked while that trigger is on the stack, so Pokémon can die before the second fight occurs.
+
+**Q: When do I choose the target for the second fight in Double Kick?
+**A**: You choose the target when the trigger goes on the stack, after the first fight resolves but before state based actions are checked.

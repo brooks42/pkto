@@ -2582,7 +2582,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
 			<manacost>G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Choose target Pokémon you control. It fights target Pokémon you don't control, then fights target Pokémon you don't control.</text>
+			<text>Target Pokémon you control fights target Pokémon you don't control. When the Pokémon you control fights this way, it fights target Pokémon you don't control.</text>
 		</card>
 		<card>
 			<name>Prepare for Trouble</name>
