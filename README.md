@@ -42,7 +42,7 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **Q: The DFC Kadabra has an ability that triggers when it enters the battlefield. That can't happen, so why is it there?**
 
-**A**: We want to be consistent with the DFC cards having the same abilities on the front and back sides. This also opens up potential design space for future generations if we want to have an effect that has cards enter already evolved.
+**A**: We want to be consistent with the DFC cards having the same abilities on the front and back sides. It can also happen if you were to make a copy of Kadabra.
 
 **Q: Why isn't [insert favorite Pokémon here] the color I think it should be? Your colors are bad and you should feel bad.**
 
@@ -59,6 +59,10 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: Beedrill and Ditto can make copies of evolved Pokémon. Do those copies get the abilities from the cards under the evolved Pokémon?**
 
 **A**: Yes, abilities of all cards in a merged permanent are copiable characteristics. For example, a copy of Beedrill with a weedle under it will have deathtouch.
+
+**Q: Are copies of evolved Pokémon considered evolved?
+
+**A**: No, being a merged permanent (evolved) is not itself a copiable characteristic. Copies are not evolved and have evolved 0 times.
 
 **Q: What if Ditto copies a Pokémon with an Evolve ability? Will it flip to the other side?**
 
