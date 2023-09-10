@@ -2793,7 +2793,7 @@ Whenever enchanted Pokémon attacks, tap target permanent and put a stun counter
 			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
 			<text>Enchant Pokémon without Evolve
-Enchanted Pokémon has "{T}: Destroy target nonland permanent, then put a stun counter on this Pokémon. Activate only as a sorcery."</text>
+Enchanted Pokémon has "{T}: Destroy target nonland permanent. This Pokémon doesn't untap during its controller's next untap step. Activate only as a sorcery."</text>
 		</card>
 		<card>
 			<name>Swords Dance</name>
