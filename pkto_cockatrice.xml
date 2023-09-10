@@ -1946,7 +1946,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 			<loyalty>4</loyalty>
 			<text>[+1]: Pokémon you control get +1/+0 and gain haste until end of turn.
 [−2]: Pokémon you control with first strike gain double strike until end of turn, then Pokémon you control gain first strike until end of turn.
-[−4]: Untap all Pokémon that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+[−4]: Untap all Pokémon that attacked this turn. If it's a main phase, there is an additional combat phase followed by an additional main phase.</text>
 		</card>
 		<card>
 			<name>Erika</name>
@@ -2582,7 +2582,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
 			<manacost>G</manacost>
 			<type>Sorcery</type>
 			<tablerow>3</tablerow>
-			<text>Choose target Pokémon you control. It fights target Pokémon you don't control, then fights target Pokémon you don't control.</text>
+			<text>Target Pokémon you control fights target Pokémon you don't control. When the Pokémon you control fights this way, it fights target Pokémon you don't control.</text>
 		</card>
 		<card>
 			<name>Prepare for Trouble</name>
@@ -2792,7 +2792,7 @@ Whenever enchanted Pokémon attacks, tap target permanent and put a stun counter
 			<manacost>7</manacost>
 			<type>Enchantment - Aura</type>
 			<tablerow>1</tablerow>
-			<text>Enchant Pokémon without an Evolve ability
+			<text>Enchant Pokémon without Evolve
 Enchanted Pokémon has "{T}: Destroy target nonland permanent, then put a stun counter on this Pokémon. Activate only as a sorcery."</text>
 		</card>
 		<card>
