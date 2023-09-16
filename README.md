@@ -40,10 +40,6 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **A**: Yes, a Weepinbell that uses that ability will still get +1/+1. In MTG, stating a creature's name is the same as saying "this creature." We chose to use Pokémon names more frequently for flavor points.
 
-**Q: The DFC Kadabra has an ability that triggers when it enters the battlefield. That can't happen, so why is it there?**
-
-**A**: We want to be consistent with the DFC cards having the same abilities on the front and back sides. It can also happen if you were to make a copy of Kadabra.
-
 **Q: Why isn't [insert favorite Pokémon here] the color I think it should be? Your colors are bad and you should feel bad.**
 
 **A**: To make a balanced cube, we need to have roughly equal representation for each color. Gen 1 has a high concentration of poison and water types. Fire, rock, ground, and electric could all be red. Designing the cube requires us to take some poetic license regarding what color a Pokémon ends up being, and the end result may be different than what any Pokémon would have been in a vaccuum. 
