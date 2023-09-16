@@ -40,10 +40,6 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **A**: Yes, a Weepinbell that uses that ability will still get +1/+1. In MTG, stating a creature's name is the same as saying "this creature." We chose to use Pokémon names more frequently for flavor points.
 
-**Q: The DFC Kadabra has an ability that triggers when it enters the battlefield. That can't happen, so why is it there?**
-
-**A**: We want to be consistent with the DFC cards having the same abilities on the front and back sides. This also opens up potential design space for future generations if we want to have an effect that has cards enter already evolved.
-
 **Q: Why isn't [insert favorite Pokémon here] the color I think it should be? Your colors are bad and you should feel bad.**
 
 **A**: To make a balanced cube, we need to have roughly equal representation for each color. Gen 1 has a high concentration of poison and water types. Fire, rock, ground, and electric could all be red. Designing the cube requires us to take some poetic license regarding what color a Pokémon ends up being, and the end result may be different than what any Pokémon would have been in a vaccuum. 
@@ -59,6 +55,10 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: Beedrill and Ditto can make copies of evolved Pokémon. Do those copies get the abilities from the cards under the evolved Pokémon?**
 
 **A**: Yes, abilities of all cards in a merged permanent are copiable characteristics. For example, a copy of Beedrill with a weedle under it will have deathtouch.
+
+**Q: Are copies of evolved Pokémon considered evolved?
+
+**A**: No, being a merged permanent (evolved) is not itself a copiable characteristic. Copies are not evolved and have evolved 0 times.
 
 **Q: What if Ditto copies a Pokémon with an Evolve ability? Will it flip to the other side?**
 
