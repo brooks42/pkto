@@ -33,6 +33,7 @@
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
+		<cmc>1</cmc>
         <side>back</side>
         <colors>G</colors>
         <pt>2/2</pt>
@@ -93,6 +94,7 @@ If one or more counters would be put on a Pokémon you control, you may put that
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
+		<cmc>1</cmc>
         <side>back</side>
         <colors>U</colors>
         <pt>2/3</pt>
@@ -153,6 +155,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
       <prop>
         <type>Pokémon - Fire</type>
         <maintype>Pokémon</maintype>
+		<cmc>1</cmc>
         <side>back</side>
         <colors>R</colors>
         <pt>3/2</pt>
@@ -214,6 +217,7 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
       <prop>
         <type>Pokémon - Bug</type>
         <maintype>Pokémon</maintype>
+		<cmc>1</cmc>
         <side>back</side>
         <colors>G</colors>
         <pt>2/2</pt>
@@ -276,6 +280,7 @@ Whenever Butterfree attacks or blocks, put a stun counter on target Pokémon you
       <prop>
         <type>Pokémon - Bug Poison</type>
         <maintype>Pokémon</maintype>
+		<cmc>1</cmc>
         <side>back</side>
         <colors>B</colors>
         <pt>2/2</pt>
@@ -339,6 +344,7 @@ Whenever Beedrill evolves, create two 1/1 black Bug Poison Pokémon tokens with 
       <prop>
         <type>Pokémon - Normal Flying</type>
         <maintype>Pokémon</maintype>
+		<cmc>1</cmc>
         <side>back</side>
         <colors>W</colors>
         <pt>2/2</pt>
@@ -549,6 +555,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
       <prop>
         <type>Pokémon - Poison</type>
         <maintype>Pokémon</maintype>
+		<cmc>2</cmc>
         <side>back</side>
         <colors>G</colors>
         <pt>2/3</pt>
@@ -609,6 +616,7 @@ Whenever Nidoqueen evolves or attacks, return target Pokémon card or land card 
       <prop>
         <type>Pokémon - Poison</type>
         <maintype>Pokémon</maintype>
+		<cmc>3</cmc>
         <side>back</side>
         <colors>B</colors>
         <pt>4/2</pt>
@@ -792,6 +800,7 @@ Whenever Golbat evolves, target player loses X life and you gain X life.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
+		<cmc>1</cmc>
         <side>back</side>
         <colors>G</colors>
         <pt>2/2</pt>
@@ -1059,6 +1068,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
+		<cmc>1</cmc>
         <side>back</side>
         <colors>U</colors>
         <pt>2/3</pt>
@@ -1119,6 +1129,7 @@ Whenever a Pokémon becomes the target of a spell or ability, you may change a t
       <prop>
         <type>Pokémon - Psychic</type>
         <maintype>Pokémon</maintype>
+		<cmc>1</cmc>
         <side>back</side>
         <colors>U</colors>
         <pt>1/3</pt>
@@ -1180,6 +1191,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
       <prop>
         <type>Pokémon - Fighting</type>
         <maintype>Pokémon</maintype>
+		<cmc>2</cmc>
         <side>back</side>
         <colors>RG</colors>
         <pt>3/3</pt>
@@ -1243,6 +1255,7 @@ As long as Machamp is evolved, it must be blocked if able.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
+		<cmc>1</cmc>
         <side>back</side>
         <colors>G</colors>
         <pt>2/2</pt>
@@ -1335,6 +1348,7 @@ Whenever you scry, you may draw a card. If you do, discard a card.</text>
       <prop>
         <type>Pokémon - Rock Ground</type>
         <maintype>Pokémon</maintype>
+		<cmc>2</cmc>
         <side>back</side>
         <colors>G</colors>
         <pt>3/4</pt>
@@ -1614,6 +1628,7 @@ Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three targe
       <prop>
         <type>Pokémon - Ghost Poison</type>
         <maintype>Pokémon</maintype>
+		<cmc>1</cmc>
         <side>back</side>
         <colors>B</colors>
         <pt>2/2</pt>
@@ -2439,6 +2454,7 @@ As long as you have no cards in hand, Moltres is obedient.</text>
       <prop>
         <type>Pokémon - Dragon</type>
         <maintype>Pokémon</maintype>
+		<cmc>3</cmc>
         <side>back</side>
         <colors>RGW</colors>
         <pt>4/4</pt>
