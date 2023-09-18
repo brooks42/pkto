@@ -17,6 +17,7 @@
 {1}{G}: Evolve</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <side>front</side>
         <colors>G</colors>
@@ -31,6 +32,7 @@
       <text>{T}: Add {G}.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>G</colors>
         <pt>2/2</pt>
@@ -44,6 +46,7 @@
 Whenever a Pokémon enters the battlefield under your control, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>G</colors>
         <manacost>1GG</manacost>
@@ -58,6 +61,7 @@ Whenever a Pokémon enters the battlefield under your control, if Ivysaur is tap
 If one or more counters would be put on a Pokémon you control, you may put that many plus one of each of those kinds of counters on that Pokémon instead.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>G</colors>
         <manacost>3GG</manacost>
@@ -73,6 +77,7 @@ If one or more counters would be put on a Pokémon you control, you may put that
 {1}{U}: Evolve</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <side>front</side>
         <colors>U</colors>
@@ -87,6 +92,7 @@ If one or more counters would be put on a Pokémon you control, you may put that
       <text>{U}: Wartortle gets +0/+1 until end of turn.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>U</colors>
         <pt>2/3</pt>
@@ -100,6 +106,7 @@ If one or more counters would be put on a Pokémon you control, you may put that
 Hexproof</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>U</colors>
         <manacost>1UU</manacost>
@@ -114,6 +121,7 @@ Hexproof</text>
 You may have each Pokémon you control assign combat damage equal to its toughness rather than its power.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>U</colors>
         <manacost>3UU</manacost>
@@ -129,6 +137,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 {1}{R}: Evolve</text>
       <prop>
         <type>Pokémon - Fire</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <side>front</side>
         <colors>R</colors>
@@ -143,6 +152,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
       <text>{1}{R}: Charmeleon gets +1/+0 until end of turn.</text>
       <prop>
         <type>Pokémon - Fire</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>R</colors>
         <pt>3/2</pt>
@@ -156,6 +166,7 @@ You may have each Pokémon you control assign combat damage equal to its toughne
 Charmeleon has menace as long as it has power 4 or greater.</text>
       <prop>
         <type>Pokémon - Fire</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>R</colors>
         <manacost>1RR</manacost>
@@ -171,6 +182,7 @@ Flying
 Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player or trainer it's attacking.</text>
       <prop>
         <type>Pokémon - Fire Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>R</colors>
         <manacost>3RR</manacost>
@@ -186,6 +198,7 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
 {G}: Evolve</text>
       <prop>
         <type>Pokémon - Bug</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <side>front</side>
         <colors>G</colors>
@@ -200,6 +213,7 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
       <text>{1}{G}, {T}: Tap target Pokémon.</text>
       <prop>
         <type>Pokémon - Bug</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>G</colors>
         <pt>2/2</pt>
@@ -214,6 +228,7 @@ Defender
 Whenever Metapod evolves, it loses defender and you draw a card.</text>
       <prop>
         <type>Pokémon - Bug</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -229,6 +244,7 @@ Flying
 Whenever Butterfree attacks or blocks, put a stun counter on target Pokémon you don't control. If Butterfree is evolved, tap that Pokémon.</text>
       <prop>
         <type>Pokémon - Bug Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>G</colors>
         <manacost>1GG</manacost>
@@ -244,6 +260,7 @@ Whenever Butterfree attacks or blocks, put a stun counter on target Pokémon you
       <related attach="transform">Kakuna (DFC)</related>
       <prop>
         <type>Pokémon - Bug Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <side>front</side>
         <colors>B</colors>
@@ -258,6 +275,7 @@ Whenever Butterfree attacks or blocks, put a stun counter on target Pokémon you
       <text>Deathtouch</text>
       <prop>
         <type>Pokémon - Bug Poison</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>B</colors>
         <pt>2/2</pt>
@@ -272,6 +290,7 @@ Defender
 Whenever Kakuna evolves, it loses defender and target player discards a card.</text>
       <prop>
         <type>Pokémon - Bug Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -288,6 +307,7 @@ Whenever Beedrill evolves, create two 1/1 black Bug Poison Pokémon tokens with 
       <related count="2">Beedrill Token</related>
       <prop>
         <type>Pokémon - Bug Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>B</colors>
         <manacost>1BB</manacost>
@@ -303,6 +323,7 @@ Whenever Beedrill evolves, create two 1/1 black Bug Poison Pokémon tokens with 
       <related attach="transform">Pidgeotto (DFC)</related>
       <prop>
         <type>Pokémon - Normal Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <side>front</side>
         <colors>W</colors>
@@ -317,6 +338,7 @@ Whenever Beedrill evolves, create two 1/1 black Bug Poison Pokémon tokens with 
       <text>Flying</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>W</colors>
         <pt>2/2</pt>
@@ -331,6 +353,7 @@ Flying
 Whenever Pidgeotto attacks or evolves, another target Pokémon you control gains flying until end of turn.</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>W</colors>
         <manacost>3W</manacost>
@@ -346,6 +369,7 @@ Flying
 Pokémon you control have vigilance.</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>W</colors>
         <manacost>3WW</manacost>
@@ -360,6 +384,7 @@ Pokémon you control have vigilance.</text>
 			Sacrifice Rattata: Destroy target enchantment.</text>
       <prop>
         <type>Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -374,6 +399,7 @@ Pokémon you control have vigilance.</text>
 When Raticate dies, you may return target Pokémon card with mana value 2 or less from your graveyard to the battlefield.</text>
       <prop>
         <type>Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>W</colors>
         <manacost>1WW</manacost>
@@ -388,6 +414,7 @@ When Raticate dies, you may return target Pokémon card with mana value 2 or les
 Spearow can't be blocked except by Pokémon that share a color with it.</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>WB</colors>
         <manacost>1{W/B}{W/B}</manacost>
@@ -403,6 +430,7 @@ Flying
 Prevent all noncombat damage that would be dealt to Fearow.</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>7</cmc>
         <colors>WB</colors>
         <manacost>{4}{W/B}{W/B}</manacost>
@@ -416,6 +444,7 @@ Prevent all noncombat damage that would be dealt to Fearow.</text>
       <text>Wither</text>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -430,6 +459,7 @@ Prevent all noncombat damage that would be dealt to Fearow.</text>
 If a +1/+1 counter would be put on a Pokémon you don't control, that many -1/-1 counters are put on it instead.</text>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>B</colors>
         <manacost>3B</manacost>
@@ -443,6 +473,7 @@ If a +1/+1 counter would be put on a Pokémon you don't control, that many -1/-1
       <text>First strike, haste</text>
       <prop>
         <type>Pokémon - Electric</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>RW</colors>
         <manacost>1RW</manacost>
@@ -457,6 +488,7 @@ If a +1/+1 counter would be put on a Pokémon you don't control, that many -1/-1
 Whenever Raichu deals combat damage to a Pokémon, it deals damage equal to its power to that Pokémon. If that Pokémon would die this turn, exile it instead.</text>
       <prop>
         <type>Pokémon - Electric</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>RW</colors>
         <manacost>2RW</manacost>
@@ -470,6 +502,7 @@ Whenever Raichu deals combat damage to a Pokémon, it deals damage equal to its 
       <text>As long as Sandshrew is tapped, it has protection from each even mana value.</text>
       <prop>
         <type>Pokémon - Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -484,6 +517,7 @@ Whenever Raichu deals combat damage to a Pokémon, it deals damage equal to its 
 As long as Sandslash is tapped, it has protection from each odd mana value.</text>
       <prop>
         <type>Pokémon - Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>G</colors>
         <manacost>4G</manacost>
@@ -499,6 +533,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
       <related attach="transform">Nidorina (DFC)</related>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <side>front</side>
         <colors>G</colors>
@@ -513,6 +548,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
       <text>Whenever Nidorina enters the battlefield or evolves, mill three cards, then return a land card from your graveyard to your hand.</text>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>G</colors>
         <pt>2/3</pt>
@@ -526,6 +562,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
 Whenever Nidorina becomes blocked, put a -1/-1 counter on target Pokémon blocking it.</text>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -540,6 +577,7 @@ Whenever Nidorina becomes blocked, put a -1/-1 counter on target Pokémon blocki
 Whenever Nidoqueen evolves or attacks, return target Pokémon card or land card from your graveyard to your hand. If it has mana value 3 or less, put it onto the battlefield instead.</text>
       <prop>
         <type>Pokémon - Poison Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>7</cmc>
         <colors>G</colors>
         <manacost>5GG</manacost>
@@ -555,6 +593,7 @@ Whenever Nidoqueen evolves or attacks, return target Pokémon card or land card 
       <related attach="transform">Nidorino (DFC)</related>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <side>front</side>
         <colors>B</colors>
@@ -569,6 +608,7 @@ Whenever Nidoqueen evolves or attacks, return target Pokémon card or land card 
       <text>Whenever Nidorino attacks, it gains first strike until end of turn.</text>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>B</colors>
         <pt>4/2</pt>
@@ -583,6 +623,7 @@ Deathtouch
 Whenever Nidorino evolves, if you control no other Pokémon, add {B}{B}{B} and draw a card.</text>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>B</colors>
         <manacost>3B</manacost>
@@ -598,6 +639,7 @@ As long as Nidoking has deathtouch, it must be blocked if able.
 As long as Nidoking has first strike, it has trample.</text>
       <prop>
         <type>Pokémon - Poison Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>7</cmc>
         <colors>B</colors>
         <manacost>5BB</manacost>
@@ -612,6 +654,7 @@ As long as Nidoking has first strike, it has trample.</text>
 {2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon card. Clefairy gains all abilities of that card until end of turn. Put the revealed cards on the bottom of your library in any order.</text>
       <prop>
         <type>Pokémon - Fairy</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>WB</colors>
         <manacost>1WB</manacost>
@@ -627,6 +670,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
       <related>Treasure Token</related>
       <prop>
         <type>Pokémon - Fairy</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>WB</colors>
         <manacost>2WB</manacost>
@@ -640,6 +684,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
       <text>Whenever Vulpix attacks, it gets +1/+0 until end of turn for each attacking Pokémon you control.</text>
       <prop>
         <type>Pokémon - Fire</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -654,6 +699,7 @@ Whenever a player reveals one or more cards, untap Clefable and create a Treasur
 Whenever Ninetales attacks, you may pay {1}{R}{R} and discard a card. If you do, gain control of target Pokémon with power less than Ninetales's power until end of turn. Tap it. It's attacking the player or trainer Ninetales is attacking.</text>
       <prop>
         <type>Pokémon - Fire</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>R</colors>
         <manacost>3RR</manacost>
@@ -668,6 +714,7 @@ Whenever Ninetales attacks, you may pay {1}{R}{R} and discard a card. If you do,
 Whenever you cast a Pokémon spell, tap target Pokémon you don't control.</text>
       <prop>
         <type>Pokémon - Normal Fairy</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -682,6 +729,7 @@ Whenever you cast a Pokémon spell, tap target Pokémon you don't control.</text
 Whenever Wigglytuff deals combat damage to a player, you gain life equal to its power. Then if you've gained 5 or more life this turn, draw a card.</text>
       <prop>
         <type>Pokémon - Normal Fairy</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>W</colors>
         <manacost>2WW</manacost>
@@ -696,6 +744,7 @@ Whenever Wigglytuff deals combat damage to a player, you gain life equal to its 
 Wither</text>
       <prop>
         <type>Pokémon - Poison Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -711,6 +760,7 @@ Flying
 Whenever Golbat evolves, target player loses X life and you gain X life.</text>
       <prop>
         <type>Pokémon - Poison Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>B</colors>
         <manacost>1BB</manacost>
@@ -726,6 +776,7 @@ Whenever Golbat evolves, target player loses X life and you gain X life.</text>
       <related attach="transform">Gloom (DFC)</related>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <side>front</side>
         <colors>G</colors>
@@ -740,6 +791,7 @@ Whenever Golbat evolves, target player loses X life and you gain X life.</text>
       <text>Lifelink</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>G</colors>
         <pt>2/2</pt>
@@ -753,6 +805,7 @@ Whenever Golbat evolves, target player loses X life and you gain X life.</text>
 {B}, {T}: Remove up to two counters from target permanent. If Gloom is evolved, untap it.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>BG</colors>
         <manacost>1{B/G}{B/G}</manacost>
@@ -767,6 +820,7 @@ Whenever Golbat evolves, target player loses X life and you gain X life.</text>
 Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>BG</colors>
         <manacost>1{B/G}{B/G}{B/G}</manacost>
@@ -780,6 +834,7 @@ Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text
       <text>Whenever Paras enters the battlefield or evolves, you may destroy target artifact or enchantment.</text>
       <prop>
         <type>Pokémon - Bug Grass</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -794,6 +849,7 @@ Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text
 Whenever a permanent leaves the battlefield, for each kind of counter on another target permanent, put another counter of that kind on it or remove one from it.</text>
       <prop>
         <type>Pokémon - Bug Grass</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -807,6 +863,7 @@ Whenever a permanent leaves the battlefield, for each kind of counter on another
       <text>Whenever Venonat deals combat damage to a player, draw a card.</text>
       <prop>
         <type>Pokémon - Bug Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>GU</colors>
         <manacost>GU</manacost>
@@ -822,6 +879,7 @@ Flying
 Whenever you draw your second card each turn, you may put a land card from your hand onto the battlefield.</text>
       <prop>
         <type>Pokémon - Bug Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>GU</colors>
         <manacost>2GU</manacost>
@@ -835,6 +893,7 @@ Whenever you draw your second card each turn, you may put a land card from your 
       <text>You may have Diglett assign its combat damage as though it weren't blocked.</text>
       <prop>
         <type>Pokémon - Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -850,6 +909,7 @@ Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do,
       <related>Diglett Token</related>
       <prop>
         <type>Pokémon - Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>R</colors>
         <manacost>1RR</manacost>
@@ -864,6 +924,7 @@ Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do,
       <related>Treasure Token</related>
       <prop>
         <type>Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>WB</colors>
         <manacost>WB</manacost>
@@ -878,6 +939,7 @@ Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do,
 Discard a card: Persian gets +1/+0 and gains first strike and trample until end of turn.</text>
       <prop>
         <type>Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>WB</colors>
         <manacost>3WB</manacost>
@@ -892,6 +954,7 @@ Discard a card: Persian gets +1/+0 and gains first strike and trample until end 
 When Psyduck enters the battlefield, you may counter target spell.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -906,6 +969,7 @@ When Psyduck enters the battlefield, you may counter target spell.</text>
 {1}{U}{U}, {T}: Counter target spell unless its controller pays {2}. If Golduck is evolved, scry 1.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>U</colors>
         <manacost>2UU</manacost>
@@ -919,6 +983,7 @@ When Psyduck enters the battlefield, you may counter target spell.</text>
       <text>Reach, haste</text>
       <prop>
         <type>Pokémon - Fighting</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -933,6 +998,7 @@ When Psyduck enters the battlefield, you may counter target spell.</text>
 Whenever Primeape attacks, destroy up to one target artifact. If Primeape has reach, it deals 4 damage to that artifact's controller.</text>
       <prop>
         <type>Pokémon - Fighting</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>R</colors>
         <manacost>3RR</manacost>
@@ -946,6 +1012,7 @@ Whenever Primeape attacks, destroy up to one target artifact. If Primeape has re
       <text>Whenever Growlithe is dealt damage, it deals that much damage to up to one target Pokémon.</text>
       <prop>
         <type>Pokémon - Fire</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>RW</colors>
         <manacost>1{R/W}{R/W}</manacost>
@@ -960,6 +1027,7 @@ Whenever Primeape attacks, destroy up to one target artifact. If Primeape has re
 Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white Pokémon get +0/+2 until end of turn.</text>
       <prop>
         <type>Pokémon - Fire</type>
+        <maintype>Pokémon</maintype>
         <cmc>7</cmc>
         <colors>RW</colors>
         <manacost>5{R/W}{R/W}</manacost>
@@ -975,6 +1043,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
       <related attach="transform">Poliwhirl (DFC)</related>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <side>front</side>
         <colors>U</colors>
@@ -989,6 +1058,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
       <text>Whenever Poliwhirl evolves, gain control of target Pokémon with equal or lesser mana value until Poliwhirl leaves the battlefield.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>U</colors>
         <pt>2/3</pt>
@@ -1002,6 +1072,7 @@ Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white 
 Whenever Poliwhirl becomes the target of a spell or ability an opponent controls, you may draw a card.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>U</colors>
         <manacost>2UU</manacost>
@@ -1016,6 +1087,7 @@ Whenever Poliwhirl becomes the target of a spell or ability an opponent controls
 Whenever a Pokémon becomes the target of a spell or ability, you may change a target of that spell or ability to Poliwrath.</text>
       <prop>
         <type>Pokémon - Water Fighting</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>U</colors>
         <manacost>3UU</manacost>
@@ -1031,6 +1103,7 @@ Whenever a Pokémon becomes the target of a spell or ability, you may change a t
       <related attach="transform">Kadabra (DFC)</related>
       <prop>
         <type>Pokémon - Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <side>front</side>
         <colors>U</colors>
@@ -1045,6 +1118,7 @@ Whenever a Pokémon becomes the target of a spell or ability, you may change a t
       <text>Whenever Kadabra enters the battlefield or evolves, scry 1.</text>
       <prop>
         <type>Pokémon - Psychic</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>U</colors>
         <pt>1/3</pt>
@@ -1058,6 +1132,7 @@ Whenever a Pokémon becomes the target of a spell or ability, you may change a t
 Whenever you scry, Kadabra gains hexproof until end of turn.</text>
       <prop>
         <type>Pokémon - Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>UB</colors>
         <manacost>2UB</manacost>
@@ -1073,6 +1148,7 @@ Whenever you scry, Kadabra gains hexproof until end of turn.</text>
 If you would scry a number of cards, scry that many cards plus one instead.</text>
       <prop>
         <type>Pokémon - Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>UB</colors>
         <manacost>3UB</manacost>
@@ -1088,6 +1164,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
       <related attach="transform">Machoke (DFC)</related>
       <prop>
         <type>Pokémon - Fighting</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <side>front</side>
         <colors>RG</colors>
@@ -1102,6 +1179,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
       <text>{3}{R/G}{R/G}, {T}: Machoke fights target Pokémon you don't control. Machoke doesn't untap during your next untap step.</text>
       <prop>
         <type>Pokémon - Fighting</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>RG</colors>
         <pt>3/3</pt>
@@ -1115,6 +1193,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
 Whenever Machoke fights, put a +1/+1 counter on it.</text>
       <prop>
         <type>Pokémon - Fighting</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>RG</colors>
         <manacost>2{R/G}{R/G}</manacost>
@@ -1130,6 +1209,7 @@ Menace
 As long as Machamp is evolved, it must be blocked if able.</text>
       <prop>
         <type>Pokémon - Fighting</type>
+        <maintype>Pokémon</maintype>
         <cmc>6</cmc>
         <colors>RG</colors>
         <manacost>4{R/G}{R/G}</manacost>
@@ -1146,6 +1226,7 @@ As long as Machamp is evolved, it must be blocked if able.</text>
       <related attach="transform">Weepinbell (DFC)</related>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <side>front</side>
         <colors>G</colors>
@@ -1161,6 +1242,7 @@ As long as Machamp is evolved, it must be blocked if able.</text>
 {1}{G}: Weepinbell gets +1/+1 until end of turn.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>G</colors>
         <pt>2/2</pt>
@@ -1175,6 +1257,7 @@ Wither
 Weepinbell has vigilance as long as it has power greater than or equal to 5.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>G</colors>
         <manacost>2GG</manacost>
@@ -1190,6 +1273,7 @@ Pokémon with wither get +1/+1.
 {T}: Put a wither counter on another target Pokémon.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>6</cmc>
         <colors>G</colors>
         <manacost>4GG</manacost>
@@ -1203,6 +1287,7 @@ Pokémon with wither get +1/+1.
       <text>Islandwalk</text>
       <prop>
         <type>Pokémon - Water Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>UB</colors>
         <manacost>1UB</manacost>
@@ -1218,6 +1303,7 @@ Nonbasic lands are Islands.
 Whenever you scry, you may draw a card. If you do, discard a card.</text>
       <prop>
         <type>Pokémon - Water Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>6</cmc>
         <colors>UB</colors>
         <manacost>4UB</manacost>
@@ -1233,6 +1319,7 @@ Whenever you scry, you may draw a card. If you do, discard a card.</text>
       <related attach="transform">Graveler (DFC)</related>
       <prop>
         <type>Pokémon - Rock Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <side>front</side>
         <colors>G</colors>
@@ -1247,6 +1334,7 @@ Whenever you scry, you may draw a card. If you do, discard a card.</text>
       <text>Hexproof from instants</text>
       <prop>
         <type>Pokémon - Rock Ground</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>G</colors>
         <pt>3/4</pt>
@@ -1261,6 +1349,7 @@ This spell can't be countered.
 Vigilance</text>
       <prop>
         <type>Pokémon - Rock Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>G</colors>
         <manacost>2GG</manacost>
@@ -1275,6 +1364,7 @@ Vigilance</text>
 {X}{G}, {T}: Golem deals X damage to target Pokémon with flying.</text>
       <prop>
         <type>Pokémon - Rock Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>6</cmc>
         <colors>G</colors>
         <manacost>4GG</manacost>
@@ -1288,6 +1378,7 @@ Vigilance</text>
       <text>Trample</text>
       <prop>
         <type>Pokémon - Fire</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -1302,6 +1393,7 @@ Vigilance</text>
 First strike, haste</text>
       <prop>
         <type>Pokémon - Fire</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>R</colors>
         <manacost>4R</manacost>
@@ -1316,6 +1408,7 @@ First strike, haste</text>
 Remove three counters from Slowpoke: Return it to its owner's hand.</text>
       <prop>
         <type>Pokémon - Water Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -1330,6 +1423,7 @@ Remove three counters from Slowpoke: Return it to its owner's hand.</text>
 If noncombat damage would be dealt to Slowbro, prevent that damage. If damage was prevented this way, put a -1/-1 counter on it, scry 1, then draw a card.</text>
       <prop>
         <type>Pokémon - Water Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>UB</colors>
         <manacost>2UB</manacost>
@@ -1343,6 +1437,7 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
       <text>If one or more counters would be put on Magnemite, you may put those counters on another target permanent instead.</text>
       <prop>
         <type>Artifact Pokémon - Electric Steel</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <manacost>1</manacost>
         <pt>1/1</pt>
@@ -1356,6 +1451,7 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
 {T}: Move up to three counters from another target permanent onto Magneton.</text>
       <prop>
         <type>Artifact Pokémon - Electric Steel</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <manacost>3</manacost>
         <pt>3/3</pt>
@@ -1368,6 +1464,7 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
       <text>Vigilance, first strike</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>GW</colors>
         <manacost>2GW</manacost>
@@ -1381,6 +1478,7 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
       <text>Menace</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>BR</colors>
         <manacost>BR</manacost>
@@ -1395,6 +1493,7 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
 Double strike, haste</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>BR</colors>
         <manacost>3BR</manacost>
@@ -1408,6 +1507,7 @@ Double strike, haste</text>
       <text>Whenever a Pokémon evolves, you gain 2 life.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>W</colors>
         <manacost>WW</manacost>
@@ -1422,6 +1522,7 @@ Double strike, haste</text>
 Triggered abilities of evolved Pokémon you control trigger an additional time.</text>
       <prop>
         <type>Pokémon - Water Ice</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>WU</colors>
         <manacost>2WU</manacost>
@@ -1435,6 +1536,7 @@ Triggered abilities of evolved Pokémon you control trigger an additional time.<
       <text>{2}{B}, {T}: Put a -1/-1 counter on target Pokémon.</text>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -1451,6 +1553,7 @@ Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Poison P
       <related count="2">Grimer Token</related>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>B</colors>
         <manacost>2BB</manacost>
@@ -1464,6 +1567,7 @@ Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Poison P
       <text>{2}, {T}: Shellder gains indestructible until end of turn.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -1478,6 +1582,7 @@ Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Poison P
 Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three target Pokémon and/or trainers.</text>
       <prop>
         <type>Pokémon - Water Ice</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>UR</colors>
         <manacost>2UR</manacost>
@@ -1493,6 +1598,7 @@ Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three targe
       <related attach="transform">Haunter (DFC)</related>
       <prop>
         <type>Pokémon - Ghost Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <side>front</side>
         <colors>B</colors>
@@ -1507,6 +1613,7 @@ Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three targe
       <text>Whenever Haunter becomes the target of a spell or ability an opponent controls, exile that spell or ability unless its controller discards a card.</text>
       <prop>
         <type>Pokémon - Ghost Poison</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>B</colors>
         <pt>2/2</pt>
@@ -1520,6 +1627,7 @@ Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three targe
 Whenever Haunter evolves or deals combat damage to a player, each opponent discards a card.</text>
       <prop>
         <type>Pokémon - Ghost Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>B</colors>
         <manacost>2BB</manacost>
@@ -1534,6 +1642,7 @@ Whenever Haunter evolves or deals combat damage to a player, each opponent disca
 Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do, put that card onto the battlefield under your control. If Gengar is evolved, you may pay {B}{B} instead.</text>
       <prop>
         <type>Pokémon - Ghost Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>B</colors>
         <manacost>3BB</manacost>
@@ -1548,6 +1657,7 @@ Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do,
 Whenever Onix attacks, you may discard a card. If you do, draw a card.</text>
       <prop>
         <type>Pokémon - Rock Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>R</colors>
         <manacost>3R</manacost>
@@ -1561,6 +1671,7 @@ Whenever Onix attacks, you may discard a card. If you do, draw a card.</text>
       <text>{T}: Tap target Pokémon.</text>
       <prop>
         <type>Pokémon - Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>UB</colors>
         <manacost>1UB</manacost>
@@ -1575,6 +1686,7 @@ Whenever Onix attacks, you may discard a card. If you do, draw a card.</text>
 Whenever you scry, untap Hypno.</text>
       <prop>
         <type>Pokémon - Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>UB</colors>
         <manacost>2UB</manacost>
@@ -1588,6 +1700,7 @@ Whenever you scry, untap Hypno.</text>
       <text>{2}{R}: Krabby gets +1/+0 and gains first strike until end of turn.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -1602,6 +1715,7 @@ Whenever you scry, untap Hypno.</text>
 Kingler has double strike as long as it has first strike.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>UR</colors>
         <manacost>3UR</manacost>
@@ -1616,6 +1730,7 @@ Kingler has double strike as long as it has first strike.</text>
 {X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon.</text>
       <prop>
         <type>Pokémon - Electric</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -1630,6 +1745,7 @@ Kingler has double strike as long as it has first strike.</text>
 When Electrode dies, you may have it deal 3 damage to each Pokémon and each trainer.</text>
       <prop>
         <type>Pokémon - Electric</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>RW</colors>
         <manacost>2RW</manacost>
@@ -1643,6 +1759,7 @@ When Electrode dies, you may have it deal 3 damage to each Pokémon and each tra
       <text>{1}{B/G}: Regenerate Exeggcute.</text>
       <prop>
         <type>Pokémon - Grass Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>BG</colors>
         <manacost>BG</manacost>
@@ -1658,6 +1775,7 @@ Reach
 Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that Pokémon and you draw a card.</text>
       <prop>
         <type>Pokémon - Grass Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>BG</colors>
         <manacost>2BGG</manacost>
@@ -1671,6 +1789,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
       <text>Whenever Cubone attacks, put a +1/+1 counter on it.</text>
       <prop>
         <type>Pokémon - Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>GW</colors>
         <manacost>1GW</manacost>
@@ -1685,6 +1804,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 {G}{W}, Remove all counters from Marowak: It deals X damage to target attacking or blocking Pokémon, where X is the number of counters removed this way.</text>
       <prop>
         <type>Pokémon - Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>GW</colors>
         <manacost>2GW</manacost>
@@ -1698,6 +1818,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
       <text>Whenever Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn and it doesn't untap during your next untap step.</text>
       <prop>
         <type>Pokémon - Fighting</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>RG</colors>
         <manacost>2RG</manacost>
@@ -1712,6 +1833,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
 When Hitmonchan enters the battlefield, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. If damage is prevented this way, Hitmonchan deals damage equal to its power to any target.</text>
       <prop>
         <type>Pokémon - Fighting</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>GW</colors>
         <manacost>2GW</manacost>
@@ -1725,6 +1847,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
       <text>When Lickitung enters the battlefield, you may choose target Pokémon. If you do, until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can't be activated.</text>
       <prop>
         <type>Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>W</colors>
         <manacost>4W</manacost>
@@ -1738,6 +1861,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
       <text>Koffing gets +1/+1 for each -1/-1 counter on all Pokémon.</text>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -1752,6 +1876,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
 Whenever Weezing enters the battlefield or evolves, distribute X -1/-1 counters among any number of target Pokémon.</text>
       <prop>
         <type>Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>B</colors>
         <manacost>XXBB</manacost>
@@ -1767,6 +1892,7 @@ Rhyhorn can't be blocked by Pokémon with power 2 or less.
 Whenever Rhyhorn deals combat damage to an opponent, it deals that much damage to target trainer that player controls.</text>
       <prop>
         <type>Pokémon - Ground Rock</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -1781,6 +1907,7 @@ Whenever Rhyhorn deals combat damage to an opponent, it deals that much damage t
 As an additional cost to cast Pokémon spells, you may pay any amount of mana. If you do, that Pokémon enters the battlefield with that many additional +1/+1 counters on it.</text>
       <prop>
         <type>Pokémon - Ground Rock</type>
+        <maintype>Pokémon</maintype>
         <cmc>6</cmc>
         <colors>RG</colors>
         <manacost>4RG</manacost>
@@ -1795,6 +1922,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
 At the beginning of your upkeep, you gain 1 life. Then if you have 40 or more life, you win the game.</text>
       <prop>
         <type>Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>W</colors>
         <manacost>3WW</manacost>
@@ -1808,6 +1936,7 @@ At the beginning of your upkeep, you gain 1 life. Then if you have 40 or more li
       <text>Landfall - Whenever a land enters the battlefield under your control, put a +1/+1 counter on Tangela.</text>
       <prop>
         <type>Pokémon - Grass</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -1821,6 +1950,7 @@ At the beginning of your upkeep, you gain 1 life. Then if you have 40 or more li
       <text>Prevent all damage that would be dealt to attacking Pokémon you control.</text>
       <prop>
         <type>Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>W</colors>
         <manacost>2WW</manacost>
@@ -1834,6 +1964,7 @@ At the beginning of your upkeep, you gain 1 life. Then if you have 40 or more li
       <text>{1}{U}, {T}: Target Pokémon loses all abilities until end of turn.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>U</colors>
         <manacost>1UU</manacost>
@@ -1849,6 +1980,7 @@ Flash
 Whenever Seadra evolves, untap it.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>U</colors>
         <manacost>3U</manacost>
@@ -1862,6 +1994,7 @@ Whenever Seadra evolves, untap it.</text>
       <text>Whenever a spell or ability you control counters a spell, you gain 2 life.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>WU</colors>
         <manacost>{W/U}{W/U}</manacost>
@@ -1877,6 +2010,7 @@ You may evolve Seaking as though it had flash.
 Whenever Seaking enters the battlefield or evolves, counter target spell.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>WU</colors>
         <manacost>3{W/U}{W/U}</manacost>
@@ -1890,6 +2024,7 @@ Whenever Seaking enters the battlefield or evolves, counter target spell.</text>
       <text>Whenever Staryu attacks or blocks, scry 1.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -1904,6 +2039,7 @@ Whenever Seaking enters the battlefield or evolves, counter target spell.</text>
 Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is evolved, untap it.</text>
       <prop>
         <type>Pokémon - Water Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>U</colors>
         <manacost>3U</manacost>
@@ -1917,6 +2053,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
       <text>Pokémon can't attack you or trainers you control unless their controller pays {1} for each Pokémon they control that's attacking.</text>
       <prop>
         <type>Pokémon - Psychic Fairy</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>W</colors>
         <manacost>2WW</manacost>
@@ -1930,6 +2067,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
       <text>Double strike</text>
       <prop>
         <type>Pokémon - Bug Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>RG</colors>
         <manacost>2RG</manacost>
@@ -1943,6 +2081,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
       <text>{2}{U}{B}, {T}: Scry 2, then draw a card. You lose 2 life.</text>
       <prop>
         <type>Pokémon - Ice Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>UB</colors>
         <manacost>3UB</manacost>
@@ -1956,6 +2095,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
       <text>Whenever Electabuzz attacks for the first time each turn, untap all attacking Pokémon. After this phase, there is an additional combat phase.</text>
       <prop>
         <type>Pokémon - Electric</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>RW</colors>
         <manacost>3RW</manacost>
@@ -1969,6 +2109,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
       <text>{1}{R}, {T}: Magmar deals 2 damage to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
       <prop>
         <type>Pokémon - Fire</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>R</colors>
         <manacost>4R</manacost>
@@ -1982,6 +2123,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
       <text>Trample</text>
       <prop>
         <type>Pokémon - Bug</type>
+        <maintype>Pokémon</maintype>
         <cmc>6</cmc>
         <colors>G</colors>
         <manacost>4GG</manacost>
@@ -1995,6 +2137,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
       <text>Trample</text>
       <prop>
         <type>Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>RG</colors>
         <manacost>3{R/G}{R/G}</manacost>
@@ -2008,6 +2151,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
       <text>{T}: Flip a coin. If you win the flip, remove Magikarp from combat.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>1</cmc>
         <colors>U</colors>
         <manacost>U</manacost>
@@ -2022,6 +2166,7 @@ Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is e
 Whenever Gyarados enters the battlefield or evolves, it deals 6 damage divided as you choose among any number of targets. Whenever a permanent dealt damage this way dies this turn, if Gyarados is evolved, draw a card.</text>
       <prop>
         <type>Pokémon - Water Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>8</cmc>
         <colors>UR</colors>
         <manacost>5URR</manacost>
@@ -2036,6 +2181,7 @@ Whenever Gyarados enters the battlefield or evolves, it deals 6 damage divided a
 When Lapras dies, you gain 3 life.</text>
       <prop>
         <type>Pokémon - Water Ice</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>WU</colors>
         <manacost>2WU</manacost>
@@ -2049,6 +2195,7 @@ When Lapras dies, you gain 3 life.</text>
       <text>{3}: Ditto becomes a copy of target permanent, except its name is Ditto.</text>
       <prop>
         <type>Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <manacost>2</manacost>
         <pt>0/2</pt>
@@ -2061,6 +2208,7 @@ When Lapras dies, you gain 3 life.</text>
       <text>You may pay {W}{U}{B}{R}{G} less to evolve Pokémon. This effect can't reduce the mana in that cost by more than one mana.</text>
       <prop>
         <type>Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -2075,6 +2223,7 @@ When Lapras dies, you gain 3 life.</text>
 Whenever a Pokémon you control evolves, scry 1 and draw a card.</text>
       <prop>
         <type>Pokémon - Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>U</colors>
         <manacost>2UU</manacost>
@@ -2089,6 +2238,7 @@ Whenever a Pokémon you control evolves, scry 1 and draw a card.</text>
 Whenever a Pokémon you control evolves, tap up to two target Pokémon you don't control. Put a stun counter on each of them.</text>
       <prop>
         <type>Pokémon - Electric</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>RW</colors>
         <manacost>2RW</manacost>
@@ -2103,6 +2253,7 @@ Whenever a Pokémon you control evolves, tap up to two target Pokémon you don't
 Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you choose among any number of targets.</text>
       <prop>
         <type>Pokémon - Fire</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>R</colors>
         <manacost>2RR</manacost>
@@ -2117,6 +2268,7 @@ Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you c
 Porygon has lifelink as long as it's white. The same is true for hexproof and blue, wither and black, menace and red, and reach and green.</text>
       <prop>
         <type>Artifact Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <manacost>3</manacost>
         <pt>3/3</pt>
@@ -2130,6 +2282,7 @@ Porygon has lifelink as long as it's white. The same is true for hexproof and bl
 Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -2144,6 +2297,7 @@ Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
 {1}{R}{R}, {T}: Omastar deals 3 damage to any target.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>UR</colors>
         <manacost>2URR</manacost>
@@ -2158,6 +2312,7 @@ Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
 Fossil—{2}{G}{U}, Exile three other cards from your graveyard.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>GU</colors>
         <manacost>1GU</manacost>
@@ -2172,6 +2327,7 @@ Fossil—{2}{G}{U}, Exile three other cards from your graveyard.</text>
 {1}{G}{G}, {T}: Kabutops fights target Pokémon.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>GU</colors>
         <manacost>2GGU</manacost>
@@ -2186,6 +2342,7 @@ Fossil—{2}{G}{U}, Exile three other cards from your graveyard.</text>
 Fossil—{2}{R}{G}, Exile three other cards from your graveyard.</text>
       <prop>
         <type>Pokémon - Rock Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>RG</colors>
         <manacost>1RG</manacost>
@@ -2202,6 +2359,7 @@ Whenever you gain life, untap Snorlax.</text>
       <cipt>1</cipt>
       <prop>
         <type>Pokémon - Normal</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>W</colors>
         <manacost>1WW</manacost>
@@ -2217,6 +2375,7 @@ Articuno can't attack or block unless it's obedient.
 Tap four other untapped nonland permanents you control and put a stun counter on each of them: Articuno becomes obedient.</text>
       <prop>
         <type>Legendary Pokémon - Ice Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>WU</colors>
         <manacost>{W/U}{W/U}{W/U}{W/U}</manacost>
@@ -2232,6 +2391,7 @@ Zapdos can't attack or block unless it's obedient.
 Whenever you attack with three or more Pokémon, Zapdos becomes obedient.</text>
       <prop>
         <type>Legendary Pokémon - Electric Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>RW</colors>
         <manacost>{R/W}{R/W}{R/W}{R/W}</manacost>
@@ -2247,6 +2407,7 @@ Moltres can't attack or block unless it's obedient.
 As long as you have no cards in hand, Moltres is obedient.</text>
       <prop>
         <type>Legendary Pokémon - Fire Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>BR</colors>
         <manacost>{B/R}{B/R}{B/R}{B/R}</manacost>
@@ -2262,6 +2423,7 @@ As long as you have no cards in hand, Moltres is obedient.</text>
       <related attach="transform">Dragonair (DFC)</related>
       <prop>
         <type>Pokémon - Dragon</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <side>front</side>
         <colors>RGW</colors>
@@ -2276,6 +2438,7 @@ As long as you have no cards in hand, Moltres is obedient.</text>
       <text>Whenever Dragonair becomes the target of a spell, put a +1/+1 counter on it and you gain 2 life.</text>
       <prop>
         <type>Pokémon - Dragon</type>
+        <maintype>Pokémon</maintype>
         <side>back</side>
         <colors>RGW</colors>
         <pt>4/4</pt>
@@ -2289,6 +2452,7 @@ As long as you have no cards in hand, Moltres is obedient.</text>
 Spells your opponents cast that target Pokémon you control cost {X} more to cast, where X is one plus the number of times Dragonair has evolved.</text>
       <prop>
         <type>Pokémon - Dragon</type>
+        <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>RGW</colors>
         <manacost>2RGW</manacost>
@@ -2304,6 +2468,7 @@ Flying, vigilance, haste
 Hexproof from trainers</text>
       <prop>
         <type>Pokémon - Dragon Flying</type>
+        <maintype>Pokémon</maintype>
         <cmc>10</cmc>
         <colors>RGW</colors>
         <manacost>4RRGGWW</manacost>
@@ -2322,6 +2487,7 @@ When Mewtwo dies, return it to the battlefield transformed.</text>
       <related>Clone Token(b)</related>
       <prop>
         <type>Legendary Pokémon - Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>8</cmc>
         <colors>UBR</colors>
         <manacost>5UBR</manacost>
@@ -2336,6 +2502,7 @@ When Mewtwo dies, return it to the battlefield transformed.</text>
 Each other Pokémon you control gets +2/+2 if it shares a color with a Pokémon an opponent controls.</text>
       <prop>
         <type>Legendary Pokémon - Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <colors>WUR</colors>
         <pt>4/4</pt>
@@ -2350,6 +2517,7 @@ Pokémoncycling {3}
 When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <prop>
         <type>Legendary Pokémon - Psychic</type>
+        <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>GWU</colors>
         <manacost>GWU</manacost>
@@ -2368,6 +2536,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <related>Red's Pikachu</related>
       <prop>
         <type>Legendary Trainer - Red</type>
+        <maintype>Trainer</maintype>
         <cmc>6</cmc>
         <colors>RW</colors>
         <manacost>3R{R/W}W</manacost>
@@ -2383,6 +2552,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 [-4]: Create a token copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
       <prop>
         <type>Legendary Trainer - Blue</type>
+        <maintype>Trainer</maintype>
         <cmc>4</cmc>
         <colors>UR</colors>
         <manacost>2UR</manacost>
@@ -2398,6 +2568,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 [−3]: Search your library for a Pokémon card with Evolve From, reveal it, and put it into your hand. You may evolve it without paying its mana cost this turn. Then shuffle.</text>
       <prop>
         <type>Legendary Trainer - Green</type>
+        <maintype>Trainer</maintype>
         <cmc>4</cmc>
         <colors>GU</colors>
         <manacost>2GU</manacost>
@@ -2414,6 +2585,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <related>Brock (Emblem)</related>
       <prop>
         <type>Legendary Trainer - Brock</type>
+        <maintype>Trainer</maintype>
         <cmc>4</cmc>
         <colors>RG</colors>
         <manacost>2RG</manacost>
@@ -2429,6 +2601,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 [−3]: Return another target nonland permanent to its owner's hand.</text>
       <prop>
         <type>Legendary Trainer - Misty</type>
+        <maintype>Trainer</maintype>
         <cmc>4</cmc>
         <colors>U</colors>
         <manacost>2UU</manacost>
@@ -2444,6 +2617,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 [−4]: Untap all Pokémon that attacked this turn. If it's a main phase, there is an additional combat phase followed by an additional main phase.</text>
       <prop>
         <type>Legendary Trainer - Surge</type>
+        <maintype>Trainer</maintype>
         <cmc>4</cmc>
         <colors>RW</colors>
         <manacost>2RW</manacost>
@@ -2460,6 +2634,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <related>Oddish Token</related>
       <prop>
         <type>Legendary Trainer - Erika</type>
+        <maintype>Trainer</maintype>
         <cmc>4</cmc>
         <colors>G</colors>
         <manacost>2GG</manacost>
@@ -2476,6 +2651,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <related>Koga (Emblem)</related>
       <prop>
         <type>Legendary Trainer - Koga</type>
+        <maintype>Trainer</maintype>
         <cmc>3</cmc>
         <colors>B</colors>
         <manacost>1BB</manacost>
@@ -2491,6 +2667,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 [-8]: Take an extra turn after this one.</text>
       <prop>
         <type>Legendary Trainer - Sabrina</type>
+        <maintype>Trainer</maintype>
         <cmc>4</cmc>
         <colors>UB</colors>
         <manacost>2{U/B}U</manacost>
@@ -2506,6 +2683,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 [-3]: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.</text>
       <prop>
         <type>Legendary Trainer - Blaine</type>
+        <maintype>Trainer</maintype>
         <cmc>3</cmc>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -2521,6 +2699,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 [-6]: Search target opponent's library for a Pokémon card and put that card onto the battlefield under your control. Then that player shuffles.</text>
       <prop>
         <type>Legendary Trainer - Giovanni</type>
+        <maintype>Trainer</maintype>
         <cmc>5</cmc>
         <colors>B</colors>
         <manacost>3BB</manacost>
@@ -2537,6 +2716,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <related>Professor Oak (Emblem)</related>
       <prop>
         <type>Legendary Trainer - Oak</type>
+        <maintype>Trainer</maintype>
         <cmc>5</cmc>
         <colors>W</colors>
         <manacost>3WW</manacost>
@@ -2552,6 +2732,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 [-3]: Put three stun counters on target permanent.</text>
       <prop>
         <type>Legendary Trainer - Lorelei</type>
+        <maintype>Trainer</maintype>
         <cmc>3</cmc>
         <colors>WU</colors>
         <manacost>1{W/U}{W/U}</manacost>
@@ -2567,6 +2748,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 [-2]: Target Pokémon you control fights target Pokémon.</text>
       <prop>
         <type>Legendary Trainer - Bruno</type>
+        <maintype>Trainer</maintype>
         <cmc>3</cmc>
         <colors>RG</colors>
         <manacost>1{R/G}{R/G}</manacost>
@@ -2583,6 +2765,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <related>Ghost Token</related>
       <prop>
         <type>Legendary Trainer - Agatha</type>
+        <maintype>Trainer</maintype>
         <cmc>4</cmc>
         <colors>UB</colors>
         <manacost>2{U/B}B</manacost>
@@ -2598,6 +2781,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 [-8]: Gain control of all Pokémon.</text>
       <prop>
         <type>Legendary Trainer - Lance</type>
+        <maintype>Trainer</maintype>
         <cmc>7</cmc>
         <colors>RGW</colors>
         <manacost>4RGW</manacost>
@@ -2611,6 +2795,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Draw two cards.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>3</cmc>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -2623,6 +2808,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Exile the top three cards of your library. Until the end of your next turn, you may cast Pokémon cards exiled this way.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>1</cmc>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -2635,6 +2821,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Scry 3, then you may reveal the top card of your library. If a Pokémon card is revealed this way, put it into your hand.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -2647,6 +2834,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Look at the top six cards of your library. Put up to one Pokémon card with mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>3</cmc>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -2659,6 +2847,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Search your library for a Pokémon card with mana value lesser than or equal to the highest mana value among Pokémon target opponent controls. Put that card onto the battlefield, then shuffle.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>4</cmc>
         <colors>W</colors>
         <manacost>3W</manacost>
@@ -2671,6 +2860,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Search your library for a Pokémon card, reveal it, put it into your hand, then shuffle.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -2683,6 +2873,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Choose target Pokémon you control. Reveal a Pokémon card with equal or lesser mana value from your hand. If you do, return the chosen Pokémon to its owner's hand and put the revealed card onto the battlefield.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -2695,6 +2886,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Untap all Pokémon you control. Pokémon untapped this way get +1/+1 until end of turn.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -2707,6 +2899,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Search target opponent's library for a Pokémon card with mana value X or less and put that card onto the battlefield under your control. Then that player shuffles. X can't be greater than 3.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
         <manacost>XU</manacost>
@@ -2719,6 +2912,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Return target Pokémon card with mana value 3 or less from your graveyard to the battlefield.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>1</cmc>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -2731,6 +2925,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Return target Pokémon card from your graveyard to the battlefield.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>5</cmc>
         <colors>WB</colors>
         <manacost>3{W/B}{W/B}</manacost>
@@ -2743,6 +2938,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2755,6 +2951,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <text>{2}, {T}, Sacrifice Mysterious Fossil: Search your library and/or graveyard for a Pokémon card with fossil and put it onto the battlefield. If you search your library this way, shuffle. Activate only during your turn.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>1</cmc>
         <manacost>1</manacost>
       </prop>
@@ -2767,6 +2964,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
 Draw a card.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2780,6 +2978,7 @@ Draw a card.</text>
 Draw a card.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -2793,6 +2992,7 @@ Draw a card.</text>
 Draw a card.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -2805,6 +3005,7 @@ Draw a card.</text>
       <text>Scry 2, then draw a card.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -2818,6 +3019,7 @@ Draw a card.</text>
 You gain 1 life.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -2830,6 +3032,7 @@ You gain 1 life.</text>
       <text>Put a +1/+1 counter on target Pokémon. That Pokémon gains indestructible until end of turn.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>W</colors>
         <manacost>WW</manacost>
@@ -2842,6 +3045,7 @@ You gain 1 life.</text>
       <text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>3</cmc>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -2854,6 +3058,7 @@ You gain 1 life.</text>
       <text>Target Pokémon gets +3/+0 and gains haste until end of turn.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -2866,6 +3071,7 @@ You gain 1 life.</text>
       <text>Target Pokémon gets +0/+4 until end of turn. Untap it. At this turn's next end of combat, tap each Pokémon that was blocked by that Pokémon this turn and put a stun counter on each of them.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>U</colors>
         <manacost>U</manacost>
@@ -2878,6 +3084,7 @@ You gain 1 life.</text>
       <text>Put a +1/+1 counter on target Pokémon you control. It gains hexproof until end of turn.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -2890,6 +3097,7 @@ You gain 1 life.</text>
       <text>Target Pokémon you control gets +1/+2 until end of turn. Remove all counters from it. You gain life equal to twice the number of counters removed this way.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -2902,6 +3110,7 @@ You gain 1 life.</text>
       <text>Destroy target Pokémon or trainer.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>3</cmc>
         <colors>B</colors>
         <manacost>1BB</manacost>
@@ -2916,6 +3125,7 @@ You gain 1 life.</text>
 When there are four or more charge counters on Dowsing Machine, sacrifice it.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>2</cmc>
         <manacost>2</manacost>
       </prop>
@@ -2927,6 +3137,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
       <text>Target Pokémon you control fights target Pokémon you don't control. If the Pokémon you control has trample, excess damage is dealt to that Pokémon's controller instead.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2939,6 +3150,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
       <text>Slash deals 4 damage to target Pokémon.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>1</cmc>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -2951,6 +3163,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
       <text>Return target Pokémon or trainer to its owner's hand. Its controller draws a card.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>WU</colors>
         <manacost>{W/U}</manacost>
@@ -2963,6 +3176,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
       <text>Tap all Pokémon target player controls. Those Pokémon don't untap during that player's next untap step.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>4</cmc>
         <colors>U</colors>
         <manacost>2UU</manacost>
@@ -2975,6 +3189,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
       <text>Destroy target nonland permanent.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>3</cmc>
         <colors>WB</colors>
         <manacost>1WB</manacost>
@@ -2987,6 +3202,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
       <text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard. That player can't cast spells with the same name as that spell until the end of their next turn.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>UB</colors>
         <manacost>U{U/B}</manacost>
@@ -2999,6 +3215,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
       <text>Ember deals 2 damage to target Pokémon. If that Pokémon would die this turn, exile it instead.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -3011,6 +3228,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
       <text>Gust deals 2 damage to target attacking Pokémon. If that Pokémon has flying, Gust deals 6 damage instead.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>GW</colors>
         <manacost>{G/W}</manacost>
@@ -3023,6 +3241,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
       <text>Destroy target tapped Pokémon.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>3</cmc>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -3036,6 +3255,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it.</t
 Draw a card.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -3049,6 +3269,7 @@ Draw a card.</text>
 Draw a card.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>1</cmc>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -3062,6 +3283,7 @@ Draw a card.</text>
 Draw a card.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -3074,6 +3296,7 @@ Draw a card.</text>
       <text>Destroy target nonblack Pokémon.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -3086,6 +3309,7 @@ Draw a card.</text>
       <text>Exile target Pokémon. Its controller gains life equal to its power.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -3098,6 +3322,7 @@ Draw a card.</text>
       <text>Destroy target attacking or blocking Pokémon.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>4</cmc>
         <colors>W</colors>
         <manacost>3W</manacost>
@@ -3110,6 +3335,7 @@ Draw a card.</text>
       <text>All Pokémon get -4/-4 until end of turn.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>4</cmc>
         <colors>B</colors>
         <manacost>2BB</manacost>
@@ -3123,6 +3349,7 @@ Draw a card.</text>
 Destroy all Pokémon.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>4</cmc>
         <colors>WU</colors>
         <manacost>1WWU</manacost>
@@ -3135,6 +3362,7 @@ Destroy all Pokémon.</text>
       <text>Counter target non-Pokémon spell.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -3150,6 +3378,7 @@ Overload {2}{R}{R}, Reveal a red Pokémon card from your hand.
 			</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>4</cmc>
         <colors>R</colors>
         <manacost>2RR</manacost>
@@ -3165,6 +3394,7 @@ Overload {2}{G}{G}, Reveal a green Pokémon card from your hand.
 			</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>4</cmc>
         <colors>G</colors>
         <manacost>2GG</manacost>
@@ -3180,6 +3410,7 @@ Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
 			</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>4</cmc>
         <colors>U</colors>
         <manacost>2UU</manacost>
@@ -3192,6 +3423,7 @@ Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
       <text>Counter target Pokémon spell.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -3207,6 +3439,7 @@ Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
 • Exile target card from a graveyard.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -3220,6 +3453,7 @@ Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
 Target Pokémon or trainer loses indestructible until end of turn. Destroy it. It can't be regenerated.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>3</cmc>
         <colors>BG</colors>
         <manacost>1BG</manacost>
@@ -3234,6 +3468,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
 • Target attacking Pokémon becomes blocked.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>1</cmc>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -3246,6 +3481,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -3258,6 +3494,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <text>Copy target instant spell, sorcery spell, or activated ability. You may choose new targets for the copy.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -3270,6 +3507,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <text>Target Pokémon you control fights target Pokémon you don't control. When the Pokémon you control fights this way, it fights target Pokémon you don't control.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>1</cmc>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -3282,6 +3520,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <text>Target player draws two cards and loses 2 life.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>BB</manacost>
@@ -3294,6 +3533,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <text>Target Pokémon you control deals damage equal to its power to target Pokémon you don't control. If the Pokémon you don't control has flying, destroy it instead.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -3306,6 +3546,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <text>Counter target spell with mana value X.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
         <manacost>XU</manacost>
@@ -3318,6 +3559,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <text>At the beginning of your end step, untap all permanents you control.</text>
       <prop>
         <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
         <cmc>4</cmc>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -3331,6 +3573,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <related count="2">Diglett Token</related>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>4</cmc>
         <colors>R</colors>
         <manacost>3R</manacost>
@@ -3343,6 +3586,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <text>Target player discards two cards. Pokémon you control gain menace until end of turn.</text>
       <prop>
         <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <cmc>3</cmc>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -3355,6 +3599,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <text>Exile target Pokémon. Its controller discards a card at random.</text>
       <prop>
         <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>5</cmc>
         <colors>B</colors>
         <manacost>3BB</manacost>
@@ -3370,6 +3615,7 @@ Whenever a Pokémon you control evolves, you gain 1 life.
 Sacrifice Thunder Stone: Destroy target artifact or enchantment.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>3</cmc>
         <manacost>3</manacost>
       </prop>
@@ -3383,6 +3629,7 @@ Whenever a Pokémon you control evolves, untap target land.
 Sacrifice Leaf Stone: Add {G}{G}.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>3</cmc>
         <manacost>3</manacost>
       </prop>
@@ -3396,6 +3643,7 @@ Whenever a Pokémon you control evolves, target Pokémon gets -2/-0 until your n
 Sacrifice Water Stone: Scry 3.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>3</cmc>
         <manacost>3</manacost>
       </prop>
@@ -3409,6 +3657,7 @@ Whenever a Pokémon you control evolves, Fire Stone deals 1 damage to target pla
 Sacrifice Fire Stone: It deals 2 damage to target Pokémon or trainer.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>3</cmc>
         <manacost>3</manacost>
       </prop>
@@ -3423,6 +3672,7 @@ Sacrifice Moon Stone: Create a Treasure token.</text>
       <related>Treasure Token</related>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>3</cmc>
         <manacost>3</manacost>
       </prop>
@@ -3435,6 +3685,7 @@ Sacrifice Moon Stone: Create a Treasure token.</text>
       <text>{1}, {T}: Add one mana of any color.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>2</cmc>
         <manacost>2</manacost>
       </prop>
@@ -3447,6 +3698,7 @@ Sacrifice Moon Stone: Create a Treasure token.</text>
 At the beginning of your upkeep, return all cards you own exiled with Pokémon Storage System to your hand, then draw a card.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>4</cmc>
         <manacost>4</manacost>
       </prop>
@@ -3458,6 +3710,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
       <text>{2}, {T}, Sacrifice Town Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>1</cmc>
         <manacost>1</manacost>
       </prop>
@@ -3469,6 +3722,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
       <text>Pokémon can't attack you unless their controller pays {2} for each Pokémon they control that's attacking you.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>3</cmc>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -3482,6 +3736,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
 When Nugget is put into a graveyard from the battlefield, draw a card.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>1</cmc>
         <manacost>1</manacost>
       </prop>
@@ -3493,6 +3748,7 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
       <text>{T}, Sacrifice Mysterious Feather: Add one mana of any color.</text>
       <prop>
         <type>Artifact</type>
+        <maintype>Artifact</maintype>
         <cmc>0</cmc>
         <manacost>0</manacost>
       </prop>
@@ -3508,6 +3764,7 @@ At the beginning of your end step, sacrifice Rage unless a Pokémon died this tu
 			</text>
       <prop>
         <type>Enchantment - Aura</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>R</colors>
         <manacost>RR</manacost>
@@ -3521,6 +3778,7 @@ At the beginning of your end step, sacrifice Rage unless a Pokémon died this tu
 Whenever enchanted Pokémon attacks, tap target permanent and put a stun counter on it.</text>
       <prop>
         <type>Enchantment - Aura</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
         <manacost>UU</manacost>
@@ -3534,6 +3792,7 @@ Whenever enchanted Pokémon attacks, tap target permanent and put a stun counter
 Enchanted Pokémon has "{T}: Destroy target nonland permanent. This Pokémon doesn't untap during its controller's next untap step. Activate only as a sorcery."</text>
       <prop>
         <type>Enchantment - Aura</type>
+        <maintype>Enchantment</maintype>
         <cmc>7</cmc>
         <manacost>7</manacost>
       </prop>
@@ -3547,6 +3806,7 @@ At the beginning of your upkeep, put a +1/+1 counter on enchanted Pokémon.
 When Swords Dance is put into a graveyard from the battlefield, return it to its owner's hand.</text>
       <prop>
         <type>Enchantment - Aura</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>GG</manacost>
@@ -3561,6 +3821,7 @@ Enchant Pokémon
 Enchanted Pokémon gets +1/+1 and has first strike.</text>
       <prop>
         <type>Enchantment - Aura</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>W</colors>
         <manacost>WW</manacost>
@@ -3574,6 +3835,7 @@ Enchanted Pokémon gets +1/+1 and has first strike.</text>
 Whenever enchanted Pokémon deals combat damage to a player, that player discards a card.</text>
       <prop>
         <type>Enchantment - Aura</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>BB</manacost>
@@ -3588,6 +3850,7 @@ When Frozen enters the battlefield, tap enchanted Pokémon.
 Enchanted Pokémon doesn't untap during its controller's untap step.</text>
       <prop>
         <type>Enchantment - Aura</type>
+        <maintype>Enchantment</maintype>
         <cmc>3</cmc>
         <colors>U</colors>
         <manacost>1UU</manacost>
@@ -3601,6 +3864,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
       <text>Pokémon you control enter the battlefield with an additional +1/+1 counter on them.</text>
       <prop>
         <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>RG</colors>
         <manacost>RG</manacost>
@@ -3613,6 +3877,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
       <text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same mana value as the revealed card. If a spell is not countered this way, you gain 1 life.</text>
       <prop>
         <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>WU</colors>
         <manacost>WU</manacost>
@@ -3626,6 +3891,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
 Remove three charge counters from Vermilion Gym: Put a first strike, vigilance, or haste counter on target Pokémon.</text>
       <prop>
         <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>RW</colors>
         <manacost>RW</manacost>
@@ -3638,6 +3904,7 @@ Remove three charge counters from Vermilion Gym: Put a first strike, vigilance, 
       <text>Pokémon you control have reach and "{T}: Add one mana of any color."</text>
       <prop>
         <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -3651,6 +3918,7 @@ Remove three charge counters from Vermilion Gym: Put a first strike, vigilance, 
 The first time you would draw a card each turn, scry 1, then draw a card instead.</text>
       <prop>
         <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>UB</colors>
         <manacost>UB</manacost>
@@ -3664,6 +3932,7 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
 If one or more -1/-1 counters would be put on a Pokémon you don't control, that many plus one -1/-1 counters are put on it instead.</text>
       <prop>
         <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>BG</colors>
         <manacost>BG</manacost>
@@ -3677,6 +3946,7 @@ If one or more -1/-1 counters would be put on a Pokémon you don't control, that
 You may cast cards exiled with Cinnabar Gym.</text>
       <prop>
         <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -3691,6 +3961,7 @@ Whenever a Pokémon an opponent controls dies, you create a Treasure token unles
       <related>Treasure Token</related>
       <prop>
         <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -3706,6 +3977,7 @@ Whenever a Pokémon an opponent controls dies, you create a Treasure token unles
 {T}, Remove all storage counters from Bill's Grassland: Add {W} for each storage counter removed this way.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3718,6 +3990,7 @@ Whenever a Pokémon an opponent controls dies, you create a Treasure token unles
 {T}, Remove all storage counters from Bill's Volcano: Add {R} for each storage counter removed this way.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3730,6 +4003,7 @@ Whenever a Pokémon an opponent controls dies, you create a Treasure token unles
 {T}, Remove all storage counters from Bill's Rainforest: Add {G} for each storage counter removed this way.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3742,6 +4016,7 @@ Whenever a Pokémon an opponent controls dies, you create a Treasure token unles
 {T}, Remove all storage counters from Bill's Marsh: Add {B} for each storage counter removed this way.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3754,6 +4029,7 @@ Whenever a Pokémon an opponent controls dies, you create a Treasure token unles
 {T}, Remove all storage counters from Bill's Coastline: Add {U} for each storage counter removed this way.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3765,6 +4041,7 @@ Whenever a Pokémon an opponent controls dies, you create a Treasure token unles
 {T}: Add {G} or {W}. You lose 1 life.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3777,6 +4054,7 @@ Whenever a Pokémon an opponent controls dies, you create a Treasure token unles
       <cipt>1</cipt>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3789,6 +4067,7 @@ Whenever a Pokémon an opponent controls dies, you create a Treasure token unles
       <cipt>1</cipt>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3800,6 +4079,7 @@ Whenever a Pokémon an opponent controls dies, you create a Treasure token unles
 {T}: Add {U} or {R}. You lose 1 life.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3811,6 +4091,7 @@ Whenever a Pokémon an opponent controls dies, you create a Treasure token unles
 {T}: Add {G} or {U}. You lose 1 life.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3824,6 +4105,7 @@ Cycling {2}</text>
       <cipt>1</cipt>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3835,6 +4117,7 @@ Cycling {2}</text>
 {2}{R}, {T}, Sacrifice Diglett's Cave: Destroy target nonbasic land.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3847,6 +4130,7 @@ Cycling {2}</text>
       <cipt>1</cipt>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3858,6 +4142,7 @@ Cycling {2}</text>
 {T}: Add {B} or {R}. You lose 1 life.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3871,6 +4156,7 @@ Cycling {2}</text>
       <cipt>1</cipt>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3884,6 +4170,7 @@ Cycling {2}</text>
       <cipt>1</cipt>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3895,6 +4182,7 @@ Cycling {2}</text>
 {T}: Add {W} or {B}. You lose 1 life.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3907,6 +4195,7 @@ Cycling {2}</text>
 {T}: Add one mana of the chosen color. Spend this mana only to cast Pokémon spells.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3919,6 +4208,7 @@ Cycling {2}</text>
       <cipt>1</cipt>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3930,6 +4220,7 @@ Cycling {2}</text>
 {1}, {T}, Sacrifice Pewter Museum: Draw a card.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3941,6 +4232,7 @@ Cycling {2}</text>
 {4}{B}, {T}: Target player loses 1 life and you gain 1 life.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3953,6 +4245,7 @@ Cycling {2}</text>
       <cipt>1</cipt>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3966,6 +4259,7 @@ Cycling {2}</text>
       <cipt>1</cipt>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3976,6 +4270,7 @@ Cycling {2}</text>
       <text>{T}, Sacrifice Safari Zone: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3987,6 +4282,7 @@ Cycling {2}</text>
 {1}, {T}, Sacrifice Saffron City: Draw a card.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -3998,6 +4294,7 @@ Cycling {2}</text>
 {1}{U}, {T}, Sacrifice S.S. Anne: Return target Pokémon to its owner's hand.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4011,6 +4308,7 @@ Cycling {2}</text>
       <cipt>1</cipt>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4022,6 +4320,7 @@ Cycling {2}</text>
 {1}, {T}, Sacrifice Vermilion City: Draw a card.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4033,6 +4332,7 @@ Cycling {2}</text>
 {1}, {T}, Sacrifice Seafoam Islands: Draw a card.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4044,6 +4344,7 @@ Cycling {2}</text>
 {1}, {T}, Sacrifice Viridian City: Draw a card.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4055,6 +4356,7 @@ Cycling {2}</text>
 {2}, {T}: Add {G} for each Forest and each Bug Pokémon you control.</text>
       <prop>
         <type>Land</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4067,6 +4369,7 @@ Cycling {2}</text>
       <text>{T}: Add {W}.</text>
       <prop>
         <type>Basic Land — Plains</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4078,6 +4381,7 @@ Cycling {2}</text>
       <text>{T}: Add {W}.</text>
       <prop>
         <type>Basic Land — Plains</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4089,6 +4393,7 @@ Cycling {2}</text>
       <text>{T}: Add {W}.</text>
       <prop>
         <type>Basic Land — Plains</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4100,6 +4405,7 @@ Cycling {2}</text>
       <text>{T}: Add {W}.</text>
       <prop>
         <type>Basic Land — Plains</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4111,6 +4417,7 @@ Cycling {2}</text>
       <text>{T}: Add {W}.</text>
       <prop>
         <type>Basic Land — Plains</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4122,6 +4429,7 @@ Cycling {2}</text>
       <text>{T}: Add {U}.</text>
       <prop>
         <type>Basic Land — Island</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4133,6 +4441,7 @@ Cycling {2}</text>
       <text>{T}: Add {U}.</text>
       <prop>
         <type>Basic Land — Island</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4144,6 +4453,7 @@ Cycling {2}</text>
       <text>{T}: Add {U}.</text>
       <prop>
         <type>Basic Land — Island</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4155,6 +4465,7 @@ Cycling {2}</text>
       <text>{T}: Add {U}.</text>
       <prop>
         <type>Basic Land — Island</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4166,6 +4477,7 @@ Cycling {2}</text>
       <text>{T}: Add {U}.</text>
       <prop>
         <type>Basic Land — Island</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4177,6 +4489,7 @@ Cycling {2}</text>
       <text>{T}: Add {B}.</text>
       <prop>
         <type>Basic Land — Swamp</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4188,6 +4501,7 @@ Cycling {2}</text>
       <text>{T}: Add {B}.</text>
       <prop>
         <type>Basic Land — Swamp</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4199,6 +4513,7 @@ Cycling {2}</text>
       <text>{T}: Add {B}.</text>
       <prop>
         <type>Basic Land — Swamp</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4210,6 +4525,7 @@ Cycling {2}</text>
       <text>{T}: Add {B}.</text>
       <prop>
         <type>Basic Land — Swamp</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4221,6 +4537,7 @@ Cycling {2}</text>
       <text>{T}: Add {B}.</text>
       <prop>
         <type>Basic Land — Swamp</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4232,6 +4549,7 @@ Cycling {2}</text>
       <text>{T}: Add {R}.</text>
       <prop>
         <type>Basic Land — Mountain</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4243,6 +4561,7 @@ Cycling {2}</text>
       <text>{T}: Add {R}.</text>
       <prop>
         <type>Basic Land — Mountain</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4254,6 +4573,7 @@ Cycling {2}</text>
       <text>{T}: Add {R}.</text>
       <prop>
         <type>Basic Land — Mountain</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4265,6 +4585,7 @@ Cycling {2}</text>
       <text>{T}: Add {R}.</text>
       <prop>
         <type>Basic Land — Mountain</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4276,6 +4597,7 @@ Cycling {2}</text>
       <text>{T}: Add {R}.</text>
       <prop>
         <type>Basic Land — Mountain</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4287,6 +4609,7 @@ Cycling {2}</text>
       <text>{T}: Add {G}.</text>
       <prop>
         <type>Basic Land — Forest</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4298,6 +4621,7 @@ Cycling {2}</text>
       <text>{T}: Add {G}.</text>
       <prop>
         <type>Basic Land — Forest</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4309,6 +4633,7 @@ Cycling {2}</text>
       <text>{T}: Add {G}.</text>
       <prop>
         <type>Basic Land — Forest</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4320,6 +4645,7 @@ Cycling {2}</text>
       <text>{T}: Add {G}.</text>
       <prop>
         <type>Basic Land — Forest</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4331,6 +4657,7 @@ Cycling {2}</text>
       <text>{T}: Add {G}.</text>
       <prop>
         <type>Basic Land — Forest</type>
+        <maintype>Land</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4342,6 +4669,7 @@ Cycling {2}</text>
       <text>Flying</text>
       <prop>
         <type>Token Pokémon - Bug Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <colors>B</colors>
         <pt>1/1</pt>
@@ -4354,6 +4682,7 @@ Cycling {2}</text>
       <text />
       <prop>
         <type>Token Pokémon - Ground</type>
+        <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <colors>R</colors>
         <pt>2/1</pt>
@@ -4366,6 +4695,7 @@ Cycling {2}</text>
       <text>Lifelink</text>
       <prop>
         <type>Token Pokémon - Grass Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <colors>G</colors>
         <pt>1/1</pt>
@@ -4378,6 +4708,7 @@ Cycling {2}</text>
       <text />
       <prop>
         <type>Token Pokémon - Poison</type>
+        <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <colors>B</colors>
         <pt>1/2</pt>
@@ -4390,6 +4721,7 @@ Cycling {2}</text>
       <text />
       <prop>
         <type>Token Pokémon - Ghost</type>
+        <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <colors>UB</colors>
       </prop>
@@ -4401,6 +4733,7 @@ Cycling {2}</text>
       <text />
       <prop>
         <type>Token Pokémon - Clone</type>
+        <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <pt>2/2</pt>
       </prop>
@@ -4412,6 +4745,7 @@ Cycling {2}</text>
       <text />
       <prop>
         <type>Token Pokémon - Clone</type>
+        <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <pt>2/2</pt>
       </prop>
@@ -4423,6 +4757,7 @@ Cycling {2}</text>
       <text />
       <prop>
         <type>Token Pokémon - Clone</type>
+        <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <pt>2/2</pt>
       </prop>
@@ -4434,6 +4769,7 @@ Cycling {2}</text>
       <text>First strike, lifelink, haste</text>
       <prop>
         <type>Token Legendary Pokémon - Electric</type>
+        <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <colors>RW</colors>
         <pt>4/4</pt>
@@ -4446,6 +4782,7 @@ Cycling {2}</text>
       <text>{T}, Sacrifice this artifact: Add one many of any color.</text>
       <prop>
         <type>Token Artifact - Treasure</type>
+        <maintype>Artifact</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4456,6 +4793,7 @@ Cycling {2}</text>
       <text>Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source's controller.</text>
       <prop>
         <type>Emblem - Brock</type>
+        <maintype>Artifact</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4466,6 +4804,7 @@ Cycling {2}</text>
       <text>Pokémon you control have "{B}: This Pokémon can't be blocked this turn."</text>
       <prop>
         <type>Emblem - Koga</type>
+        <maintype>Artifact</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
@@ -4476,6 +4815,7 @@ Cycling {2}</text>
       <text>Pokémon you control have indestructible.</text>
       <prop>
         <type>Emblem - Oak</type>
+        <maintype>Artifact</maintype>
         <cmc>0</cmc>
       </prop>
     </card>
