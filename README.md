@@ -56,7 +56,7 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **A**: Yes, abilities of all cards in a merged permanent are copiable characteristics. For example, a copy of Beedrill with a weedle under it will have deathtouch.
 
-**Q: Are copies of evolved Pokémon considered evolved?
+**Q: Are copies of evolved Pokémon considered evolved?**
 
 **A**: No, being a merged permanent (evolved) is not itself a copiable characteristic. Copies are not evolved and have evolved 0 times.
 
@@ -79,8 +79,8 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **Q: If I make a token copy of a Pokemon with an Evolve ability with Mewtwo, can that copy activate it and flip to the back face?**
 **A**: Yes, token copies of transforming double-faced cards can transform.
 
-**Q: Do Pokémon die between the fights for Double Kick?
+**Q: Do Pokémon die between the fights for Double Kick?**
 **A**: Double kick creates a delayed trigger that goes on the stack after the first fight resolves. State based actions are checked while that trigger is on the stack, so Pokémon can die before the second fight occurs.
 
-**Q: When do I choose the target for the second fight in Double Kick?
+**Q: When do I choose the target for the second fight in Double Kick?**
 **A**: You choose the target when the trigger goes on the stack, after the first fight resolves but before state based actions are checked.
