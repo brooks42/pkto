@@ -77,6 +77,7 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **A**: Ninetales's controller may still pay 1RR and discard a card to take control of the targeted Pokémon. The Pokémon will tap, but will not be attacking, as Ninetales is no longer attacking anything.
 
 **Q: If I make a token copy of a Pokemon with an Evolve ability with Mewtwo, can that copy activate it and flip to the back face?**
+
 **A**: Yes, token copies of transforming double-faced cards can transform.
 
 **Q: Do Pokémon die between the fights for Double Kick?**
