@@ -811,7 +811,7 @@ Whenever Golbat evolves, target player loses X life and you gain X life.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Gloom.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve From Oddish {B/G}
-{B}, {T}: Remove up to two counters from target permanent. If Gloom is evolved, untap it.</text>
+{B}, {T}: Remove up to two counters from target permanent. If one or more counters are removed this way and Gloom is evolved, untap it.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
