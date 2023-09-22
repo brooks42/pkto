@@ -56,7 +56,7 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **A**: No, being a merged permanent (evolved) is not itself a copiable characteristic. Copies are not evolved and have evolved 0 times.
 
-**Q: What if Ditto copies a Pokémon with an Evolve ability? Will it flip to the other side?**
+**Q: What if Ditto copies a Pokémon with Evolve? Will it flip to the other side?**
 
 **A**: No, cards that become copies of transforming double-faced cards do not gain the back face. Activating the Evolve ability will not flip the card and will not trigger abilities that care about evolution.
 
