@@ -6,13 +6,14 @@
 # `pip3 install lxml`
 
 import sys
+import json
 
 from bs4 import BeautifulSoup
 
 
 def main():
     """ 
-    compiles the set of cards in ../pkto_cockatrice.xml into a cube format
+    compiles the set of cards in ../pjto_cockatrice.xml into a cube format
 
     cube format is just a file with the card names, with repeated card names for commons
 
@@ -23,6 +24,25 @@ def main():
     Eevee
     Eevee 
     """
+
+    
+#     <card>
+#       <name>Bulbasaur</name>
+#       <set picURL="https://brooks42.github.io/pkto/cards/Bulbasaur.png" rarity="common">PKTO</set>
+#       <tablerow>2</tablerow>
+#       <related attach="transform">Ivysaur (DFC)</related>
+#       <text>{T}: Add {G}.
+# {1}{G}: Evolve</text>
+#       <prop>
+#         <type>Pokémon - Grass Poison</type>
+#         <maintype>Pokémon</maintype>
+#         <cmc>1</cmc>
+#         <side>front</side>
+#         <colors>G</colors>
+#         <manacost>G</manacost>
+#         <pt>1/1</pt>
+#       </prop>
+#     </card>
 
     try:
         # sys.argv[1] is expected to be -f for bash reasons
@@ -38,6 +58,8 @@ def main():
             # grab the list of cards out of the input cockatrice xml file
             all_cards = soup_obj.findAll("card")
 
+            print("Going through all of the cards: ", len(all_cards))
+
             for index in range(len(all_cards)):
 
                 # grab the info and transform this into the Card instance format above
@@ -46,6 +68,7 @@ def main():
                 for name_tag in cockatrice_card:
                     if name_tag.name == 'name':
                         card_name = name_tag.string
+                        card_type = ''
 
                         if card_name == 'Mewtwo, Redeemed':
                             continue
@@ -55,16 +78,29 @@ def main():
                             continue
 
                         basicland = False
-                        for type_tag in cockatrice_card:
-                            if type_tag.name == 'type':
-                                if 'Basic Land' in type_tag.string:
-                                    basicland = True
+                        pokemon = False
+                        emblemOrToken = False
+                        for prop_tag in cockatrice_card:
+                            if prop_tag.name == 'prop':
+                                for type_tag in prop_tag:
+                                    if type_tag.name == 'type':
+                                        card_type = type_tag.string
+
+                                        print(f'{card_name}: {card_type}')
+                                        if 'Basic Land' in card_type:
+                                            basicland = True
+                                        if 'Pokémon' in card_type:
+                                            pokemon = True
+                                        if 'Emblem' in card_type or 'Token' in card_type:
+                                            emblemOrToken = True
 
                         if basicland:
                             continue
 
-                        # append (PKTO) to the card name to work with dr4ft
-                        card_name = f"{card_name} (PKTO)"
+                        # append (PJTO) to the card name to work with dr4ft
+                        for set_tag in cockatrice_card:
+                            if set_tag.name == 'set':
+                                card_name = f'{card_name} ({set_tag.string})'
 
                         # only append non-token rarities, and append twice if rarity is common
                         for rarity_tag in cockatrice_card:
@@ -73,12 +109,14 @@ def main():
                                 if rarity_tag['rarity'] == 'token':
                                     continue
 
-                                cube_list.append(card_name)
-
-                                if rarity_tag['rarity'] == 'common':
+                                if not emblemOrToken:
                                     cube_list.append(card_name)
 
+                                    if rarity_tag['rarity'] == 'common':
+                                        cube_list.append(card_name)
+
         cube_list.sort()
+
         print(f'Writing {len(cube_list)} cards to cube file...')
         with open('pkto_cube.txt', 'w') as f:
             f.write('\n'.join(str(item) for item in cube_list))
