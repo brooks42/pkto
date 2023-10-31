@@ -14,19 +14,15 @@ Trainer is a replacement for the planeswalker type. Trainers behave like planesw
 
 ### Evolution
 
-Evolve - An activated ability that turns the card over, just like transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their power, toughness, and name are different.
+Evolve - An activated ability that turns the card over, just like transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their power, toughness, and name are different. Pokémon with Evolve act just like any other double-faced cards. [See this link for more info](https://mtg.fandom.com/wiki/Double-faced_card).
 
-Evolve From - An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all non-evolve abilities from under it.
+Evolve From - An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all non-evolve abilities from under it. Pokémon with Evolve From act just like any other merged permanents. [See this link for more info](https://mtg.fandom.com/wiki/Merge).
 
 Both "Evolve" and "Evolve From" count as evolution/evolving. Any triggered abilities that care about Pokémon evolving will trigger from both types of evolution. If a card affects what you can pay "to evolve Pokémon" it applies to both types of evolution. 
 
 A Pokémon is considered evolved if it is the back side of a card with an evolve ability or it was cast using its Evolve From cost. A Pokémon is considered unevolved if it is the front side of a card with an evolve ability, it is a card with an Evolve From cost that was cast using its standard mana cost, or it is a card without Evolve or Evolve From.
 
 ## FAQs
-
-**Q: My Bulbasaur evolved into Ivysaur (flipped over) and then [game event] happened, how do I handle it?**
-
-**A**: Pokémon with Evolve act just like any other double-faced cards. [See this link for more info](https://magic.wizards.com/en/articles/archive/feature/double-faced-card-rules-2011-08-29#:~:text=Double-Faced%20Card%20Rules%201%20Double-Faced%20Cards%20in%20General.,...%204%20Double-Faced%20Cards%20and%20Copy%20Effects.%20).
 
 **Q: If I kill a Pokémon in response to it being targeted by a spell that was cast for its Evolve From cost, what happens?**
 
