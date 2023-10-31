@@ -30,7 +30,7 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **Q: If I kill a Pokémon in response to it being targeted by a spell that was cast for its Evolve From cost, what happens?**
 
-**A**: The Evolve From spell will still resolve, but it will enter battlefield on its own, won't trigger any abilities that care about evolution, and won't be considered evolved.
+**A**: The Evolve From spell will still resolve, but it will enter the battlefield on its own, won't trigger any abilities that care about evolution, and won't be considered evolved.
 
 **Q: Many Pokémon have abilities that reference them by name, such as "1G: Bellsprout gets +1/+1 until end of turn." Pokémon with Evolve From get all abilities from cards underneath them, do abilities like this still work?**
 
