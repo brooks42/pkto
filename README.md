@@ -23,6 +23,7 @@ Both "Evolve" and "Evolve From" count as evolution/evolving. Any triggered abili
 A Pokémon is considered evolved if it is the back side of a card with an evolve ability or it was cast using its Evolve From cost. A Pokémon is considered unevolved if it is the front side of a card with an evolve ability, it is a card with an Evolve From cost that was cast using its standard mana cost, or it is a card without Evolve or Evolve From.
 
 ## FAQs
+
 **Q: If I kill a Pokémon in response to it being targeted by a spell that was cast for its Evolve From cost, what happens?**
 
 **A**: The Evolve From spell will still resolve, but it will enter the battlefield on its own, won't trigger any abilities that care about evolution, and won't be considered evolved.
@@ -72,7 +73,9 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 **A**: Ninetales's controller may still pay 1RR and discard a card to take control of the targeted Pokémon. The Pokémon will tap, but will not be attacking, as Ninetales is no longer attacking anything.
 
 **Q: Do Pokémon die between the fights for Double Kick?**
+
 **A**: Double kick creates a delayed trigger that goes on the stack after the first fight resolves. State based actions are checked while that trigger is on the stack, so Pokémon can die before the second fight occurs.
 
 **Q: When do I choose the target for the second fight in Double Kick?**
+
 **A**: You choose the target when the trigger goes on the stack, after the first fight resolves but before state based actions are checked.
