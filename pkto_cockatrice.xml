@@ -674,7 +674,7 @@ As long as Nidoking has first strike, it has trample.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Clefable.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve From Clefairy {1}{W/B}
-Whenever a player reveals one or more cards, untap Clefable and create a Treasure token.</text>
+Whenever a player reveals the top card of their library or one or more cards from their hand, untap Clefable and create a Treasure token.</text>
       <related>Treasure Token</related>
       <prop>
         <type>Pokémon - Fairy</type>
