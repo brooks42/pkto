@@ -14,7 +14,7 @@ Trainer is a replacement for the planeswalker type. Trainers behave like planesw
 
 ### Evolution
 
-Evolve - An activated ability that turns the card over, just like transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability), only their power, toughness, and name are different. Pokémon with Evolve act just like any other double-faced cards. [See this link for more info](https://mtg.fandom.com/wiki/Double-faced_card).
+Evolve - An activated ability that turns the card over, just like transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability); only their power, toughness, and name are different. Pokémon with Evolve act just like any other double-faced cards. [See this link for more info](https://mtg.fandom.com/wiki/Double-faced_card).
 
 Evolve From - An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all non-evolve abilities from under it. Pokémon with Evolve From act just like any other merged permanents. [See this link for more info](https://mtg.fandom.com/wiki/Merge).
 
