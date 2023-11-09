@@ -3804,7 +3804,7 @@ Whenever enchanted Pokémon attacks, tap target permanent and put a stun counter
       <name>Hyper Beam</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Hyper%20Beam.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Enchant Pokémon without Evolve
+      <text>Enchant Pokémon
 Enchanted Pokémon has "{T}: Destroy target nonland permanent. This Pokémon doesn't untap during its controller's next untap step. Activate only as a sorcery."</text>
       <prop>
         <type>Enchantment - Aura</type>
