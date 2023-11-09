@@ -16,19 +16,17 @@ Trainer is a replacement for the planeswalker type. Trainers behave like planesw
 
 Evolve - An activated ability that turns the card over, just like transform. Double-faced Pokémon cards have the same abilities on both sides (minus the evolve ability); only their power, toughness, and name are different. Pokémon with Evolve act just like any other double-faced cards. [See this link for more info](https://mtg.fandom.com/wiki/Double-faced_card).
 
-Evolve From - An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all non-evolve abilities from under it. Pokémon with Evolve From act just like any other merged permanents. [See this link for more info](https://mtg.fandom.com/wiki/Merge).
+Evolve from - An alternate casting cost very similar to mutate from Ikoria, but it targets a specific Pokémon. They evolve into the Pokémon on top plus all non-evolve abilities from under it. Pokémon with Evolve from act just like any other merged permanents. [See this link for more info](https://mtg.fandom.com/wiki/Merge).
 
-Both "Evolve" and "Evolve From" count as evolution/evolving. Any triggered abilities that care about Pokémon evolving will trigger from both types of evolution. If a card affects what you can pay "to evolve Pokémon" it applies to both types of evolution. 
-
-A Pokémon is considered evolved if it is the back side of a card with an evolve ability or it was cast using its Evolve From cost. A Pokémon is considered unevolved if it is the front side of a card with an evolve ability, it is a card with an Evolve From cost that was cast using its standard mana cost, or it is a card without Evolve or Evolve From.
+Both "Evolve" and "Evolve from" count as evolution/evolving. Any triggered abilities that care about Pokémon evolving will trigger from both types of evolution. If a card affects what you can pay "to evolve Pokémon" it applies to both types of evolution. 
 
 ## FAQs
 
-**Q: If I kill a Pokémon in response to it being targeted by a spell that was cast for its Evolve From cost, what happens?**
+**Q: If I kill a Pokémon in response to it being targeted by a spell that was cast for its Evolve from cost, what happens?**
 
-**A**: The Evolve From spell will still resolve, but it will enter the battlefield on its own, won't trigger any abilities that care about evolution, and won't be considered evolved.
+**A**: The Evolve from spell will still resolve, but it will enter the battlefield on its own, won't trigger any abilities that care about evolution, and won't be considered evolved.
 
-**Q: Many Pokémon have abilities that reference them by name, such as "1G: Bellsprout gets +1/+1 until end of turn." Pokémon with Evolve From get all abilities from cards underneath them, do abilities like this still work?**
+**Q: Many Pokémon have abilities that reference them by name, such as "1G: Bellsprout gets +1/+1 until end of turn." Pokémon with Evolve from get all abilities from cards underneath them, do abilities like this still work?**
 
 **A**: Yes, a Weepinbell that uses that ability will still get +1/+1. In MTG, stating a creature's name is the same as saying "this creature." We chose to use Pokémon names more frequently for flavor points.
 
@@ -40,9 +38,9 @@ A Pokémon is considered evolved if it is the back side of a card with an evolve
 
 **A**: We know it's weird that there are Flying Pokémon, that not all Flying Pokémon have flying, and that you can have flying even if you're not a Flying Pokémon. We didn't want to be constrained to all Flying Pokémon having flying, for flavor and variety.
 
-**Q: Hyper Beam says "Enchant Pokémon without Evolve" Does that mean I can't use it on Dragonite, which has Evolve From?**
+**Q: Hyper Beam says "Enchant Pokémon without Evolve" Does that mean I can't use it on Dragonite, which has Evolve from?**
 
-**A**: Evolve From is not the same as Evolve, meaning Dragonite and any other Pokémon with Evolve From can be enchanted by Hyper Beam.
+**A**: Evolve from is not the same as Evolve, meaning Dragonite and any other Pokémon with Evolve from can be enchanted by Hyper Beam.
 
 **Q: Beedrill and Ditto can make copies of evolved Pokémon. Do those copies get the abilities from the cards under the evolved Pokémon?**
 
