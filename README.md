@@ -7,7 +7,7 @@ A repo for the MTG Pokemon TCG cockatrice XML and supporting materials.
 ### Pokémon
 
 Pokémon is a replacement for the creature type. Pokémon behave like creatures in all respects.
-
+vaccuu
 ### Trainer
 
 Trainer is a replacement for the planeswalker type. Trainers behave like planeswalkers in all respects.
@@ -32,7 +32,7 @@ Both "Evolve" and "Evolve from" count as evolution/evolving. Any triggered abili
 
 **Q: Why isn't [insert favorite Pokémon here] the color I think it should be? Your colors are bad and you should feel bad.**
 
-**A**: We want an equal number of cards in each color in the cube. Gen 1 has a high concentration of poison and water types. Fire, rock, ground, and electric could all be red. Designing the cube requires us to take some poetic license regarding what color a Pokémon ends up being, and the end result may be different than what any Pokémon would have been in a vaccuum. 
+**A**: We want an equal number of cards in each color in the cube. Gen 1 has a high concentration of poison and water types. Fire, rock, ground, and electric could all be red. Designing the cube requires us to take some poetic license regarding what color a Pokémon ends up being, and the end result may be different than what any Pokémon would have been in a vacuum. 
 
 **Q: Why doesn't Spearow have flying?**
 
