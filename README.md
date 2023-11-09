@@ -38,13 +38,9 @@ Both "Evolve" and "Evolve from" count as evolution/evolving. Any triggered abili
 
 **A**: We know it's weird that there are Flying Pokémon, that not all Flying Pokémon have flying, and that you can have flying even if you're not a Flying Pokémon. We didn't want to be constrained to all Flying Pokémon having flying, for flavor and variety.
 
-**Q: Hyper Beam says "Enchant Pokémon without Evolve" Does that mean I can't use it on Dragonite, which has Evolve from?**
+**Q: Ditto can become a copy of an evolved Pokémon. Does it get the abilities from the cards under the evolved Pokémon?**
 
-**A**: Evolve from is not the same as Evolve, meaning Dragonite and any other Pokémon with Evolve from can be enchanted by Hyper Beam.
-
-**Q: Beedrill and Ditto can make copies of evolved Pokémon. Do those copies get the abilities from the cards under the evolved Pokémon?**
-
-**A**: Yes, abilities of all cards in a merged permanent are copiable characteristics. For example, a copy of Beedrill with a weedle under it will have deathtouch.
+**A**: Yes, abilities of all cards in a merged permanent are copiable characteristics. For example, a copy of Kakuna with a Weedle under it will have deathtouch.
 
 **Q: Are copies of evolved Pokémon considered evolved?**
 
