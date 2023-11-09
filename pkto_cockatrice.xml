@@ -2581,7 +2581,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <loyalty>4</loyalty>
       <text>You may spend mana as though it were mana of any color to evolve Pokémon.
 [+1]: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
-[−3]: Search your library for a Pokémon card with Evolve From, reveal it, and put it into your hand. You may evolve it without paying its mana cost this turn. Then shuffle.</text>
+[−3]: Search your library for a Pokémon card with Evolve from, reveal it, and put it into your hand. You may evolve it without paying its mana cost this turn. Then shuffle.</text>
       <prop>
         <type>Legendary Trainer - Green</type>
         <maintype>Trainer</maintype>
