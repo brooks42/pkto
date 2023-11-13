@@ -658,7 +658,7 @@ As long as Nidoking has first strike, it has trample.</text>
       <name>Clefairy</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Clefairy.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{T}: Add {W} or {B}.
+      <text>{T}: Add {W} or {B}. Spend this mana only to cast a Fairy Pokémon spell or activate abilities of Fairy Pokémon.
 {2}{W/B}: Reveal cards from the top of your library until you reveal a Pokémon card. Clefairy gains all abilities of that card until end of turn. Put the revealed cards on the bottom of your library in any order.</text>
       <prop>
         <type>Pokémon - Fairy</type>
@@ -666,14 +666,14 @@ As long as Nidoking has first strike, it has trample.</text>
         <cmc>3</cmc>
         <colors>WB</colors>
         <manacost>1WB</manacost>
-        <pt>2/2</pt>
+        <pt>2/3</pt>
       </prop>
     </card>
     <card>
       <name>Clefable</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Clefable.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Clefairy {1}{W/B}
+      <text>Evolve from Clefairy {W/B}
 Whenever a player reveals the top card of their library or one or more cards from their hand, untap Clefable and create a Treasure token.</text>
       <related>Treasure Token</related>
       <prop>
@@ -682,7 +682,7 @@ Whenever a player reveals the top card of their library or one or more cards fro
         <cmc>4</cmc>
         <colors>WB</colors>
         <manacost>2WB</manacost>
-        <pt>2/4</pt>
+        <pt>4/4</pt>
       </prop>
     </card>
     <card>
