@@ -3698,7 +3698,8 @@ Sacrifice Moon Stone: Create a Treasure token.</text>
       <name>Ancient Slab</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Ancient%20Slab.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
-      <text>{1}, {T}: Add one mana of any color.</text>
+      <text>When Ancient Slab enters the battlefield, draw a card.
+{1}, {T}: Add one mana of any color.</text>
       <prop>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
