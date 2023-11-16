@@ -2051,7 +2051,7 @@ Whenever Seaking enters the battlefield or evolves, counter target spell.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Starmie.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Staryu {U}
-Whenever you scry, target Pokémon gets -2/-0 until end of turn. If Starmie is evolved, untap it.</text>
+Whenever you scry, tap up to X target nonland permanents, where X is the number of cards looked at while scrying this way. If Starmie is evolved, untap it.</text>
       <prop>
         <type>Pokémon - Water Psychic</type>
         <maintype>Pokémon</maintype>
