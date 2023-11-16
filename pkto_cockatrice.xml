@@ -245,7 +245,7 @@ Whenever Metapod evolves, it loses defender and you draw a card.</text>
       <tablerow>2</tablerow>
       <text>Evolve from Metapod {G}
 Flying
-Whenever Butterfree attacks or blocks, put a stun counter on target Pokémon you don't control. If Butterfree is evolved, tap that Pokémon.</text>
+Whenever Butterfree attacks, put a stun counter on target Pokémon you don't control. If Butterfree is evolved, tap that Pokémon.</text>
       <prop>
         <type>Pokémon - Bug Flying</type>
         <maintype>Pokémon</maintype>
