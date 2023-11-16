@@ -166,14 +166,14 @@ You may have each Pokémon you control assign combat damage equal to its toughne
       <set picURL="https://brooks42.github.io/pkto/cards/Charmeleon.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Charmander {R}
-Charmeleon has menace as long as it has power 4 or greater.</text>
+Charmeleon has menace as long as it has power 5 or greater.</text>
       <prop>
         <type>Pokémon - Fire</type>
         <maintype>Pokémon</maintype>
         <cmc>3</cmc>
         <colors>R</colors>
         <manacost>1RR</manacost>
-        <pt>3/2</pt>
+        <pt>4/3</pt>
       </prop>
     </card>
     <card>
