@@ -447,14 +447,15 @@ Prevent all noncombat damage that would be dealt to Fearow.</text>
       <name>Ekans</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Ekans.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Wither</text>
+      <text>Wither
+Whenever Ekans evolves, put three -1/-1 counters on up to one target Pokémon.</text>
       <prop>
         <type>Pokémon - Poison</type>
         <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
-        <pt>1/2</pt>
+        <pt>2/3</pt>
       </prop>
     </card>
     <card>
@@ -462,14 +463,14 @@ Prevent all noncombat damage that would be dealt to Fearow.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Arbok.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Ekans {B}
-If a +1/+1 counter would be put on a Pokémon you don't control, that many -1/-1 counters are put on it instead.</text>
+If one or more counters would be put on a Pokémon you don't control, that many plus one -1/-1 counters are put on it instead.</text>
       <prop>
         <type>Pokémon - Poison</type>
         <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>B</colors>
         <manacost>3B</manacost>
-        <pt>3/3</pt>
+        <pt>4/4</pt>
       </prop>
     </card>
     <card>
