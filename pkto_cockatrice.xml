@@ -2281,7 +2281,7 @@ Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you c
       <set picURL="https://brooks42.github.io/pkto/cards/Porygon.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Whenever a player casts a spell,  Porygon becomes that spell's colors.
-Porygon has lifelink as long as it's white. The same is true for hexproof and blue, wither and black, menace and red, and reach and green.</text>
+Porygon has lifelink if it's white, hexproof if it's blue, wither if it's black, menace if it's red, and reach if it's green.</text>
       <prop>
         <type>Artifact Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
