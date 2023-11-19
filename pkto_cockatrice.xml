@@ -3340,9 +3340,9 @@ Draw a card.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <cmc>4</cmc>
+        <cmc>3</cmc>
         <colors>W</colors>
-        <manacost>3W</manacost>
+        <manacost>2W</manacost>
       </prop>
     </card>
     <card>
