@@ -3975,8 +3975,8 @@ You may cast cards exiled with Cinnabar Gym.</text>
       <name>Viridian Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Viridian%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Pokémon you control have deathtouch.
-Whenever a Pokémon an opponent controls dies, you create a Treasure token unless that player pays 2 life.</text>
+      <text>Whenever a Pokémon an opponent controls dies, you create a Treasure token unless that player pays 2 life.
+{2}{B}: Put a deathtouch counter on target Pokémon.</text>
       <related>Treasure Token</related>
       <prop>
         <type>Enchantment</type>
