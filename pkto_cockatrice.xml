@@ -4743,6 +4743,7 @@ Cycling {2}</text>
         <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <colors>UB</colors>
+		<pt>2/2</pt>
       </prop>
     </card>
     <card>
