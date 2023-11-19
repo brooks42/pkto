@@ -2776,7 +2776,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Agatha.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <loyalty>3</loyalty>
-      <text>Whenever a Pokémon with a soulbind counter on it dies, exile it. Create a token copy of it, except it's a Ghost.      
+      <text>Whenever a Pokémon with a soulbind counter on it dies, exile it. If you do, create a token copy of it, except it's a 2/2 Ghost.
 [+1]: Put a soulbind counter on up to one target nontoken Pokémon.
 [-2]: You may sacrifice a nontoken Pokémon. If you do, draw two cards.</text>
       <related>Ghost Token</related>
