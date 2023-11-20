@@ -3405,8 +3405,8 @@ Overload {4}{R}{R}</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Solar%20Beam.png" rarity="rare">PKTO</set>
       <tablerow>3</tablerow>
       <text>This spell costs {G} less to cast as long as you control a Grass Pokémon.
-Destroy target artifact, target enchantment, target trainer, or target token.
-Overload {2}{G}{G}</text>
+Until end of turn, target Pokémon you control gains trample and "Whenever this Pokémon attacks, put four +1/+1 counters on it."
+Overload {5}{G}{G}</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
