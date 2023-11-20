@@ -664,9 +664,9 @@ As long as Nidoking has first strike, it has trample.</text>
       <prop>
         <type>Pokémon - Fairy</type>
         <maintype>Pokémon</maintype>
-        <cmc>3</cmc>
+        <cmc>2</cmc>
         <colors>WB</colors>
-        <manacost>1WB</manacost>
+        <manacost>WB</manacost>
         <pt>2/3</pt>
       </prop>
     </card>
