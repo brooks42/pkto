@@ -2645,7 +2645,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Erika.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <loyalty>2</loyalty>
-      <text>[+1]: Create a 1/1 green and black Grass Poison Pokémon token with lifelink named Oddish.
+      <text>[+1]: Create a 1/1 black and green Grass Poison Pokémon token with lifelink named Oddish.
 [-1]: Destroy target artifact or enchantment.
 [−4]: Pokémon you control get +3/+3 and gain trample until end of turn.</text>
       <related>Oddish Token</related>
