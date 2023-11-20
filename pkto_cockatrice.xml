@@ -228,8 +228,8 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
       <set picURL="https://brooks42.github.io/pkto/cards/Metapod.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Caterpie {G}
-Defender
-Whenever Metapod evolves, it loses defender and you draw a card.</text>
+Metapod has defender unless it's evolved.
+Whenever Metapod enters the battlefield or evolves, draw a card.</text>
       <prop>
         <type>Pokémon - Bug</type>
         <maintype>Pokémon</maintype>
@@ -291,8 +291,8 @@ Whenever Butterfree attacks, put a stun counter on target Pokémon you don't con
       <set picURL="https://brooks42.github.io/pkto/cards/Kakuna.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Weedle {B}
-Defender
-Whenever Kakuna evolves, it loses defender and target player discards a card.</text>
+Kakuna has defender unless it's evolved.
+Whenever Kakuna enters the battlefield or evolves, target player discards a card.</text>
       <prop>
         <type>Pokémon - Bug Poison</type>
         <maintype>Pokémon</maintype>
