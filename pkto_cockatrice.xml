@@ -819,7 +819,7 @@ Whenever Golbat evolves, target player loses X life and you gain X life.</text>
         <cmc>3</cmc>
         <colors>BG</colors>
         <manacost>1{B/G}{B/G}</manacost>
-        <pt>2/3</pt>
+        <pt>3/3</pt>
       </prop>
     </card>
     <card>
@@ -834,7 +834,7 @@ Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text
         <cmc>4</cmc>
         <colors>BG</colors>
         <manacost>1{B/G}{B/G}{B/G}</manacost>
-        <pt>3/5</pt>
+        <pt>4/4</pt>
       </prop>
     </card>
     <card>
