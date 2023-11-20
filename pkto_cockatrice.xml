@@ -44,7 +44,7 @@
       <set picURL="https://brooks42.github.io/pkto/cards/Ivysaur.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Bulbasaur {G}
-Whenever a Pokémon enters the battlefield under your control, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
+Whenever a Pokémon you control evolves or a Pokémon enters the battlefield under your control, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
@@ -112,7 +112,7 @@ Hexproof</text>
         <cmc>3</cmc>
         <colors>U</colors>
         <manacost>1UU</manacost>
-        <pt>2/3</pt>
+        <pt>3/4</pt>
       </prop>
     </card>
     <card>
@@ -2281,7 +2281,7 @@ Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you c
       <set picURL="https://brooks42.github.io/pkto/cards/Porygon.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Whenever a player casts a spell,  Porygon becomes that spell's colors.
-Porygon has lifelink as long as it's white. The same is true for hexproof and blue, wither and black, menace and red, and reach and green.</text>
+Porygon has lifelink if it's white, hexproof if it's blue, wither if it's black, menace if it's red, and reach if it's green.</text>
       <prop>
         <type>Artifact Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
@@ -2678,16 +2678,16 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <name>Sabrina</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Sabrina.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
-      <loyalty>5</loyalty>
-      <text>[+1]: Look at the top card of each opponent's library. Then scry 1.
-[-3]: Search your library for a card, then shuffle and put that card second from the top.
+      <loyalty>4</loyalty>
+      <text>[+1]: Look at the top card of each opponent's library, then scry 1.
+[-3]: Scry 2, then target Pokémon gets +X/-X until end of turn, where X is the number of cards you looked at while scrying this turn.
 [-8]: Take an extra turn after this one.</text>
       <prop>
         <type>Legendary Trainer - Sabrina</type>
         <maintype>Trainer</maintype>
-        <cmc>4</cmc>
+        <cmc>3</cmc>
         <colors>UB</colors>
-        <manacost>2{U/B}U</manacost>
+        <manacost>1{U/B}U</manacost>
       </prop>
     </card>
     <card>
@@ -2776,7 +2776,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Agatha.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <loyalty>3</loyalty>
-      <text>Whenever a Pokémon with a soulbind counter on it dies, exile it. Create a token copy of it, except it's a Ghost.      
+      <text>Whenever a Pokémon with a soulbind counter on it dies, exile it. If you do, create a token copy of it, except it's a 2/2 Ghost.
 [+1]: Put a soulbind counter on up to one target nontoken Pokémon.
 [-2]: You may sacrifice a nontoken Pokémon. If you do, draw two cards.</text>
       <related>Ghost Token</related>
@@ -3340,9 +3340,9 @@ Draw a card.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <cmc>4</cmc>
+        <cmc>3</cmc>
         <colors>W</colors>
-        <manacost>3W</manacost>
+        <manacost>2W</manacost>
       </prop>
     </card>
     <card>
@@ -3390,9 +3390,8 @@ Destroy all Pokémon.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Fire%20Blast.png" rarity="rare">PKTO</set>
       <tablerow>3</tablerow>
       <text>This spell can't be countered as long as you control a Fire Pokémon.
-Fire Blast deals 5 damage to target Pokémon.
-Overload {2}{R}{R}, Reveal a red Pokémon card from your hand.
-			</text>
+Fire Blast deals 5 damage to target Pokémon or target trainer.
+Overload {4}{R}{R}</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
@@ -3407,8 +3406,7 @@ Overload {2}{R}{R}, Reveal a red Pokémon card from your hand.
       <tablerow>3</tablerow>
       <text>This spell costs {G} less to cast as long as you control a Grass Pokémon.
 Destroy target artifact, target enchantment, target trainer, or target token.
-Overload {2}{G}{G}, Reveal a green Pokémon card from your hand.
-			</text>
+Overload {2}{G}{G}</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
@@ -3423,8 +3421,7 @@ Overload {2}{G}{G}, Reveal a green Pokémon card from your hand.
       <tablerow>3</tablerow>
       <text>This spell has flash as long as you control a Water Pokémon.
 The owner of target nonland permanent puts it on the top or bottom of their library.
-Overload {2}{U}{U}, Reveal a blue Pokémon card from your hand.
-			</text>
+Overload {5}{U}{U}</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
@@ -3519,7 +3516,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
     </card>
     <card>
       <name>Double Kick</name>
-      <set picURL="https://brooks42.github.io/pkto/cards/Double Kick.png" rarity="uncommon">PKTO</set>
+      <set picURL="https://brooks42.github.io/pkto/cards/Double%20Kick.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
       <text>Target Pokémon you control fights target Pokémon you don't control. When the Pokémon you control fights this way, it fights target Pokémon you don't control.</text>
       <prop>
@@ -3975,8 +3972,8 @@ You may cast cards exiled with Cinnabar Gym.</text>
       <name>Viridian Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Viridian%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Pokémon you control have deathtouch.
-Whenever a Pokémon an opponent controls dies, you create a Treasure token unless that player pays 2 life.</text>
+      <text>Whenever a Pokémon an opponent controls dies, you create a Treasure token unless that player pays 2 life.
+{2}{B}: Put a deathtouch counter on target Pokémon.</text>
       <related>Treasure Token</related>
       <prop>
         <type>Enchantment</type>
@@ -4743,6 +4740,7 @@ Cycling {2}</text>
         <maintype>Pokémon</maintype>
         <cmc>0</cmc>
         <colors>UB</colors>
+		<pt>2/2</pt>
       </prop>
     </card>
     <card>
