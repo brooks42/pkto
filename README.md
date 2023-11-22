@@ -28,7 +28,7 @@ Both "Evolve" and "Evolve from" count as evolution/evolving. Any triggered abili
 
 **Q: Many Pokémon have abilities that reference them by name, such as "1G: Bellsprout gets +1/+1 until end of turn." Pokémon with Evolve from get all abilities from cards underneath them, do abilities like this still work?**
 
-**A**: Yes, a Weepinbell that uses that ability will still get +1/+1. In MTG, stating a creature's name is the same as saying "this creature." We chose to use Pokémon names more frequently for flavor points.
+**A**: Yes, a Weepinbell that uses that ability will still get +1/+1. Referencing a permanent's name is the same as saying "this permanent." We chose to use Pokémon names more frequently for flavor points.
 
 **Q: Why isn't [insert favorite Pokémon here] the color I think it should be? Your colors are bad and you should feel bad.**
 
@@ -53,10 +53,6 @@ Both "Evolve" and "Evolve from" count as evolution/evolving. Any triggered abili
 **Q: If I make a token copy of a Pokemon with Evolve with Mewtwo, can that copy activate it and flip to the back face?**
 
 **A**: Yes, unlike cards that become copies, token copies of transforming double-faced cards can transform.
-
-**Q: Solar Beam says "Destroy target artifact, target enchantment, target trainer, or target token." If I overload it, do I destroy each artifact, enchantment, trainer, and token?**
-
-**A**: No, overload replaces all instances of "target" with "each." This means you choose between destroying each artifact, each enchantment, each trainer, or each token.
 
 **Q: If I have Raticate evolved onto Rattata and Raticate dies, can it return Rattata to the battlefield?**
 
