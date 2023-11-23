@@ -947,13 +947,14 @@ Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do,
       <set picURL="https://brooks42.github.io/pkto/cards/Persian.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Meowth {W}{B}
-Discard a card: Persian gets +1/+0 and gains first strike and trample until end of turn.</text>
+First strike
+Discard a card: Persian gains deathtouch until end of turn.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
-        <cmc>5</cmc>
+        <cmc>4</cmc>
         <colors>WB</colors>
-        <manacost>3WB</manacost>
+        <manacost>2WB</manacost>
         <pt>4/3</pt>
       </prop>
     </card>
