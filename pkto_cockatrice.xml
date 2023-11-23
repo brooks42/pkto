@@ -1171,7 +1171,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
       <name>Machop</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Machop.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{3}{R/G}{R/G}, {T}: Machop fights target Pokémon you don't control. Machop doesn't untap during your next untap step.
+      <text>{R}{G}, {T}: Machop fights target Pokémon you don't control. Machop doesn't untap during your next untap step.
 {R/G}{R/G}: Evolve</text>
       <related attach="transform">Machoke (DFC)</related>
       <prop>
@@ -1188,7 +1188,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
       <name>Machoke (DFC)</name>
       <set picURL="https://brooks42.github.io/pkto/cards/MachokeDFC.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{3}{R/G}{R/G}, {T}: Machoke fights target Pokémon you don't control. Machoke doesn't untap during your next untap step.</text>
+      <text>{R}{G}, {T}: Machoke fights target Pokémon you don't control. Machoke doesn't untap during your next untap step.</text>
       <prop>
         <type>Pokémon - Fighting</type>
         <maintype>Pokémon</maintype>
