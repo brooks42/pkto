@@ -3111,7 +3111,7 @@ You gain 1 life.</text>
       <name>Antidote</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Antidote.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Target Pokémon you control gets +1/+2 until end of turn. Remove all counters from it. You gain life equal to twice the number of counters removed this way.</text>
+      <text>Target Pokémon you control gets +2/+2 until end of turn. Remove all counters from it. You gain life equal to twice the number of counters removed this way. Until end of turn, that Pokémon can't have counters put on it.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
