@@ -3723,7 +3723,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
       <name>Town Map</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Town%20Map.png" rarity="common">PKTO</set>
       <tablerow>1</tablerow>
-      <text>{2}, {T}, Sacrifice Town Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle.</text>
+      <text>{2}, {T}, Sacrifice Town Map: Search your library for a land card, reveal it, and put it into your hand, then shuffle.</text>
       <prop>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
