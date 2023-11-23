@@ -1298,13 +1298,14 @@ Pokémon with wither get +1/+1.
       <name>Tentacool</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Tentacool.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Islandwalk</text>
+      <text>Islandwalk, deathtouch
+{2}{U}: Scry 1.</text>
       <prop>
         <type>Pokémon - Water Poison</type>
         <maintype>Pokémon</maintype>
-        <cmc>3</cmc>
+        <cmc>2</cmc>
         <colors>UB</colors>
-        <manacost>1UB</manacost>
+        <manacost>UB</manacost>
         <pt>2/3</pt>
       </prop>
     </card>
@@ -1312,16 +1313,16 @@ Pokémon with wither get +1/+1.
       <name>Tentacruel</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Tentacruel.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Tentacool {1}{U}{B}			
-Nonbasic lands are Islands.
-Whenever you scry, you may draw a card. If you do, discard a card.</text>
+      <text>Evolve from Tentacool {U}{B}			
+Nonbasic lands are Islands and Swamps.
+Whenever you scry, you may draw a card. If you do, you lose 1 life.</text>
       <prop>
         <type>Pokémon - Water Poison</type>
         <maintype>Pokémon</maintype>
         <cmc>6</cmc>
         <colors>UB</colors>
         <manacost>4UB</manacost>
-        <pt>4/6</pt>
+        <pt>5/7</pt>
       </prop>
     </card>
     <card>
@@ -1677,7 +1678,7 @@ Whenever Onix attacks, you may discard a card. If you do, Onix gets +1/+1 until 
         <cmc>4</cmc>
         <colors>R</colors>
         <manacost>3R</manacost>
-        <pt>5/2</pt>
+        <pt>5/3</pt>
       </prop>
     </card>
     <card>
