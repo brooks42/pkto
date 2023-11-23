@@ -1937,7 +1937,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
       <set picURL="https://brooks42.github.io/pkto/cards/Chansey.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Lifelink
-At the beginning of your upkeep, you gain 1 life. Then if you have 40 or more life, you win the game.</text>
+At the beginning of your upkeep, you gain 2 life. Then if you have 40 or more life, you win the game.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
