@@ -735,7 +735,8 @@ Whenever you cast a Pokémon spell, tap target Pokémon you don't control.</text
       <set picURL="https://brooks42.github.io/pkto/cards/Wigglytuff.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Jigglypuff {1}{W}
-Whenever Wigglytuff deals combat damage to a player, you gain life equal to its power. Then if you've gained 5 or more life this turn, draw a card.</text>
+Lifelink 
+At the beginning of your end step, if you gained 5 or more life this turn, draw a card.</text>
       <prop>
         <type>Pokémon - Normal Fairy</type>
         <maintype>Pokémon</maintype>
