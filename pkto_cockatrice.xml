@@ -3479,7 +3479,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <tablerow>3</tablerow>
       <text>Choose one —
 • Target Pokémon you control gains hexproof from the color of your choice until end of turn. 
-• Target attacking Pokémon becomes blocked.</text>
+• Remove target attacking or blocking Pokémon from combat.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
