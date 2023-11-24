@@ -2224,7 +2224,7 @@ When Lapras dies, you gain 3 life.</text>
       <name>Eevee</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Eevee.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>You may pay {W}{U}{B}{R}{G} less to evolve Pokémon. This effect can't reduce the mana in that cost by more than one mana.</text>
+      <text>You may pay {W}{U}{B}{R}{G} less to evolve Pokémon. This effect reduces only the amount of colored mana you pay. This effect can’t reduce the mana in that cost by more than one mana.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
