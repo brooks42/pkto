@@ -2298,13 +2298,13 @@ Porygon has lifelink if it's white, hexproof if it's blue, wither if it's black,
       <set picURL="https://brooks42.github.io/pkto/cards/Omanyte.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>{1}{U}{U}: Copy target instant spell with mana value 2 or less. You may choose new targets for the copy. 
-Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
+Fossil—{U}{R}, Exile three other cards from your graveyard.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
         <maintype>Pokémon</maintype>
-        <cmc>3</cmc>
+        <cmc>2</cmc>
         <colors>UR</colors>
-        <manacost>1UR</manacost>
+        <manacost>UR</manacost>
         <pt>2/3</pt>
       </prop>
     </card>
