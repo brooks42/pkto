@@ -2297,8 +2297,8 @@ Porygon has lifelink if it's white, hexproof if it's blue, wither if it's black,
       <name>Omanyte</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Omanyte.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{1}{U}{U}: Copy target instant spell with mana value 2 or less. You may choose new targets for the copy. 
-Fossil—{U}{R}, Exile three other cards from your graveyard.</text>
+      <text>{U}{R}, Sacrifice Omanyte: Surveil 2, then you may exile the top card of your library. You may cast that card this turn. 
+Fossil—{1}{U}{R}, Exile three other cards from your graveyard.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
         <maintype>Pokémon</maintype>
@@ -2313,7 +2313,8 @@ Fossil—{U}{R}, Exile three other cards from your graveyard.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Omastar.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Omanyte {U}{R}
-{1}{R}{R}, {T}: Omastar deals 3 damage to any target.</text>
+You may evolve Omastar from your graveyard.
+Whenever Omastar enters the battlefield or evolves, it deals 3 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
         <maintype>Pokémon</maintype>
@@ -2327,8 +2328,8 @@ Fossil—{U}{R}, Exile three other cards from your graveyard.</text>
       <name>Kabuto</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Kabuto.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{1}{U}{U}: Surveil 2.
-Fossil—{G}{U}, Exile three other cards from your graveyard.</text>
+      <text>{G}{U}, Sacrifice Kabuto: Surveil 2, then return a land card from your graveyard to the battlefield tapped.
+Fossil—{1}{G}{U}, Exile three other cards from your graveyard.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
         <maintype>Pokémon</maintype>
@@ -2343,7 +2344,8 @@ Fossil—{G}{U}, Exile three other cards from your graveyard.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Kabutops.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Kabuto {G}{U}
-{1}{G}{G}, {T}: Kabutops fights target Pokémon.</text>
+You may evolve Kabutops from your graveyard.
+Whenever Kabutops enters the battlefield or evolves, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
         <maintype>Pokémon</maintype>
