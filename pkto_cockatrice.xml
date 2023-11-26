@@ -2374,8 +2374,7 @@ Fossil—{2}{R}{G}, Exile three other cards from your graveyard.</text>
       <name>Snorlax</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Snorlax.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Snorlax enters the battlefield tapped.
-Snorlax doesn't untap during your untap step.
+      <text>Snorlax enters the battlefield tapped and doesn't untap during your untap step.
 Whenever you gain life, untap Snorlax.</text>
       <cipt>1</cipt>
       <prop>
