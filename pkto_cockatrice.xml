@@ -735,7 +735,8 @@ Whenever you cast a Pokémon spell, tap target Pokémon you don't control.</text
       <set picURL="https://brooks42.github.io/pkto/cards/Wigglytuff.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Jigglypuff {1}{W}
-Whenever Wigglytuff deals combat damage to a player, you gain life equal to its power. Then if you've gained 5 or more life this turn, draw a card.</text>
+Lifelink 
+At the beginning of your end step, if you gained 5 or more life this turn, draw a card.</text>
       <prop>
         <type>Pokémon - Normal Fairy</type>
         <maintype>Pokémon</maintype>
@@ -946,13 +947,14 @@ Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do,
       <set picURL="https://brooks42.github.io/pkto/cards/Persian.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Meowth {W}{B}
-Discard a card: Persian gets +1/+0 and gains first strike and trample until end of turn.</text>
+First strike
+Discard a card: Persian gains deathtouch until end of turn.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
-        <cmc>5</cmc>
+        <cmc>4</cmc>
         <colors>WB</colors>
-        <manacost>3WB</manacost>
+        <manacost>2WB</manacost>
         <pt>4/3</pt>
       </prop>
     </card>
@@ -1171,7 +1173,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
       <name>Machop</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Machop.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{3}{R/G}{R/G}, {T}: Machop fights target Pokémon you don't control. Machop doesn't untap during your next untap step.
+      <text>{R}{G}, {T}: Machop fights target Pokémon you don't control. Machop doesn't untap during your next untap step.
 {R/G}{R/G}: Evolve</text>
       <related attach="transform">Machoke (DFC)</related>
       <prop>
@@ -1188,7 +1190,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
       <name>Machoke (DFC)</name>
       <set picURL="https://brooks42.github.io/pkto/cards/MachokeDFC.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{3}{R/G}{R/G}, {T}: Machoke fights target Pokémon you don't control. Machoke doesn't untap during your next untap step.</text>
+      <text>{R}{G}, {T}: Machoke fights target Pokémon you don't control. Machoke doesn't untap during your next untap step.</text>
       <prop>
         <type>Pokémon - Fighting</type>
         <maintype>Pokémon</maintype>
@@ -1268,7 +1270,7 @@ As long as Machamp is evolved, it must be blocked if able.</text>
       <tablerow>2</tablerow>
       <text>Evolve from Bellsprout {G}{G}
 Wither
-Weepinbell has vigilance as long as it has power greater than or equal to 5.</text>
+Weepinbell has vigilance as long as it has power greater than its base power.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
@@ -1298,13 +1300,14 @@ Pokémon with wither get +1/+1.
       <name>Tentacool</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Tentacool.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Islandwalk</text>
+      <text>Islandwalk, deathtouch
+{2}{U}: Scry 1.</text>
       <prop>
         <type>Pokémon - Water Poison</type>
         <maintype>Pokémon</maintype>
-        <cmc>3</cmc>
+        <cmc>2</cmc>
         <colors>UB</colors>
-        <manacost>1UB</manacost>
+        <manacost>UB</manacost>
         <pt>2/3</pt>
       </prop>
     </card>
@@ -1312,16 +1315,16 @@ Pokémon with wither get +1/+1.
       <name>Tentacruel</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Tentacruel.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Tentacool {1}{U}{B}			
-Nonbasic lands are Islands.
-Whenever you scry, you may draw a card. If you do, discard a card.</text>
+      <text>Evolve from Tentacool {U}{B}			
+Nonbasic lands are Islands and Swamps.
+Whenever you scry, you may draw a card. If you do, you lose 1 life.</text>
       <prop>
         <type>Pokémon - Water Poison</type>
         <maintype>Pokémon</maintype>
         <cmc>6</cmc>
         <colors>UB</colors>
         <manacost>4UB</manacost>
-        <pt>4/6</pt>
+        <pt>5/7</pt>
       </prop>
     </card>
     <card>
@@ -1670,14 +1673,14 @@ Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do,
       <set picURL="https://brooks42.github.io/pkto/cards/Onix.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
       <text>Trample
-Whenever Onix attacks, you may discard a card. If you do, draw a card.</text>
+Whenever Onix attacks, you may discard a card. If you do, Onix gets +1/+1 until end of turn and you draw a card.</text>
       <prop>
         <type>Pokémon - Rock Ground</type>
         <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>R</colors>
         <manacost>3R</manacost>
-        <pt>5/2</pt>
+        <pt>5/3</pt>
       </prop>
     </card>
     <card>
@@ -1935,7 +1938,7 @@ As an additional cost to cast Pokémon spells, you may pay any amount of mana. I
       <set picURL="https://brooks42.github.io/pkto/cards/Chansey.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Lifelink
-At the beginning of your upkeep, you gain 1 life. Then if you have 40 or more life, you win the game.</text>
+At the beginning of your upkeep, you gain 2 life. Then if you have 40 or more life, you win the game.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
@@ -2221,7 +2224,7 @@ When Lapras dies, you gain 3 life.</text>
       <name>Eevee</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Eevee.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>You may pay {W}{U}{B}{R}{G} less to evolve Pokémon. This effect can't reduce the mana in that cost by more than one mana.</text>
+      <text>You may pay {W}{U}{B}{R}{G} less to evolve Pokémon. This effect reduces only the amount of colored mana you pay. This effect can’t reduce the mana in that cost by more than one mana.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
@@ -2294,14 +2297,14 @@ Porygon has lifelink if it's white, hexproof if it's blue, wither if it's black,
       <name>Omanyte</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Omanyte.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{1}{U}{U}: Copy target instant spell with mana value 2 or less. You may choose new targets for the copy. 
-Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
+      <text>{U}{R}, Sacrifice Omanyte: Surveil 2, then you may exile the top card of your library. You may cast that card this turn. 
+Fossil—{1}{U}{R}, Exile three other cards from your graveyard.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
         <maintype>Pokémon</maintype>
-        <cmc>3</cmc>
+        <cmc>2</cmc>
         <colors>UR</colors>
-        <manacost>1UR</manacost>
+        <manacost>UR</manacost>
         <pt>2/3</pt>
       </prop>
     </card>
@@ -2310,7 +2313,8 @@ Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Omastar.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Omanyte {U}{R}
-{1}{R}{R}, {T}: Omastar deals 3 damage to any target.</text>
+You may evolve Omastar from your graveyard.
+Whenever Omastar enters the battlefield or evolves, it deals 3 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
         <maintype>Pokémon</maintype>
@@ -2324,14 +2328,14 @@ Fossil—{2}{U}{R}, Exile three other cards from your graveyard.</text>
       <name>Kabuto</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Kabuto.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{1}{U}{U}: Scry 2.
-Fossil—{2}{G}{U}, Exile three other cards from your graveyard.</text>
+      <text>{G}{U}, Sacrifice Kabuto: Surveil 2, then return a land card from your graveyard to the battlefield tapped.
+Fossil—{1}{G}{U}, Exile three other cards from your graveyard.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
         <maintype>Pokémon</maintype>
-        <cmc>3</cmc>
+        <cmc>2</cmc>
         <colors>GU</colors>
-        <manacost>1GU</manacost>
+        <manacost>GU</manacost>
         <pt>2/3</pt>
       </prop>
     </card>
@@ -2340,7 +2344,8 @@ Fossil—{2}{G}{U}, Exile three other cards from your graveyard.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Kabutops.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Kabuto {G}{U}
-{1}{G}{G}, {T}: Kabutops fights target Pokémon.</text>
+You may evolve Kabutops from your graveyard.
+Whenever Kabutops enters the battlefield or evolves, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
         <maintype>Pokémon</maintype>
@@ -2369,8 +2374,7 @@ Fossil—{2}{R}{G}, Exile three other cards from your graveyard.</text>
       <name>Snorlax</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Snorlax.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Snorlax enters the battlefield tapped.
-Snorlax doesn't untap during your untap step.
+      <text>Snorlax enters the battlefield tapped and doesn't untap during your untap step.
 Whenever you gain life, untap Snorlax.</text>
       <cipt>1</cipt>
       <prop>
@@ -2965,7 +2969,7 @@ When you cycle Mew, shuffle it into your library from your graveyard.</text>
       <name>Mysterious Fossil</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Mysterious%20Fossil.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
-      <text>{2}, {T}, Sacrifice Mysterious Fossil: Search your library and/or graveyard for a Pokémon card with fossil and put it onto the battlefield. If you search your library this way, shuffle. Activate only during your turn.</text>
+      <text>{2}, {T}, Sacrifice Mysterious Fossil: Search your library and/or graveyard for a Pokémon card with fossil and put it onto the battlefield. If you search your library this way, shuffle. If you didn't put a card onto the battlefield this way, draw a card.</text>
       <prop>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
@@ -3111,7 +3115,7 @@ You gain 1 life.</text>
       <name>Antidote</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Antidote.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Target Pokémon you control gets +1/+2 until end of turn. Remove all counters from it. You gain life equal to twice the number of counters removed this way.</text>
+      <text>Target Pokémon you control gets +2/+2 until end of turn. Remove all counters from it. You gain life equal to twice the number of counters removed this way. Until end of turn, that Pokémon can't have counters put on it.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
@@ -3479,7 +3483,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <tablerow>3</tablerow>
       <text>Choose one —
 • Target Pokémon you control gains hexproof from the color of your choice until end of turn. 
-• Target attacking Pokémon becomes blocked.</text>
+• Remove target attacking or blocking Pokémon from combat.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
@@ -3625,7 +3629,7 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <set picURL="https://brooks42.github.io/pkto/cards/Thunder%20Stone.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
       <text>{T}: Add {W}.
-Whenever a Pokémon you control evolves, you gain 1 life.
+Whenever a Pokémon you control evolves, you gain 4 life.
 Sacrifice Thunder Stone: Destroy target artifact or enchantment.</text>
       <prop>
         <type>Artifact</type>
@@ -3639,7 +3643,7 @@ Sacrifice Thunder Stone: Destroy target artifact or enchantment.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Leaf%20Stone.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
       <text>{T}: Add {G}.
-Whenever a Pokémon you control evolves, untap target land.
+Whenever a Pokémon you control evolves, put a +1/+1 counter on it.
 Sacrifice Leaf Stone: Add {G}{G}.</text>
       <prop>
         <type>Artifact</type>
@@ -3653,7 +3657,7 @@ Sacrifice Leaf Stone: Add {G}{G}.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Water%20Stone.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
       <text>{T}: Add {U}.
-Whenever a Pokémon you control evolves, target Pokémon gets -2/-0 until your next turn.
+Whenever a Pokémon you control evolves, tap target Pokémon you don’t control and put a stun counter on it.
 Sacrifice Water Stone: Scry 3.</text>
       <prop>
         <type>Artifact</type>
@@ -3667,7 +3671,7 @@ Sacrifice Water Stone: Scry 3.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Fire%20Stone.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
       <text>{T}: Add {R}.
-Whenever a Pokémon you control evolves, Fire Stone deals 1 damage to target player.
+Whenever a Pokémon you control evolves, exile the top card of your library. You may play that card until your next end step.
 Sacrifice Fire Stone: It deals 2 damage to target Pokémon or trainer.</text>
       <prop>
         <type>Artifact</type>
@@ -3681,7 +3685,7 @@ Sacrifice Fire Stone: It deals 2 damage to target Pokémon or trainer.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Moon%20Stone.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
       <text>{T}: Add {B}.
-Whenver a Pokémon you control evolves, reveal the top card of your library. You may put that card into your graveyard.
+Whenver a Pokémon you control evolves, reveal the top card of your library. You may put that card into your graveyard. Each opponent loses 2 life.
 Sacrifice Moon Stone: Create a Treasure token.</text>
       <related>Treasure Token</related>
       <prop>
@@ -3723,7 +3727,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
       <name>Town Map</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Town%20Map.png" rarity="common">PKTO</set>
       <tablerow>1</tablerow>
-      <text>{2}, {T}, Sacrifice Town Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle.</text>
+      <text>{2}, {T}, Sacrifice Town Map: Search your library for a land card, reveal it, and put it into your hand, then shuffle.</text>
       <prop>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
