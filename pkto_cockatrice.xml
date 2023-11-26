@@ -4237,7 +4237,7 @@ Cycling {2}</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Pewter%20Museum.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
       <text>{T}: Add {R} or {G}. You lose 1 life.
-{1}, {T}, Sacrifice Pewter Museum: Draw a card.</text>
+{R}{G}, {T}, Sacrifice Pewter Museum: Draw a card.</text>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4299,7 +4299,7 @@ Cycling {2}</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Saffron%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
       <text>{T}: Add {U} or {B}. You lose 1 life.
-{1}, {T}, Sacrifice Saffron City: Draw a card.</text>
+{U}{B}, {T}, Sacrifice Saffron City: Draw a card.</text>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4337,7 +4337,7 @@ Cycling {2}</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Vermilion%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
       <text>{T}: Add {R} or {W}. You lose 1 life.
-{1}, {T}, Sacrifice Vermilion City: Draw a card.</text>
+{R}{W}, {T}, Sacrifice Vermilion City: Draw a card.</text>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4349,7 +4349,7 @@ Cycling {2}</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Seafoam%20Islands.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
       <text>{T}: Add {W} or {U}. You lose 1 life.
-{1}, {T}, Sacrifice Seafoam Islands: Draw a card.</text>
+{W}{U}, {T}, Sacrifice Seafoam Islands: Draw a card.</text>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4361,7 +4361,7 @@ Cycling {2}</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Viridian%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
       <text>{T}: Add {B}, or {G}. You lose 1 life.
-{1}, {T}, Sacrifice Viridian City: Draw a card.</text>
+{B}{G}, {T}, Sacrifice Viridian City: Draw a card.</text>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
