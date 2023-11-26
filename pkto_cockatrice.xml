@@ -948,7 +948,7 @@ Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do,
       <tablerow>2</tablerow>
       <text>Evolve from Meowth {W}{B}
 First strike
-Discard a card: Persian gains deathtouch until end of turn.</text>
+{W}{B}, Sacrifice a Treasure: Persian gains deathtouch until end of turn.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
