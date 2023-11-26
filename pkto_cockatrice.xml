@@ -1270,7 +1270,7 @@ As long as Machamp is evolved, it must be blocked if able.</text>
       <tablerow>2</tablerow>
       <text>Evolve from Bellsprout {G}{G}
 Wither
-Weepinbell has vigilance as long as it has power greater than or equal to 5.</text>
+Weepinbell has vigilance as long as it has power greater than its base power.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
