@@ -2535,7 +2535,7 @@ Each other Pokémon you control gets +2/+2 if it shares a color with a Pokémon 
       <tablerow>2</tablerow>
       <text>Flying
 Pokémoncycling {3}
-When you cycle Mew, shuffle it into your library from your graveyard.</text>
+When Mew is put into your graveyard from anywhere, shuffle it into your library. If you cycled it and you've cycled a card named Mew two or more times this game, put it onto the battlefield instead.</text>
       <prop>
         <type>Legendary Pokémon - Psychic</type>
         <maintype>Pokémon</maintype>
