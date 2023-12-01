@@ -7,7 +7,7 @@ A repo for the MTG Pokemon TCG cockatrice XML and supporting materials.
 ### Pokémon
 
 Pokémon is a replacement for the creature type. Pokémon behave like creatures in all respects.
-vaccuu
+
 ### Trainer
 
 Trainer is a replacement for the planeswalker type. Trainers behave like planeswalkers in all respects.
