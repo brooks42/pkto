@@ -1422,7 +1422,7 @@ First strike, haste</text>
       <name>Slowpoke</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Slowpoke.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>If combat damage would be dealt to Slowpoke, prevent that damage. If damage was prevented this way, deal that much damage to Slowpoke at the beginning of the next turn's end step.
+      <text>If combat damage would be dealt to Slowpoke, prevent that damage. If damage was prevented this way, Slowpoke deals that much damage to itself at the beginning of the next turn's end step.
 Remove three counters from Slowpoke: Return it to its owner's hand.</text>
       <prop>
         <type>Pokémon - Water Psychic</type>
@@ -2211,7 +2211,7 @@ When Lapras dies, you gain 3 life.</text>
       <name>Ditto</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Ditto.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{3}: Ditto becomes a copy of target permanent, except its name is Ditto.</text>
+      <text>{2/U}{2/U}{2/U}: Ditto becomes a copy of another target Pokémon or artifact, except its name is Ditto and it has this ability.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
@@ -2533,9 +2533,9 @@ Each other Pokémon you control gets +2/+2 if it shares a color with a Pokémon 
       <name>Mew</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Mew.png" rarity="mythic">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Flying
+      <text>Flying, ward {3}
 Pokémoncycling {3}
-When you cycle Mew, shuffle it into your library from your graveyard.</text>
+When Mew is put into your graveyard from anywhere, shuffle it into your library. If you cycled it and you've cycled a card named Mew two or more times this game, put it onto the battlefield instead.</text>
       <prop>
         <type>Legendary Pokémon - Psychic</type>
         <maintype>Pokémon</maintype>
