@@ -2815,8 +2815,8 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <tablerow>3</tablerow>
       <text>Draw two cards.</text>
       <prop>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
         <cmc>3</cmc>
         <colors>U</colors>
         <manacost>2U</manacost>
