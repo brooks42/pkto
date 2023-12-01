@@ -4311,7 +4311,7 @@ Cycling {2}</text>
       <set picURL="https://brooks42.github.io/pkto/cards/S.S.%20Anne.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
       <text>{T}: Add {U}.
-{1}{U}, {T}, Sacrifice S.S. Anne: Return target Pokémon to its owner's hand.</text>
+{3}{U}, {T}, Sacrifice S.S. Anne: Return target Pokémon to its owner's hand.</text>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
