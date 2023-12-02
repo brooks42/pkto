@@ -1452,8 +1452,8 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
       <name>Magnemite</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Magnemite.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Magnemite enters the battlefield with a stun counter on it if {C} was spent to cast it.
-If one or more counters would be put on Magnemite, you may put those counters on another permanent instead.</text>
+      <text>If one or more counters would be put on Magnemite, you may put those counters on another permanent instead.
+Whenever Magnemite enters the battlefield or evolves, if {C} was spent to cast or evolve it, put a stun counter on it.</text>
       <prop>
         <type>Artifact Pokémon - Electric Steel</type>
         <maintype>Pokémon</maintype>
@@ -1466,7 +1466,7 @@ If one or more counters would be put on Magnemite, you may put those counters on
       <name>Magneton</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Magneton.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Magnemite {1}
+      <text>Evolve from Magnemite {2}
 {T}: Move up to three counters from another target permanent onto Magneton.</text>
       <prop>
         <type>Artifact Pokémon - Electric Steel</type>
