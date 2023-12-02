@@ -3588,7 +3588,8 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <name>Dig</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Dig.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Create two 2/1 red Ground Pokémon tokens named Diglett.</text>
+      <text>Create two 2/1 red Ground Pokémon tokens named Diglett.
+{2}: Exile Dig from your hand. For as long as it remains exiled, may cast it on a later turn for {1}{R}. If you do, those tokens gain haste.</text>
       <related count="2">Diglett Token</related>
       <prop>
         <type>Sorcery</type>
