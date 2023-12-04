@@ -1452,7 +1452,8 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
       <name>Magnemite</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Magnemite.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>If one or more counters would be put on Magnemite, you may put those counters on another target permanent instead.</text>
+      <text>If one or more counters would be put on Magnemite, you may put those counters on another permanent instead.
+Whenever Magnemite enters the battlefield or evolves, if {C} was spent to cast or evolve it, put a stun counter on it.</text>
       <prop>
         <type>Artifact Pokémon - Electric Steel</type>
         <maintype>Pokémon</maintype>
@@ -1465,7 +1466,7 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
       <name>Magneton</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Magneton.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Magnemite {1}
+      <text>Evolve from Magnemite {2}
 {T}: Move up to three counters from another target permanent onto Magneton.</text>
       <prop>
         <type>Artifact Pokémon - Electric Steel</type>
@@ -1680,7 +1681,7 @@ Whenever Onix attacks, you may discard a card. If you do, Onix gets +1/+1 until 
         <cmc>4</cmc>
         <colors>R</colors>
         <manacost>3R</manacost>
-        <pt>5/3</pt>
+        <pt>4/3</pt>
       </prop>
     </card>
     <card>
@@ -3587,7 +3588,8 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <name>Dig</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Dig.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Create two 2/1 red Ground Pokémon tokens named Diglett.</text>
+      <text>Create two 2/1 red Ground Pokémon tokens named Diglett.
+{2}: Exile Dig from your hand. For as long as it remains exiled, may cast it on a later turn for {1}{R}. If you do, those tokens gain haste.</text>
       <related count="2">Diglett Token</related>
       <prop>
         <type>Sorcery</type>
@@ -3962,7 +3964,7 @@ If one or more -1/-1 counters would be put on a Pokémon you don't control, that
       <name>Cinnabar Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Whenever you attack, choose odd or even, then reveal the top card of your library. If it's a nonland card with mana value of the chosen quality, exile it.
+      <text>Whenever you attack, you may choose odd or even. If you do, exile cards from the top of your library until you exile a nonland card. If it has mana value of the chosen quality, you may cast that card until you exile another card with Cinnabar Gym.
 You may cast cards exiled with Cinnabar Gym.</text>
       <prop>
         <type>Enchantment</type>
