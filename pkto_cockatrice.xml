@@ -3562,13 +3562,14 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <name>Water Gun</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Water%20Gun.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Counter target spell with mana value X.</text>
+      <text>You may exile any number of cards from your graveyard as you cast this spell. It costs {1} less to cast for each card exiled this way.
+Counter target spell unless its controller pays {X}.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>U</colors>
-        <manacost>XU</manacost>
+        <manacost>XUU</manacost>
       </prop>
     </card>
     <card>
