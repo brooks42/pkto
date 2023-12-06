@@ -750,8 +750,9 @@ At the beginning of your end step, if you gained 5 or more life this turn, draw 
       <name>Zubat</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Zubat.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Flying, lifelink
-Wither</text>
+      <text>Flying
+Wither
+Whenever Zubat deals combat damage, you gain that much life.</text>
       <prop>
         <type>Pokémon - Poison Flying</type>
         <maintype>Pokémon</maintype>
@@ -767,7 +768,7 @@ Wither</text>
       <tablerow>2</tablerow>
       <text>Evolve from Zubat {X}{B}
 Flying
-Whenever Golbat evolves, target player loses X life and you gain X life.</text>
+Whenever Golbat evolves, it deals X damage to target Pokémon or player and you gain X life.</text>
       <prop>
         <type>Pokémon - Poison Flying</type>
         <maintype>Pokémon</maintype>
