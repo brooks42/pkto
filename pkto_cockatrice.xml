@@ -567,7 +567,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
       <set picURL="https://brooks42.github.io/pkto/cards/Nidorina.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Nidoran♀ {G}
-Whenever Nidorina becomes blocked, put a -1/-1 counter on target Pokémon blocking it.</text>
+Whenever Nidorina deals combat damage to a player, you may return target permanent card from your graveyard to your hand.</text>
       <prop>
         <type>Pokémon - Poison</type>
         <maintype>Pokémon</maintype>
