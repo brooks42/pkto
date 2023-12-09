@@ -916,7 +916,7 @@ Whenever you draw your second card each turn, you may put a land card from your 
       <name>Dugtrio</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Dugtrio.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Diglett {1}{R}
+      <text>Evolve from Diglett {R}
 Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do, create a 2/1 red Ground Pokémon token named Diglett.</text>
       <related>Diglett Token</related>
       <prop>
