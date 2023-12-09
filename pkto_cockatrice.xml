@@ -1718,7 +1718,8 @@ Whenever you scry, untap Hypno.</text>
       <name>Krabby</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Krabby.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{1}{R}: Krabby gets +1/+0 and gains first strike until end of turn.</text>
+      <text>First strike
+Whenever a card is put into exile, Krabby gets +1/+1 until end of turn.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
@@ -1732,8 +1733,9 @@ Whenever you scry, untap Hypno.</text>
       <name>Kingler</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Kingler.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Krabby {1}{U}{R}
-Kingler has double strike as long as it has first strike.</text>
+      <text>Evolve from Krabby {U}{R}
+Kingler has double strike as long as it has power greater than its base power.
+Whenever Kingler attacks, draw a card, then exile a card from your hand.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
