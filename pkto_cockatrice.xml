@@ -3013,8 +3013,8 @@ Draw a card.</text>
       <name>Show of Force</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Show%20of%20Force.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Show of Force deals 1 damage to each Pokémon without flying.
-Draw a card.</text>
+      <text>Show of Force deals 1 damage to each Pokémon you don't control.
+You may exile a card from your hand. If you do, draw a card.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
