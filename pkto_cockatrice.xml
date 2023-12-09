@@ -1675,7 +1675,7 @@ Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do,
       <set picURL="https://brooks42.github.io/pkto/cards/Onix.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
       <text>Trample
-Whenever Onix attacks, you may discard a card. If you do, Onix gets +1/+1 until end of turn and you draw a card.</text>
+Whenever Onix attacks, you may exile a card from your hand. If you do, Onix gets +1/+1 until end of turn and you draw a card.</text>
       <prop>
         <type>Pokémon - Rock Ground</type>
         <maintype>Pokémon</maintype>
