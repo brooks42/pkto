@@ -4137,8 +4137,10 @@ Cycling {2}</text>
       <name>Diglett's Cave</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Digletts%20Cave.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>{T}: Add {R}.
+      <text>Digett’s Cave enters the battlefield tapped.
+{T}: Add {R}.
 {2}{R}, {T}, Sacrifice Diglett's Cave: Destroy target nonbasic land.</text>
+	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4214,9 +4216,11 @@ Cycling {2}</text>
       <name>Pallet Town</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pallet%20Town.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Pallet Town enters the battlefield, choose a color. 
+      <text>Pallet Town enters the battlefield tapped.
+As Pallet Town enters the battlefield, choose a color.
 {T}: Add {W}.
-{T}: Add one mana of the chosen color. Spend this mana only to cast Pokémon spells.</text>
+{T}: Add one mana of the chosen color. Spend this mana only to cast Pokémon spells or activate abilities of Pokémon.</text>
+	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4252,8 +4256,10 @@ Cycling {2}</text>
       <name>Pokémon Mansion</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9mon%20Mansion.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>{T}: Add {B}.
-{4}{B}, {T}: Target player loses 1 life and you gain 1 life.</text>
+      <text>Pokémon Mansion enters the battlefield tapped.
+{T}: Add {B}.
+{3}{B}, {T}: Target player loses 1 life and you gain 1 life.</text>
+	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4314,8 +4320,10 @@ Cycling {2}</text>
       <name>S.S. Anne</name>
       <set picURL="https://brooks42.github.io/pkto/cards/S.S.%20Anne.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>{T}: Add {U}.
+      <text>S.S. Anne enters the battlefield tapped.
+{T}: Add {U}.
 {3}{U}, {T}, Sacrifice S.S. Anne: Return target Pokémon to its owner's hand.</text>
+	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4376,8 +4384,10 @@ Cycling {2}</text>
       <name>Viridian Forest</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Viridian%20Forest.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>{T}: Add {G}.
+      <text>Viridian Forest enters the battlefield tapped.
+{T}: Add {G}.
 {2}, {T}: Add {G} for each Forest and each Bug Pokémon you control.</text>
+	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
