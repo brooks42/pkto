@@ -916,7 +916,7 @@ Whenever you draw your second card each turn, you may put a land card from your 
       <name>Dugtrio</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Dugtrio.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Diglett {1}{R}
+      <text>Evolve from Diglett {R}
 Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do, create a 2/1 red Ground Pokémon token named Diglett.</text>
       <related>Diglett Token</related>
       <prop>
@@ -1453,8 +1453,8 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
       <name>Magnemite</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Magnemite.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>If one or more counters would be put on Magnemite, you may put those counters on another permanent instead.
-Whenever Magnemite enters the battlefield or evolves, if {C} was spent to cast or evolve it, put a stun counter on it.</text>
+      <text>Whenever Magnemite enters the battlefield or evolves, if {C} was spent to cast or evolve it, put a stun counter on it.
+If one or more counters would be put on Magnemite, you may tap it instead. When you do, put those counters on another target permanent.</text>
       <prop>
         <type>Artifact Pokémon - Electric Steel</type>
         <maintype>Pokémon</maintype>
@@ -1468,7 +1468,7 @@ Whenever Magnemite enters the battlefield or evolves, if {C} was spent to cast o
       <set picURL="https://brooks42.github.io/pkto/cards/Magneton.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Magnemite {2}
-{T}: Move up to three counters from another target permanent onto Magneton.</text>
+{X}: Move up to X counters from another target permanent onto Magneton.</text>
       <prop>
         <type>Artifact Pokémon - Electric Steel</type>
         <maintype>Pokémon</maintype>
@@ -1584,7 +1584,7 @@ Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Poison P
       <name>Shellder</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Shellder.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{2}, {T}: Shellder gains indestructible until end of turn.</text>
+      <text>{2}, {T}: Shellder gains indestructible until end of turn. This ability costs {1} less to activate as long as you own a card in exile.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
@@ -1599,14 +1599,14 @@ Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Poison P
       <set picURL="https://brooks42.github.io/pkto/cards/Cloyster.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Shellder {U}{R}
-Whenever Cloyster becomes tapped, it deals 1 damage to each of up to three target Pokémon and/or trainers.</text>
+Whenever Cloyster attacks, you may exile a card from your hand. When you do, untap Cloyster and it deals 1 damage to each of up to three target Pokémon and/or trainers. Draw a card.</text>
       <prop>
         <type>Pokémon - Water Ice</type>
         <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>UR</colors>
         <manacost>2UR</manacost>
-        <pt>2/4</pt>
+        <pt>3/4</pt>
       </prop>
     </card>
     <card>
@@ -1675,7 +1675,7 @@ Whenever an opponent discards a Pokémon card, you may pay {3}{B}{B}. If you do,
       <set picURL="https://brooks42.github.io/pkto/cards/Onix.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
       <text>Trample
-Whenever Onix attacks, you may discard a card. If you do, Onix gets +1/+1 until end of turn and you draw a card.</text>
+Whenever Onix attacks, you may exile a card from your hand. If you do, Onix gets +1/+1 until end of turn and you draw a card.</text>
       <prop>
         <type>Pokémon - Rock Ground</type>
         <maintype>Pokémon</maintype>
@@ -1718,7 +1718,8 @@ Whenever you scry, untap Hypno.</text>
       <name>Krabby</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Krabby.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{1}{R}: Krabby gets +1/+0 and gains first strike until end of turn.</text>
+      <text>First strike
+Whenever a card is put into exile, Krabby gets +1/+1 until end of turn.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
@@ -1732,8 +1733,9 @@ Whenever you scry, untap Hypno.</text>
       <name>Kingler</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Kingler.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Krabby {1}{U}{R}
-Kingler has double strike as long as it has first strike.</text>
+      <text>Evolve from Krabby {U}{R}
+Kingler has double strike as long as it has power greater than its base power.
+Whenever Kingler attacks, draw a card, then exile a card from your hand.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
@@ -3011,8 +3013,8 @@ Draw a card.</text>
       <name>Show of Force</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Show%20of%20Force.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Show of Force deals 1 damage to each Pokémon without flying.
-Draw a card.</text>
+      <text>Show of Force deals 1 damage to each Pokémon you don't control.
+You may exile a card from your hand. If you do, draw a card.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
@@ -4137,8 +4139,10 @@ Cycling {2}</text>
       <name>Diglett's Cave</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Digletts%20Cave.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>{T}: Add {R}.
+      <text>Digett’s Cave enters the battlefield tapped.
+{T}: Add {R}.
 {2}{R}, {T}, Sacrifice Diglett's Cave: Destroy target nonbasic land.</text>
+	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4214,9 +4218,11 @@ Cycling {2}</text>
       <name>Pallet Town</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pallet%20Town.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Pallet Town enters the battlefield, choose a color. 
+      <text>Pallet Town enters the battlefield tapped.
+As Pallet Town enters the battlefield, choose a color.
 {T}: Add {W}.
-{T}: Add one mana of the chosen color. Spend this mana only to cast Pokémon spells.</text>
+{T}: Add one mana of the chosen color. Spend this mana only to cast Pokémon spells or activate abilities of Pokémon.</text>
+	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4252,8 +4258,10 @@ Cycling {2}</text>
       <name>Pokémon Mansion</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9mon%20Mansion.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>{T}: Add {B}.
-{4}{B}, {T}: Target player loses 1 life and you gain 1 life.</text>
+      <text>Pokémon Mansion enters the battlefield tapped.
+{T}: Add {B}.
+{3}{B}, {T}: Target player loses 1 life and you gain 1 life.</text>
+	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4314,8 +4322,10 @@ Cycling {2}</text>
       <name>S.S. Anne</name>
       <set picURL="https://brooks42.github.io/pkto/cards/S.S.%20Anne.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>{T}: Add {U}.
+      <text>S.S. Anne enters the battlefield tapped.
+{T}: Add {U}.
 {3}{U}, {T}, Sacrifice S.S. Anne: Return target Pokémon to its owner's hand.</text>
+	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4376,8 +4386,10 @@ Cycling {2}</text>
       <name>Viridian Forest</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Viridian%20Forest.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>{T}: Add {G}.
+      <text>Viridian Forest enters the battlefield tapped.
+{T}: Add {G}.
 {2}, {T}: Add {G} for each Forest and each Bug Pokémon you control.</text>
+	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
