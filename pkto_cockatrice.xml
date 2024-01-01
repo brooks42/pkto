@@ -4219,8 +4219,7 @@ Cycling {2}</text>
       <name>Pallet Town</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pallet%20Town.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Pallet Town enters the battlefield tapped.
-As Pallet Town enters the battlefield, choose a color.
+      <text>Pallet Town enters the battlefield tapped. As it enters, choose a color.
 {T}: Add {W}.
 {T}: Add one mana of the chosen color. Spend this mana only to cast Pokémon spells or activate abilities of Pokémon.</text>
 	  <cipt>1</cipt>
