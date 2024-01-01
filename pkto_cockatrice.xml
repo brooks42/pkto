@@ -1495,7 +1495,8 @@ If one or more counters would be put on Magnemite, you may tap it instead. When 
       <name>Doduo</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Doduo.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Menace</text>
+      <text>Menace
+Whenever a player sacrifices a Pokémon, put a +1/+1 counter on Doduo.</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
         <maintype>Pokémon</maintype>
