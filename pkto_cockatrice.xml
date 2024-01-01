@@ -356,7 +356,7 @@ Whenever Beedrill evolves, create two 1/1 black Bug Poison Pokémon tokens with 
       <tablerow>2</tablerow>
       <text>Evolve from Pidgey {W}
 Flying
-Whenever Pidgeotto attacks or evolves, another target Pokémon you control gains flying until end of turn.</text>
+Whenever Pidgeotto evolves, up to one other target Pokémon gains flying until end of turn. Draw a card.</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
         <maintype>Pokémon</maintype>
