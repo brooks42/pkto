@@ -1481,14 +1481,14 @@ If one or more counters would be put on Magnemite, you may tap it instead. When 
       <name>Farfetch'd</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Farfetchd.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Vigilance, first strike</text>
+      <text>First strike, vigilance, reach</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
         <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>GW</colors>
         <manacost>2GW</manacost>
-        <pt>3/2</pt>
+        <pt>4/2</pt>
       </prop>
     </card>
     <card>
