@@ -2844,13 +2844,13 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Great Ball</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Great%20Ball.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Scry 3, then you may reveal the top card of your library. If a Pokémon card is revealed this way, put it into your hand.</text>
+      <text>Scry 3, then you may reveal the top card of your library. If a Pokémon card is revealed this way, draw a card.</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <cmc>2</cmc>
+        <cmc>1</cmc>
         <colors>U</colors>
-        <manacost>1U</manacost>
+        <manacost>U</manacost>
       </prop>
     </card>
     <card>
