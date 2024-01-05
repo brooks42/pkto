@@ -1525,14 +1525,15 @@ Double strike, haste</text>
       <name>Seel</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Seel.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever you cast a non-Pokémon spell, you gain 2 life.</text>
+      <text>Lifelink
+Whenever you gain life, you may pay {2}. If you do, draw a card.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>W</colors>
         <manacost>WW</manacost>
-        <pt>2/3</pt>
+        <pt>2/2</pt>
       </prop>
     </card>
     <card>
