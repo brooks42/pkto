@@ -360,10 +360,10 @@ Whenever Pidgeotto evolves, up to one other target Pokémon gains flying until e
       <prop>
         <type>Pokémon - Normal Flying</type>
         <maintype>Pokémon</maintype>
-        <cmc>4</cmc>
+        <cmc>3</cmc>
         <colors>W</colors>
-        <manacost>3W</manacost>
-        <pt>2/3</pt>
+        <manacost>2W</manacost>
+        <pt>3/3</pt>
       </prop>
     </card>
     <card>
