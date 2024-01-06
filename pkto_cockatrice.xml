@@ -44,7 +44,7 @@
       <set picURL="https://brooks42.github.io/pkto/cards/Ivysaur.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Bulbasaur {G}
-Whenever a Pokémon you control evolves or a Pokémon enters the battlefield under your control, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
+Whenever you cast a Pokémon spell, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
@@ -356,7 +356,7 @@ Whenever Beedrill evolves, create two 1/1 black Bug Poison Pokémon tokens with 
       <tablerow>2</tablerow>
       <text>Evolve from Pidgey {W}
 Flying
-Whenever Pidgeotto attacks or evolves, another target Pokémon you control gains flying until end of turn.</text>
+Whenever Pidgeotto evolves, up to one other target Pokémon gains flying until end of turn. Draw a card.</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
         <maintype>Pokémon</maintype>
@@ -1481,21 +1481,22 @@ If one or more counters would be put on Magnemite, you may tap it instead. When 
       <name>Farfetch'd</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Farfetchd.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Vigilance, first strike</text>
+      <text>First strike, vigilance, reach</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
         <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>GW</colors>
         <manacost>2GW</manacost>
-        <pt>3/2</pt>
+        <pt>4/2</pt>
       </prop>
     </card>
     <card>
       <name>Doduo</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Doduo.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Menace</text>
+      <text>Menace
+Whenever a player sacrifices a Pokémon, put a +1/+1 counter on Doduo.</text>
       <prop>
         <type>Pokémon - Normal Flying</type>
         <maintype>Pokémon</maintype>
@@ -1524,14 +1525,15 @@ Double strike, haste</text>
       <name>Seel</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Seel.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever a Pokémon evolves, you gain 2 life.</text>
+      <text>Lifelink
+Whenever you gain life, you may pay {2}. If you do, draw a card.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>W</colors>
         <manacost>WW</manacost>
-        <pt>2/3</pt>
+        <pt>2/2</pt>
       </prop>
     </card>
     <card>
@@ -1809,7 +1811,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
       <name>Cubone</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cubone.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever Cubone attacks, put a +1/+1 counter on it.</text>
+      <text>Tap an untapped Pokémon you control: Cubone gets +1/+1 until end of turn.</text>
       <prop>
         <type>Pokémon - Ground</type>
         <maintype>Pokémon</maintype>
@@ -1824,7 +1826,8 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
       <set picURL="https://brooks42.github.io/pkto/cards/Marowak.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Cubone {G}{W}
-{G}{W}, Remove all counters from Marowak: It deals X damage to target attacking or blocking Pokémon, where X is the number of counters removed this way.</text>
+Vigilance, trample
+{G}{W}, {T}: If Marowak has greater power than its base power, it deals damage equal to the difference to target attacking or blocking Pokémon.</text>
       <prop>
         <type>Pokémon - Ground</type>
         <maintype>Pokémon</maintype>
@@ -2843,13 +2846,13 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Great Ball</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Great%20Ball.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Scry 3, then you may reveal the top card of your library. If a Pokémon card is revealed this way, put it into your hand.</text>
+      <text>Scry 3, then you may reveal the top card of your library. If a Pokémon card is revealed this way, draw a card.</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <cmc>2</cmc>
+        <cmc>1</cmc>
         <colors>U</colors>
-        <manacost>1U</manacost>
+        <manacost>U</manacost>
       </prop>
     </card>
     <card>
@@ -4218,8 +4221,7 @@ Cycling {2}</text>
       <name>Pallet Town</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pallet%20Town.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Pallet Town enters the battlefield tapped.
-As Pallet Town enters the battlefield, choose a color.
+      <text>Pallet Town enters the battlefield tapped. As it enters, choose a color.
 {T}: Add {W}.
 {T}: Add one mana of the chosen color. Spend this mana only to cast Pokémon spells or activate abilities of Pokémon.</text>
 	  <cipt>1</cipt>
