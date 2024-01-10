@@ -2591,9 +2591,9 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <set picURL="https://brooks42.github.io/pkto/cards/Green.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <loyalty>4</loyalty>
-      <text>You may spend mana as though it were mana of any type to evolve Pokémon.
+     <text>You can spend mana of any type to evolve Pokémon.
 [+1]: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
-[−3]: Search your library for a Pokémon card with Evolve or Evolve from, reveal it, put it into your hand, then shuffle. Add four {C}. Spend this mana only to evolve Pokémon.</text>
+[−3]: Search your library for a Pokémon card with Evolve or Evolve from, reveal it, put it into your hand, then shuffle. Add {C}{C}{C}{C}. Spend this mana only to evolve Pokémon.</text>
       <prop>
         <type>Legendary Trainer - Green</type>
         <maintype>Trainer</maintype>
