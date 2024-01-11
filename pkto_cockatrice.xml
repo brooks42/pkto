@@ -1008,14 +1008,14 @@ When Psyduck enters the battlefield, you may counter target spell.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Primeape.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Mankey {1}{R}
-Whenever Primeape attacks, destroy up to one target artifact. If Primeape has reach, it deals 4 damage to that artifact's controller.</text>
+Whenever Primeape is dealt damage, it deals 2 damage to that source's controller unless they sacrifice an artifact. If Primeape has reach, repeat this process.</text>
       <prop>
         <type>Pokémon - Fighting</type>
         <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>R</colors>
         <manacost>3RR</manacost>
-        <pt>5/3</pt>
+        <pt>5/4</pt>
       </prop>
     </card>
     <card>
@@ -1453,8 +1453,8 @@ If noncombat damage would be dealt to Slowbro, prevent that damage. If damage wa
       <name>Magnemite</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Magnemite.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever Magnemite enters the battlefield or evolves, if {C} was spent to cast it, put a stun counter on it.
-If one or more counters would be put on Magnemite, you may tap it instead. When you do, put those counters on another target permanent.</text>
+      <text>If one or more -1/-1 counters would be put on Magnemite, add {C} instead.
+Whenever one or more counters are put on Magnemite, you may move those counters onto another target permanent.</text>
       <prop>
         <type>Artifact Pokémon - Electric Steel</type>
         <maintype>Pokémon</maintype>
@@ -1468,7 +1468,8 @@ If one or more counters would be put on Magnemite, you may tap it instead. When 
       <set picURL="https://brooks42.github.io/pkto/cards/Magneton.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Magnemite {2}
-{X}: Move up to X counters from another target permanent onto Magneton.</text>
+{2}: Add {C}.
+{X}, {T}: Move up to X counters from another target permanent onto Magneton.</text>
       <prop>
         <type>Artifact Pokémon - Electric Steel</type>
         <maintype>Pokémon</maintype>
@@ -1601,7 +1602,7 @@ Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Poison P
       <set picURL="https://brooks42.github.io/pkto/cards/Cloyster.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Shellder {U}{R}
-Whenever Cloyster attacks, you may exile a card from your hand. When you do, untap Cloyster and it deals 1 damage to each of up to three target Pokémon and/or trainers. Draw a card.</text>
+Whenever Cloyster attacks, you may exile a card from your hand. If you do, untap Cloyster and it deals 1 damage to each of up to three target Pokémon and/or trainers. Draw a card.</text>
       <prop>
         <type>Pokémon - Water Ice</type>
         <maintype>Pokémon</maintype>
@@ -1713,7 +1714,7 @@ Whenever you scry, untap Hypno.</text>
         <cmc>4</cmc>
         <colors>UB</colors>
         <manacost>2UB</manacost>
-        <pt>3/4</pt>
+        <pt>4/4</pt>
       </prop>
     </card>
     <card>
@@ -2591,9 +2592,9 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <set picURL="https://brooks42.github.io/pkto/cards/Green.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <loyalty>4</loyalty>
-      <text>You may spend mana as though it were mana of any type to evolve Pokémon.
+     <text>You can spend mana of any type to evolve Pokémon.
 [+1]: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
-[−3]: Search your library for a Pokémon card with Evolve or Evolve from, reveal it, put it into your hand, then shuffle. Add four {C}. Spend this mana only to evolve Pokémon.</text>
+[−3]: Search your library for a Pokémon card with Evolve or Evolve from, reveal it, put it into your hand, then shuffle. Add {C}{C}{C}{C}. Spend this mana only to evolve Pokémon.</text>
       <prop>
         <type>Legendary Trainer - Green</type>
         <maintype>Trainer</maintype>
