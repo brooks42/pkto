@@ -2977,8 +2977,8 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Mysterious Fossil</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Mysterious%20Fossil.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
-      <text>T: Add C.
-2, T, Sacrifice Mysterious Fossil: Search your library and/or graveyard for a Pokémon card with fossil and put it onto the battlefield. If you search your library this way, shuffle. If you didn't put a card onto the battlefield this way, draw a card.</text>
+      <text>{T}: Add {C}.
+{2}, {T}, Sacrifice Mysterious Fossil: Search your library and/or graveyard for a Pokémon card with fossil and put it onto the battlefield. If you search your library this way, shuffle. If you didn't put a card onto the battlefield this way, draw a card.</text>
       <prop>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
