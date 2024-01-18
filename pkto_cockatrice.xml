@@ -1286,7 +1286,7 @@ Weepinbell has vigilance as long as it has power greater than its base power.</t
       <set picURL="https://brooks42.github.io/pkto/cards/Victreebel.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Weepinbell {G}{G}
-Pokémon with wither get +1/+1.
+Pokémon you control with wither get +1/+1.
 {T}: Put a wither counter on another target Pokémon.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
@@ -1294,7 +1294,7 @@ Pokémon with wither get +1/+1.
         <cmc>6</cmc>
         <colors>G</colors>
         <manacost>4GG</manacost>
-        <pt>4/4</pt>
+        <pt>5/5</pt>
       </prop>
     </card>
     <card>
