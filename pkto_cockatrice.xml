@@ -59,7 +59,7 @@ Whenever you cast a Pokémon spell, if Ivysaur is tapped, untap it and put a +1/
       <set picURL="https://brooks42.github.io/pkto/cards/Venusaur.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Ivysaur {G}{G}
-If one or more counters would be put on a Pokémon you control, you may put that many plus one of each of those kinds of counters on that Pokémon instead.</text>
+If one or more +1/+1 counters would be put on a Pokémon you control, that many plus one +1/+1 counters are put on it instead.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
