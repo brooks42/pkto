@@ -4763,7 +4763,7 @@ Cycling {2}</text>
         <type>Token Pokémon - Ghost</type>
         <maintype>Pokémon</maintype>
         <cmc>0</cmc>
-        <colors>UB</colors>
+        <colors />
 		<pt>2/2</pt>
       </prop>
     </card>
