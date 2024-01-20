@@ -44,7 +44,8 @@
       <set picURL="https://brooks42.github.io/pkto/cards/Ivysaur.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Bulbasaur {G}
-Whenever you cast a Pokémon spell, if Ivysaur is tapped, untap it and put a +1/+1 counter on it.</text>
+Pokémon you control with +1/+1 counters on them have trample.
+Whenever Ivysaur evolves, untap it and put a +1/+1 counter on each Pokémon you control.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
@@ -58,8 +59,8 @@ Whenever you cast a Pokémon spell, if Ivysaur is tapped, untap it and put a +1/
       <name>Venusaur</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Venusaur.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Ivysaur {G}{G}
-If one or more counters would be put on a Pokémon you control, you may put that many plus one of each of those kinds of counters on that Pokémon instead.</text>
+      <text>Evolve from Ivysaur {1}{G}{G}
+If one or more +1/+1 counters would be put on a Pokémon you control, that many plus one +1/+1 counters are put on it instead.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
@@ -1286,7 +1287,7 @@ Weepinbell has vigilance as long as it has power greater than its base power.</t
       <set picURL="https://brooks42.github.io/pkto/cards/Victreebel.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Weepinbell {G}{G}
-Pokémon with wither get +1/+1.
+Pokémon you control with wither get +1/+1.
 {T}: Put a wither counter on another target Pokémon.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
@@ -1294,7 +1295,7 @@ Pokémon with wither get +1/+1.
         <cmc>6</cmc>
         <colors>G</colors>
         <manacost>4GG</manacost>
-        <pt>4/4</pt>
+        <pt>5/5</pt>
       </prop>
     </card>
     <card>
