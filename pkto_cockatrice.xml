@@ -456,7 +456,7 @@ Whenever Ekans evolves, put two -1/-1 counters on up to one target Pokémon.</te
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
-        <pt>2/3</pt>
+        <pt>1/3</pt>
       </prop>
     </card>
     <card>
@@ -751,9 +751,8 @@ At the beginning of your end step, if you gained 5 or more life this turn, draw 
       <name>Zubat</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Zubat.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Flying
-Wither
-Whenever Zubat deals combat damage, you gain that much life.</text>
+      <text>Flying, lifelink
+Wither</text>
       <prop>
         <type>Pokémon - Poison Flying</type>
         <maintype>Pokémon</maintype>
@@ -1829,7 +1828,7 @@ Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that
       <tablerow>2</tablerow>
       <text>Evolve from Cubone {G}{W}
 Vigilance, trample
-{G}{W}, {T}: If Marowak has greater power than its base power, it deals damage equal to the difference to target attacking or blocking Pokémon.</text>
+{G}{W}, {T}: Choose target attacking or blocking Pokémon. If Marowak has greater power than its base power, it deals damage equal to the difference to the chosen Pokémon.</text>
       <prop>
         <type>Pokémon - Ground</type>
         <maintype>Pokémon</maintype>
@@ -4764,7 +4763,7 @@ Cycling {2}</text>
         <type>Token Pokémon - Ghost</type>
         <maintype>Pokémon</maintype>
         <cmc>0</cmc>
-        <colors>UB</colors>
+        <colors />
 		<pt>2/2</pt>
       </prop>
     </card>
