@@ -572,9 +572,9 @@ Whenever Nidorina deals combat damage to a player, you may return target permane
       <prop>
         <type>Pokémon - Poison</type>
         <maintype>Pokémon</maintype>
-        <cmc>3</cmc>
+        <cmc>4</cmc>
         <colors>G</colors>
-        <manacost>2G</manacost>
+        <manacost>3G</manacost>
         <pt>3/4</pt>
       </prop>
     </card>
