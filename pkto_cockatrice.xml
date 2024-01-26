@@ -706,7 +706,7 @@ Whenever a player reveals the top card of their library or one or more cards fro
       <set picURL="https://brooks42.github.io/pkto/cards/Ninetales.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Vulpix {R}{R}
-Whenever Ninetales attacks, you may pay {1}{R}{R} and discard a card. If you do, gain control of target Pokémon with power less than Ninetales's power until end of turn. Tap it. It's attacking the player or trainer Ninetales is attacking.</text>
+Whenever Ninetales attacks, you may pay {2}{R}. If you do, gain control of target Pokémon with power less than Ninetales's power until end of turn. Tap it. It's attacking the player or trainer Ninetales is attacking.</text>
       <prop>
         <type>Pokémon - Fire</type>
         <maintype>Pokémon</maintype>
@@ -2978,12 +2978,12 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <set picURL="https://brooks42.github.io/pkto/cards/Mysterious%20Fossil.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
       <text>{T}: Add {C}.
-{2}, {T}, Sacrifice Mysterious Fossil: Search your library and/or graveyard for a Pokémon card with fossil and put it onto the battlefield. If you search your library this way, shuffle. If you didn't put a card onto the battlefield this way, draw a card.</text>
+{2}, {T}, Sacrifice Mysterious Fossil: Search your library for a Pokémon card with fossil, put it onto the battlefield, then shuffle. If you didn’t put a card onto the battlefield this way, draw a card.</text>
       <prop>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
-        <cmc>1</cmc>
-        <manacost>1</manacost>
+        <cmc>2</cmc>
+        <manacost>2</manacost>
       </prop>
     </card>
     <card>
