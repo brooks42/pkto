@@ -2787,17 +2787,17 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Agatha</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Agatha.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
-      <loyalty>3</loyalty>
+      <loyalty>5</loyalty>
       <text>Whenever a Pokémon with a soulbind counter on it dies, exile it. If you do, create a token copy of it, except it's a 2/2 Ghost.
-[+1]: Put a soulbind counter on up to one target nontoken Pokémon.
-[-2]: You may sacrifice a nontoken Pokémon. If you do, draw two cards.</text>
+[+1]: Scry 1, then you may reveal the top card of your library. If you do, you lose life equal to its mana value and draw a card.
+[-2]: Put a soulbind counter on target nontoken Pokémon..</text>
       <related>Ghost Token</related>
       <prop>
         <type>Legendary Trainer - Agatha</type>
         <maintype>Trainer</maintype>
-        <cmc>4</cmc>
+        <cmc>6</cmc>
         <colors>UB</colors>
-        <manacost>2{U/B}B</manacost>
+        <manacost>4{U/B}B</manacost>
       </prop>
     </card>
     <card>
