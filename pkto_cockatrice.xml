@@ -2399,7 +2399,7 @@ Whenever you gain life, untap Snorlax.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Articuno.png" rarity="mythic">PKTO</set>
       <tablerow>2</tablerow>
       <text>Flying
-Tap four other untapped nonland permanents you control and put a stun counter on each of them: Articuno becomes obedient.
+Tap four other untapped permanents you control and put a stun counter on each of them: Articuno becomes obedient.
 Articuno can't attack or block unless it's obedient.</text>
       <prop>
         <type>Legendary Pokémon - Ice Flying</type>
