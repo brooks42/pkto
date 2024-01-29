@@ -4833,6 +4833,7 @@ Cycling {2}</text>
       <set picURL="https://brooks42.github.io/pkto/cards/VoltorbToken.png" rarity="token">PKTO</set>
       <tablerow>2</tablerow>
       <text />
+	  <cipt>1</cipt>
       <prop>
         <type>Token Pokémon - Electric</type>
         <maintype>Pokémon</maintype>
