@@ -2415,8 +2415,9 @@ Tap four other untapped nonland permanents you control and put a stun counter on
       <set picURL="https://brooks42.github.io/pkto/cards/Zapdos.png" rarity="mythic">PKTO</set>
       <tablerow>2</tablerow>
       <text>Flying
-Zapdos can't attack or block unless it's obedient.
-Whenever you attack with three or more Pokémon, Zapdos becomes obedient.</text>
+Whenever a Pokémon you control deals combat damage to a player, Zapdos becomes obedient.
+Zapdos can’t attack or block unless it’s obedient.
+</text>
       <prop>
         <type>Legendary Pokémon - Electric Flying</type>
         <maintype>Pokémon</maintype>
