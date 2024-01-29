@@ -2708,7 +2708,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <set picURL="https://brooks42.github.io/pkto/cards/Blaine.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <loyalty>3</loyalty>
-      <text>[+1]: You may discard a card. If you do, draw a card.
+      <text>[+1]: Exile the top card of your library. You may cast that card. If you don't, Blaine deals 2 damage to each opponent.
 [-2]: Blaine deals damage to target Pokémon equal to the number of Mountains you control.
 [-3]: You may cast target instant or sorcery card from your graveyard this turn. If that spell would be put into your graveyard, exile it instead.</text>
       <prop>
@@ -2716,7 +2716,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
         <maintype>Trainer</maintype>
         <cmc>3</cmc>
         <colors>R</colors>
-        <manacost>2R</manacost>
+        <manacost>1RR</manacost>
       </prop>
     </card>
     <card>
