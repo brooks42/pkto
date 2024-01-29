@@ -3918,7 +3918,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
       <name>Vermilion Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Vermilion%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Whenever you attack, create a 1/1 red Electric Pokémon token named Voltorb that's tapped and attacking. When you do, target Pokémon you control gains your choice of first strike, vigilance, or haste until end of turn.</text>
+      <text>Whenever you attack, create a 1/1 red Electric Pokémon token named Voltorb that's tapped and attacking. When you do, target attacking Pokémon gains first strike until end of turn.</text>
 	  <related>Voltorb Token</related>
       <prop>
         <type>Enchantment</type>
