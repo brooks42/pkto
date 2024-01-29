@@ -309,7 +309,7 @@ Whenever Kakuna enters the battlefield or evolves, target player discards a card
       <tablerow>2</tablerow>
       <text>Evolve from Kakuna {B}{B}
 Flying
-Whenever Beedrill evolves, create two 1/1 black Bug Poison Pokémon tokens with flying named Beedrill.</text>
+Whenever Beedrill evolves, create two 1/1 black Bug Poison Pokémon tokens with flying and deathtouch named Beedrill.</text>
       <related count="2">Beedrill Token</related>
       <prop>
         <type>Pokémon - Bug Poison</type>
@@ -4707,7 +4707,7 @@ Cycling {2}</text>
       <name>Beedrill Token</name>
       <set picURL="https://brooks42.github.io/pkto/cards/BeedrillToken.png" rarity="token">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Flying</text>
+      <text>Flying, deathtouch</text>
       <prop>
         <type>Token Pokémon - Bug Poison</type>
         <maintype>Pokémon</maintype>
