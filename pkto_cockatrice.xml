@@ -1753,7 +1753,7 @@ Whenever Kingler attacks, draw a card, then exile a card from your hand.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Voltorb.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
       <text>Haste
-{X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon.</text>
+{X}{R}, {T}, Sacrifice Voltorb: It deals X damage to target Pokémon or trainer.</text>
       <prop>
         <type>Pokémon - Electric</type>
         <maintype>Pokémon</maintype>
