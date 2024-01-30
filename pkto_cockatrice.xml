@@ -2033,7 +2033,7 @@ Whenever Seadra evolves, untap it.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Seaking.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Goldeen {U}{U}
-You may evolve Seaking as though it had flash.
+Flash
 Whenever Seaking enters the battlefield or evolves, counter target spell.</text>
       <prop>
         <type>Pokémon - Water</type>
