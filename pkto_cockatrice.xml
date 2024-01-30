@@ -1798,7 +1798,7 @@ When Electrode dies, you may have it deal 3 damage to each Pokémon and each tra
       <tablerow>2</tablerow>
       <text>Evolve from Exeggcute {B/G}
 Reach
-Whenever Exeggutor blocks a Pokémon with flying, put two -1/-1 counters on that Pokémon and you draw a card.</text>
+Whenever a Pokémon deals damage to Exeggutor, put a -1/-1 counter on that Pokémon. When that Pokémon dies this turn, draw a card.</text>
       <prop>
         <type>Pokémon - Grass Psychic</type>
         <maintype>Pokémon</maintype>
