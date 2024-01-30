@@ -4328,7 +4328,7 @@ Cycling {2}</text>
       <tablerow>0</tablerow>
       <text>S.S. Anne enters the battlefield tapped.
 {T}: Add {U}.
-{3}{U}, {T}, Sacrifice S.S. Anne: Return target Pokémon to its owner's hand.</text>
+{2}{U}, {T}, Sacrifice S.S. Anne: Return target Pokémon to its owner's hand.</text>
 	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
