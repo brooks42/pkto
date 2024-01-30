@@ -4264,7 +4264,7 @@ Cycling {2}</text>
       <tablerow>0</tablerow>
       <text>Pokémon Mansion enters the battlefield tapped.
 {T}: Add {B}.
-{3}{B}, {T}: Target player loses 1 life and you gain 1 life.</text>
+{2}{B}, {T}: Target player loses 1 life and you gain 1 life.</text>
 	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
