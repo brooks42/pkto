@@ -2804,10 +2804,10 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Lance (PKTO)</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Lance.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
-      <loyalty>4</loyalty>
-      <text>[+1]: Lance deals 3 damage to up to one target Pokémon. You gain 3 life.
-[-3]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying, vigilance, and indestructible.
-[-8]: Gain control of all Pokémon.</text>
+      <loyalty>6</loyalty>
+      <text>[+2]: Lance deals 3 damage to any target. You gain 3 life.
+[-3]: Until end of turn, Lance becomes a 6/6 Dragon Pokémon with flying, vigilance, indestructible, and haste.
+[-11]: Gain control of all Pokémon.</text>
       <prop>
         <type>Legendary Trainer - Lance</type>
         <maintype>Trainer</maintype>
