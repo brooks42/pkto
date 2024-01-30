@@ -1036,15 +1036,15 @@ Whenever Primeape is dealt damage, it deals 2 damage to target opponent unless t
       <name>Arcanine</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Arcanine.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Growlithe {1}{R/W}{R/W}
+      <text>Evolve from Growlithe {R/W}{R/W}
 Whenever Arcanine attacks, attacking red Pokémon get +2/+0 and attacking white Pokémon get +0/+2 until end of turn.</text>
       <prop>
         <type>Pokémon - Fire</type>
         <maintype>Pokémon</maintype>
-        <cmc>7</cmc>
+        <cmc>6</cmc>
         <colors>RW</colors>
-        <manacost>5{R/W}{R/W}</manacost>
-        <pt>5/4</pt>
+        <manacost>3{R/W}{R/W}{R/W}</manacost>
+        <pt>6/5</pt>
       </prop>
     </card>
     <card>
