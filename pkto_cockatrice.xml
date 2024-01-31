@@ -3766,7 +3766,7 @@ At the beginning of your upkeep, return all cards you own exiled with Pokémon S
       <text>{1}, {T}, Sacrifice Nugget: Add one mana of any color.
 When Nugget is put into a graveyard from the battlefield, draw a card.</text>
       <prop>
-        <type>Artifact - Treasure</type>
+        <type>Artifact</type>
         <maintype>Artifact</maintype>
         <cmc>1</cmc>
         <manacost>1</manacost>
