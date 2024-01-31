@@ -2559,7 +2559,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <set picURL="https://brooks42.github.io/pkto/cards/Red.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <loyalty>4</loyalty>
-      <text>[+1]: Exile the top two cards of your library. Until end of turn, you may cast Pokémon cards exiled this way.
+      <text>[+2]: Exile the top two cards of your library. Until end of turn, you may cast Pokémon cards exiled this way.
 [−3]: Create Red's Pikachu, a legendary 4/4 red and white Electric Pokémon token with first strike, lifelink, and haste.
 [−7]: You may put any number of Pokémon cards from your hand onto the battlefield.</text>
       <related>Red's Pikachu</related>
