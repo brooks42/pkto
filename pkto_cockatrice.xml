@@ -2478,7 +2478,7 @@ Moltres can't attack or block unless it's obedient.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Dragonair.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Dratini {R/W}{G/W}
-Spells your opponents cast that target Pokémon you control cost {X} more to cast, where X is one plus the number of times Dragonair has evolved.</text>
+Pokémon you control have ward {X}, where X is one plus the number of times Dragonair has evolved.</text>
       <prop>
         <type>Pokémon - Dragon</type>
         <maintype>Pokémon</maintype>
