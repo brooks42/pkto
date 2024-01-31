@@ -237,7 +237,7 @@ Whenever Metapod enters the battlefield or evolves, draw a card.</text>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>1G</manacost>
-        <pt>1/4</pt>
+        <pt>0/4</pt>
       </prop>
     </card>
     <card>
