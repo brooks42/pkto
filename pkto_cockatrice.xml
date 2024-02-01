@@ -2232,7 +2232,7 @@ When Lapras dies, you gain 3 life.</text>
       <name>Eevee</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Eevee.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>You may pay {W}{U}{B}{R}{G} less to evolve Pokémon. This effect reduces only the amount of colored mana you pay. This effect can’t reduce the mana in that cost by more than one mana.</text>
+      <text>You may pay {W}{U}{B}{R}{G} less to evolve Pokémon. This effect reduces only the amount of colored mana you pay. This effect can't reduce the mana in that cost by more than one mana.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
@@ -2416,7 +2416,7 @@ Articuno can't attack or block unless it's obedient.</text>
       <tablerow>2</tablerow>
       <text>Flying
 Whenever a Pokémon you control deals combat damage to a player, Zapdos becomes obedient.
-Zapdos can’t attack or block unless it’s obedient.</text>
+Zapdos can't attack or block unless it's obedient.</text>
       <prop>
         <type>Legendary Pokémon - Electric Flying</type>
         <maintype>Pokémon</maintype>
@@ -2610,7 +2610,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <loyalty>3</loyalty>
       <text>[+1]: Add {R} or {G}. Pokémon spells you cast this turn can't be countered.
 [+1]: Draw a card if you control a Pokémon with power 4 or greater.
-[−7]: You get an emblem with “Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source's controller.”</text>
+[−7]: You get an emblem with "Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source's controller."</text>
       <related>Brock (Emblem)</related>
       <prop>
         <type>Legendary Trainer - Brock</type>
@@ -2978,7 +2978,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <set picURL="https://brooks42.github.io/pkto/cards/Mysterious%20Fossil.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
       <text>{T}: Add {C}.
-{2}, {T}, Sacrifice Mysterious Fossil: Search your library for a Pokémon card with fossil, put it onto the battlefield, then shuffle. If you didn’t put a card onto the battlefield this way, draw a card.</text>
+{2}, {T}, Sacrifice Mysterious Fossil: Search your library for a Pokémon card with fossil, put it onto the battlefield, then shuffle. If you didn't put a card onto the battlefield this way, draw a card.</text>
       <prop>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
@@ -3668,7 +3668,7 @@ Sacrifice Leaf Stone: Add {G}{G}.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Water%20Stone.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
       <text>{T}: Add {U}.
-Whenever a Pokémon you control evolves, tap target Pokémon you don’t control and put a stun counter on it.
+Whenever a Pokémon you control evolves, tap target Pokémon you don't control and put a stun counter on it.
 Sacrifice Water Stone: Scry 3.</text>
       <prop>
         <type>Artifact</type>
@@ -4079,7 +4079,7 @@ If one or more -1/-1 counters would be put on a Pokémon you don't control, that
       <name>Cerulean Cave</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20Cave.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Cerulean Cave enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Cerulean Cave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
 {T}: Add {U} or {B}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4092,7 +4092,7 @@ If one or more -1/-1 counters would be put on a Pokémon you don't control, that
       <name>Cerulean City</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Cerulean City enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Cerulean City enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
 {T}: Add {W} or {U}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4143,7 +4143,7 @@ Cycling {2}</text>
       <name>Diglett's Cave</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Digletts%20Cave.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Digett’s Cave enters the battlefield tapped.
+      <text>Digett's Cave enters the battlefield tapped.
 {T}: Add {R}.
 {2}{R}, {T}, Sacrifice Diglett's Cave: Destroy target nonbasic land.</text>
 	  <cipt>1</cipt>
@@ -4157,7 +4157,7 @@ Cycling {2}</text>
       <name>Fuchsia City</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Fuchsia%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Fuchsia City enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Fuchsia City enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
 {T}: Add {B} or {G}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4236,7 +4236,7 @@ Cycling {2}</text>
       <name>Pewter City</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pewter%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Pewter City enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Pewter City enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
 {T}: Add {R} or {G}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4275,7 +4275,7 @@ Cycling {2}</text>
       <name>Power Plant</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Power%20Plant.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Power Plant enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Power Plant enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
 {T}: Add {R} or {W}.</text>
       <cipt>1</cipt>
       <prop>
