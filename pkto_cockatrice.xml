@@ -3876,7 +3876,7 @@ Whenever enchanted Pokémon deals combat damage to a player, that player discard
       <name>Frozen</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Frozen.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Enchant Pokémon you don't control
+      <text>Enchant Pokémon
 When Frozen enters the battlefield, tap enchanted Pokémon.
 Enchanted Pokémon doesn't untap during its controller's untap step.</text>
       <prop>
