@@ -3973,8 +3973,7 @@ If one or more -1/-1 counters would be put on a Pokémon you don't control, that
       <name>Cinnabar Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Whenever you attack, you may choose odd or even. If you do, exile cards from the top of your library until you exile a nonland card. If it has mana value of the chosen quality, you may cast that card until you exile another card with Cinnabar Gym.
-You may cast cards exiled with Cinnabar Gym.</text>
+      <text>Whenever you attack, choose odd or even, then exile the top card of your library. If it's a nonland card with mana value of the chosen quality, create a Treasure token. You may play the exiled card this turn.</text>
       <prop>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
