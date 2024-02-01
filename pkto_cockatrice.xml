@@ -3959,8 +3959,8 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
       <name>Fuchsia Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Fuchsia%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Pokémon you control have wither.
-If one or more -1/-1 counters would be put on a Pokémon you don't control, that many plus one -1/-1 counters are put on it instead.</text>
+      <text>Whenever a Pokémon an opponent controls dies, if its toughness was less than 1, draw a card.
+{1}{B}{G}: Put a wither counter on target Pokémon.</text>
       <prop>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
