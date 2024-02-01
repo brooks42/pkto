@@ -3518,13 +3518,13 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <name>Mirror Move</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Mirror%20Move.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Copy target instant spell, sorcery spell, or activated ability. You may choose new targets for the copy.</text>
+      <text>Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>R</colors>
-        <manacost>1R</manacost>
+        <manacost>RR</manacost>
       </prop>
     </card>
     <card>
