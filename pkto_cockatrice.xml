@@ -237,7 +237,7 @@ Whenever Metapod enters the battlefield or evolves, draw a card.</text>
         <cmc>2</cmc>
         <colors>G</colors>
         <manacost>1G</manacost>
-        <pt>1/4</pt>
+        <pt>0/4</pt>
       </prop>
     </card>
     <card>
@@ -300,7 +300,7 @@ Whenever Kakuna enters the battlefield or evolves, target player discards a card
         <cmc>2</cmc>
         <colors>B</colors>
         <manacost>1B</manacost>
-        <pt>2/3</pt>
+        <pt>1/3</pt>
       </prop>
     </card>
     <card>
@@ -653,7 +653,7 @@ As long as Nidoking has first strike, it has trample.</text>
         <cmc>7</cmc>
         <colors>B</colors>
         <manacost>5BB</manacost>
-        <pt>8/6</pt>
+        <pt>8/7</pt>
       </prop>
     </card>
     <card>
@@ -2232,7 +2232,7 @@ When Lapras dies, you gain 3 life.</text>
       <name>Eevee</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Eevee.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>You may pay {W}{U}{B}{R}{G} less to evolve Pokémon. This effect reduces only the amount of colored mana you pay. This effect can’t reduce the mana in that cost by more than one mana.</text>
+      <text>You may pay {W}{U}{B}{R}{G} less to evolve Pokémon. This effect reduces only the amount of colored mana you pay. This effect can't reduce the mana in that cost by more than one mana.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
@@ -2416,7 +2416,7 @@ Articuno can't attack or block unless it's obedient.</text>
       <tablerow>2</tablerow>
       <text>Flying
 Whenever a Pokémon you control deals combat damage to a player, Zapdos becomes obedient.
-Zapdos can’t attack or block unless it’s obedient.</text>
+Zapdos can't attack or block unless it's obedient.</text>
       <prop>
         <type>Legendary Pokémon - Electric Flying</type>
         <maintype>Pokémon</maintype>
@@ -2559,7 +2559,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <set picURL="https://brooks42.github.io/pkto/cards/Red.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <loyalty>4</loyalty>
-      <text>[+1]: Exile the top two cards of your library. Until end of turn, you may cast Pokémon cards exiled this way.
+      <text>[+2]: Exile the top two cards of your library. Until the end of your next turn, you may cast Pokémon cards exiled this way.
 [−3]: Create Red's Pikachu, a legendary 4/4 red and white Electric Pokémon token with first strike, lifelink, and haste.
 [−7]: You may put any number of Pokémon cards from your hand onto the battlefield.</text>
       <related>Red's Pikachu</related>
@@ -2610,7 +2610,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <loyalty>3</loyalty>
       <text>[+1]: Add {R} or {G}. Pokémon spells you cast this turn can't be countered.
 [+1]: Draw a card if you control a Pokémon with power 4 or greater.
-[−7]: You get an emblem with “Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source's controller.”</text>
+[−7]: You get an emblem with "Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source's controller."</text>
       <related>Brock (Emblem)</related>
       <prop>
         <type>Legendary Trainer - Brock</type>
@@ -2978,7 +2978,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <set picURL="https://brooks42.github.io/pkto/cards/Mysterious%20Fossil.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
       <text>{T}: Add {C}.
-{2}, {T}, Sacrifice Mysterious Fossil: Search your library for a Pokémon card with fossil, put it onto the battlefield, then shuffle. If you didn’t put a card onto the battlefield this way, draw a card.</text>
+{2}, {T}, Sacrifice Mysterious Fossil: Search your library for a Pokémon card with fossil, put it onto the battlefield, then shuffle. If you didn't put a card onto the battlefield this way, draw a card.</text>
       <prop>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
@@ -3518,13 +3518,13 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <name>Mirror Move</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Mirror%20Move.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Copy target instant spell, sorcery spell, or activated ability. You may choose new targets for the copy.</text>
+      <text>Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
         <cmc>2</cmc>
         <colors>R</colors>
-        <manacost>1R</manacost>
+        <manacost>RR</manacost>
       </prop>
     </card>
     <card>
@@ -3668,7 +3668,7 @@ Sacrifice Leaf Stone: Add {G}{G}.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Water%20Stone.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
       <text>{T}: Add {U}.
-Whenever a Pokémon you control evolves, tap target Pokémon you don’t control and put a stun counter on it.
+Whenever a Pokémon you control evolves, tap target Pokémon you don't control and put a stun counter on it.
 Sacrifice Water Stone: Scry 3.</text>
       <prop>
         <type>Artifact</type>
@@ -3876,7 +3876,7 @@ Whenever enchanted Pokémon deals combat damage to a player, that player discard
       <name>Frozen</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Frozen.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Enchant Pokémon you don't control
+      <text>Enchant Pokémon
 When Frozen enters the battlefield, tap enchanted Pokémon.
 Enchanted Pokémon doesn't untap during its controller's untap step.</text>
       <prop>
@@ -3959,8 +3959,8 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
       <name>Fuchsia Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Fuchsia%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Pokémon you control have wither.
-If one or more -1/-1 counters would be put on a Pokémon you don't control, that many plus one -1/-1 counters are put on it instead.</text>
+      <text>Whenever a Pokémon an opponent controls dies, if its toughness was less than 1, draw a card.
+{1}{B}{G}: Put a wither counter on target Pokémon.</text>
       <prop>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
@@ -3973,8 +3973,7 @@ If one or more -1/-1 counters would be put on a Pokémon you don't control, that
       <name>Cinnabar Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Whenever you attack, you may choose odd or even. If you do, exile cards from the top of your library until you exile a nonland card. If it has mana value of the chosen quality, you may cast that card until you exile another card with Cinnabar Gym.
-You may cast cards exiled with Cinnabar Gym.</text>
+      <text>Whenever you attack, choose odd or even, then exile the top card of your library. If it's a nonland card with mana value of the chosen quality, create a Treasure token. You may play the exiled card this turn.</text>
       <prop>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
@@ -4080,7 +4079,7 @@ You may cast cards exiled with Cinnabar Gym.</text>
       <name>Cerulean Cave</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20Cave.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Cerulean Cave enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Cerulean Cave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
 {T}: Add {U} or {B}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4093,7 +4092,7 @@ You may cast cards exiled with Cinnabar Gym.</text>
       <name>Cerulean City</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Cerulean City enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Cerulean City enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
 {T}: Add {W} or {U}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4144,7 +4143,7 @@ Cycling {2}</text>
       <name>Diglett's Cave</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Digletts%20Cave.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Digett’s Cave enters the battlefield tapped.
+      <text>Digett's Cave enters the battlefield tapped.
 {T}: Add {R}.
 {2}{R}, {T}, Sacrifice Diglett's Cave: Destroy target nonbasic land.</text>
 	  <cipt>1</cipt>
@@ -4158,7 +4157,7 @@ Cycling {2}</text>
       <name>Fuchsia City</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Fuchsia%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Fuchsia City enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Fuchsia City enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
 {T}: Add {B} or {G}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4237,7 +4236,7 @@ Cycling {2}</text>
       <name>Pewter City</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pewter%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Pewter City enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Pewter City enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
 {T}: Add {R} or {G}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4276,7 +4275,7 @@ Cycling {2}</text>
       <name>Power Plant</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Power%20Plant.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Power Plant enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped.
+      <text>As Power Plant enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
 {T}: Add {R} or {W}.</text>
       <cipt>1</cipt>
       <prop>
