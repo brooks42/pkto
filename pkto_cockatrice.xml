@@ -3974,6 +3974,7 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
       <set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
       <text>Whenever you attack, choose odd or even, then exile the top card of your library. If it's a nonland card with mana value of the chosen quality, create a Treasure token. You may play the exiled card this turn.</text>
+	  <related>Treasure Token</related>
       <prop>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
