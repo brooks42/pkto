@@ -3152,7 +3152,7 @@ You gain 1 life.</text>
       <tablerow>1</tablerow>
       <text>{T}, Put a charge counter on Dowsing Machine: Scry 1.
 {2}, {T}, Put a charge counter on Dowsing Machine: Draw a card.
-When there are four or more charge counters on Dowsing Machine, sacrifice it.</text>
+When there are four or more charge counters on Dowsing Machine, sacrifice it. If you do, you gain 4 life.</text>
       <prop>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
