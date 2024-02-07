@@ -1828,7 +1828,7 @@ Whenever a Pokémon deals damage to Exeggutor, put a -1/-1 counter on that Poké
       <tablerow>2</tablerow>
       <text>Evolve from Cubone {G}{W}
 Vigilance, trample
-{G}{W}, {T}: Choose target attacking or blocking Pokémon. If Marowak has greater power than its base power, it deals damage equal to the difference to the chosen Pokémon.</text>
+{G}{W}, {T}: Choose target attacking or blocking Pokémon. If Marowak has greater power than its own base power, it deals damage equal to the difference to the chosen Pokémon.</text>
       <prop>
         <type>Pokémon - Ground</type>
         <maintype>Pokémon</maintype>
