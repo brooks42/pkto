@@ -2084,7 +2084,7 @@ Whenever you scry, tap up to X target nonland permanents, where X is the number 
         <cmc>4</cmc>
         <colors>W</colors>
         <manacost>2WW</manacost>
-        <pt>2/2</pt>
+        <pt>2/4</pt>
       </prop>
     </card>
     <card>
