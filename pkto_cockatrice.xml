@@ -4846,7 +4846,7 @@ Cycling {2}</text>
       <tablerow>1</tablerow>
       <text>Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source's controller.</text>
       <prop>
-        <type>Emblem - Brock</type>
+        <type>Emblem</type>
         <maintype>Artifact</maintype>
         <cmc>0</cmc>
       </prop>
@@ -4857,7 +4857,7 @@ Cycling {2}</text>
       <tablerow>1</tablerow>
       <text>Pokémon you control have "{B}: This Pokémon can't be blocked this turn."</text>
       <prop>
-        <type>Emblem - Koga</type>
+        <type>Emblem</type>
         <maintype>Artifact</maintype>
         <cmc>0</cmc>
       </prop>
@@ -4868,7 +4868,7 @@ Cycling {2}</text>
       <tablerow>1</tablerow>
       <text>Pokémon you control have indestructible.</text>
       <prop>
-        <type>Emblem - Oak</type>
+        <type>Emblem</type>
         <maintype>Artifact</maintype>
         <cmc>0</cmc>
       </prop>
