@@ -3309,14 +3309,14 @@ Draw a card.</text>
       <name>Flash (PKTO)</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Flash.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Prevent all damage that would be dealt this turn.
+      <text>Prevent all combat damage that would be dealt this turn.
 Draw a card.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <cmc>1</cmc>
+        <cmc>2</cmc>
         <colors>W</colors>
-        <manacost>W</manacost>
+        <manacost>1W</manacost>
       </prop>
     </card>
     <card>
