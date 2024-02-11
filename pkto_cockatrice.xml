@@ -464,7 +464,7 @@ Whenever Ekans evolves, put two -1/-1 counters on up to one target Pokémon.</te
       <set picURL="https://brooks42.github.io/pkto/cards/Arbok.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Ekans {B}
-If one or more counters would be put on a Pokémon you don't control, that many plus one -1/-1 counters are put on it instead.</text>
+If one or more counters of any kind would be put on a Pokémon you don't control, that many plus one -1/-1 counters are put on it instead.</text>
       <prop>
         <type>Pokémon - Poison</type>
         <maintype>Pokémon</maintype>
