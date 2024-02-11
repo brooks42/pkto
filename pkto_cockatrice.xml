@@ -2175,7 +2175,7 @@ Whenever you scry, tap up to X target nonland permanents, where X is the number 
       <name>Magikarp</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Magikarp.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{T}: Flip a coin. If you win the flip, remove Magikarp from combat.</text>
+      <text>{T}: Put a splash counter on Magikarp. Then if it has four or more splash counters on it, remove all of them, search your library for a card named Gyarados, put it into your hand, then shuffle.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
