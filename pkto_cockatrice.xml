@@ -464,7 +464,7 @@ Whenever Ekans evolves, put two -1/-1 counters on up to one target Pokémon.</te
       <set picURL="https://brooks42.github.io/pkto/cards/Arbok.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Ekans {B}
-If one or more counters would be put on a Pokémon you don't control, that many plus one -1/-1 counters are put on it instead.</text>
+If one or more counters of any kind would be put on a Pokémon you don't control, that many plus one -1/-1 counters are put on it instead.</text>
       <prop>
         <type>Pokémon - Poison</type>
         <maintype>Pokémon</maintype>
@@ -1206,7 +1206,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
       <set picURL="https://brooks42.github.io/pkto/cards/Machoke.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Machop {R/G}{R/G}
-Whenever Machoke fights, put a +1/+1 counter on it.</text>
+Whenever a Pokémon dealt damage by Machoke this turn dies, put a +1/+1 counter on Machoke.</text>
       <prop>
         <type>Pokémon - Fighting</type>
         <maintype>Pokémon</maintype>
@@ -2175,7 +2175,8 @@ Whenever you scry, tap up to X target nonland permanents, where X is the number 
       <name>Magikarp</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Magikarp.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{T}: Flip a coin. If you win the flip, remove Magikarp from combat.</text>
+      <text>{T}: Put a splash counter on Magikarp.
+Remove six splash counters from Magikarp: Search your library for a card named Gyarados and reveal it. Evolve it without paying its evolve cost or put it into your hand. Then shuffle.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
@@ -2640,16 +2641,16 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Lt. Surge</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Lt.%20Surge.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
-      <loyalty>4</loyalty>
-      <text>[+1]: Pokémon you control get +1/+0 and gain haste until end of turn.
-[−2]: Pokémon you control with first strike gain double strike until end of turn, then Pokémon you control gain first strike until end of turn.
-[−4]: Untap all Pokémon that attacked this turn. If it's a main phase, there is an additional combat phase followed by an additional main phase.</text>
+      <loyalty>3</loyalty>
+      <text>Pokémon you control have haste.
+[+1]: Create two 1/1 red Electric Pokémon tokens named Voltorb. Exile them at the beginning of the next end step.
+[−4]: Untap all Pokémon that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
       <prop>
         <type>Legendary Trainer - Surge</type>
         <maintype>Trainer</maintype>
-        <cmc>4</cmc>
+        <cmc>3</cmc>
         <colors>RW</colors>
-        <manacost>2RW</manacost>
+        <manacost>1RW</manacost>
       </prop>
     </card>
     <card>
