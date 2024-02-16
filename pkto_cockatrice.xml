@@ -878,7 +878,7 @@ Whenever a permanent leaves the battlefield, for each kind of counter on another
         <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>GU</colors>
-        <manacost>GU</manacost>
+        <manacost>{G/U}{G/U}</manacost>
         <pt>2/2</pt>
       </prop>
     </card>
@@ -894,7 +894,7 @@ Whenever you draw your second card each turn, you may put a land card from your 
         <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>GU</colors>
-        <manacost>2GU</manacost>
+        <manacost>2{G/U}{G/U}</manacost>
         <pt>4/3</pt>
       </prop>
     </card>
