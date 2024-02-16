@@ -1842,7 +1842,7 @@ Vigilance, trample
       <name>Hitmonlee</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Hitmonlee.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn and it doesn't untap during your next untap step.</text>
+      <text>Whenever Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn and put a stun counter on it.</text>
       <prop>
         <type>Pokémon - Fighting</type>
         <maintype>Pokémon</maintype>
