@@ -3420,7 +3420,7 @@ Overload {4}{R}{R}</text>
       <tablerow>3</tablerow>
       <text>This spell costs {G} less to cast as long as you control a Grass Pokémon.
 Until end of turn, target Pokémon you control gains trample and "Whenever this Pokémon attacks, put four +1/+1 counters on it."
-Overload {5}{G}{G}</text>
+Overload {4}{G}{G}{G}</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
