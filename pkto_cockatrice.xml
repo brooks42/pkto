@@ -2913,7 +2913,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Poké Flute</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9%20Flute.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Untap all Pokémon you control. Pokémon untapped this way get +1/+1 until end of turn.</text>
+      <text>Remove all stun counters from Pokémon you control and untap them. Those Pokémon get +1/+1 until end of turn.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
