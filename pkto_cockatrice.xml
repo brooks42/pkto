@@ -2676,7 +2676,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <tablerow>1</tablerow>
       <loyalty>3</loyalty>
       <text>[+1]: Up to one target Pokémon gets +2/+0 and gains wither until end of turn.
-[-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
+[-2]: Put two -1/-1 counters on target Pokémon. Then you gain life equal to the number of -1/-1 counters on that Pokémon.
 [−6]: You get an emblem with "Pokémon you control have '{B}: This Pokémon can't be blocked this turn.'"</text>
       <related>Koga (Emblem)</related>
       <prop>
