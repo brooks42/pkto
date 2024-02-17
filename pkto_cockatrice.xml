@@ -878,7 +878,7 @@ Whenever a permanent leaves the battlefield, for each kind of counter on another
         <maintype>Pokémon</maintype>
         <cmc>2</cmc>
         <colors>GU</colors>
-        <manacost>GU</manacost>
+        <manacost>{G/U}{G/U}</manacost>
         <pt>2/2</pt>
       </prop>
     </card>
@@ -894,7 +894,7 @@ Whenever you draw your second card each turn, you may put a land card from your 
         <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>GU</colors>
-        <manacost>2GU</manacost>
+        <manacost>2{G/U}{G/U}</manacost>
         <pt>4/3</pt>
       </prop>
     </card>
@@ -1174,7 +1174,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
       <name>Machop</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Machop.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{R}{G}, {T}: Machop fights target Pokémon you don't control. Machop doesn't untap during your next untap step.
+      <text>{R}{G}, {T}: Machop fights target Pokémon you don't control. Put a stun counter on Machop.
 {R/G}{R/G}: Evolve</text>
       <related attach="transform">Machoke (DFC)</related>
       <prop>
@@ -1191,7 +1191,7 @@ If you would scry a number of cards, scry that many cards plus one instead.</tex
       <name>Machoke (DFC)</name>
       <set picURL="https://brooks42.github.io/pkto/cards/MachokeDFC.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{R}{G}, {T}: Machoke fights target Pokémon you don't control. Machoke doesn't untap during your next untap step.</text>
+      <text>{R}{G}, {T}: Machoke fights target Pokémon you don't control. Put a stun counter on Machoke.</text>
       <prop>
         <type>Pokémon - Fighting</type>
         <maintype>Pokémon</maintype>
@@ -1842,7 +1842,7 @@ Vigilance, trample
       <name>Hitmonlee</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Hitmonlee.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn and it doesn't untap during your next untap step.</text>
+      <text>Whenever Hitmonlee attacks, you may have it deal damage equal to its power to target Pokémon. If you do, prevent all combat damage Hitmonlee would deal this turn and put a stun counter on it.</text>
       <prop>
         <type>Pokémon - Fighting</type>
         <maintype>Pokémon</maintype>
@@ -2383,7 +2383,7 @@ Fossil—{2}{R}{G}, Exile three other cards from your graveyard.</text>
       <name>Snorlax</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Snorlax.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Snorlax enters the battlefield tapped and doesn't untap during your untap step.
+      <text>Snorlax enters the battlefield tapped with three stun counters on it.
 Whenever you gain life, untap Snorlax.</text>
       <cipt>1</cipt>
       <prop>
@@ -2676,7 +2676,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <tablerow>1</tablerow>
       <loyalty>3</loyalty>
       <text>[+1]: Up to one target Pokémon gets +2/+0 and gains wither until end of turn.
-[-2]: Put two -1/-1 counters on target Pokémon. You gain life equal to the number of counters on that Pokémon. 
+[-2]: Put two -1/-1 counters on target Pokémon. Then you gain life equal to the number of -1/-1 counters on that Pokémon.
 [−6]: You get an emblem with "Pokémon you control have '{B}: This Pokémon can't be blocked this turn.'"</text>
       <related>Koga (Emblem)</related>
       <prop>
@@ -2913,7 +2913,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Poké Flute</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9%20Flute.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Untap all Pokémon you control. Pokémon untapped this way get +1/+1 until end of turn.</text>
+      <text>Remove all stun counters from Pokémon you control and untap them. Those Pokémon get +1/+1 until end of turn.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
@@ -3420,7 +3420,7 @@ Overload {4}{R}{R}</text>
       <tablerow>3</tablerow>
       <text>This spell costs {G} less to cast as long as you control a Grass Pokémon.
 Until end of turn, target Pokémon you control gains trample and "Whenever this Pokémon attacks, put four +1/+1 counters on it."
-Overload {5}{G}{G}</text>
+Overload {4}{G}{G}{G}</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
@@ -3821,7 +3821,7 @@ Whenever enchanted Pokémon attacks, tap target permanent and put a stun counter
       <set picURL="https://brooks42.github.io/pkto/cards/Hyper%20Beam.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <text>Enchant Pokémon
-Enchanted Pokémon has "{T}: Destroy target nonland permanent. This Pokémon doesn't untap during its controller's next untap step. Activate only as a sorcery."</text>
+Enchanted Pokémon has "{T}: Destroy target nonland permanent. Put a stun counter on this Pokémon. Activate only as a sorcery."</text>
       <prop>
         <type>Enchantment - Aura</type>
         <maintype>Enchantment</maintype>
