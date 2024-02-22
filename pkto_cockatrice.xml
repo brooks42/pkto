@@ -43,9 +43,9 @@
       <name>Ivysaur</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Ivysaur.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Bulbasaur {G}
+      <text>Evolve from Bulbasaur {G}{G}
 Pokémon you control with +1/+1 counters on them have trample.
-Whenever Ivysaur evolves, untap it and put a +1/+1 counter on each Pokémon you control.</text>
+Whenever Ivysaur evolves, untap it. Put a +1/+1 counter on it and a +1/+1 counter on another target Pokémon you control.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
         <maintype>Pokémon</maintype>
