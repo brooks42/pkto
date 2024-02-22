@@ -3204,7 +3204,7 @@ When there are four or more charge counters on Dowsing Machine, sacrifice it. If
       <name>Sing</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Sing.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Tap all Pokémon target player controls. Those Pokémon don't untap during that player's next untap step.</text>
+      <text>Tap all Pokémon target player controls and put a stun counter on each of them.</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
