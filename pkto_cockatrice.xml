@@ -3148,20 +3148,6 @@ You gain 1 life.</text>
       </prop>
     </card>
     <card>
-      <name>Dowsing Machine</name>
-      <set picURL="https://brooks42.github.io/pkto/cards/Dowsing%20Machine.png" rarity="uncommon">PKTO</set>
-      <tablerow>1</tablerow>
-      <text>{T}, Put a charge counter on Dowsing Machine: Scry 1.
-{2}, {T}, Put a charge counter on Dowsing Machine: Draw a card.
-When there are four or more charge counters on Dowsing Machine, sacrifice it. If you do, you gain 4 life.</text>
-      <prop>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <cmc>2</cmc>
-        <manacost>2</manacost>
-      </prop>
-    </card>
-    <card>
       <name>Body Slam</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Body%20Slam.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
@@ -3783,6 +3769,18 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
         <maintype>Artifact</maintype>
         <cmc>0</cmc>
         <manacost>0</manacost>
+      </prop>
+    </card>
+	<card>
+      <name>Pokédex</name>
+      <set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9dex.png" rarity="uncommon">PKTO</set>
+      <tablerow>1</tablerow>
+      <text>2, T: Draw a card, then put a data counter on Pokédex. Then if there are four or more data counters on it, sacrifice it. If you do, search your library for a Pokémon card, reveal it, put it into your hand, then shuffle.</text>
+      <prop>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <cmc>2</cmc>
+        <manacost>2</manacost>
       </prop>
     </card>
     <!-- attack enchantments -->
