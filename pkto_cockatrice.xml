@@ -1692,7 +1692,7 @@ Whenever Onix attacks, you may exile a card from your hand. If you do, Onix gets
       <name>Drowzee</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Drowzee.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{T}: Tap target Pokémon.</text>
+      <text>{U}{B}, {T}: Tap target Pokémon. You lose 1 life.</text>
       <prop>
         <type>Pokémon - Psychic</type>
         <maintype>Pokémon</maintype>
