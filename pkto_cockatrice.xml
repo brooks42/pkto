@@ -2105,14 +2105,14 @@ Whenever you scry, tap up to X target nonland permanents, where X is the number 
       <name>Jynx</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Jynx.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{2}{U}{B}, {T}: Scry 2, then draw a card. You lose 2 life.</text>
+      <text>During your turn, you may look at the top card of each opponent's library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way. Whenever you play a card this way, scry 1.</text>
       <prop>
         <type>Pokémon - Ice Psychic</type>
         <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>UB</colors>
         <manacost>3UB</manacost>
-        <pt>4/3</pt>
+        <pt>4/4</pt>
       </prop>
     </card>
     <card>
@@ -3972,7 +3972,7 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
       <name>Cinnabar Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Whenever you attack, choose odd or even, then exile the top card of your library. You may play that card this turn. If it’s a nonland card with mana value of the chosen quality, create a Treasure token.</text>
+      <text>Whenever you attack, choose odd or even, then exile the top card of your library. You may play that card this turn. If it's a nonland card with mana value of the chosen quality, create a Treasure token.</text>
 	  <related>Treasure Token</related>
       <prop>
         <type>Enchantment</type>
