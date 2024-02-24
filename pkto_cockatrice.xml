@@ -1692,7 +1692,7 @@ Whenever Onix attacks, you may exile a card from your hand. If you do, Onix gets
       <name>Drowzee</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Drowzee.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{T}: Tap target Pokémon.</text>
+      <text>{U}{B}, {T}: Tap target Pokémon. You lose 1 life.</text>
       <prop>
         <type>Pokémon - Psychic</type>
         <maintype>Pokémon</maintype>
@@ -2105,14 +2105,14 @@ Whenever you scry, tap up to X target nonland permanents, where X is the number 
       <name>Jynx</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Jynx.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{2}{U}{B}, {T}: Scry 2, then draw a card. You lose 2 life.</text>
+      <text>During your turn, you may look at the top card of each opponent's library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way. Whenever you play a card this way, scry 1.</text>
       <prop>
         <type>Pokémon - Ice Psychic</type>
         <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>UB</colors>
         <manacost>3UB</manacost>
-        <pt>4/3</pt>
+        <pt>4/4</pt>
       </prop>
     </card>
     <card>
@@ -3148,20 +3148,6 @@ You gain 1 life.</text>
       </prop>
     </card>
     <card>
-      <name>Dowsing Machine</name>
-      <set picURL="https://brooks42.github.io/pkto/cards/Dowsing%20Machine.png" rarity="uncommon">PKTO</set>
-      <tablerow>1</tablerow>
-      <text>{T}, Put a charge counter on Dowsing Machine: Scry 1.
-{2}, {T}, Put a charge counter on Dowsing Machine: Draw a card.
-When there are four or more charge counters on Dowsing Machine, sacrifice it. If you do, you gain 4 life.</text>
-      <prop>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <cmc>2</cmc>
-        <manacost>2</manacost>
-      </prop>
-    </card>
-    <card>
       <name>Body Slam</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Body%20Slam.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
@@ -3785,6 +3771,18 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
         <manacost>0</manacost>
       </prop>
     </card>
+	<card>
+      <name>Pokédex</name>
+      <set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9dex.png" rarity="uncommon">PKTO</set>
+      <tablerow>1</tablerow>
+      <text>2, T: Draw a card, then put a data counter on Pokédex. Then if there are four or more data counters on it, sacrifice it. If you do, search your library for a Pokémon card, reveal it, put it into your hand, then shuffle.</text>
+      <prop>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <cmc>2</cmc>
+        <manacost>2</manacost>
+      </prop>
+    </card>
     <!-- attack enchantments -->
     <card>
       <name>Rage</name>
@@ -3974,7 +3972,7 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
       <name>Cinnabar Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cinnabar%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Whenever you attack, choose odd or even, then exile the top card of your library. You may play that card this turn. If it’s a nonland card with mana value of the chosen quality, create a Treasure token.</text>
+      <text>Whenever you attack, choose odd or even, then exile the top card of your library. You may play that card this turn. If it's a nonland card with mana value of the chosen quality, create a Treasure token.</text>
 	  <related>Treasure Token</related>
       <prop>
         <type>Enchantment</type>
