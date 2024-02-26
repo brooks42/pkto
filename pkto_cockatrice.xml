@@ -230,7 +230,7 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
       <tablerow>2</tablerow>
       <text>Evolve from Caterpie {G}
 Metapod has defender unless it's evolved.
-Whenever Metapod enters the battlefield or evolves, draw a card.</text>
+Whenever Metapod enters or evolves, draw a card.</text>
       <prop>
         <type>Pokémon - Bug</type>
         <maintype>Pokémon</maintype>
@@ -293,7 +293,7 @@ Whenever Butterfree attacks, put a stun counter on target Pokémon you don't con
       <tablerow>2</tablerow>
       <text>Evolve from Weedle {B}
 Kakuna has defender unless it's evolved.
-Whenever Kakuna enters the battlefield or evolves, target player discards a card.</text>
+Whenever Kakuna enters or evolves, target player discards a card.</text>
       <prop>
         <type>Pokémon - Bug Poison</type>
         <maintype>Pokémon</maintype>
@@ -536,7 +536,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
       <name>Nidoran♀</name>
       <set picURL="https://brooks42.github.io/pkto/cards/NidoranF.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever Nidoran♀ enters the battlefield or evolves, mill three cards, then return a land card from your graveyard to your hand.
+      <text>Whenever Nidoran♀ enters or evolves, mill three cards, then return a land card from your graveyard to your hand.
 {1}{G}: Evolve</text>
       <related attach="transform">Nidorina (DFC)</related>
       <prop>
@@ -553,7 +553,7 @@ As long as Sandslash is tapped, it has protection from each odd mana value.</tex
       <name>Nidorina (DFC)</name>
       <set picURL="https://brooks42.github.io/pkto/cards/NidorinaDFC.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever Nidorina enters the battlefield or evolves, mill three cards, then return a land card from your graveyard to your hand.</text>
+      <text>Whenever Nidorina enters or evolves, mill three cards, then return a land card from your graveyard to your hand.</text>
       <prop>
         <type>Pokémon - Poison</type>
         <maintype>Pokémon</maintype>
@@ -843,7 +843,7 @@ Whenever Vileplume becomes tapped, put a -1/-1 counter on target Pokémon.</text
       <name>Paras</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Paras.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever Paras enters the battlefield or evolves, you may destroy target artifact or enchantment.</text>
+      <text>Whenever Paras enters or evolves, you may destroy target artifact or enchantment.</text>
       <prop>
         <type>Pokémon - Bug Grass</type>
         <maintype>Pokémon</maintype>
@@ -964,7 +964,7 @@ First strike
       <set picURL="https://brooks42.github.io/pkto/cards/Psyduck.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
       <text>If you look at Psyduck while scrying, you may cast it without paying its mana cost.
-When Psyduck enters the battlefield, you may counter target spell.</text>
+When Psyduck enters, you may counter target spell.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
@@ -1112,7 +1112,7 @@ Whenever a Pokémon becomes the target of a spell or ability, you may change a t
       <name>Abra</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Abra.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever Abra enters the battlefield or evolves, scry 1.
+      <text>Whenever Abra enters or evolves, scry 1.
 {U/B}{U/B}: Evolve</text>
       <related attach="transform">Kadabra (DFC)</related>
       <prop>
@@ -1129,7 +1129,7 @@ Whenever a Pokémon becomes the target of a spell or ability, you may change a t
       <name>Kadabra (DFC)</name>
       <set picURL="https://brooks42.github.io/pkto/cards/KadabraDFC.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever Kadabra enters the battlefield or evolves, scry 1.</text>
+      <text>Whenever Kadabra enters or evolves, scry 1.</text>
       <prop>
         <type>Pokémon - Psychic</type>
         <maintype>Pokémon</maintype>
@@ -1857,7 +1857,7 @@ Vigilance, trample
       <set picURL="https://brooks42.github.io/pkto/cards/Hitmonchan.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Flash
-When Hitmonchan enters the battlefield, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. If damage is prevented this way, Hitmonchan deals damage equal to its power to any target.</text>
+When Hitmonchan enters, the next time a source of your choice would deal noncombat damage to a Pokémon you control this turn, prevent that damage. If damage is prevented this way, Hitmonchan deals damage equal to its power to any target.</text>
       <prop>
         <type>Pokémon - Fighting</type>
         <maintype>Pokémon</maintype>
@@ -1871,7 +1871,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
       <name>Lickitung</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Lickitung.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>When Lickitung enters the battlefield, you may choose target Pokémon. If you do, until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can't be activated.</text>
+      <text>When Lickitung enters, you may choose target Pokémon. If you do, until Lickitung or the chosen Pokémon leaves the battlefield, neither can attack or block and their activated abilities can't be activated.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
@@ -1900,7 +1900,7 @@ When Hitmonchan enters the battlefield, the next time a source of your choice wo
       <set picURL="https://brooks42.github.io/pkto/cards/Weezing.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Koffing {X}{B}{B}
-Whenever Weezing enters the battlefield or evolves, distribute X -1/-1 counters among any number of target Pokémon.</text>
+Whenever Weezing enters or evolves, distribute X -1/-1 counters among any number of target Pokémon.</text>
       <prop>
         <type>Pokémon - Poison</type>
         <maintype>Pokémon</maintype>
@@ -1931,7 +1931,7 @@ Whenever Rhyhorn deals combat damage to an opponent, it deals that much damage t
       <set picURL="https://brooks42.github.io/pkto/cards/Rhydon.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Rhyhorn {R}{G}
-As an additional cost to cast Pokémon spells, you may pay any amount of mana. If you do, that Pokémon enters the battlefield with that many additional +1/+1 counters on it.</text>
+As an additional cost to cast Pokémon spells, you may pay any amount of mana. If you do, that Pokémon enters with that many additional +1/+1 counters on it.</text>
       <prop>
         <type>Pokémon - Ground Rock</type>
         <maintype>Pokémon</maintype>
@@ -1960,7 +1960,7 @@ At the beginning of your upkeep, you gain 2 life. Then if you have 40 or more li
       <name>Tangela</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Tangela.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Landfall - Whenever a land enters the battlefield under your control, put a +1/+1 counter on Tangela.</text>
+      <text>Landfall - Whenever a land enters under your control, put a +1/+1 counter on Tangela.</text>
       <prop>
         <type>Pokémon - Grass</type>
         <maintype>Pokémon</maintype>
@@ -2034,7 +2034,7 @@ Whenever Seadra evolves, untap it.</text>
       <tablerow>2</tablerow>
       <text>Evolve from Goldeen {U}{U}
 Flash
-Whenever Seaking enters the battlefield or evolves, counter target spell.</text>
+Whenever Seaking enters or evolves, counter target spell.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
@@ -2191,7 +2191,7 @@ Remove six splash counters from Magikarp: Search your library for a card named G
       <set picURL="https://brooks42.github.io/pkto/cards/Gyarados.png" rarity="mythic">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Magikarp {4}{U}{R}
-Whenever Gyarados enters the battlefield or evolves, it deals 6 damage divided as you choose among any number of targets. Whenever a permanent dealt damage this way dies this turn, if Gyarados is evolved, draw a card.</text>
+Whenever Gyarados enters or evolves, it deals 6 damage divided as you choose among any number of targets. Whenever a permanent dealt damage this way dies this turn, if Gyarados is evolved, draw a card.</text>
       <prop>
         <type>Pokémon - Water Flying</type>
         <maintype>Pokémon</maintype>
@@ -2323,7 +2323,7 @@ Fossil—{1}{U}{R}, Exile three other cards from your graveyard.</text>
       <tablerow>2</tablerow>
       <text>Evolve from Omanyte {U}{R}
 You may evolve Omastar from your graveyard.
-Whenever Omastar enters the battlefield or evolves, it deals 3 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.</text>
+Whenever Omastar enters or evolves, it deals 3 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
         <maintype>Pokémon</maintype>
@@ -2354,7 +2354,7 @@ Fossil—{1}{G}{U}, Exile three other cards from your graveyard.</text>
       <tablerow>2</tablerow>
       <text>Evolve from Kabuto {G}{U}
 You may evolve Kabutops from your graveyard.
-Whenever Kabutops enters the battlefield or evolves, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield.</text>
+Whenever Kabutops enters or evolves, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield.</text>
       <prop>
         <type>Pokémon - Rock Water</type>
         <maintype>Pokémon</maintype>
@@ -2383,7 +2383,7 @@ Fossil—{2}{R}{G}, Exile three other cards from your graveyard.</text>
       <name>Snorlax</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Snorlax.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Snorlax enters the battlefield tapped with three stun counters on it.
+      <text>Snorlax enters tapped with three stun counters on it.
 Whenever you gain life, untap Snorlax.</text>
       <cipt>1</cipt>
       <prop>
@@ -2509,7 +2509,7 @@ Hexproof from trainers</text>
       <name>Mewtwo</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Mewtwo.png" rarity="mythic">PKTO</set>
       <tablerow>2</tablerow>
-      <text>When Mewtwo enters the battlefield, create a token copy of each Pokémon you don't control, except they're 2/2 Clones.
+      <text>When Mewtwo enters, create a token copy of each Pokémon you don't control, except they're 2/2 Clones.
 When Mewtwo dies, return it to the battlefield transformed.</text>
       <related attach="transform">Mewtwo, Redeemed</related>
       <related>Clone Token</related>
@@ -3697,7 +3697,7 @@ Sacrifice Moon Stone: Create a Treasure token.</text>
       <name>Ancient Slab</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Ancient%20Slab.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
-      <text>When Ancient Slab enters the battlefield, draw a card.
+      <text>When Ancient Slab enters, draw a card.
 {T}: Add {C}.
 {1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast legendary spells.</text>
       <prop>
@@ -3875,7 +3875,7 @@ Whenever enchanted Pokémon deals combat damage to a player, that player discard
       <set picURL="https://brooks42.github.io/pkto/cards/Frozen.png" rarity="uncommon">PKTO</set>
       <tablerow>1</tablerow>
       <text>Enchant Pokémon
-When Frozen enters the battlefield, tap enchanted Pokémon.
+When Frozen enters, tap enchanted Pokémon.
 Enchanted Pokémon doesn't untap during its controller's untap step.</text>
       <prop>
         <type>Enchantment - Aura</type>
@@ -3943,7 +3943,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
       <name>Saffron Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Saffron%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>When Saffron Gym enters the battlefield, scry 1, then draw a card.
+      <text>When Saffron Gym enters, scry 1, then draw a card.
 The first time you would draw a card each turn, scry 1, then draw a card instead.</text>
       <prop>
         <type>Enchantment</type>
@@ -4078,7 +4078,7 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
       <name>Cerulean Cave</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20Cave.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Cerulean Cave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+      <text>As Cerulean Cave enters, you may pay 2 life. If you don't, it enters tapped.
 {T}: Add {U} or {B}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4091,7 +4091,7 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
       <name>Cerulean City</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cerulean%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Cerulean City enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+      <text>As Cerulean City enters, you may pay 2 life. If you don't, it enters tapped.
 {T}: Add {W} or {U}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4128,7 +4128,7 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
       <name>Cycling Road</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Cycling%20Road.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Cycling Road enters the battlefield tapped.
+      <text>Cycling Road enters tapped.
 {T}: Add {G} or {W}.
 Cycling {2}</text>
       <cipt>1</cipt>
@@ -4142,7 +4142,7 @@ Cycling {2}</text>
       <name>Diglett's Cave</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Digletts%20Cave.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Digett's Cave enters the battlefield tapped.
+      <text>Digett's Cave enters tapped.
 {T}: Add {R}.
 {2}{R}, {T}, Sacrifice Diglett's Cave: Destroy target nonbasic land.</text>
 	  <cipt>1</cipt>
@@ -4156,7 +4156,7 @@ Cycling {2}</text>
       <name>Fuchsia City</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Fuchsia%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Fuchsia City enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+      <text>As Fuchsia City enters, you may pay 2 life. If you don't, it enters tapped.
 {T}: Add {B} or {G}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4181,7 +4181,7 @@ Cycling {2}</text>
       <name>Indigo Plateau</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Indigo%20Plateau.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Indigo Plateau enters the battlefield tapped.
+      <text>Indigo Plateau enters tapped.
 {T}: Add {U} or {R}.
 Cycling {2}</text>
       <cipt>1</cipt>
@@ -4195,7 +4195,7 @@ Cycling {2}</text>
       <name>Lavender Town</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Lavender%20Town.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Lavender Town enters the battlefield tapped.
+      <text>Lavender Town enters tapped.
 {T}: Add {W} or {B}.
 Cycling {2}</text>
       <cipt>1</cipt>
@@ -4221,7 +4221,7 @@ Cycling {2}</text>
       <name>Pallet Town</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pallet%20Town.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Pallet Town enters the battlefield tapped. As it enters, choose a color.
+      <text>Pallet Town enters tapped. As it enters, choose a color.
 {T}: Add {W}.
 {T}: Add one mana of the chosen color. Spend this mana only to cast Pokémon spells or activate abilities of Pokémon.</text>
 	  <cipt>1</cipt>
@@ -4235,7 +4235,7 @@ Cycling {2}</text>
       <name>Pewter City</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pewter%20City.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Pewter City enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+      <text>As Pewter City enters, you may pay 2 life. If you don't, it enters tapped.
 {T}: Add {R} or {G}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4260,7 +4260,7 @@ Cycling {2}</text>
       <name>Pokémon Mansion</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pok%C3%A9mon%20Mansion.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Pokémon Mansion enters the battlefield tapped.
+      <text>Pokémon Mansion enters tapped.
 {T}: Add {B}.
 {2}{B}, {T}: Target player loses 1 life and you gain 1 life.</text>
 	  <cipt>1</cipt>
@@ -4274,7 +4274,7 @@ Cycling {2}</text>
       <name>Power Plant</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Power%20Plant.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>As Power Plant enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.
+      <text>As Power Plant enters, you may pay 2 life. If you don't, it enters tapped.
 {T}: Add {R} or {W}.</text>
       <cipt>1</cipt>
       <prop>
@@ -4287,7 +4287,7 @@ Cycling {2}</text>
       <name>Rock Tunnel</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Rock%20Tunnel.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Rock Tunnel enters the battlefield tapped.
+      <text>Rock Tunnel enters tapped.
 {T}: Add {B} or {R}.
 Cycling {2}</text>
       <cipt>1</cipt>
@@ -4324,7 +4324,7 @@ Cycling {2}</text>
       <name>S.S. Anne</name>
       <set picURL="https://brooks42.github.io/pkto/cards/S.S.%20Anne.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>S.S. Anne enters the battlefield tapped.
+      <text>S.S. Anne enters tapped.
 {T}: Add {U}.
 {2}{U}, {T}, Sacrifice S.S. Anne: Return target Pokémon to its owner's hand.</text>
 	  <cipt>1</cipt>
@@ -4338,7 +4338,7 @@ Cycling {2}</text>
       <name>Silph Co.</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Silph%20Co.png" rarity="rare">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Silph Co. enters the battlefield tapped.
+      <text>Silph Co. enters tapped.
 {T}: Add {G} or {U}.
 Cycling {2}</text>
       <cipt>1</cipt>
@@ -4388,7 +4388,7 @@ Cycling {2}</text>
       <name>Viridian Forest</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Viridian%20Forest.png" rarity="uncommon">PKTO</set>
       <tablerow>0</tablerow>
-      <text>Viridian Forest enters the battlefield tapped.
+      <text>Viridian Forest enters tapped.
 {T}: Add {G}.
 {2}, {T}: Add {G} for each Forest and each Bug Pokémon you control.</text>
 	  <cipt>1</cipt>
