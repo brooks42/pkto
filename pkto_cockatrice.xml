@@ -3517,13 +3517,13 @@ Target Pokémon or trainer loses indestructible until end of turn. Destroy it. I
       <name>Double Kick</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Double%20Kick.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Target Pokémon you control fights target Pokémon you don't control. When the Pokémon you control fights this way, it fights target Pokémon you don't control.</text>
+      <text>Target Pokémon you control fights target Pokémon you don't control. When the Pokémon you control wins the fight, it fights another target Pokémon you don't control.</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <cmc>1</cmc>
+        <cmc>3</cmc>
         <colors>G</colors>
-        <manacost>G</manacost>
+        <manacost>2G</manacost>
       </prop>
     </card>
     <card>
