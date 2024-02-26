@@ -3046,8 +3046,7 @@ You may exile a card from your hand. If you do, draw a card.</text>
       <name>Potion</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Potion.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Target Pokémon you control gains indestructible until end of turn. Prevent all damage that Pokémon would deal this turn.
-You gain 1 life.</text>
+      <text>Prevent the next 3 damage that would be dealt to any target this turn by a source of your choice. You gain 3 life.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
