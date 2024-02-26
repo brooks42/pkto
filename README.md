@@ -62,10 +62,10 @@ Both "Evolve" and "Evolve from" count as evolution/evolving. Any triggered abili
 
 **A**: Ninetales's controller may still pay 1RR and discard a card to take control of the targeted Pokémon. The Pokémon will tap, but will not be attacking, as Ninetales is no longer attacking anything.
 
-**Q: Do Pokémon die between the fights for Double Kick?**
+**Q: What does winning a fight mean on Double Kick?**
 
-**A**: Double kick creates a delayed trigger that goes on the stack after the first fight resolves. State based actions are checked while that trigger is on the stack, so Pokémon can die before the second fight occurs.
+**A**: The Pokémon you control will win the fight if it is still on the battlefield after the fight resolves and the other Pokémon is not.
 
 **Q: When do I choose the target for the second fight in Double Kick?**
 
-**A**: You choose the target when the trigger goes on the stack, after the first fight resolves but before state based actions are checked.
+**A**: You choose the target when the trigger goes on the stack, after your Pokémon wins the first fight.
