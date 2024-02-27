@@ -2612,7 +2612,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <text>[+1]: Add {R} or {G}. Pokémon spells you cast this turn can't be countered.
 [+1]: Draw a card if you control a Pokémon with power 4 or greater.
 [−7]: You get an emblem with "Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source's controller."</text>
-      <related>Brock (Emblem)</related>
+      <related>Brock Emblem</related>
       <prop>
         <type>Legendary Trainer - Brock</type>
         <maintype>Trainer</maintype>
@@ -2645,6 +2645,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <text>Pokémon you control have haste.
 [+1]: Create two 1/1 red Electric Pokémon tokens named Voltorb. Exile them at the beginning of the next end step.
 [−4]: Untap all Pokémon that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+	  <related>Voltorb Token</related>
       <prop>
         <type>Legendary Trainer - Surge</type>
         <maintype>Trainer</maintype>
@@ -2678,7 +2679,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <text>[+1]: Up to one target Pokémon gets +2/+0 and gains wither until end of turn.
 [-2]: Put two -1/-1 counters on target Pokémon. Then you gain life equal to the number of -1/-1 counters on that Pokémon.
 [−6]: You get an emblem with "Pokémon you control have '{B}: This Pokémon can't be blocked this turn.'"</text>
-      <related>Koga (Emblem)</related>
+      <related>Koga Emblem</related>
       <prop>
         <type>Legendary Trainer - Koga</type>
         <maintype>Trainer</maintype>
@@ -2743,7 +2744,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <text>[+1]: Choose a Pokémon. Until your next turn, whenever that Pokémon attacks, draw a card.
 [-3]: Exile target Pokémon with power 4 or greater.
 [-7]: You get an emblem with "Pokémon you control have indestructible."</text>
-      <related>Professor Oak (Emblem)</related>
+      <related>Professor Oak Emblem</related>
       <prop>
         <type>Legendary Trainer - Oak</type>
         <maintype>Trainer</maintype>
