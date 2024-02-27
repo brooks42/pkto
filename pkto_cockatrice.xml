@@ -2509,7 +2509,7 @@ Hexproof from trainers</text>
       <name>Mewtwo</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Mewtwo.png" rarity="mythic">PKTO</set>
       <tablerow>2</tablerow>
-      <text>When Mewtwo enters, create a token copy of each Pokémon you don't control, except they're 2/2 Clones.
+      <text>When Mewtwo enters, for each Pokémon you don't control, create a token that's a copy of it, except it's a 2/2 Clone.
 When Mewtwo dies, return it to the battlefield transformed.</text>
       <related attach="transform">Mewtwo, Redeemed</related>
       <related>Clone Token</related>
@@ -2579,7 +2579,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <loyalty>4</loyalty>
       <text>At the beginning of your upkeep, if a player attacked you last turn, draw a card.
 [+1]: If a player controls more Pokémon than you, the next Pokémon spell you cast this turn costs {X} less to cast, where X is equal to the difference.
-[-4]: Create a token copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
+[-4]: Create a token that's a copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
       <prop>
         <type>Legendary Trainer - Blue</type>
         <maintype>Trainer</maintype>
@@ -2789,7 +2789,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <set picURL="https://brooks42.github.io/pkto/cards/Agatha.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <loyalty>5</loyalty>
-      <text>Whenever a Pokémon with a soulbind counter on it dies, exile it. If you do, create a token copy of it, except it's a 2/2 Ghost.
+      <text>If a Pokémon with a soulbind counter on it would die, instead exile it and create a token that's a copy of it, except it's a 2/2 Ghost.
 [+1]: Scry X, where X is one plus the number of Ghost Pokémon you control. Draw a card.
 [-2]: Put a soulbind counter on target nontoken Pokémon..</text>
       <related>Ghost Token</related>
