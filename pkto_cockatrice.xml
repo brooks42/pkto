@@ -2509,7 +2509,7 @@ Hexproof from trainers</text>
       <name>Mewtwo</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Mewtwo.png" rarity="mythic">PKTO</set>
       <tablerow>2</tablerow>
-      <text>When Mewtwo enters, create a token copy of each Pokémon you don't control, except they're 2/2 Clones.
+      <text>When Mewtwo enters, for each Pokémon you don't control, create a token that's a copy of it, except it's a 2/2 Clone.
 When Mewtwo dies, return it to the battlefield transformed.</text>
       <related attach="transform">Mewtwo, Redeemed</related>
       <related>Clone Token</related>
@@ -2579,7 +2579,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <loyalty>4</loyalty>
       <text>At the beginning of your upkeep, if a player attacked you last turn, draw a card.
 [+1]: If a player controls more Pokémon than you, the next Pokémon spell you cast this turn costs {X} less to cast, where X is equal to the difference.
-[-4]: Create a token copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
+[-4]: Create a token that's a copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
       <prop>
         <type>Legendary Trainer - Blue</type>
         <maintype>Trainer</maintype>
@@ -2612,7 +2612,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <text>[+1]: Add {R} or {G}. Pokémon spells you cast this turn can't be countered.
 [+1]: Draw a card if you control a Pokémon with power 4 or greater.
 [−7]: You get an emblem with "Whenever a source deals damage to a Pokémon you control, that Pokémon deals that much damage to that source's controller."</text>
-      <related>Brock (Emblem)</related>
+      <related>Brock Emblem</related>
       <prop>
         <type>Legendary Trainer - Brock</type>
         <maintype>Trainer</maintype>
@@ -2645,6 +2645,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <text>Pokémon you control have haste.
 [+1]: Create two 1/1 red Electric Pokémon tokens named Voltorb. Exile them at the beginning of the next end step.
 [−4]: Untap all Pokémon that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+	  <related>Voltorb Token</related>
       <prop>
         <type>Legendary Trainer - Surge</type>
         <maintype>Trainer</maintype>
@@ -2657,10 +2658,10 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Erika</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Erika.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
-      <loyalty>2</loyalty>
+      <loyalty>3</loyalty>
       <text>[+1]: Create a 1/1 black and green Grass Poison Pokémon token with lifelink named Oddish.
-[-1]: Destroy target artifact or enchantment.
-[−4]: Pokémon you control get +3/+3 and gain trample until end of turn.</text>
+[-2]: Destroy target artifact or enchantment.
+[−5]: Pokémon you control get +3/+3 and gain trample until end of turn.</text>
       <related>Oddish Token</related>
       <prop>
         <type>Legendary Trainer - Erika</type>
@@ -2678,7 +2679,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <text>[+1]: Up to one target Pokémon gets +2/+0 and gains wither until end of turn.
 [-2]: Put two -1/-1 counters on target Pokémon. Then you gain life equal to the number of -1/-1 counters on that Pokémon.
 [−6]: You get an emblem with "Pokémon you control have '{B}: This Pokémon can't be blocked this turn.'"</text>
-      <related>Koga (Emblem)</related>
+      <related>Koga Emblem</related>
       <prop>
         <type>Legendary Trainer - Koga</type>
         <maintype>Trainer</maintype>
@@ -2743,7 +2744,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <text>[+1]: Choose a Pokémon. Until your next turn, whenever that Pokémon attacks, draw a card.
 [-3]: Exile target Pokémon with power 4 or greater.
 [-7]: You get an emblem with "Pokémon you control have indestructible."</text>
-      <related>Professor Oak (Emblem)</related>
+      <related>Professor Oak Emblem</related>
       <prop>
         <type>Legendary Trainer - Oak</type>
         <maintype>Trainer</maintype>
@@ -2789,7 +2790,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <set picURL="https://brooks42.github.io/pkto/cards/Agatha.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <loyalty>5</loyalty>
-      <text>Whenever a Pokémon with a soulbind counter on it dies, exile it. If you do, create a token copy of it, except it's a 2/2 Ghost.
+      <text>If a Pokémon with a soulbind counter on it would die, instead exile it and create a token that's a copy of it, except it's a 2/2 Ghost.
 [+1]: Scry X, where X is one plus the number of Ghost Pokémon you control. Draw a card.
 [-2]: Put a soulbind counter on target nontoken Pokémon..</text>
       <related>Ghost Token</related>
