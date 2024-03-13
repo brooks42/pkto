@@ -1542,7 +1542,7 @@ Whenever you gain life, you may pay {2}. If you do, draw a card.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Dewgong.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Seel {U}
-Triggered abilities of evolved Pokémon you control trigger an additional time.</text>
+If an ability of an evolved Pokémon you control triggers, that ability triggers an additional time.</text>
       <prop>
         <type>Pokémon - Water Ice</type>
         <maintype>Pokémon</maintype>
