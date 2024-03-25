@@ -2205,8 +2205,8 @@ Whenever Gyarados enters or evolves, it deals 6 damage divided as you choose amo
       <name>Lapras</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Lapras.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Sacrifice Lapras: Each opponent sacrifices a Pokémon.
-When Lapras dies, you gain 3 life.</text>
+      <text>When Lapras enters the battlefield, you gain 3 life. 
+{2}{W}{U}, Exile Lapras: Exile target Pokémon. If it's your turn, draw a card.</text>
       <prop>
         <type>Pokémon - Water Ice</type>
         <maintype>Pokémon</maintype>
