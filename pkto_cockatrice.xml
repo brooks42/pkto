@@ -3216,7 +3216,7 @@ You may exile a card from your hand. If you do, draw a card.</text>
       <name>Disable</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Disable.png" rarity="uncommon">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard. That player can't cast spells with the same name as that spell until the end of their next turn.</text>
+      <text>Return target spell to its owner's hand. That player can't cast spells with the same name as that spell until the end of their next turn. If {B} was spent to cast this spell, that player loses 2 life.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
