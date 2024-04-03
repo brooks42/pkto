@@ -932,7 +932,7 @@ Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do,
       <name>Meowth</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Meowth.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Whenever Meowth deals combat damage to a player, create a Treasure token. If it has first strike, draw a card.</text>
+      <text>Whenever Meowth evolves or deals combat damage to a player, create a Treasure token. If Meowth has first strike, draw a card.</text>
       <related>Treasure Token</related>
       <prop>
         <type>Pokémon - Normal</type>
@@ -940,7 +940,7 @@ Whenever Dugtrio deals combat damage to a player, you may pay {1}{R}. If you do,
         <cmc>2</cmc>
         <colors>WB</colors>
         <manacost>WB</manacost>
-        <pt>2/2</pt>
+        <pt>3/2</pt>
       </prop>
     </card>
     <card>
