@@ -3763,9 +3763,10 @@ When Nugget is put into a graveyard from the battlefield, draw a card.</text>
       <name>Mysterious Feather</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Mysterious%20Feather.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
-      <text>{T}, Sacrifice Mysterious Feather: Add one mana of any color.</text>
+      <text>{T}, Sacrifice Mysterious Feather: Add one mana of any color.
+Whenever a Pokémon you control evolves, return Mysterious Feather from your graveyard to the battlefield tapped.</text>
       <prop>
-        <type>Artifact</type>
+        <type>Artifact - Treasure</type>
         <maintype>Artifact</maintype>
         <cmc>0</cmc>
         <manacost>0</manacost>
