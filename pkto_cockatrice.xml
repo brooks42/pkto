@@ -1008,7 +1008,7 @@ When Psyduck enters, you may counter target spell.</text>
       <set picURL="https://brooks42.github.io/pkto/cards/Primeape.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Mankey {1}{R}
-Whenever Primeape is dealt damage, it deals 2 damage to target opponent unless that player sacrifices an artifact. If Primeape has reach, repeat this process.</text>
+Whenever Primeape is dealt damage, it deals 2 damage to target opponent unless that player sacrifices an artifact. If Primeape has reach, repeat this process once.</text>
       <prop>
         <type>Pokémon - Fighting</type>
         <maintype>Pokémon</maintype>
