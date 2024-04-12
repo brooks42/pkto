@@ -2148,14 +2148,15 @@ Whenever you scry, tap up to X target nonland permanents, where X is the number 
       <name>Pinsir</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pinsir.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Trample</text>
+      <text>Trample
+Whenever Pinsir deals combat damage to a player, put a +1/+1 counter on target Pokémon.</text>
       <prop>
         <type>Pokémon - Bug</type>
         <maintype>Pokémon</maintype>
         <cmc>6</cmc>
         <colors>G</colors>
         <manacost>4GG</manacost>
-        <pt>6/6</pt>
+        <pt>7/7</pt>
       </prop>
     </card>
     <card>
