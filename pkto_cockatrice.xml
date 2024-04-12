@@ -44,7 +44,7 @@
       <set picURL="https://brooks42.github.io/pkto/cards/Ivysaur.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Bulbasaur {G}{G}
-Pokémon you control with +1/+1 counters on them have trample.
+Each Pokémon you control with a +1/+1 counter on it has trample.
 Whenever Ivysaur evolves, untap it. Put a +1/+1 counter on it and a +1/+1 counter on another target Pokémon you control.</text>
       <prop>
         <type>Pokémon - Grass Poison</type>
@@ -2164,7 +2164,7 @@ Whenever Pinsir deals combat damage to a player, put a +1/+1 counter on target P
       <set picURL="https://brooks42.github.io/pkto/cards/Tauros.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Trample
-Pokémon you control with +1/+1 counters on them must be blocked if able.</text>
+Each Pokémon you control with a +1/+1 counter on it must be blocked if able.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
