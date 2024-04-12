@@ -507,7 +507,7 @@ Whenever Raichu deals combat damage to a Pokémon, it deals damage equal to its 
       <name>Sandshrew</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Sandshrew.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>As long as Sandshrew is tapped, it has protection from each even mana value.</text>
+      <text>As long as Sandshrew is tapped, it and Pokémon tokens you control have protection from each even mana value.</text>
       <prop>
         <type>Pokémon - Ground</type>
         <maintype>Pokémon</maintype>
@@ -521,8 +521,8 @@ Whenever Raichu deals combat damage to a Pokémon, it deals damage equal to its 
       <name>Sandslash</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Sandslash.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Sandshrew {1}{G}
-As long as Sandslash is tapped, it has protection from each odd mana value.</text>
+      <text>Evolve from Sandshrew {G}
+As long as Sandslash is tapped, it and Pokémon tokens you control have protection from each odd mana value.</text>
       <prop>
         <type>Pokémon - Ground</type>
         <maintype>Pokémon</maintype>
