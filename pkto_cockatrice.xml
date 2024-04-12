@@ -2163,14 +2163,15 @@ Whenever Pinsir deals combat damage to a player, put a +1/+1 counter on target P
       <name>Tauros</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Tauros.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Trample</text>
+      <text>Trample
+Pokémon you control with +1/+1 counters on them must be blocked if able.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
         <cmc>5</cmc>
         <colors>RG</colors>
         <manacost>3{R/G}{R/G}</manacost>
-        <pt>6/4</pt>
+        <pt>6/5</pt>
       </prop>
     </card>
     <card>
