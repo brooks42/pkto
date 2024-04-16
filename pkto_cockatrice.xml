@@ -514,7 +514,7 @@ Whenever Raichu deals combat damage to a Pokémon, it deals damage equal to its 
         <cmc>3</cmc>
         <colors>G</colors>
         <manacost>2G</manacost>
-        <pt>2/3</pt>
+        <pt>3/4</pt>
       </prop>
     </card>
     <card>
