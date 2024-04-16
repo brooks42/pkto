@@ -568,14 +568,14 @@ As long as Sandslash is tapped, it and Pokémon tokens you control have protecti
       <set picURL="https://brooks42.github.io/pkto/cards/Nidorina.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Nidoran♀ {G}
-Whenever Nidorina deals combat damage to a player, you may return target permanent card from your graveyard to your hand.</text>
+Whenever Nidorina evolves or deals combat damage to a player, return target permanent card from your graveyard to your hand.</text>
       <prop>
         <type>Pokémon - Poison</type>
         <maintype>Pokémon</maintype>
         <cmc>4</cmc>
         <colors>G</colors>
-        <manacost>3G</manacost>
-        <pt>3/4</pt>
+        <manacost>2GG</manacost>
+        <pt>4/5</pt>
       </prop>
     </card>
     <card>
