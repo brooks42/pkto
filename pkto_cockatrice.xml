@@ -2547,7 +2547,7 @@ Each other Pokémon you control gets +2/+2 if it shares a color with a Pokémon 
       <tablerow>2</tablerow>
       <text>Flying, ward {3}
 Pokémoncycling {3}
-When Mew is put into your graveyard from anywhere, shuffle it into your library. If you cycled it and you've cycled a card named Mew two or more times this game, put it onto the battlefield instead.</text>
+When Mew is put into your graveyard from anywhere, shuffle it into your library. If you cycled it and you've cycled a card named Mew three or more times this game, put it onto the battlefield instead.</text>
       <prop>
         <type>Legendary Pokémon - Psychic</type>
         <maintype>Pokémon</maintype>
@@ -2763,7 +2763,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <loyalty>4</loyalty>
       <text>Whenever you gain life, put a loyalty counter on Lorelei.
 [0]: Tap or untap up to one target Pokémon. You gain 1 life.
-[-3]: Put three stun counters on target permanent.</text>
+[-3]: Put three stun counters on target nonland permanent.</text>
       <prop>
         <type>Legendary Trainer - Lorelei</type>
         <maintype>Trainer</maintype>
