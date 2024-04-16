@@ -583,7 +583,7 @@ Whenever Nidorina deals combat damage to a player, you may return target permane
       <set picURL="https://brooks42.github.io/pkto/cards/Nidoqueen.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Nidorina {1}{G}{G}
-Whenever Nidoqueen evolves or attacks, return target permanent card from your graveyard to your hand. If it's a land or Pokémon card with mana value 3 or less, put it onto the battlefield instead.</text>
+Whenever Nidoqueen evolves or attacks, return target permanent card from your graveyard to your hand. If it has mana value 3 or less, return it to the battlefield instead.</text>
       <prop>
         <type>Pokémon - Poison Ground</type>
         <maintype>Pokémon</maintype>
