@@ -3232,7 +3232,7 @@ You may exile a card from your hand. If you do, draw a card.</text>
       <name>Ember</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Ember.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Damage can't be prevented this turn. Ember deals 2 damage to any target.</text>
+      <text>Ember deals 2 damage to any target. If a permanent dealt damage by Ember would die this turn, exile it instead.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
