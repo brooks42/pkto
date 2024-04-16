@@ -2164,7 +2164,7 @@ Whenever Pinsir deals combat damage to a player, put a +1/+1 counter on target P
       <set picURL="https://brooks42.github.io/pkto/cards/Tauros.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
       <text>Trample
-Each Pokémon you control with a +1/+1 counter on it must be blocked if able.</text>
+Whenever Tauros deals combat damage to a player, destroy target artifact that player controls with mana value less than or equal to that damage. If you do, put a +1/+1 counter on target Pokémon.</text>
       <prop>
         <type>Pokémon - Normal</type>
         <maintype>Pokémon</maintype>
