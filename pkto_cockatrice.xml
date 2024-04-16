@@ -4149,7 +4149,7 @@ Cycling {2}</text>
       <tablerow>0</tablerow>
       <text>Digett's Cave enters tapped.
 {T}: Add {R}.
-{2}{R}, {T}, Sacrifice Diglett's Cave: Destroy target nonbasic land.</text>
+{2}{R}, {T}, Sacrifice Diglett's Cave: Destroy target artifact or nonbasic land.</text>
 	  <cipt>1</cipt>
       <prop>
         <type>Land</type>
