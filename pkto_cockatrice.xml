@@ -4008,7 +4008,7 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Grassland.
-{T}, Remove one or more storage counters from Bill's Grassland: Add that much {W}, then add an additional {W}.</text></text>
+{T}, Remove one or more storage counters from Bill's Grassland: Add that much {W}, then add an additional {W}.</text>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4021,7 +4021,7 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Volcano.
-{T}, Remove one or more storage counters from Bill's Volcano: Add that much {R}, then add an additional {R}.</text></text>
+{T}, Remove one or more storage counters from Bill's Volcano: Add that much {R}, then add an additional {R}.</text>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
@@ -4047,7 +4047,7 @@ The first time you would draw a card each turn, scry 1, then draw a card instead
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
 {T}: Put a storage counter on Bill's Marsh.
-{T}, Remove one or more storage counters from Bill's Marsh: Add that much {B}, then add an additional {B}.</text></text>
+{T}, Remove one or more storage counters from Bill's Marsh: Add that much {B}, then add an additional {B}.</text>
       <prop>
         <type>Land</type>
         <maintype>Land</maintype>
