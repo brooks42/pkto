@@ -3895,7 +3895,7 @@ Enchanted Pokémon doesn't untap during its controller's untap step.</text>
       <name>Pewter Gym</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Pewter%20Gym.png" rarity="rare">PKTO</set>
       <tablerow>1</tablerow>
-      <text>Pokémon you control enter with an additional +1/+1 counter on them.</text>
+      <text>You may have each nontoken Pokémon you control enter the battlefield with an additional +1/+1 counter on it. If you don't, it gains haste.</text>
       <prop>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
