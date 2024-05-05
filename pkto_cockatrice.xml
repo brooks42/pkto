@@ -2250,7 +2250,7 @@ Whenever Gyarados enters or evolves, it deals 6 damage divided as you choose amo
       <name>Vaporeon</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Vaporeon.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Eevee {3}{U}
+      <text>Evolve from Eevee {2}{U}
 Whenever a Pokémon you control evolves, scry 1 and draw a card.</text>
       <prop>
         <type>Pokémon - Water</type>
@@ -2265,7 +2265,7 @@ Whenever a Pokémon you control evolves, scry 1 and draw a card.</text>
       <name>Jolteon</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Jolteon.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Eevee {3}{R/W}
+      <text>Evolve from Eevee {2}{R/W}
 Whenever a Pokémon you control evolves, tap up to two target Pokémon you don't control. Put a stun counter on each of them.</text>
       <prop>
         <type>Pokémon - Electric</type>
@@ -2280,7 +2280,7 @@ Whenever a Pokémon you control evolves, tap up to two target Pokémon you don't
       <name>Flareon</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Flareon.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Evolve from Eevee {3}{R}
+      <text>Evolve from Eevee {2}{R}
 Whenever a Pokémon you control evolves, Flareon deals 3 damage divided as you choose among any number of targets.</text>
       <prop>
         <type>Pokémon - Fire</type>
