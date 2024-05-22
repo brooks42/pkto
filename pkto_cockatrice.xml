@@ -2178,7 +2178,7 @@ Whenever Tauros deals combat damage to a player, destroy target artifact that pl
       <set picURL="https://brooks42.github.io/pkto/cards/Magikarp.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
       <text>{T}: Put a splash counter on Magikarp.
-Remove three splash counters from Magikarp: Search your library for a card named Gyarados, reveal it, put it into your hand, then shuffle. You may evolve Magikarp without paying evolve costs this turn.</text>
+Remove three splash counters from Magikarp: You may search your library for a card named Gyarados, reveal it, put it into your hand, then shuffle. You may evolve Magikarp without paying evolve costs this turn.</text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
