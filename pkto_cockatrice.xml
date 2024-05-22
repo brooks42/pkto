@@ -230,7 +230,7 @@ Whenever a Pokémon you control attacks, Charizard deals 1 damage to the player 
       <tablerow>2</tablerow>
       <text>Evolve from Caterpie {G}
 Metapod has defender unless it's evolved.
-Whenever Metapod enters or evolves, draw a card.</text>
+Whenever a Bug Pokémon you control evolves, draw a card.</text>
       <prop>
         <type>Pokémon - Bug</type>
         <maintype>Pokémon</maintype>
