@@ -2647,7 +2647,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <text>Pokémon you control have haste.
 [+1]: Create two 1/1 red Electric Pokémon tokens named Voltorb. Exile them at the beginning of the next end step.
 [−4]: Untap all Pokémon that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
-	  <related>Voltorb Token</related>
+	  <related count="2">Voltorb Token</related>
       <prop>
         <type>Legendary Trainer - Surge</type>
         <maintype>Trainer</maintype>
