@@ -2579,8 +2579,8 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <set picURL="https://brooks42.github.io/pkto/cards/Blue.png" rarity="mythic">PKTO</set>
       <tablerow>1</tablerow>
       <loyalty>4</loyalty>
-      <text>At the beginning of your upkeep, if a player attacked you last turn, draw a card.
-[+1]: If a player controls more Pokémon than you, the next Pokémon spell you cast this turn costs {X} less to cast, where X is equal to the difference.
+      <text>Blue spells and red spells you cast cost {1} less to cast for each card you own in exile that shares a card type with that spell.
+[+1]: Draw two cards, then exile a card from your hand.
 [-4]: Create a token that's a copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
       <prop>
         <type>Legendary Trainer - Blue</type>
@@ -2597,7 +2597,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <loyalty>4</loyalty>
      <text>You can spend mana of any type to evolve Pokémon.
 [+1]: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
-[−3]: Search your library for a Pokémon card with Evolve or Evolve from, reveal it, put it into your hand, then shuffle. Add {C}{C}{C}{C}. Spend this mana only to evolve Pokémon.</text>
+[−3]: Search your library for a land card or a Pokémon card with an evolve ability, reveal it, put it into your hand, then shuffle. Add {C}{C}{C}{C}. Spend this mana only to evolve Pokémon.</text>
       <prop>
         <type>Legendary Trainer - Green</type>
         <maintype>Trainer</maintype>
@@ -2647,7 +2647,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <text>Pokémon you control have haste.
 [+1]: Create two 1/1 red Electric Pokémon tokens named Voltorb. Exile them at the beginning of the next end step.
 [−4]: Untap all Pokémon that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
-	  <related>Voltorb Token</related>
+	  <related count="2">Voltorb Token</related>
       <prop>
         <type>Legendary Trainer - Surge</type>
         <maintype>Trainer</maintype>
@@ -2696,8 +2696,8 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <tablerow>1</tablerow>
       <loyalty>3</loyalty>
       <text>[+1]: Look at the top card of each opponent's library, then scry 1.
-[-3]: Scry 2, then target Pokémon gets +X/-X until end of turn, where X is the number of cards you looked at while scrying this turn.
-[-8]: Take an extra turn after this one.</text>
+[-3]: Scry 2. Target Pokémon gets -X/-0 until your next turn, where X is the number of cards you looked at while scrying this turn.
+[-8]: Gain control of target opponent during that player's next turn.</text>
       <prop>
         <type>Legendary Trainer - Sabrina</type>
         <maintype>Trainer</maintype>
