@@ -2580,7 +2580,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <tablerow>1</tablerow>
       <loyalty>4</loyalty>
       <text>Blue spells and red spells you cast cost {1} less to cast for each card you own in exile that shares a card type with that spell.
-[+1]: Draw two cards, then exile a card from your hand.
+[+1]: Draw a card, then you may exile a card from your hand.
 [-4]: Create a token that's a copy of target Pokémon you don't control, except it has haste. Exile it at the beginning of the next end step.</text>
       <prop>
         <type>Legendary Trainer - Blue</type>
