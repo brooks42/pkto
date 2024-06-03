@@ -3261,9 +3261,9 @@ You may exile a card from your hand. If you do, draw a card.</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <cmc>3</cmc>
+        <cmc>2</cmc>
         <colors>W</colors>
-        <manacost>2W</manacost>
+        <manacost>1W</manacost>
       </prop>
     </card>
     <card>
