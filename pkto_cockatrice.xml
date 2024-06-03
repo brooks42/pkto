@@ -2955,7 +2955,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Max Revive</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Max%20Revive.png" rarity="rare">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Choose target Pokémon card in your graveyard. Return it to the battlefield or to your hand.</text>
+      <text>Choose target Pokémon card in your graveyard. You may return it to the battlefield evolved onto up to one target Pokémon you control. If you don't, return it to the battlefield.</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
@@ -3325,7 +3325,7 @@ Draw a card.</text>
       <name>Aurora Beam</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Aurora%20Beam.png" rarity="rare">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Exile target Pokémon. Its controller gains life equal to its power.</text>
+      <text>Exile target Pokémon. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
