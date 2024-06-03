@@ -2034,7 +2034,7 @@ Whenever Seadra enters or evolves, counter up to one target activated or trigger
       <tablerow>2</tablerow>
       <text>Evolve from Goldeen {U}{U}
 Flash
-Whenever Seaking enters or evolves, counter target spell.</text>
+Whenever Seaking enters or evolves, choose target spell. If Seaking is evolved, counter that spell. Otherwise, return that spell to its owner's hand.</text></text>
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
