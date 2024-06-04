@@ -3244,13 +3244,13 @@ You may exile a card from your hand. If you do, draw a card.</text>
       <name>Gust</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Gust.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Gust deals 2 damage to target attacking Pokémon. If that Pokémon has flying, Gust deals 6 damage instead.</text>
+      <text>Choose target Pokémon. If that Pokémon is attacking, Gust deals 2 damage to it for each {W} spent to cast this spell. If that Pokémon has flying, Gust deals 4 damage to it for each {G} spent to cast this spell.</text>
       <prop>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <cmc>1</cmc>
+        <cmc>2</cmc>
         <colors>GW</colors>
-        <manacost>{G/W}</manacost>
+        <manacost>1{G/W}</manacost>
       </prop>
     </card>
     <card>
