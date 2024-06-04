@@ -2955,7 +2955,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Max Revive</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Max%20Revive.png" rarity="rare">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Choose target Pokémon card in your graveyard. You may return it to the battlefield evolved onto up to one target Pokémon you control. If you don't, return it to the battlefield.</text>
+      <text>Choose target Pokémon card in your graveyard. You may return that card to the battlefield evolved onto a Pokémon you control. If you don't, return that card to the battlefield.</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
