@@ -2942,7 +2942,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <name>Revive (PKTO)</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Revive.png" rarity="common">PKTO</set>
       <tablerow>3</tablerow>
-      <text>Choose target Pokémon card with mana value 3 or less in your graveyard. Return it to the battlefield or to your hand.</text>
+      <text>Choose target Pokémon card with mana value 3 or less in your graveyard. Return that card to the battlefield or to your hand.</text>
       <prop>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
