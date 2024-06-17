@@ -1421,7 +1421,7 @@ First strike, haste</text>
     </card>
     <card>
       <name>Slowpoke</name>
-      <set picURL="https://brooks42.github.io/pkto/cards/Slowpoke.png" rarity="uncommon">PKTO</set>
+      <set picURL="https://brooks42.github.io/pkto/cards/Slowpoke.png" rarity="common">PKTO</set>
       <tablerow>2</tablerow>
       <text>If combat damage would be dealt to Slowpoke, prevent that damage. If damage was prevented this way, Slowpoke deals that much damage to itself at the beginning of the next turn's end step.</text>
       <prop>
@@ -1584,9 +1584,9 @@ Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Poison P
     </card>
     <card>
       <name>Shellder</name>
-      <set picURL="https://brooks42.github.io/pkto/cards/Shellder.png" rarity="common">PKTO</set>
+      <set picURL="https://brooks42.github.io/pkto/cards/Shellder.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>{1}{U}, {T}: Shellder gets +0/+X until end of turn, where X is the number of cards you own in exile. Counter up to one target spell that targets Shellder.
+      <text>{1}{U}, {T}: Counter up to one target spell that targets Shellder. Shellder gets +0/+X until end of turn, where X is the number of cards you own in exile.
       <prop>
         <type>Pokémon - Water</type>
         <maintype>Pokémon</maintype>
