@@ -1959,7 +1959,7 @@ At the beginning of your upkeep, you gain 2 life. Then if you have 40 or more li
       <name>Tangela</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Tangela.png" rarity="uncommon">PKTO</set>
       <tablerow>2</tablerow>
-      <text>Landfall - Whenever a land enters under your control, put a +1/+1 counter on Tangela.</text>
+      <text>Landfall - Whenever a land you control enters, put a +1/+1 counter on Tangela.</text>
       <prop>
         <type>Pokémon - Grass</type>
         <maintype>Pokémon</maintype>
@@ -2207,7 +2207,7 @@ Whenever Gyarados enters or evolves, it deals 6 damage divided as you choose amo
       <name>Lapras</name>
       <set picURL="https://brooks42.github.io/pkto/cards/Lapras.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
-      <text>When Lapras enters the battlefield, you gain 3 life. 
+      <text>When Lapras enters, you gain 3 life.
 {2}{W}{U}, Exile Lapras: Exile target Pokémon. If it's your turn, draw a card.</text>
       <prop>
         <type>Pokémon - Water Ice</type>
