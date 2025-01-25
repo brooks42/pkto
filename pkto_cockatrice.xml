@@ -645,8 +645,8 @@ Whenever Nidorino evolves, if you control no other Pokémon, add {B}{B}{B} and d
       <set picURL="https://brooks42.github.io/pkto/cards/Nidoking.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Nidorino {B}{B}{B}
-As long as Nidoking has deathtouch, it must be blocked if able.
-As long as Nidoking has first strike, it has trample.</text>
+This spell costs {B} less to cast for each Pokémon that died this turn.
+As long as Nidoking is evolved, it has trample and must be blocked if able.</text>
       <prop>
         <type>Pokémon - Poison Ground</type>
         <maintype>Pokémon</maintype>
@@ -2762,7 +2762,7 @@ When Mew is put into your graveyard from anywhere, shuffle it into your library.
       <loyalty>4</loyalty>
       <text>Whenever you gain life, put a loyalty counter on Lorelei.
 [0]: Tap or untap up to one target Pokémon. You gain 1 life.
-[-3]: Put three stun counters on target nonland permanent.</text>
+[-3]: Tap target nonland permanent and put two stun counters on it.</text>
       <prop>
         <type>Legendary Trainer - Lorelei</type>
         <maintype>Trainer</maintype>
