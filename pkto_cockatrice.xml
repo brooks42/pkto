@@ -1601,7 +1601,7 @@ Whenever a Pokémon with a -1/-1 counter on it dies, create a 1/2 black Poison P
       <set picURL="https://brooks42.github.io/pkto/cards/Cloyster.png" rarity="rare">PKTO</set>
       <tablerow>2</tablerow>
       <text>Evolve from Shellder {U}{R}
-Whenever Cloyster attacks, you may exile a card from your hand. If you do, untap Cloyster and it deals 1 damage to each of up to three target Pokémon and/or trainers. Draw a card.</text>
+Whenever Cloyster attacks, choose up to three target Pokémon and/or trainers. Then you may exile a card from your hand. If you do, draw a card, then untap Cloyster and it deals 1 damage to each of the chosen permanents.</text>
       <prop>
         <type>Pokémon - Water Ice</type>
         <maintype>Pokémon</maintype>
