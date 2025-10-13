@@ -3644,7 +3644,7 @@ Sacrifice Thunder Stone: Destroy target artifact or enchantment.</text>
       <tablerow>1</tablerow>
       <text>{T}: Add {G}.
 Whenever a Pokémon you control evolves, put a +1/+1 counter on it.
-Sacrifice Leaf Stone: Add {G}{G}.</text>
+Sacrifice Leaf Stone: You may play an additional land this turn.</text>
       <prop>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
